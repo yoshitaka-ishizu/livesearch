@@ -11,12 +11,19 @@ import json
 import re
 from utils import create_event
 
+# logsディレクトリが存在しない場合は作成
+log_dir = os.path.join(os.path.dirname(__file__), '..', 'logs')
+os.makedirs(log_dir, exist_ok=True)
+
+# ログファイルのパスを絶対パスで指定
+log_file = os.path.join(log_dir, 'scraper.log')
+
 # ロギングの設定
 logging.basicConfig(
     level=logging.INFO,
     format='%(asctime)s - %(levelname)s - %(message)s',
     handlers=[
-        logging.FileHandler('../logs/scraper.log', encoding='utf-8'),
+        logging.FileHandler(log_file, encoding='utf-8'),
         logging.StreamHandler(sys.stdout)
     ]
 )
