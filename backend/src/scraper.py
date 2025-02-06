@@ -9,7 +9,8 @@ from bs4 import BeautifulSoup
 import pandas as pd
 import json
 import re
-from .utils import create_event
+sys.path.append(os.path.dirname(__file__))
+from utils import create_event
 
 # logsディレクトリが存在しない場合は作成
 log_dir = os.path.join(os.path.dirname(__file__), '..', 'logs')
