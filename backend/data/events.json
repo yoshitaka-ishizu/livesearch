@@ -16095,7 +16095,7 @@
     "date": "2025/02/12",
     "day": "水",
     "artist": "coming soon...",
-    "title": "HALL RENTAL",
+    "title": "大工大Skyz × 立命大ロケット団 合同企画",
     "url": "https://osaka-zeela.jp/schedule/detail/38817",
     "venue": "Zeela",
     "note": ""
@@ -19011,7 +19011,7 @@
     "date": "2025/03/30",
     "day": "日",
     "artist": "SHANK",
-    "title": "SHANK\r\nゲスト：後日発表",
+    "title": "SHANK\r\nw/ Gnosis",
     "url": "https://www.club-quattro.com/umeda/detail.php?id=16520",
     "venue": "梅田QUATTRO",
     "note": ""
@@ -19019,8 +19019,17 @@
   {
     "date": "2025/03/30",
     "day": "日",
-    "artist": "ゲスト：後日発表",
-    "title": "SHANK\r\nゲスト：後日発表",
+    "artist": "w",
+    "title": "SHANK\r\nw/ Gnosis",
+    "url": "https://www.club-quattro.com/umeda/detail.php?id=16520",
+    "venue": "梅田QUATTRO",
+    "note": ""
+  },
+  {
+    "date": "2025/03/30",
+    "day": "日",
+    "artist": "Gnosis",
+    "title": "SHANK\r\nw/ Gnosis",
     "url": "https://www.club-quattro.com/umeda/detail.php?id=16520",
     "venue": "梅田QUATTRO",
     "note": ""
@@ -19431,6 +19440,78 @@
     "note": ""
   },
   {
+    "date": "2025/02/07",
+    "day": "金",
+    "artist": "岡村",
+    "title": "NON STOP ROCKFES",
+    "url": "http://rocktown.jp/schedule/index.html",
+    "venue": "あべのROCKTOWN",
+    "note": ""
+  },
+  {
+    "date": "2025/02/07",
+    "day": "金",
+    "artist": "ずとまよ！",
+    "title": "NON STOP ROCKFES",
+    "url": "http://rocktown.jp/schedule/index.html",
+    "venue": "あべのROCKTOWN",
+    "note": ""
+  },
+  {
+    "date": "2025/02/07",
+    "day": "金",
+    "artist": "菅田擬暉目",
+    "title": "NON STOP ROCKFES",
+    "url": "http://rocktown.jp/schedule/index.html",
+    "venue": "あべのROCKTOWN",
+    "note": ""
+  },
+  {
+    "date": "2025/02/07",
+    "day": "金",
+    "artist": "Яebirth",
+    "title": "NON STOP ROCKFES",
+    "url": "http://rocktown.jp/schedule/index.html",
+    "venue": "あべのROCKTOWN",
+    "note": ""
+  },
+  {
+    "date": "2025/02/07",
+    "day": "金",
+    "artist": "Chocolata",
+    "title": "NON STOP ROCKFES",
+    "url": "http://rocktown.jp/schedule/index.html",
+    "venue": "あべのROCKTOWN",
+    "note": ""
+  },
+  {
+    "date": "2025/02/07",
+    "day": "金",
+    "artist": "私たちに会えた人、おめでとう。Leave a MRK",
+    "title": "NON STOP ROCKFES",
+    "url": "http://rocktown.jp/schedule/index.html",
+    "venue": "あべのROCKTOWN",
+    "note": ""
+  },
+  {
+    "date": "2025/02/07",
+    "day": "金",
+    "artist": "ぶんぶーん若者たち",
+    "title": "NON STOP ROCKFES",
+    "url": "http://rocktown.jp/schedule/index.html",
+    "venue": "あべのROCKTOWN",
+    "note": ""
+  },
+  {
+    "date": "2025/02/07",
+    "day": "金",
+    "artist": "Art Factory",
+    "title": "NON STOP ROCKFES",
+    "url": "http://rocktown.jp/schedule/index.html",
+    "venue": "あべのROCKTOWN",
+    "note": ""
+  },
+  {
     "date": "2025/02/08",
     "day": "土",
     "artist": "AYANE",
@@ -19460,7 +19541,7 @@
   {
     "date": "2025/02/10",
     "day": "月",
-    "artist": "LAURUS NOBILISamayo",
+    "artist": "LAURUS NOBILISゆずサワー",
     "title": "ユメノトチュウpre.｢夢万博～第3夢～｣",
     "url": "http://rocktown.jp/schedule/index.html",
     "venue": "あべのROCKTOWN",
@@ -19469,7 +19550,7 @@
   {
     "date": "2025/02/10",
     "day": "月",
-    "artist": "ゆずサワー",
+    "artist": "cry baby※amayoは出演キャンセルとなりました",
     "title": "ユメノトチュウpre.｢夢万博～第3夢～｣",
     "url": "http://rocktown.jp/schedule/index.html",
     "venue": "あべのROCKTOWN",
@@ -20423,7 +20504,7 @@
   {
     "date": "2025/04/22",
     "day": "火",
-    "artist": "⻘いガーネット",
+    "artist": "山本ピカソ",
     "title": "Natural Bloom special edition~堤先⽣ ROLLING 60~",
     "url": "http://rocktown.jp/schedule/202504.html",
     "venue": "あべのROCKTOWN",
@@ -20540,7 +20621,34 @@
   {
     "date": "2025/04/22",
     "day": "火",
-    "artist": "MC ⼋⽊沙季",
+    "artist": "KAKUSEI HYPER",
+    "title": "Natural Bloom special edition~堤先⽣ ROLLING 60~",
+    "url": "http://rocktown.jp/schedule/202504.html",
+    "venue": "あべのROCKTOWN",
+    "note": ""
+  },
+  {
+    "date": "2025/04/22",
+    "day": "火",
+    "artist": "syo-go白井大輔",
+    "title": "Natural Bloom special edition~堤先⽣ ROLLING 60~",
+    "url": "http://rocktown.jp/schedule/202504.html",
+    "venue": "あべのROCKTOWN",
+    "note": ""
+  },
+  {
+    "date": "2025/04/22",
+    "day": "火",
+    "artist": "梅灸院マドカ",
+    "title": "Natural Bloom special edition~堤先⽣ ROLLING 60~",
+    "url": "http://rocktown.jp/schedule/202504.html",
+    "venue": "あべのROCKTOWN",
+    "note": ""
+  },
+  {
+    "date": "2025/04/22",
+    "day": "火",
+    "artist": "YonePiMC ⼋⽊沙季",
     "title": "Natural Bloom special edition~堤先⽣ ROLLING 60~",
     "url": "http://rocktown.jp/schedule/202504.html",
     "venue": "あべのROCKTOWN",
