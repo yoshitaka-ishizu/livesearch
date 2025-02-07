@@ -1405,6 +1405,8 @@ def scrape_venue(url):
 
 def save_data(data):
     try:
+        logging.info(f"Starting save_data with {len(data)} events")
+        
         if not data:
             logging.warning("No data to save")
             return
@@ -1415,32 +1417,40 @@ def save_data(data):
         
         for event in data:
             event_key = (event['date'], event['artist'], event['venue'])
-            
             if event_key not in seen:
                 seen.add(event_key)
                 unique_data.append(event)
         
+        logging.info(f"After deduplication: {len(unique_data)} events")
+        
         # 現在のスクリプトのディレクトリを基準にパスを設定
         base_dir = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
         data_dir = os.path.join(base_dir, 'data')
+        
+        logging.info(f"Saving to directory: {data_dir}")
         
         # ファイル保存
         os.makedirs(data_dir, exist_ok=True)
         
         # JSONファイルの保存
         json_path = os.path.join(data_dir, 'events.json')
+        logging.info(f"Attempting to save JSON to: {json_path}")
         with open(json_path, 'w', encoding='utf-8') as f:
             json.dump(unique_data, f, ensure_ascii=False, indent=2)
+        logging.info("JSON file saved successfully")
         
         # CSVファイルの保存
         csv_path = os.path.join(data_dir, 'events.csv')
+        logging.info(f"Attempting to save CSV to: {csv_path}")
         df = pd.DataFrame(unique_data)
         df.to_csv(csv_path, index=False, encoding='utf-8')
-        
-        logging.info(f"Data saved to {data_dir}")
+        logging.info("CSV file saved successfully")
         
     except Exception as e:
         logging.error(f"Error saving data: {str(e)}")
+        logging.error(f"Exception type: {type(e)}")
+        import traceback
+        logging.error(f"Traceback: {traceback.format_exc()}")
 
 def main():
     """メイン実行関数"""
