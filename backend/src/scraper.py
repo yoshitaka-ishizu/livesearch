@@ -1404,7 +1404,6 @@ def scrape_venue(url):
         return []
 
 def save_data(data):
-    """スクレイピングしたデータを保存"""
     try:
         if not data:
             logging.warning("No data to save")
@@ -1421,18 +1420,24 @@ def save_data(data):
                 seen.add(event_key)
                 unique_data.append(event)
         
+        # 現在のスクリプトのディレクトリを基準にパスを設定
+        base_dir = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+        data_dir = os.path.join(base_dir, 'data')
+        
         # ファイル保存
-        os.makedirs('../data', exist_ok=True)
+        os.makedirs(data_dir, exist_ok=True)
         
         # JSONファイルの保存
-        with open('../data/events.json', 'w', encoding='utf-8') as f:
+        json_path = os.path.join(data_dir, 'events.json')
+        with open(json_path, 'w', encoding='utf-8') as f:
             json.dump(unique_data, f, ensure_ascii=False, indent=2)
         
         # CSVファイルの保存
+        csv_path = os.path.join(data_dir, 'events.csv')
         df = pd.DataFrame(unique_data)
-        df.to_csv('../data/events.csv', index=False, encoding='utf-8')
+        df.to_csv(csv_path, index=False, encoding='utf-8')
         
-        logging.info(f"Saved {len(unique_data)} events (removed {len(data) - len(unique_data)} duplicates)")
+        logging.info(f"Data saved to {data_dir}")
         
     except Exception as e:
         logging.error(f"Error saving data: {str(e)}")
