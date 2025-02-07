@@ -3,7 +3,7 @@ import type { Schedule } from '~/types'
 export default defineEventHandler(async (event) => {
  try {
    // GitHubのRawコンテンツURLからデータを取得
-   const response = await fetch('https://raw.githubusercontent.com/yoshitaka-ishizu/livesearch/main/backend/data/events.json')
+   const response = await fetch('https://raw.githubusercontent.com/yoshitaka-ishizu/livesearch/refs/heads/main/backend/data/events.json')
    if (!response.ok) {
      throw new Error(`HTTP error! status: ${response.status}`)
    }
