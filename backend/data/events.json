@@ -1622,7 +1622,7 @@
   {
     "date": "2025/02/07",
     "day": "金",
-    "artist": "奥村由希",
+    "artist": "伝説のアニソンぴちぴちガールズ",
     "title": "OPEN 18:30",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
@@ -1632,6 +1632,24 @@
     "date": "2025/02/07",
     "day": "金",
     "artist": "THE CHOPPMAN",
+    "title": "OPEN 18:30",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
+    "date": "2025/02/07",
+    "day": "金",
+    "artist": "※奥村由希の出演形態が伝説のアニソンぴちぴちガールズへと変更になりました。",
+    "title": "OPEN 18:30",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
+    "date": "2025/02/07",
+    "day": "金",
+    "artist": "ご了承の上歌のしみください！！",
     "title": "OPEN 18:30",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
@@ -6048,6 +6066,132 @@
     "note": ""
   },
   {
+    "date": "2025/03/03",
+    "day": "月",
+    "artist": "Dr.Largo",
+    "title": "建人と健斗で2Days バンド編",
+    "url": "https://vijon.jp/schedule/detail/41525",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2025/03/03",
+    "day": "月",
+    "artist": "SwallowFriends",
+    "title": "建人と健斗で2Days バンド編",
+    "url": "https://vijon.jp/schedule/detail/41525",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2025/03/03",
+    "day": "月",
+    "artist": "Vierror",
+    "title": "建人と健斗で2Days バンド編",
+    "url": "https://vijon.jp/schedule/detail/41525",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2025/03/03",
+    "day": "月",
+    "artist": "intence rook",
+    "title": "建人と健斗で2Days バンド編",
+    "url": "https://vijon.jp/schedule/detail/41525",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2025/03/03",
+    "day": "月",
+    "artist": "いろかにほへと",
+    "title": "建人と健斗で2Days バンド編",
+    "url": "https://vijon.jp/schedule/detail/41525",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2025/03/03",
+    "day": "月",
+    "artist": "and more....",
+    "title": "建人と健斗で2Days バンド編",
+    "url": "https://vijon.jp/schedule/detail/41525",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2025/03/04",
+    "day": "火",
+    "artist": "山口建人",
+    "title": "建人と健斗で2Days 弾き語り編",
+    "url": "https://vijon.jp/schedule/detail/41498",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2025/03/04",
+    "day": "火",
+    "artist": "悠飛",
+    "title": "建人と健斗で2Days 弾き語り編",
+    "url": "https://vijon.jp/schedule/detail/41498",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2025/03/04",
+    "day": "火",
+    "artist": "ゆずほ",
+    "title": "建人と健斗で2Days 弾き語り編",
+    "url": "https://vijon.jp/schedule/detail/41498",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2025/03/04",
+    "day": "火",
+    "artist": "小川健介",
+    "title": "建人と健斗で2Days 弾き語り編",
+    "url": "https://vijon.jp/schedule/detail/41498",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2025/03/04",
+    "day": "火",
+    "artist": "MiLe",
+    "title": "建人と健斗で2Days 弾き語り編",
+    "url": "https://vijon.jp/schedule/detail/41498",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2025/03/04",
+    "day": "火",
+    "artist": "吾妻光記",
+    "title": "建人と健斗で2Days 弾き語り編",
+    "url": "https://vijon.jp/schedule/detail/41498",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2025/03/04",
+    "day": "火",
+    "artist": "neneka",
+    "title": "建人と健斗で2Days 弾き語り編",
+    "url": "https://vijon.jp/schedule/detail/41498",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2025/03/04",
+    "day": "火",
+    "artist": "and more....",
+    "title": "建人と健斗で2Days 弾き語り編",
+    "url": "https://vijon.jp/schedule/detail/41498",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
     "date": "2025/03/06",
     "day": "木",
     "artist": "秋月煉",
@@ -6111,6 +6255,51 @@
     "note": ""
   },
   {
+    "date": "2025/03/10",
+    "day": "月",
+    "artist": "歪-HIZUMI-",
+    "title": "【BEN COTTI】～歪-HIZUMI-1st Album「アイデンティティに灯火を」Release TOUR～",
+    "url": "https://vijon.jp/schedule/detail/40985",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2025/03/10",
+    "day": "月",
+    "artist": "凛黎",
+    "title": "【BEN COTTI】～歪-HIZUMI-1st Album「アイデンティティに灯火を」Release TOUR～",
+    "url": "https://vijon.jp/schedule/detail/40985",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2025/03/10",
+    "day": "月",
+    "artist": "the same fate",
+    "title": "【BEN COTTI】～歪-HIZUMI-1st Album「アイデンティティに灯火を」Release TOUR～",
+    "url": "https://vijon.jp/schedule/detail/40985",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2025/03/10",
+    "day": "月",
+    "artist": "神麺軒",
+    "title": "【BEN COTTI】～歪-HIZUMI-1st Album「アイデンティティに灯火を」Release TOUR～",
+    "url": "https://vijon.jp/schedule/detail/40985",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2025/03/10",
+    "day": "月",
+    "artist": "...and more",
+    "title": "【BEN COTTI】～歪-HIZUMI-1st Album「アイデンティティに灯火を」Release TOUR～",
+    "url": "https://vijon.jp/schedule/detail/40985",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
     "date": "2025/03/13",
     "day": "木",
     "artist": "DisGust Yew",
@@ -6161,6 +6350,96 @@
     "artist": "Ordinary Piece",
     "title": "【BRAVE SONGS】vol.2",
     "url": "https://vijon.jp/schedule/detail/41311",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2025/03/16",
+    "day": "日",
+    "artist": "Moonbeams",
+    "title": "バンドスタジオ ベースオントップアメ村店presents 「アメ☆スピ〜AMEMURA SPIRIT〜Vol.11」",
+    "url": "https://vijon.jp/schedule/detail/36051",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2025/03/16",
+    "day": "日",
+    "artist": "ＷandrDream",
+    "title": "バンドスタジオ ベースオントップアメ村店presents 「アメ☆スピ〜AMEMURA SPIRIT〜Vol.11」",
+    "url": "https://vijon.jp/schedule/detail/36051",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2025/03/16",
+    "day": "日",
+    "artist": "ハッピーライブ",
+    "title": "バンドスタジオ ベースオントップアメ村店presents 「アメ☆スピ〜AMEMURA SPIRIT〜Vol.11」",
+    "url": "https://vijon.jp/schedule/detail/36051",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2025/03/16",
+    "day": "日",
+    "artist": "Kobe Talkers",
+    "title": "バンドスタジオ ベースオントップアメ村店presents 「アメ☆スピ〜AMEMURA SPIRIT〜Vol.11」",
+    "url": "https://vijon.jp/schedule/detail/36051",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2025/03/16",
+    "day": "日",
+    "artist": "鬼隠座",
+    "title": "バンドスタジオ ベースオントップアメ村店presents 「アメ☆スピ〜AMEMURA SPIRIT〜Vol.11」",
+    "url": "https://vijon.jp/schedule/detail/36051",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2025/03/16",
+    "day": "日",
+    "artist": "バンド名",
+    "title": "バンドスタジオ ベースオントップアメ村店presents 「アメ☆スピ〜AMEMURA SPIRIT〜Vol.11」",
+    "url": "https://vijon.jp/schedule/detail/36051",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2025/03/16",
+    "day": "日",
+    "artist": "dirtyraccoon",
+    "title": "バンドスタジオ ベースオントップアメ村店presents 「アメ☆スピ〜AMEMURA SPIRIT〜Vol.11」",
+    "url": "https://vijon.jp/schedule/detail/36051",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2025/03/16",
+    "day": "日",
+    "artist": "Current Folder",
+    "title": "バンドスタジオ ベースオントップアメ村店presents 「アメ☆スピ〜AMEMURA SPIRIT〜Vol.11」",
+    "url": "https://vijon.jp/schedule/detail/36051",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2025/03/16",
+    "day": "日",
+    "artist": "ごめんね、ゴルメンス",
+    "title": "バンドスタジオ ベースオントップアメ村店presents 「アメ☆スピ〜AMEMURA SPIRIT〜Vol.11」",
+    "url": "https://vijon.jp/schedule/detail/36051",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2025/03/16",
+    "day": "日",
+    "artist": "鯵缶",
+    "title": "バンドスタジオ ベースオントップアメ村店presents 「アメ☆スピ〜AMEMURA SPIRIT〜Vol.11」",
+    "url": "https://vijon.jp/schedule/detail/36051",
     "venue": "北堀江club vijon",
     "note": ""
   },
@@ -6410,7 +6689,7 @@
   {
     "date": "2025/03/26",
     "day": "水",
-    "artist": "...and more",
+    "artist": "Black Haunds",
     "title": "【On a moonlit night】～Melissa Barry Tour & コスメティックラヴァーズ レコ発～",
     "url": "https://vijon.jp/schedule/detail/39782",
     "venue": "北堀江club vijon",
@@ -12798,6 +13077,69 @@
     "note": ""
   },
   {
+    "date": "2025/03/28",
+    "day": "金",
+    "artist": "Akt the Goat",
+    "title": "BRAVER!!Level.27 Akt the Goat2nd single 『From Now On』 release tour",
+    "url": "https://clubdrop.jp/schedule/detail/39912",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2025/03/28",
+    "day": "金",
+    "artist": "Pura Dell.",
+    "title": "BRAVER!!Level.27 Akt the Goat2nd single 『From Now On』 release tour",
+    "url": "https://clubdrop.jp/schedule/detail/39912",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2025/03/28",
+    "day": "金",
+    "artist": "Neil DiMC",
+    "title": "BRAVER!!Level.27 Akt the Goat2nd single 『From Now On』 release tour",
+    "url": "https://clubdrop.jp/schedule/detail/39912",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2025/03/28",
+    "day": "金",
+    "artist": "Maze Walker",
+    "title": "BRAVER!!Level.27 Akt the Goat2nd single 『From Now On』 release tour",
+    "url": "https://clubdrop.jp/schedule/detail/39912",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2025/03/28",
+    "day": "金",
+    "artist": "いろかにほへと",
+    "title": "BRAVER!!Level.27 Akt the Goat2nd single 『From Now On』 release tour",
+    "url": "https://clubdrop.jp/schedule/detail/39912",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2025/03/28",
+    "day": "金",
+    "artist": "VEŁŁY",
+    "title": "BRAVER!!Level.27 Akt the Goat2nd single 『From Now On』 release tour",
+    "url": "https://clubdrop.jp/schedule/detail/39912",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2025/03/28",
+    "day": "金",
+    "artist": "1film:tues",
+    "title": "BRAVER!!Level.27 Akt the Goat2nd single 『From Now On』 release tour",
+    "url": "https://clubdrop.jp/schedule/detail/39912",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
     "date": "2025/03/30",
     "day": "日",
     "artist": "AIMIA",
@@ -15168,7 +15510,7 @@
     "date": "2025/03/28",
     "day": "金",
     "artist": "燈。",
-    "title": "燈。presents 『『『月灯は消えないまま』』』",
+    "title": "【公演中止】燈。presents 『『『月灯は消えないまま』』』",
     "url": "https://osaka-varon.jp/schedule/detail/35857",
     "venue": "VARON",
     "note": ""
@@ -15177,7 +15519,7 @@
     "date": "2025/03/28",
     "day": "金",
     "artist": "美日",
-    "title": "燈。presents 『『『月灯は消えないまま』』』",
+    "title": "【公演中止】燈。presents 『『『月灯は消えないまま』』』",
     "url": "https://osaka-varon.jp/schedule/detail/35857",
     "venue": "VARON",
     "note": ""
@@ -15186,7 +15528,7 @@
     "date": "2025/03/28",
     "day": "金",
     "artist": "髙野稜",
-    "title": "燈。presents 『『『月灯は消えないまま』』』",
+    "title": "【公演中止】燈。presents 『『『月灯は消えないまま』』』",
     "url": "https://osaka-varon.jp/schedule/detail/35857",
     "venue": "VARON",
     "note": ""
@@ -15195,7 +15537,7 @@
     "date": "2025/03/28",
     "day": "金",
     "artist": "イアイリ",
-    "title": "燈。presents 『『『月灯は消えないまま』』』",
+    "title": "【公演中止】燈。presents 『『『月灯は消えないまま』』』",
     "url": "https://osaka-varon.jp/schedule/detail/35857",
     "venue": "VARON",
     "note": ""
@@ -15204,7 +15546,7 @@
     "date": "2025/03/28",
     "day": "金",
     "artist": "Re.ripe",
-    "title": "燈。presents 『『『月灯は消えないまま』』』",
+    "title": "【公演中止】燈。presents 『『『月灯は消えないまま』』』",
     "url": "https://osaka-varon.jp/schedule/detail/35857",
     "venue": "VARON",
     "note": ""
@@ -15282,6 +15624,51 @@
     "note": ""
   },
   {
+    "date": "2025/04/24",
+    "day": "木",
+    "artist": "Days,near LAND",
+    "title": "SHINSAIBASHI VARON PRESENTS. COMING HOME Vol.134 - Days,near LAND pre. 8th Single 「Mighty Song」 豊阪東Release Tour 大阪編",
+    "url": "https://osaka-varon.jp/schedule/detail/40009",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2025/04/24",
+    "day": "木",
+    "artist": "L!LF",
+    "title": "SHINSAIBASHI VARON PRESENTS. COMING HOME Vol.134 - Days,near LAND pre. 8th Single 「Mighty Song」 豊阪東Release Tour 大阪編",
+    "url": "https://osaka-varon.jp/schedule/detail/40009",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2025/04/24",
+    "day": "木",
+    "artist": "Parallel Frank",
+    "title": "SHINSAIBASHI VARON PRESENTS. COMING HOME Vol.134 - Days,near LAND pre. 8th Single 「Mighty Song」 豊阪東Release Tour 大阪編",
+    "url": "https://osaka-varon.jp/schedule/detail/40009",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2025/04/24",
+    "day": "木",
+    "artist": "UnpRayable",
+    "title": "SHINSAIBASHI VARON PRESENTS. COMING HOME Vol.134 - Days,near LAND pre. 8th Single 「Mighty Song」 豊阪東Release Tour 大阪編",
+    "url": "https://osaka-varon.jp/schedule/detail/40009",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2025/04/24",
+    "day": "木",
+    "artist": "アシガルユース",
+    "title": "SHINSAIBASHI VARON PRESENTS. COMING HOME Vol.134 - Days,near LAND pre. 8th Single 「Mighty Song」 豊阪東Release Tour 大阪編",
+    "url": "https://osaka-varon.jp/schedule/detail/40009",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
     "date": "2025/04/26",
     "day": "土",
     "artist": "梟",
@@ -15350,6 +15737,15 @@
     "artist": "がすぼくBAND",
     "title": "アニソンタマシイフュージョン！ハッ！３",
     "url": "https://osaka-varon.jp/schedule/detail/38322",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2025/07/04",
+    "day": "金",
+    "artist": "トラケミスト  and more...",
+    "title": "トラケミスト\"爆炎の慢性化危険TOUR 2025\"",
+    "url": "https://osaka-varon.jp/schedule/detail/39858",
     "venue": "VARON",
     "note": ""
   },
@@ -17885,8 +18281,80 @@
   {
     "date": "2025/03/15",
     "day": "土",
-    "artist": "coming soon...",
-    "title": "HALL RENTAL",
+    "artist": "AshRose",
+    "title": "ダメ御殿～旗揚げの乱～",
+    "url": "https://osaka-zeela.jp/schedule/detail/36653",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2025/03/15",
+    "day": "土",
+    "artist": "Bocchi Malone",
+    "title": "ダメ御殿～旗揚げの乱～",
+    "url": "https://osaka-zeela.jp/schedule/detail/36653",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2025/03/15",
+    "day": "土",
+    "artist": "Intence Rock",
+    "title": "ダメ御殿～旗揚げの乱～",
+    "url": "https://osaka-zeela.jp/schedule/detail/36653",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2025/03/15",
+    "day": "土",
+    "artist": "Maximum Overdrive",
+    "title": "ダメ御殿～旗揚げの乱～",
+    "url": "https://osaka-zeela.jp/schedule/detail/36653",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2025/03/15",
+    "day": "土",
+    "artist": "アイマイモコ",
+    "title": "ダメ御殿～旗揚げの乱～",
+    "url": "https://osaka-zeela.jp/schedule/detail/36653",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2025/03/15",
+    "day": "土",
+    "artist": "しあち上昇中⭐︎⭐︎☆",
+    "title": "ダメ御殿～旗揚げの乱～",
+    "url": "https://osaka-zeela.jp/schedule/detail/36653",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2025/03/15",
+    "day": "土",
+    "artist": "スンッとしてニパァ！",
+    "title": "ダメ御殿～旗揚げの乱～",
+    "url": "https://osaka-zeela.jp/schedule/detail/36653",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2025/03/15",
+    "day": "土",
+    "artist": "世界せいふく！",
+    "title": "ダメ御殿～旗揚げの乱～",
+    "url": "https://osaka-zeela.jp/schedule/detail/36653",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2025/03/15",
+    "day": "土",
+    "artist": "和田光司の曲をやりますが、Butter-Flyはやりません。",
+    "title": "ダメ御殿～旗揚げの乱～",
     "url": "https://osaka-zeela.jp/schedule/detail/36653",
     "venue": "Zeela",
     "note": ""
@@ -19053,6 +19521,15 @@
     "note": ""
   },
   {
+    "date": "2025/04/19",
+    "day": "土",
+    "artist": "VIGORMAN",
+    "title": "VIGORMAN",
+    "url": "https://www.club-quattro.com/umeda/detail.php?id=16805",
+    "venue": "梅田QUATTRO",
+    "note": ""
+  },
+  {
     "date": "2025/04/20",
     "day": "日",
     "artist": "冨岡 愛",
@@ -19067,6 +19544,51 @@
     "artist": "THE KEBABS",
     "title": "THE KEBABS",
     "url": "https://www.club-quattro.com/umeda/detail.php?id=16721",
+    "venue": "梅田QUATTRO",
+    "note": ""
+  },
+  {
+    "date": "2025/04/25",
+    "day": "金",
+    "artist": "w.o.d.",
+    "title": "w.o.d. / and more",
+    "url": "https://www.club-quattro.com/umeda/detail.php?id=16806",
+    "venue": "梅田QUATTRO",
+    "note": ""
+  },
+  {
+    "date": "2025/04/25",
+    "day": "金",
+    "artist": "and more",
+    "title": "w.o.d. / and more",
+    "url": "https://www.club-quattro.com/umeda/detail.php?id=16806",
+    "venue": "梅田QUATTRO",
+    "note": ""
+  },
+  {
+    "date": "2025/04/26",
+    "day": "土",
+    "artist": "INORAN",
+    "title": "INORAN\r\nw/ The Ravens",
+    "url": "https://www.club-quattro.com/umeda/detail.php?id=16803",
+    "venue": "梅田QUATTRO",
+    "note": ""
+  },
+  {
+    "date": "2025/04/26",
+    "day": "土",
+    "artist": "w",
+    "title": "INORAN\r\nw/ The Ravens",
+    "url": "https://www.club-quattro.com/umeda/detail.php?id=16803",
+    "venue": "梅田QUATTRO",
+    "note": ""
+  },
+  {
+    "date": "2025/04/26",
+    "day": "土",
+    "artist": "The Ravens",
+    "title": "INORAN\r\nw/ The Ravens",
+    "url": "https://www.club-quattro.com/umeda/detail.php?id=16803",
     "venue": "梅田QUATTRO",
     "note": ""
   },
@@ -19175,6 +19697,15 @@
     "artist": "asmi",
     "title": "asmi",
     "url": "https://www.club-quattro.com/umeda/detail.php?id=16597",
+    "venue": "梅田QUATTRO",
+    "note": ""
+  },
+  {
+    "date": "2025/05/29",
+    "day": "木",
+    "artist": "No.*Day",
+    "title": "No.*Day",
+    "url": "https://www.club-quattro.com/umeda/detail.php?id=16804",
     "venue": "梅田QUATTRO",
     "note": ""
   },
@@ -23006,8 +23537,26 @@
   {
     "date": "2025/03/04",
     "day": "火",
+    "artist": "tami",
+    "title": "NaturalWoman",
+    "url": "http://www.knave.co.jp/schedule/s_2025_03.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2025/03/04",
+    "day": "火",
+    "artist": "ヤマサキマナミ",
+    "title": "NaturalWoman",
+    "url": "http://www.knave.co.jp/schedule/s_2025_03.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2025/03/04",
+    "day": "火",
     "artist": "梶有紀子",
-    "title": "NaturalWomantami/マナミ/",
+    "title": "NaturalWoman",
     "url": "http://www.knave.co.jp/schedule/s_2025_03.html",
     "venue": "knave",
     "note": ""
@@ -23016,7 +23565,7 @@
     "date": "2025/03/04",
     "day": "火",
     "artist": "河村麻未",
-    "title": "NaturalWomantami/マナミ/",
+    "title": "NaturalWoman",
     "url": "http://www.knave.co.jp/schedule/s_2025_03.html",
     "venue": "knave",
     "note": ""
@@ -23025,7 +23574,16 @@
     "date": "2025/03/04",
     "day": "火",
     "artist": "冬木希",
-    "title": "NaturalWomantami/マナミ/",
+    "title": "NaturalWoman",
+    "url": "http://www.knave.co.jp/schedule/s_2025_03.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2025/03/04",
+    "day": "火",
+    "artist": "Lien",
+    "title": "NaturalWoman",
     "url": "http://www.knave.co.jp/schedule/s_2025_03.html",
     "venue": "knave",
     "note": ""
@@ -23034,7 +23592,7 @@
     "date": "2025/03/04",
     "day": "火",
     "artist": "問)knave06-6535-0691",
-    "title": "NaturalWomantami/マナミ/",
+    "title": "NaturalWoman",
     "url": "http://www.knave.co.jp/schedule/s_2025_03.html",
     "venue": "knave",
     "note": ""
@@ -24664,6 +25222,51 @@
     "day": "金",
     "artist": "問)knave06-6535-0691",
     "title": "エリネア×アルカナイカpresents",
+    "url": "http://www.knave.co.jp/schedule/s_2025_04.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2025/04/27",
+    "day": "日",
+    "artist": "『50＋Threeyears！』",
+    "title": "堀込泰行 Official Fun Club『Cheers！』presents",
+    "url": "http://www.knave.co.jp/schedule/s_2025_04.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2025/04/27",
+    "day": "日",
+    "artist": "堀込泰行",
+    "title": "堀込泰行 Official Fun Club『Cheers！』presents",
+    "url": "http://www.knave.co.jp/schedule/s_2025_04.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2025/04/27",
+    "day": "日",
+    "artist": "※未就学児入場不可",
+    "title": "堀込泰行 Official Fun Club『Cheers！』presents",
+    "url": "http://www.knave.co.jp/schedule/s_2025_04.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2025/04/27",
+    "day": "日",
+    "artist": "※本公演は堀込泰行ファンクラブ「Cheers!」の有料会員のみご参加いただけます。",
+    "title": "堀込泰行 Official Fun Club『Cheers！』presents",
+    "url": "http://www.knave.co.jp/schedule/s_2025_04.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2025/04/27",
+    "day": "日",
+    "artist": "問)Cheers!",
+    "title": "堀込泰行 Official Fun Club『Cheers！』presents",
     "url": "http://www.knave.co.jp/schedule/s_2025_04.html",
     "venue": "knave",
     "note": ""
