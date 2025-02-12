@@ -2567,8 +2567,8 @@
   {
     "date": "2025/03/02",
     "day": "日",
-    "artist": "THE ASTRONAUTS",
-    "title": "THE ASTRONAUTS / THE CHOPPMAN / ヒヅキシンジ / スカンピンエクスペリエンス / SALVA",
+    "artist": "スカンピンエクスペリエンス",
+    "title": "OPEN 17:00",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -2576,8 +2576,17 @@
   {
     "date": "2025/03/02",
     "day": "日",
-    "artist": "THE CHOPPMAN",
-    "title": "THE ASTRONAUTS / THE CHOPPMAN / ヒヅキシンジ / スカンピンエクスペリエンス / SALVA",
+    "artist": "THE ASTRONAUTS",
+    "title": "OPEN 17:00",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
+    "date": "2025/03/02",
+    "day": "日",
+    "artist": "SALVA",
+    "title": "OPEN 17:00",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -2586,7 +2595,7 @@
     "date": "2025/03/02",
     "day": "日",
     "artist": "ヒヅキシンジ",
-    "title": "THE ASTRONAUTS / THE CHOPPMAN / ヒヅキシンジ / スカンピンエクスペリエンス / SALVA",
+    "title": "OPEN 17:00",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -2594,17 +2603,8 @@
   {
     "date": "2025/03/02",
     "day": "日",
-    "artist": "スカンピンエクスペリエンス",
-    "title": "THE ASTRONAUTS / THE CHOPPMAN / ヒヅキシンジ / スカンピンエクスペリエンス / SALVA",
-    "url": "https://para-dice.net/",
-    "venue": "扇町para-dice",
-    "note": ""
-  },
-  {
-    "date": "2025/03/02",
-    "day": "日",
-    "artist": "SALVA  and more...",
-    "title": "THE ASTRONAUTS / THE CHOPPMAN / ヒヅキシンジ / スカンピンエクスペリエンス / SALVA",
+    "artist": "THE CHOPPMAN",
+    "title": "OPEN 17:00",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -2720,8 +2720,8 @@
   {
     "date": "2025/03/06",
     "day": "木",
-    "artist": "村瀬裕子",
-    "title": "村瀬裕子 / モリ やすヒロ / 松本花(東京) / ガジェットまさお /\n              \n              よん。fromボクノココロネ",
+    "artist": "ガジェットまさお",
+    "title": "OPEN 18:30",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -2730,7 +2730,34 @@
     "date": "2025/03/06",
     "day": "木",
     "artist": "モリ やすヒロ",
-    "title": "村瀬裕子 / モリ やすヒロ / 松本花(東京) / ガジェットまさお /\n              \n              よん。fromボクノココロネ",
+    "title": "OPEN 18:30",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
+    "date": "2025/03/06",
+    "day": "木",
+    "artist": "Papa make yeti",
+    "title": "OPEN 18:30",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
+    "date": "2025/03/06",
+    "day": "木",
+    "artist": "よん。fromボクノココロネ",
+    "title": "OPEN 18:30",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
+    "date": "2025/03/06",
+    "day": "木",
+    "artist": "村瀬裕子",
+    "title": "OPEN 18:30",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -2739,34 +2766,7 @@
     "date": "2025/03/06",
     "day": "木",
     "artist": "松本花",
-    "title": "村瀬裕子 / モリ やすヒロ / 松本花(東京) / ガジェットまさお /\n              \n              よん。fromボクノココロネ",
-    "url": "https://para-dice.net/",
-    "venue": "扇町para-dice",
-    "note": ""
-  },
-  {
-    "date": "2025/03/06",
-    "day": "木",
-    "artist": "ガジェットまさお",
-    "title": "村瀬裕子 / モリ やすヒロ / 松本花(東京) / ガジェットまさお /\n              \n              よん。fromボクノココロネ",
-    "url": "https://para-dice.net/",
-    "venue": "扇町para-dice",
-    "note": ""
-  },
-  {
-    "date": "2025/03/06",
-    "day": "木",
-    "artist": "よん。fromボクノココロネ and more...",
-    "title": "村瀬裕子 / モリ やすヒロ / 松本花(東京) / ガジェットまさお /\n              \n              よん。fromボクノココロネ",
-    "url": "https://para-dice.net/",
-    "venue": "扇町para-dice",
-    "note": ""
-  },
-  {
-    "date": "2025/03/07",
-    "day": "金",
-    "artist": "かりすの死骸",
-    "title": "かりすの死骸 / パイドゥアイカンレしれ / 二宮大輔とけうけげん",
+    "title": "OPEN 18:30",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -2775,7 +2775,7 @@
     "date": "2025/03/07",
     "day": "金",
     "artist": "パイドゥアイカンレしれ",
-    "title": "かりすの死骸 / パイドゥアイカンレしれ / 二宮大輔とけうけげん",
+    "title": "OPEN 18:30",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -2783,8 +2783,35 @@
   {
     "date": "2025/03/07",
     "day": "金",
-    "artist": "二宮大輔とけうけげん and moe...",
-    "title": "かりすの死骸 / パイドゥアイカンレしれ / 二宮大輔とけうけげん",
+    "artist": "アナーキーいたさん",
+    "title": "OPEN 18:30",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
+    "date": "2025/03/07",
+    "day": "金",
+    "artist": "二宮大輔とけうけげん",
+    "title": "OPEN 18:30",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
+    "date": "2025/03/07",
+    "day": "金",
+    "artist": "ODAGAWA SHION",
+    "title": "OPEN 18:30",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
+    "date": "2025/03/07",
+    "day": "金",
+    "artist": "かりすの死骸",
+    "title": "OPEN 18:30",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -3278,17 +3305,8 @@
   {
     "date": "2025/03/20",
     "day": "木祝",
-    "artist": "ヘテロズ",
-    "title": "ヘテロズ / ヴィンセントナガバンド / べーしょー / Swim in May",
-    "url": "https://para-dice.net/",
-    "venue": "扇町para-dice",
-    "note": ""
-  },
-  {
-    "date": "2025/03/20",
-    "day": "木祝",
     "artist": "ヴィンセントナガバンド",
-    "title": "ヘテロズ / ヴィンセントナガバンド / べーしょー / Swim in May",
+    "title": "OPEN 16:30",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -3297,7 +3315,7 @@
     "date": "2025/03/20",
     "day": "木祝",
     "artist": "べーしょー",
-    "title": "ヘテロズ / ヴィンセントナガバンド / べーしょー / Swim in May",
+    "title": "OPEN 16:30",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -3305,8 +3323,35 @@
   {
     "date": "2025/03/20",
     "day": "木祝",
-    "artist": "Swim in May  and more...",
-    "title": "ヘテロズ / ヴィンセントナガバンド / べーしょー / Swim in May",
+    "artist": "Swim in May",
+    "title": "OPEN 16:30",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
+    "date": "2025/03/20",
+    "day": "木祝",
+    "artist": "優午",
+    "title": "OPEN 16:30",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
+    "date": "2025/03/20",
+    "day": "木祝",
+    "artist": "たろ子",
+    "title": "OPEN 16:30",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
+    "date": "2025/03/20",
+    "day": "木祝",
+    "artist": "ヘテロズ",
+    "title": "OPEN 16:30",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -5859,6 +5904,78 @@
     "note": ""
   },
   {
+    "date": "2025/02/21",
+    "day": "金",
+    "artist": "kyon",
+    "title": "居酒屋黒木 vol.8",
+    "url": "https://vijon.jp/schedule/detail/42431",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2025/02/21",
+    "day": "金",
+    "artist": "しづみ",
+    "title": "居酒屋黒木 vol.8",
+    "url": "https://vijon.jp/schedule/detail/42431",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2025/02/21",
+    "day": "金",
+    "artist": "かつと",
+    "title": "居酒屋黒木 vol.8",
+    "url": "https://vijon.jp/schedule/detail/42431",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2025/02/21",
+    "day": "金",
+    "artist": "inoshit",
+    "title": "居酒屋黒木 vol.8",
+    "url": "https://vijon.jp/schedule/detail/42431",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2025/02/21",
+    "day": "金",
+    "artist": "keita morinaga(バミューダ★バガボンド",
+    "title": "居酒屋黒木 vol.8",
+    "url": "https://vijon.jp/schedule/detail/42431",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2025/02/21",
+    "day": "金",
+    "artist": "サイスラ)",
+    "title": "居酒屋黒木 vol.8",
+    "url": "https://vijon.jp/schedule/detail/42431",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2025/02/21",
+    "day": "金",
+    "artist": "BUN a.k.a あらぶるヒゲ",
+    "title": "居酒屋黒木 vol.8",
+    "url": "https://vijon.jp/schedule/detail/42431",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2025/02/21",
+    "day": "金",
+    "artist": "annie  and more…",
+    "title": "居酒屋黒木 vol.8",
+    "url": "https://vijon.jp/schedule/detail/42431",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
     "date": "2025/02/23",
     "day": "日",
     "artist": "松岡英明",
@@ -8366,6 +8483,150 @@
     "artist": "Mrs.ももりんごAPPLE",
     "title": "大阪経済大学Cross Over!!冬季定期演奏会",
     "url": "https://bangboo.jp/schedule/detail/39121",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2025/02/13",
+    "day": "木",
+    "artist": "i Moon",
+    "title": "ネテルダイヤpresents【Diamond Polishers】Valentine Special Day1",
+    "url": "https://bangboo.jp/schedule/detail/39669",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2025/02/13",
+    "day": "木",
+    "artist": "ハウツー世界征服",
+    "title": "ネテルダイヤpresents【Diamond Polishers】Valentine Special Day1",
+    "url": "https://bangboo.jp/schedule/detail/39669",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2025/02/13",
+    "day": "木",
+    "artist": "柊ゆう",
+    "title": "ネテルダイヤpresents【Diamond Polishers】Valentine Special Day1",
+    "url": "https://bangboo.jp/schedule/detail/39669",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2025/02/13",
+    "day": "木",
+    "artist": "はぴすり",
+    "title": "ネテルダイヤpresents【Diamond Polishers】Valentine Special Day1",
+    "url": "https://bangboo.jp/schedule/detail/39669",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2025/02/13",
+    "day": "木",
+    "artist": "chance movement",
+    "title": "ネテルダイヤpresents【Diamond Polishers】Valentine Special Day1",
+    "url": "https://bangboo.jp/schedule/detail/39669",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2025/02/13",
+    "day": "木",
+    "artist": "カリフラワー冒険記",
+    "title": "ネテルダイヤpresents【Diamond Polishers】Valentine Special Day1",
+    "url": "https://bangboo.jp/schedule/detail/39669",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2025/02/13",
+    "day": "木",
+    "artist": "ネテルダイヤ",
+    "title": "ネテルダイヤpresents【Diamond Polishers】Valentine Special Day1",
+    "url": "https://bangboo.jp/schedule/detail/39669",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2025/02/14",
+    "day": "金",
+    "artist": "Hi-fi GIRLs PROJECT osaka",
+    "title": "ネテルダイヤpresents【Diamond Polishers】Valentine Special Day2",
+    "url": "https://bangboo.jp/schedule/detail/40324",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2025/02/14",
+    "day": "金",
+    "artist": "ハウツー世界征服",
+    "title": "ネテルダイヤpresents【Diamond Polishers】Valentine Special Day2",
+    "url": "https://bangboo.jp/schedule/detail/40324",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2025/02/14",
+    "day": "金",
+    "artist": "マイフェアガ→ル",
+    "title": "ネテルダイヤpresents【Diamond Polishers】Valentine Special Day2",
+    "url": "https://bangboo.jp/schedule/detail/40324",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2025/02/14",
+    "day": "金",
+    "artist": "むげんこんぜ",
+    "title": "ネテルダイヤpresents【Diamond Polishers】Valentine Special Day2",
+    "url": "https://bangboo.jp/schedule/detail/40324",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2025/02/14",
+    "day": "金",
+    "artist": "はぴすり",
+    "title": "ネテルダイヤpresents【Diamond Polishers】Valentine Special Day2",
+    "url": "https://bangboo.jp/schedule/detail/40324",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2025/02/14",
+    "day": "金",
+    "artist": "アクアリウム。",
+    "title": "ネテルダイヤpresents【Diamond Polishers】Valentine Special Day2",
+    "url": "https://bangboo.jp/schedule/detail/40324",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2025/02/14",
+    "day": "金",
+    "artist": "No.*day",
+    "title": "ネテルダイヤpresents【Diamond Polishers】Valentine Special Day2",
+    "url": "https://bangboo.jp/schedule/detail/40324",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2025/02/14",
+    "day": "金",
+    "artist": "AIMIA",
+    "title": "ネテルダイヤpresents【Diamond Polishers】Valentine Special Day2",
+    "url": "https://bangboo.jp/schedule/detail/40324",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2025/02/14",
+    "day": "金",
+    "artist": "ネテルダイヤ",
+    "title": "ネテルダイヤpresents【Diamond Polishers】Valentine Special Day2",
+    "url": "https://bangboo.jp/schedule/detail/40324",
     "venue": "梅田BANGBOO",
     "note": ""
   },
@@ -15050,6 +15311,42 @@
   {
     "date": "2025/02/15",
     "day": "土",
+    "artist": "どーぴんぐ疑惑",
+    "title": "PANIC in the PARTY -緊急無銭Edition-",
+    "url": "https://osaka-varon.jp/schedule/detail/36090",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2025/02/15",
+    "day": "土",
+    "artist": "鳴ル神",
+    "title": "PANIC in the PARTY -緊急無銭Edition-",
+    "url": "https://osaka-varon.jp/schedule/detail/36090",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2025/02/15",
+    "day": "土",
+    "artist": "MAGMAZ",
+    "title": "PANIC in the PARTY -緊急無銭Edition-",
+    "url": "https://osaka-varon.jp/schedule/detail/36090",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2025/02/15",
+    "day": "土",
+    "artist": ".LiNIXLiNE",
+    "title": "PANIC in the PARTY -緊急無銭Edition-",
+    "url": "https://osaka-varon.jp/schedule/detail/36090",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2025/02/15",
+    "day": "土",
     "artist": "Axelight",
     "title": "TRANSMISSION",
     "url": "https://osaka-varon.jp/schedule/detail/40810",
@@ -15176,7 +15473,7 @@
   {
     "date": "2025/02/18",
     "day": "火",
-    "artist": "コドトシンカ",
+    "artist": "コドモシンカ",
     "title": "chemical reaction Vol.41",
     "url": "https://osaka-varon.jp/schedule/detail/38759",
     "venue": "VARON",
@@ -16070,6 +16367,78 @@
     "artist": "ティラミス",
     "title": "selfish東名阪ツアー 「自由航海」 大阪編",
     "url": "https://osaka-varon.jp/schedule/detail/36452",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2025/03/02",
+    "day": "日",
+    "artist": "Village in Maier",
+    "title": "Village in Maier 3rd Anniversary “ROAD TO ANSWER in OSAKA”",
+    "url": "https://osaka-varon.jp/schedule/detail/35808",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2025/03/02",
+    "day": "日",
+    "artist": "husky",
+    "title": "Village in Maier 3rd Anniversary “ROAD TO ANSWER in OSAKA”",
+    "url": "https://osaka-varon.jp/schedule/detail/35808",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2025/03/02",
+    "day": "日",
+    "artist": "LØISLOID",
+    "title": "Village in Maier 3rd Anniversary “ROAD TO ANSWER in OSAKA”",
+    "url": "https://osaka-varon.jp/schedule/detail/35808",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2025/03/02",
+    "day": "日",
+    "artist": "AIMIA",
+    "title": "Village in Maier 3rd Anniversary “ROAD TO ANSWER in OSAKA”",
+    "url": "https://osaka-varon.jp/schedule/detail/35808",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2025/03/02",
+    "day": "日",
+    "artist": "ENVY PARANOID",
+    "title": "Village in Maier 3rd Anniversary “ROAD TO ANSWER in OSAKA”",
+    "url": "https://osaka-varon.jp/schedule/detail/35808",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2025/03/02",
+    "day": "日",
+    "artist": "Re:sist",
+    "title": "Village in Maier 3rd Anniversary “ROAD TO ANSWER in OSAKA”",
+    "url": "https://osaka-varon.jp/schedule/detail/35808",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2025/03/02",
+    "day": "日",
+    "artist": "BR!OT",
+    "title": "Village in Maier 3rd Anniversary “ROAD TO ANSWER in OSAKA”",
+    "url": "https://osaka-varon.jp/schedule/detail/35808",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2025/03/02",
+    "day": "日",
+    "artist": "SOCIAL×MATCH",
+    "title": "Village in Maier 3rd Anniversary “ROAD TO ANSWER in OSAKA”",
+    "url": "https://osaka-varon.jp/schedule/detail/35808",
     "venue": "VARON",
     "note": ""
   },
@@ -17384,6 +17753,15 @@
     "artist": "りゅーき＆あみ)",
     "title": "Vinculum Music Session",
     "url": "https://osaka-zeela.jp/schedule/detail/36059",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2025/02/12",
+    "day": "水",
+    "artist": "えっ！？きのさんがリードボーカル！？～ギタボ葬式で銀杏大混乱編～",
+    "title": "大工大Skyz × 立命大ロケット団 合同企画",
+    "url": "https://osaka-zeela.jp/schedule/detail/38817",
     "venue": "Zeela",
     "note": ""
   },
@@ -19215,6 +19593,51 @@
     "note": ""
   },
   {
+    "date": "2025/03/13",
+    "day": "木",
+    "artist": "湾岸ソルティ",
+    "title": "Zeela pre. SAVAGE SPEAKER",
+    "url": "https://osaka-zeela.jp/schedule/detail/40756",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2025/03/13",
+    "day": "木",
+    "artist": "らくだのこぶX",
+    "title": "Zeela pre. SAVAGE SPEAKER",
+    "url": "https://osaka-zeela.jp/schedule/detail/40756",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2025/03/13",
+    "day": "木",
+    "artist": "Helpless Triangle",
+    "title": "Zeela pre. SAVAGE SPEAKER",
+    "url": "https://osaka-zeela.jp/schedule/detail/40756",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2025/03/13",
+    "day": "木",
+    "artist": "Hernia",
+    "title": "Zeela pre. SAVAGE SPEAKER",
+    "url": "https://osaka-zeela.jp/schedule/detail/40756",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2025/03/13",
+    "day": "木",
+    "artist": "スマイリー高木 & funky friends forever",
+    "title": "Zeela pre. SAVAGE SPEAKER",
+    "url": "https://osaka-zeela.jp/schedule/detail/40756",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
     "date": "2025/03/14",
     "day": "金",
     "artist": "coming soon...",
@@ -19337,6 +19760,15 @@
     "artist": "coming soon...",
     "title": "HALL RENTAL",
     "url": "https://osaka-zeela.jp/schedule/detail/35132",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2025/03/21",
+    "day": "金",
+    "artist": "Sunken boat沉舟乐队",
+    "title": "Sunken boat沉舟乐队『野风入夜』2024ー2025ツアー（大阪）",
+    "url": "https://osaka-zeela.jp/schedule/detail/40377",
     "venue": "Zeela",
     "note": ""
   },
@@ -19733,6 +20165,51 @@
     "artist": "coming soon...",
     "title": "HALL RENTAL",
     "url": "https://osaka-zeela.jp/schedule/detail/35814",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2025/04/24",
+    "day": "木",
+    "artist": "mm limit",
+    "title": "Zeela presents. Sound Fiction",
+    "url": "https://osaka-zeela.jp/schedule/detail/41372",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2025/04/24",
+    "day": "木",
+    "artist": "BlueVeil",
+    "title": "Zeela presents. Sound Fiction",
+    "url": "https://osaka-zeela.jp/schedule/detail/41372",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2025/04/24",
+    "day": "木",
+    "artist": "いろかにほへと",
+    "title": "Zeela presents. Sound Fiction",
+    "url": "https://osaka-zeela.jp/schedule/detail/41372",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2025/04/24",
+    "day": "木",
+    "artist": "是是",
+    "title": "Zeela presents. Sound Fiction",
+    "url": "https://osaka-zeela.jp/schedule/detail/41372",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2025/04/24",
+    "day": "木",
+    "artist": "にゃんにゃん倶楽部",
+    "title": "Zeela presents. Sound Fiction",
+    "url": "https://osaka-zeela.jp/schedule/detail/41372",
     "venue": "Zeela",
     "note": ""
   },
@@ -21690,6 +22167,60 @@
     "note": ""
   },
   {
+    "date": "2025/03/05",
+    "day": "水",
+    "artist": "RoiAm",
+    "title": "FaveZone",
+    "url": "http://rocktown.jp/schedule/202503.html",
+    "venue": "あべのROCKTOWN",
+    "note": ""
+  },
+  {
+    "date": "2025/03/05",
+    "day": "水",
+    "artist": "キミだけの天使！",
+    "title": "FaveZone",
+    "url": "http://rocktown.jp/schedule/202503.html",
+    "venue": "あべのROCKTOWN",
+    "note": ""
+  },
+  {
+    "date": "2025/03/05",
+    "day": "水",
+    "artist": "JET!!Princely",
+    "title": "FaveZone",
+    "url": "http://rocktown.jp/schedule/202503.html",
+    "venue": "あべのROCKTOWN",
+    "note": ""
+  },
+  {
+    "date": "2025/03/05",
+    "day": "水",
+    "artist": "Aim for One",
+    "title": "FaveZone",
+    "url": "http://rocktown.jp/schedule/202503.html",
+    "venue": "あべのROCKTOWN",
+    "note": ""
+  },
+  {
+    "date": "2025/03/05",
+    "day": "水",
+    "artist": "CRUSH",
+    "title": "FaveZone",
+    "url": "http://rocktown.jp/schedule/202503.html",
+    "venue": "あべのROCKTOWN",
+    "note": ""
+  },
+  {
+    "date": "2025/03/05",
+    "day": "水",
+    "artist": "ELVA",
+    "title": "FaveZone",
+    "url": "http://rocktown.jp/schedule/202503.html",
+    "venue": "あべのROCKTOWN",
+    "note": ""
+  },
+  {
     "date": "2025/03/06",
     "day": "木",
     "artist": "ゼラ",
@@ -22009,6 +22540,15 @@
     "day": "日",
     "artist": "link start",
     "title": "GT FES",
+    "url": "http://rocktown.jp/schedule/202503.html",
+    "venue": "あべのROCKTOWN",
+    "note": ""
+  },
+  {
+    "date": "2025/03/22",
+    "day": "土",
+    "artist": "特定非営利活動法人",
+    "title": "コーナス文化祭",
     "url": "http://rocktown.jp/schedule/202503.html",
     "venue": "あべのROCKTOWN",
     "note": ""
