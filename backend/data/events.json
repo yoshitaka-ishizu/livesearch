@@ -2594,7 +2594,7 @@
   {
     "date": "2025/02/23",
     "day": "日",
-    "artist": "Phosfalls",
+    "artist": "山﨑康平",
     "title": "OPEN 16:30",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
@@ -2613,6 +2613,15 @@
     "date": "2025/02/23",
     "day": "日",
     "artist": "CURIOUS",
+    "title": "OPEN 16:30",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
+    "date": "2025/02/23",
+    "day": "日",
+    "artist": "※Phosfallsは諸事情により出演キャンセルとなり山﨑康平への変更となりました。",
     "title": "OPEN 16:30",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
@@ -3476,6 +3485,15 @@
   {
     "date": "2025/03/16",
     "day": "日",
+    "artist": "『 Powerslave 』",
+    "title": "para-dice企画",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
+    "date": "2025/03/16",
+    "day": "日",
     "artist": "NTGSS",
     "title": "para-dice企画",
     "url": "https://para-dice.net/",
@@ -3665,7 +3683,7 @@
   {
     "date": "2025/03/21",
     "day": "金",
-    "artist": "kumanini",
+    "artist": "『 GOLD EXPERIENCE 』",
     "title": "para-dice企画",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
@@ -3683,7 +3701,16 @@
   {
     "date": "2025/03/21",
     "day": "金",
-    "artist": "TEME  and more...",
+    "artist": "TEME",
+    "title": "para-dice企画",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
+    "date": "2025/03/21",
+    "day": "金",
+    "artist": "kumanini",
     "title": "para-dice企画",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
@@ -3798,6 +3825,60 @@
     "note": ""
   },
   {
+    "date": "2025/03/24",
+    "day": "月",
+    "artist": "para-dice  企画",
+    "title": "para-dice  企画",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
+    "date": "2025/03/24",
+    "day": "月",
+    "artist": "『 あるきつづける 』",
+    "title": "para-dice  企画",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
+    "date": "2025/03/24",
+    "day": "月",
+    "artist": "小原未樹",
+    "title": "para-dice  企画",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
+    "date": "2025/03/24",
+    "day": "月",
+    "artist": "シラハタショウコ",
+    "title": "para-dice  企画",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
+    "date": "2025/03/24",
+    "day": "月",
+    "artist": "たかぎしゆか",
+    "title": "para-dice  企画",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
+    "date": "2025/03/24",
+    "day": "月",
+    "artist": "FOOD:こはら食堂",
+    "title": "para-dice  企画",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
     "date": "2025/03/26",
     "day": "水",
     "artist": "para-dice企画",
@@ -3855,6 +3936,15 @@
     "date": "2025/03/28",
     "day": "金",
     "artist": "para-dice企画",
+    "title": "para-dice企画",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
+    "date": "2025/03/28",
+    "day": "金",
+    "artist": "『 SPIN！ 』",
     "title": "para-dice企画",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
@@ -4412,25 +4502,7 @@
   {
     "date": "2025/04/11",
     "day": "金",
-    "artist": "KEEWO",
-    "title": "para-dice 16th anniversary",
-    "url": "https://para-dice.net/",
-    "venue": "扇町para-dice",
-    "note": ""
-  },
-  {
-    "date": "2025/04/11",
-    "day": "金",
-    "artist": "ウエノタカユキ",
-    "title": "para-dice 16th anniversary",
-    "url": "https://para-dice.net/",
-    "venue": "扇町para-dice",
-    "note": ""
-  },
-  {
-    "date": "2025/04/11",
-    "day": "金",
-    "artist": "黒木サトシ",
+    "artist": "谷田一心",
     "title": "para-dice 16th anniversary",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
@@ -4448,7 +4520,25 @@
   {
     "date": "2025/04/11",
     "day": "金",
-    "artist": "谷田一心",
+    "artist": "黒木サトシ",
+    "title": "para-dice 16th anniversary",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
+    "date": "2025/04/11",
+    "day": "金",
+    "artist": "ウエノタカユキ",
+    "title": "para-dice 16th anniversary",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
+    "date": "2025/04/11",
+    "day": "金",
+    "artist": "KEEWO",
     "title": "para-dice 16th anniversary",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
@@ -7362,6 +7452,78 @@
     "note": ""
   },
   {
+    "date": "2025/03/15",
+    "day": "土",
+    "artist": "スリーピース",
+    "title": "東家の休日2025 AZUMA FAMILY HOLIDAY with BASSONTOP OSAKI",
+    "url": "https://vijon.jp/schedule/detail/42657",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2025/03/15",
+    "day": "土",
+    "artist": "OSAKANA",
+    "title": "東家の休日2025 AZUMA FAMILY HOLIDAY with BASSONTOP OSAKI",
+    "url": "https://vijon.jp/schedule/detail/42657",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2025/03/15",
+    "day": "土",
+    "artist": "Beginning Luck",
+    "title": "東家の休日2025 AZUMA FAMILY HOLIDAY with BASSONTOP OSAKI",
+    "url": "https://vijon.jp/schedule/detail/42657",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2025/03/15",
+    "day": "土",
+    "artist": "くりぃむそぉだぁ",
+    "title": "東家の休日2025 AZUMA FAMILY HOLIDAY with BASSONTOP OSAKI",
+    "url": "https://vijon.jp/schedule/detail/42657",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2025/03/15",
+    "day": "土",
+    "artist": "X Lovers",
+    "title": "東家の休日2025 AZUMA FAMILY HOLIDAY with BASSONTOP OSAKI",
+    "url": "https://vijon.jp/schedule/detail/42657",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2025/03/15",
+    "day": "土",
+    "artist": "Raspberry Bear",
+    "title": "東家の休日2025 AZUMA FAMILY HOLIDAY with BASSONTOP OSAKI",
+    "url": "https://vijon.jp/schedule/detail/42657",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2025/03/15",
+    "day": "土",
+    "artist": "サンシャイン前田",
+    "title": "東家の休日2025 AZUMA FAMILY HOLIDAY with BASSONTOP OSAKI",
+    "url": "https://vijon.jp/schedule/detail/42657",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2025/03/15",
+    "day": "土",
+    "artist": "咆狼",
+    "title": "東家の休日2025 AZUMA FAMILY HOLIDAY with BASSONTOP OSAKI",
+    "url": "https://vijon.jp/schedule/detail/42657",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
     "date": "2025/03/16",
     "day": "日",
     "artist": "Moonbeams",
@@ -7931,7 +8093,16 @@
   {
     "date": "2025/03/30",
     "day": "日",
-    "artist": "and more...",
+    "artist": "舟平",
+    "title": "#KTCHAN LIVEHOUSE TOUR '’ワンチャン''",
+    "url": "https://vijon.jp/schedule/detail/41330",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2025/03/30",
+    "day": "日",
+    "artist": "SAM,REDWING,MEIA",
     "title": "#KTCHAN LIVEHOUSE TOUR '’ワンチャン''",
     "url": "https://vijon.jp/schedule/detail/41330",
     "venue": "北堀江club vijon",
@@ -12825,6 +12996,15 @@
     "note": ""
   },
   {
+    "date": "2025/07/21",
+    "day": "月",
+    "artist": "仮面女子",
+    "title": "『唸れハイエース☆走れハイウェイ☆爆走1700km うぇーい！』大阪公演",
+    "url": "https://bangboo.jp/schedule/detail/42674",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
     "date": "2025/02/01",
     "day": "土",
     "artist": ".BPM",
@@ -15615,6 +15795,51 @@
     "note": ""
   },
   {
+    "date": "2025/03/03",
+    "day": "月",
+    "artist": "ぜろから☆すた→と",
+    "title": "NEW THINGS",
+    "url": "https://clubdrop.jp/schedule/detail/41976",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2025/03/03",
+    "day": "月",
+    "artist": "STARRY×NIGHT↗",
+    "title": "NEW THINGS",
+    "url": "https://clubdrop.jp/schedule/detail/41976",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2025/03/03",
+    "day": "月",
+    "artist": "ナナコロビヤオキ",
+    "title": "NEW THINGS",
+    "url": "https://clubdrop.jp/schedule/detail/41976",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2025/03/03",
+    "day": "月",
+    "artist": "ガラチア",
+    "title": "NEW THINGS",
+    "url": "https://clubdrop.jp/schedule/detail/41976",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2025/03/03",
+    "day": "月",
+    "artist": "ココロシンドローム",
+    "title": "NEW THINGS",
+    "url": "https://clubdrop.jp/schedule/detail/41976",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
     "date": "2025/03/05",
     "day": "水",
     "artist": "ネオンと無重力",
@@ -16277,6 +16502,42 @@
     "artist": "らくガキ",
     "title": "ZERO NEN CIRCUIT",
     "url": "https://clubdrop.jp/schedule/detail/37286",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2025/03/25",
+    "day": "火",
+    "artist": "UZMK",
+    "title": "Section U.G Presents『THA ''X\" GUILD』",
+    "url": "https://clubdrop.jp/schedule/detail/40213",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2025/03/25",
+    "day": "火",
+    "artist": "KNOCK OUT MONKEY",
+    "title": "Section U.G Presents『THA ''X\" GUILD』",
+    "url": "https://clubdrop.jp/schedule/detail/40213",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2025/03/25",
+    "day": "火",
+    "artist": "FABLED NUMBER",
+    "title": "Section U.G Presents『THA ''X\" GUILD』",
+    "url": "https://clubdrop.jp/schedule/detail/40213",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2025/03/25",
+    "day": "火",
+    "artist": "FIRE ON FIRE",
+    "title": "Section U.G Presents『THA ''X\" GUILD』",
+    "url": "https://clubdrop.jp/schedule/detail/40213",
     "venue": "アメリカ村DROP",
     "note": ""
   },
@@ -19458,6 +19719,15 @@
     "note": ""
   },
   {
+    "date": "2025/04/01",
+    "day": "火",
+    "artist": "coming soon...",
+    "title": "BASS ON TOP presents Fruits Basket Vol.87",
+    "url": "https://osaka-varon.jp/schedule/detail/40196",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
     "date": "2025/04/09",
     "day": "水",
     "artist": "Re.ripe",
@@ -19661,6 +19931,51 @@
     "artist": "Leetspeak monsters",
     "title": "梟×3470.mon×Leetspeak monsters Coupling Tour Yoo Hoo Moonsters OSAKA",
     "url": "https://osaka-varon.jp/schedule/detail/36062",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2025/05/02",
+    "day": "金",
+    "artist": "CHASED",
+    "title": "CHASED x COMINGHOME pre.CHASED 6th MiniAlbum [ weal and woe ] Release Tour 2025",
+    "url": "https://osaka-varon.jp/schedule/detail/39523",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2025/05/02",
+    "day": "金",
+    "artist": "Drop After Dawn",
+    "title": "CHASED x COMINGHOME pre.CHASED 6th MiniAlbum [ weal and woe ] Release Tour 2025",
+    "url": "https://osaka-varon.jp/schedule/detail/39523",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2025/05/02",
+    "day": "金",
+    "artist": "Launcher No.8",
+    "title": "CHASED x COMINGHOME pre.CHASED 6th MiniAlbum [ weal and woe ] Release Tour 2025",
+    "url": "https://osaka-varon.jp/schedule/detail/39523",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2025/05/02",
+    "day": "金",
+    "artist": "SBE",
+    "title": "CHASED x COMINGHOME pre.CHASED 6th MiniAlbum [ weal and woe ] Release Tour 2025",
+    "url": "https://osaka-varon.jp/schedule/detail/39523",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2025/05/02",
+    "day": "金",
+    "artist": "SUBLIMINALS   Kazu   Heavenly BURGER",
+    "title": "CHASED x COMINGHOME pre.CHASED 6th MiniAlbum [ weal and woe ] Release Tour 2025",
+    "url": "https://osaka-varon.jp/schedule/detail/39523",
     "venue": "VARON",
     "note": ""
   },
@@ -22455,6 +22770,24 @@
     "note": ""
   },
   {
+    "date": "2025/03/12",
+    "day": "水",
+    "artist": "FASE",
+    "title": "Zeela presents FASE Utopiaリリース& PONGEE ワンマンライブ 応援企画！ Cheers up in Zeela !!",
+    "url": "https://osaka-zeela.jp/schedule/detail/40660",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2025/03/12",
+    "day": "水",
+    "artist": "PONGEE",
+    "title": "Zeela presents FASE Utopiaリリース& PONGEE ワンマンライブ 応援企画！ Cheers up in Zeela !!",
+    "url": "https://osaka-zeela.jp/schedule/detail/40660",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
     "date": "2025/03/13",
     "day": "木",
     "artist": "湾岸ソルティ",
@@ -23193,6 +23526,15 @@
     "note": ""
   },
   {
+    "date": "2025/04/20",
+    "day": "日",
+    "artist": "Fortuness  他",
+    "title": "二刀流アイドル Fortuness 東名阪ツアー2025",
+    "url": "https://osaka-zeela.jp/schedule/detail/39172",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
     "date": "2025/04/23",
     "day": "水",
     "artist": "優利香",
@@ -23450,6 +23792,15 @@
     "artist": "ジャアバーボンズ",
     "title": "ジャアバーボンズ TOUR 2024",
     "url": "https://osaka-zeela.jp/schedule/detail/38810",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2025/07/25",
+    "day": "金",
+    "artist": "PONGEE <サポートメンバー Gt.山本晃平,Key.吉川知里,Ba.ひらがきゆう,Dr.清家トモキ>",
+    "title": "-Chapter A- FULL BAND set 大阪公演",
+    "url": "https://osaka-zeela.jp/schedule/detail/41956",
     "venue": "Zeela",
     "note": ""
   },
@@ -29394,6 +29745,24 @@
     "note": ""
   },
   {
+    "date": "2025/04/11",
+    "day": "金",
+    "artist": "→Pia-no-jaC←",
+    "title": "「→Pia-no-jaC←大忘年会 〜大阪編〜」",
+    "url": "http://www.knave.co.jp/schedule/s_2025_04.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2025/04/11",
+    "day": "金",
+    "artist": "※2024年12月27日の仕切り直し公演となります。",
+    "title": "「→Pia-no-jaC←大忘年会 〜大阪編〜」",
+    "url": "http://www.knave.co.jp/schedule/s_2025_04.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
     "date": "2025/04/12",
     "day": "土",
     "artist": "NAOTO",
@@ -30288,6 +30657,15 @@
     "date": "2025/06/06",
     "day": "金",
     "artist": "シンガロンパレード",
+    "title": "knave 23th Anniversary supported by KIRIN",
+    "url": "http://www.knave.co.jp/schedule/s_2025_04.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2025/06/06",
+    "day": "金",
+    "artist": "チケット予約は「こちら」",
     "title": "knave 23th Anniversary supported by KIRIN",
     "url": "http://www.knave.co.jp/schedule/s_2025_04.html",
     "venue": "knave",
