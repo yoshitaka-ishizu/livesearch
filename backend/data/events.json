@@ -4304,15 +4304,6 @@
   {
     "date": "2025/04/04",
     "day": "金",
-    "artist": "ＵＭＭO",
-    "title": "para-dice 16th anniversary",
-    "url": "https://para-dice.net/",
-    "venue": "扇町para-dice",
-    "note": ""
-  },
-  {
-    "date": "2025/04/04",
-    "day": "金",
     "artist": "楽しんでいこうや西岡と狂ったチワワズ",
     "title": "para-dice 16th anniversary",
     "url": "https://para-dice.net/",
@@ -4322,7 +4313,25 @@
   {
     "date": "2025/04/04",
     "day": "金",
-    "artist": "FUJIYAMA BEAT CLUB and more...",
+    "artist": "ＵＭＭO",
+    "title": "para-dice 16th anniversary",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
+    "date": "2025/04/04",
+    "day": "金",
+    "artist": "ヨルノアト",
+    "title": "para-dice 16th anniversary",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
+    "date": "2025/04/04",
+    "day": "金",
+    "artist": "FUJIYAMA BEAT CLUB",
     "title": "para-dice 16th anniversary",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
@@ -8874,6 +8883,60 @@
     "note": ""
   },
   {
+    "date": "2025/04/23",
+    "day": "水",
+    "artist": "VEGASPADE",
+    "title": "【VIJON de BURST STREAM】～VEGASPADE 10周年スター街道青春ツアー～",
+    "url": "https://vijon.jp/schedule/detail/39444",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2025/04/23",
+    "day": "水",
+    "artist": "THE S.O.S",
+    "title": "【VIJON de BURST STREAM】～VEGASPADE 10周年スター街道青春ツアー～",
+    "url": "https://vijon.jp/schedule/detail/39444",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2025/04/23",
+    "day": "水",
+    "artist": "リバースレインボー",
+    "title": "【VIJON de BURST STREAM】～VEGASPADE 10周年スター街道青春ツアー～",
+    "url": "https://vijon.jp/schedule/detail/39444",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2025/04/23",
+    "day": "水",
+    "artist": "BEL-BOY",
+    "title": "【VIJON de BURST STREAM】～VEGASPADE 10周年スター街道青春ツアー～",
+    "url": "https://vijon.jp/schedule/detail/39444",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2025/04/23",
+    "day": "水",
+    "artist": "world ethic",
+    "title": "【VIJON de BURST STREAM】～VEGASPADE 10周年スター街道青春ツアー～",
+    "url": "https://vijon.jp/schedule/detail/39444",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2025/04/23",
+    "day": "水",
+    "artist": "...and more",
+    "title": "【VIJON de BURST STREAM】～VEGASPADE 10周年スター街道青春ツアー～",
+    "url": "https://vijon.jp/schedule/detail/39444",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
     "date": "2025/04/24",
     "day": "木",
     "artist": "なよなよボーイズ",
@@ -9050,6 +9113,15 @@
     "artist": "and more...",
     "title": "「At the End of (y)our Corridor」",
     "url": "https://vijon.jp/schedule/detail/41564",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2025/07/19",
+    "day": "土",
+    "artist": "出演者募集中",
+    "title": "ベースオントップ東心斎橋店 × 北堀江club vijon Presents.【Blend Friend】",
+    "url": "https://vijon.jp/schedule/detail/42140",
     "venue": "北堀江club vijon",
     "note": ""
   },
@@ -21452,6 +21524,24 @@
     "artist": "DAIDA LAIDA",
     "title": "「DAIDA LAIDA～TOUR 2025～」",
     "url": "https://osaka-varon.jp/schedule/detail/34689",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2025/03/23",
+    "day": "日",
+    "artist": "ポラライト　ゲスト：蒼穹アンブレラ",
+    "title": "ポラライト全国ツアー「花よりポッ！2025」",
+    "url": "https://osaka-varon.jp/schedule/detail/41319",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2025/03/23",
+    "day": "日",
+    "artist": "おちゃメンタル☆パーティー",
+    "title": "ポラライト全国ツアー「花よりポッ！2025」",
+    "url": "https://osaka-varon.jp/schedule/detail/41319",
     "venue": "VARON",
     "note": ""
   },
