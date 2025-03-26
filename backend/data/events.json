@@ -17255,15 +17255,6 @@
   {
     "date": "2025/03/27",
     "day": "木",
-    "artist": "河北将志",
-    "title": "大阪DROPベイベーNight vol.26 春の幕開けver",
-    "url": "https://clubdrop.jp/schedule/detail/41031",
-    "venue": "アメリカ村DROP",
-    "note": ""
-  },
-  {
-    "date": "2025/03/27",
-    "day": "木",
     "artist": "Kiona",
     "title": "大阪DROPベイベーNight vol.26 春の幕開けver",
     "url": "https://clubdrop.jp/schedule/detail/41031",
@@ -18155,7 +18146,16 @@
   {
     "date": "2025/04/09",
     "day": "水",
-    "artist": "FiD and more!!",
+    "artist": "FiD",
+    "title": "BRAVER!! Level.28",
+    "url": "https://clubdrop.jp/schedule/detail/40973",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2025/04/09",
+    "day": "水",
+    "artist": "hi-right",
     "title": "BRAVER!! Level.28",
     "url": "https://clubdrop.jp/schedule/detail/40973",
     "venue": "アメリカ村DROP",
@@ -21875,6 +21875,15 @@
     "artist": "黒洞々",
     "title": "心海共鳴",
     "url": "https://osaka-varon.jp/schedule/detail/37839",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2025/04/06",
+    "day": "日",
+    "artist": "ボクセカ",
+    "title": "甘愛るな生誕祭2025",
+    "url": "https://osaka-varon.jp/schedule/detail/43520",
     "venue": "VARON",
     "note": ""
   },
