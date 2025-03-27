@@ -7445,24 +7445,6 @@
   {
     "date": "2025/03/28",
     "day": "金",
-    "artist": "カイ(四ツ橋バンド",
-    "title": "【club vijonギターバトル王座決定戦2025】-春の予選大会-",
-    "url": "https://vijon.jp/schedule/detail/40605",
-    "venue": "北堀江club vijon",
-    "note": ""
-  },
-  {
-    "date": "2025/03/28",
-    "day": "金",
-    "artist": "前回チャンピオン)",
-    "title": "【club vijonギターバトル王座決定戦2025】-春の予選大会-",
-    "url": "https://vijon.jp/schedule/detail/40605",
-    "venue": "北堀江club vijon",
-    "note": ""
-  },
-  {
-    "date": "2025/03/28",
-    "day": "金",
     "artist": "かずみ",
     "title": "【club vijonギターバトル王座決定戦2025】-春の予選大会-",
     "url": "https://vijon.jp/schedule/detail/40605",
@@ -7571,6 +7553,33 @@
   {
     "date": "2025/03/28",
     "day": "金",
+    "artist": "ハーマン",
+    "title": "【club vijonギターバトル王座決定戦2025】-春の予選大会-",
+    "url": "https://vijon.jp/schedule/detail/40605",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2025/03/28",
+    "day": "金",
+    "artist": "パカよし",
+    "title": "【club vijonギターバトル王座決定戦2025】-春の予選大会-",
+    "url": "https://vijon.jp/schedule/detail/40605",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2025/03/28",
+    "day": "金",
+    "artist": "ピンクマン",
+    "title": "【club vijonギターバトル王座決定戦2025】-春の予選大会-",
+    "url": "https://vijon.jp/schedule/detail/40605",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2025/03/28",
+    "day": "金",
     "artist": "福井潤弥",
     "title": "【club vijonギターバトル王座決定戦2025】-春の予選大会-",
     "url": "https://vijon.jp/schedule/detail/40605",
@@ -7598,7 +7607,7 @@
   {
     "date": "2025/03/28",
     "day": "金",
-    "artist": "yuto",
+    "artist": "纏井天馬",
     "title": "【club vijonギターバトル王座決定戦2025】-春の予選大会-",
     "url": "https://vijon.jp/schedule/detail/40605",
     "venue": "北堀江club vijon",
@@ -7607,16 +7616,7 @@
   {
     "date": "2025/03/28",
     "day": "金",
-    "artist": "ワタナベ ショウタ",
-    "title": "【club vijonギターバトル王座決定戦2025】-春の予選大会-",
-    "url": "https://vijon.jp/schedule/detail/40605",
-    "venue": "北堀江club vijon",
-    "note": ""
-  },
-  {
-    "date": "2025/03/28",
-    "day": "金",
-    "artist": "...and more    グルーヴ先生",
+    "artist": "ワタナベ ショウタ    グルーヴ先生",
     "title": "【club vijonギターバトル王座決定戦2025】-春の予選大会-",
     "url": "https://vijon.jp/schedule/detail/40605",
     "venue": "北堀江club vijon",
@@ -7634,7 +7634,7 @@
   {
     "date": "2025/03/28",
     "day": "金",
-    "artist": "ポール    いましょー",
+    "artist": "ポール    ポール",
     "title": "【club vijonギターバトル王座決定戦2025】-春の予選大会-",
     "url": "https://vijon.jp/schedule/detail/40605",
     "venue": "北堀江club vijon",
@@ -7670,7 +7670,7 @@
   {
     "date": "2025/03/28",
     "day": "金",
-    "artist": "ソラ",
+    "artist": "堂地",
     "title": "【club vijonギターバトル王座決定戦2025】-春の予選大会-",
     "url": "https://vijon.jp/schedule/detail/40605",
     "venue": "北堀江club vijon",
@@ -13554,6 +13554,15 @@
     "note": ""
   },
   {
+    "date": "2025/05/13",
+    "day": "火",
+    "artist": "ENVY PARANOID",
+    "title": "ENVY PARANOID 1st ANNIVERSARY ONE MAN SHOW",
+    "url": "https://bangboo.jp/schedule/detail/42350",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
     "date": "2025/05/15",
     "day": "木",
     "artist": "バブルカ",
@@ -14042,6 +14051,15 @@
   {
     "date": "2025/05/21",
     "day": "水",
+    "artist": "ミヤナリイサム",
+    "title": "BANGBOO&Miranda Otsuji pre.【50ARTIST 1TUNE】",
+    "url": "https://bangboo.jp/schedule/detail/40921",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2025/05/21",
+    "day": "水",
     "artist": "森クリスタル",
     "title": "BANGBOO&Miranda Otsuji pre.【50ARTIST 1TUNE】",
     "url": "https://bangboo.jp/schedule/detail/40921",
@@ -14288,6 +14306,69 @@
     "artist": "XMASEILEEN",
     "title": "XMASEILEEN『NEW NIGHTMARE LIVE』",
     "url": "https://bangboo.jp/schedule/detail/42302",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2025/06/03",
+    "day": "火",
+    "artist": "にゃんにゃん倶楽部",
+    "title": "The Dawn of a New Era vol.3",
+    "url": "https://bangboo.jp/schedule/detail/42101",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2025/06/03",
+    "day": "火",
+    "artist": "Trail Of Personality",
+    "title": "The Dawn of a New Era vol.3",
+    "url": "https://bangboo.jp/schedule/detail/42101",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2025/06/03",
+    "day": "火",
+    "artist": "LONEADDICT",
+    "title": "The Dawn of a New Era vol.3",
+    "url": "https://bangboo.jp/schedule/detail/42101",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2025/06/03",
+    "day": "火",
+    "artist": "シエルメル",
+    "title": "The Dawn of a New Era vol.3",
+    "url": "https://bangboo.jp/schedule/detail/42101",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2025/06/03",
+    "day": "火",
+    "artist": "THE MESS IN MY MIND",
+    "title": "The Dawn of a New Era vol.3",
+    "url": "https://bangboo.jp/schedule/detail/42101",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2025/06/03",
+    "day": "火",
+    "artist": "秋月煉",
+    "title": "The Dawn of a New Era vol.3",
+    "url": "https://bangboo.jp/schedule/detail/42101",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2025/06/03",
+    "day": "火",
+    "artist": "VOØGE",
+    "title": "The Dawn of a New Era vol.3",
+    "url": "https://bangboo.jp/schedule/detail/42101",
     "venue": "梅田BANGBOO",
     "note": ""
   },
@@ -17865,6 +17946,141 @@
     "note": ""
   },
   {
+    "date": "2025/04/03",
+    "day": "木",
+    "artist": "井原 芹菜  Tanki♾️machi",
+    "title": "芹菜の酒3",
+    "url": "https://clubdrop.jp/schedule/detail/40855",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2025/04/03",
+    "day": "木",
+    "artist": "#タイキックス",
+    "title": "芹菜の酒3",
+    "url": "https://clubdrop.jp/schedule/detail/40855",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2025/04/03",
+    "day": "木",
+    "artist": "エリチショックパーティー",
+    "title": "芹菜の酒3",
+    "url": "https://clubdrop.jp/schedule/detail/40855",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2025/04/03",
+    "day": "木",
+    "artist": "まやちん",
+    "title": "芹菜の酒3",
+    "url": "https://clubdrop.jp/schedule/detail/40855",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2025/04/03",
+    "day": "木",
+    "artist": "いけだりょーま",
+    "title": "芹菜の酒3",
+    "url": "https://clubdrop.jp/schedule/detail/40855",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2025/04/03",
+    "day": "木",
+    "artist": "ANDY",
+    "title": "芹菜の酒3",
+    "url": "https://clubdrop.jp/schedule/detail/40855",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2025/04/03",
+    "day": "木",
+    "artist": "爆裂",
+    "title": "芹菜の酒3",
+    "url": "https://clubdrop.jp/schedule/detail/40855",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2025/04/03",
+    "day": "木",
+    "artist": "you are the END",
+    "title": "芹菜の酒3",
+    "url": "https://clubdrop.jp/schedule/detail/40855",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2025/04/03",
+    "day": "木",
+    "artist": "ミラクル嵐",
+    "title": "芹菜の酒3",
+    "url": "https://clubdrop.jp/schedule/detail/40855",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2025/04/03",
+    "day": "木",
+    "artist": "RiKU",
+    "title": "芹菜の酒3",
+    "url": "https://clubdrop.jp/schedule/detail/40855",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2025/04/03",
+    "day": "木",
+    "artist": "DJ従兄弟",
+    "title": "芹菜の酒3",
+    "url": "https://clubdrop.jp/schedule/detail/40855",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2025/04/03",
+    "day": "木",
+    "artist": "輝",
+    "title": "芹菜の酒3",
+    "url": "https://clubdrop.jp/schedule/detail/40855",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2025/04/03",
+    "day": "木",
+    "artist": "jupi",
+    "title": "芹菜の酒3",
+    "url": "https://clubdrop.jp/schedule/detail/40855",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2025/04/03",
+    "day": "木",
+    "artist": "もりあやか",
+    "title": "芹菜の酒3",
+    "url": "https://clubdrop.jp/schedule/detail/40855",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2025/04/03",
+    "day": "木",
+    "artist": "マツモ・デラックス ごま油師匠",
+    "title": "芹菜の酒3",
+    "url": "https://clubdrop.jp/schedule/detail/40855",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
     "date": "2025/04/04",
     "day": "金",
     "artist": "DIVIBE",
@@ -18878,6 +19094,15 @@
     "artist": "KRUELTY And more…",
     "title": "View From The Soyuz Presents Ubiquitous Release Tour 2025",
     "url": "https://clubdrop.jp/schedule/detail/40214",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2025/08/02",
+    "day": "土",
+    "artist": "TEARS OF TRAGEDY",
+    "title": "Wonder Parade Tour 2025",
+    "url": "https://clubdrop.jp/schedule/detail/38425",
     "venue": "アメリカ村DROP",
     "note": ""
   },
@@ -27767,8 +27992,107 @@
   {
     "date": "2025/04/27",
     "day": "日",
-    "artist": "coming soon...",
-    "title": "HALL RENTAL",
+    "artist": "きょうだいばんど",
+    "title": "しーざー生誕企画2025 人生ワンマンじゃなかった",
+    "url": "https://osaka-zeela.jp/schedule/detail/37485",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2025/04/27",
+    "day": "日",
+    "artist": "#️⃣",
+    "title": "しーざー生誕企画2025 人生ワンマンじゃなかった",
+    "url": "https://osaka-zeela.jp/schedule/detail/37485",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2025/04/27",
+    "day": "日",
+    "artist": "非亜細亜的功夫世代",
+    "title": "しーざー生誕企画2025 人生ワンマンじゃなかった",
+    "url": "https://osaka-zeela.jp/schedule/detail/37485",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2025/04/27",
+    "day": "日",
+    "artist": "Klaxion of siren",
+    "title": "しーざー生誕企画2025 人生ワンマンじゃなかった",
+    "url": "https://osaka-zeela.jp/schedule/detail/37485",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2025/04/27",
+    "day": "日",
+    "artist": "white clay",
+    "title": "しーざー生誕企画2025 人生ワンマンじゃなかった",
+    "url": "https://osaka-zeela.jp/schedule/detail/37485",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2025/04/27",
+    "day": "日",
+    "artist": "DUCK OR PEKIN",
+    "title": "しーざー生誕企画2025 人生ワンマンじゃなかった",
+    "url": "https://osaka-zeela.jp/schedule/detail/37485",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2025/04/27",
+    "day": "日",
+    "artist": "Our senior has been selfish to us.",
+    "title": "しーざー生誕企画2025 人生ワンマンじゃなかった",
+    "url": "https://osaka-zeela.jp/schedule/detail/37485",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2025/04/27",
+    "day": "日",
+    "artist": "富田林に脱走犯はいらない",
+    "title": "しーざー生誕企画2025 人生ワンマンじゃなかった",
+    "url": "https://osaka-zeela.jp/schedule/detail/37485",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2025/04/27",
+    "day": "日",
+    "artist": "KOhAku",
+    "title": "しーざー生誕企画2025 人生ワンマンじゃなかった",
+    "url": "https://osaka-zeela.jp/schedule/detail/37485",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2025/04/27",
+    "day": "日",
+    "artist": "Strato",
+    "title": "しーざー生誕企画2025 人生ワンマンじゃなかった",
+    "url": "https://osaka-zeela.jp/schedule/detail/37485",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2025/04/27",
+    "day": "日",
+    "artist": "The Pikming Bloom",
+    "title": "しーざー生誕企画2025 人生ワンマンじゃなかった",
+    "url": "https://osaka-zeela.jp/schedule/detail/37485",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2025/04/27",
+    "day": "日",
+    "artist": "落単に誘いし絶起の学徒達",
+    "title": "しーざー生誕企画2025 人生ワンマンじゃなかった",
     "url": "https://osaka-zeela.jp/schedule/detail/37485",
     "venue": "Zeela",
     "note": ""
@@ -33374,6 +33698,15 @@
   {
     "date": "2025/04/12",
     "day": "土",
+    "artist": "クレハ リュウイチ",
+    "title": "GDAE+ Special Live vol.2",
+    "url": "http://www.knave.co.jp/schedule/s_2025_04.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2025/04/12",
+    "day": "土",
     "artist": "本公演はNAOTOオフィシャルファンクラフ",
     "title": "GDAE+ Special Live vol.2",
     "url": "http://www.knave.co.jp/schedule/s_2025_04.html",
@@ -33420,6 +33753,15 @@
     "date": "2025/04/13",
     "day": "日",
     "artist": "三浦拓也",
+    "title": "GDAE+ Special Live vol.2",
+    "url": "http://www.knave.co.jp/schedule/s_2025_04.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2025/04/13",
+    "day": "日",
+    "artist": "クレハ リュウイチ",
     "title": "GDAE+ Special Live vol.2",
     "url": "http://www.knave.co.jp/schedule/s_2025_04.html",
     "venue": "knave",
@@ -33862,6 +34204,105 @@
     "day": "土",
     "artist": "問)knave06-6535-0691",
     "title": "ジャズ  フュージョン  洋楽ポップス Night",
+    "url": "http://www.knave.co.jp/schedule/s_2025_04.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2025/04/20",
+    "day": "日",
+    "artist": "KAREN",
+    "title": "the LESSON plus 3期生 オムニバスLIVE",
+    "url": "http://www.knave.co.jp/schedule/s_2025_04.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2025/04/20",
+    "day": "日",
+    "artist": "khaki",
+    "title": "the LESSON plus 3期生 オムニバスLIVE",
+    "url": "http://www.knave.co.jp/schedule/s_2025_04.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2025/04/20",
+    "day": "日",
+    "artist": "Lee Chella",
+    "title": "the LESSON plus 3期生 オムニバスLIVE",
+    "url": "http://www.knave.co.jp/schedule/s_2025_04.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2025/04/20",
+    "day": "日",
+    "artist": "Lichta",
+    "title": "the LESSON plus 3期生 オムニバスLIVE",
+    "url": "http://www.knave.co.jp/schedule/s_2025_04.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2025/04/20",
+    "day": "日",
+    "artist": "MOUFFY",
+    "title": "the LESSON plus 3期生 オムニバスLIVE",
+    "url": "http://www.knave.co.jp/schedule/s_2025_04.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2025/04/20",
+    "day": "日",
+    "artist": "serry",
+    "title": "the LESSON plus 3期生 オムニバスLIVE",
+    "url": "http://www.knave.co.jp/schedule/s_2025_04.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2025/04/20",
+    "day": "日",
+    "artist": "TOMOKI TABEI",
+    "title": "the LESSON plus 3期生 オムニバスLIVE",
+    "url": "http://www.knave.co.jp/schedule/s_2025_04.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2025/04/20",
+    "day": "日",
+    "artist": "フジモトアキツグ",
+    "title": "the LESSON plus 3期生 オムニバスLIVE",
+    "url": "http://www.knave.co.jp/schedule/s_2025_04.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2025/04/20",
+    "day": "日",
+    "artist": "ゆい",
+    "title": "the LESSON plus 3期生 オムニバスLIVE",
+    "url": "http://www.knave.co.jp/schedule/s_2025_04.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2025/04/20",
+    "day": "日",
+    "artist": "倖乃",
+    "title": "the LESSON plus 3期生 オムニバスLIVE",
+    "url": "http://www.knave.co.jp/schedule/s_2025_04.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2025/04/20",
+    "day": "日",
+    "artist": "問)knave06-6535-0691",
+    "title": "the LESSON plus 3期生 オムニバスLIVE",
     "url": "http://www.knave.co.jp/schedule/s_2025_04.html",
     "venue": "knave",
     "note": ""
@@ -34812,6 +35253,150 @@
     "note": ""
   },
   {
+    "date": "2025/05/10",
+    "day": "土",
+    "artist": "「ヒミツの混☆乱☆大廻転」後夜祭",
+    "title": "笑女歌劇団ヒミツノミヤコ主催",
+    "url": "http://www.knave.co.jp/schedule/s_2025_05.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2025/05/10",
+    "day": "土",
+    "artist": "毒毒教条",
+    "title": "笑女歌劇団ヒミツノミヤコ主催",
+    "url": "http://www.knave.co.jp/schedule/s_2025_05.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2025/05/10",
+    "day": "土",
+    "artist": "-ドクドク･ドグマ-",
+    "title": "笑女歌劇団ヒミツノミヤコ主催",
+    "url": "http://www.knave.co.jp/schedule/s_2025_05.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2025/05/10",
+    "day": "土",
+    "artist": "笑女歌劇団ヒミツノミヤコ",
+    "title": "笑女歌劇団ヒミツノミヤコ主催",
+    "url": "http://www.knave.co.jp/schedule/s_2025_05.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2025/05/10",
+    "day": "土",
+    "artist": "赤いアフロ",
+    "title": "笑女歌劇団ヒミツノミヤコ主催",
+    "url": "http://www.knave.co.jp/schedule/s_2025_05.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2025/05/10",
+    "day": "土",
+    "artist": "コスメティックラヴァーズ",
+    "title": "笑女歌劇団ヒミツノミヤコ主催",
+    "url": "http://www.knave.co.jp/schedule/s_2025_05.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2025/05/10",
+    "day": "土",
+    "artist": "ぽてさらちゃん。",
+    "title": "笑女歌劇団ヒミツノミヤコ主催",
+    "url": "http://www.knave.co.jp/schedule/s_2025_05.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2025/05/10",
+    "day": "土",
+    "artist": "少女模型",
+    "title": "笑女歌劇団ヒミツノミヤコ主催",
+    "url": "http://www.knave.co.jp/schedule/s_2025_05.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2025/05/10",
+    "day": "土",
+    "artist": "TIGETにて販売",
+    "title": "笑女歌劇団ヒミツノミヤコ主催",
+    "url": "http://www.knave.co.jp/schedule/s_2025_05.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2025/05/11",
+    "day": "日",
+    "artist": "「ヒミツの混☆乱☆大廻転」後夜祭",
+    "title": "笑女歌劇団ヒミツノミヤコ主催",
+    "url": "http://www.knave.co.jp/schedule/s_2025_05.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2025/05/11",
+    "day": "日",
+    "artist": "毒毒教条",
+    "title": "笑女歌劇団ヒミツノミヤコ主催",
+    "url": "http://www.knave.co.jp/schedule/s_2025_05.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2025/05/11",
+    "day": "日",
+    "artist": "-ドクドク･ドグマ-",
+    "title": "笑女歌劇団ヒミツノミヤコ主催",
+    "url": "http://www.knave.co.jp/schedule/s_2025_05.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2025/05/11",
+    "day": "日",
+    "artist": "笑女歌劇団ヒミツノミヤコ",
+    "title": "笑女歌劇団ヒミツノミヤコ主催",
+    "url": "http://www.knave.co.jp/schedule/s_2025_05.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2025/05/11",
+    "day": "日",
+    "artist": "Monster Musica",
+    "title": "笑女歌劇団ヒミツノミヤコ主催",
+    "url": "http://www.knave.co.jp/schedule/s_2025_05.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2025/05/11",
+    "day": "日",
+    "artist": "半袖セミナー",
+    "title": "笑女歌劇団ヒミツノミヤコ主催",
+    "url": "http://www.knave.co.jp/schedule/s_2025_05.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2025/05/11",
+    "day": "日",
+    "artist": "TIGETにて販売",
+    "title": "笑女歌劇団ヒミツノミヤコ主催",
+    "url": "http://www.knave.co.jp/schedule/s_2025_05.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
     "date": "2025/05/12",
     "day": "月",
     "artist": "AIK",
@@ -35167,6 +35752,78 @@
     "day": "日",
     "artist": "問)knave06-6535-0691",
     "title": "acane presents",
+    "url": "http://www.knave.co.jp/schedule/s_2025_05.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2025/05/19",
+    "day": "月",
+    "artist": "GUMLEON",
+    "title": "LAST GRANGE HERO",
+    "url": "http://www.knave.co.jp/schedule/s_2025_05.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2025/05/19",
+    "day": "月",
+    "artist": "asano raincoat",
+    "title": "LAST GRANGE HERO",
+    "url": "http://www.knave.co.jp/schedule/s_2025_05.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2025/05/19",
+    "day": "月",
+    "artist": "ハゼガレ",
+    "title": "LAST GRANGE HERO",
+    "url": "http://www.knave.co.jp/schedule/s_2025_05.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2025/05/19",
+    "day": "月",
+    "artist": "いろかにほへと",
+    "title": "LAST GRANGE HERO",
+    "url": "http://www.knave.co.jp/schedule/s_2025_05.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2025/05/19",
+    "day": "月",
+    "artist": "THEE HEDGEHOGS",
+    "title": "LAST GRANGE HERO",
+    "url": "http://www.knave.co.jp/schedule/s_2025_05.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2025/05/19",
+    "day": "月",
+    "artist": "ツイキャスライブ視聴購入ページ",
+    "title": "LAST GRANGE HERO",
+    "url": "http://www.knave.co.jp/schedule/s_2025_05.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2025/05/19",
+    "day": "月",
+    "artist": "https:",
+    "title": "LAST GRANGE HERO",
+    "url": "http://www.knave.co.jp/schedule/s_2025_05.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2025/05/19",
+    "day": "月",
+    "artist": "twitcasting.tv",
+    "title": "LAST GRANGE HERO",
     "url": "http://www.knave.co.jp/schedule/s_2025_05.html",
     "venue": "knave",
     "note": ""
