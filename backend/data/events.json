@@ -8319,7 +8319,7 @@
     "date": "2025/04/19",
     "day": "土",
     "artist": "ALPHA WOLF",
-    "title": "ALPHA WOLF JAPAN TOUR 2025",
+    "title": "【公演中止】ALPHA WOLF JAPAN TOUR 2025",
     "url": "https://bangboo.jp/schedule/detail/43119",
     "venue": "梅田BANGBOO",
     "note": ""
@@ -8328,7 +8328,7 @@
     "date": "2025/04/19",
     "day": "土",
     "artist": "WITH SPECIAL GUESTS: Evilgloom",
-    "title": "ALPHA WOLF JAPAN TOUR 2025",
+    "title": "【公演中止】ALPHA WOLF JAPAN TOUR 2025",
     "url": "https://bangboo.jp/schedule/detail/43119",
     "venue": "梅田BANGBOO",
     "note": ""
@@ -8337,7 +8337,7 @@
     "date": "2025/04/19",
     "day": "土",
     "artist": "Mindscape",
-    "title": "ALPHA WOLF JAPAN TOUR 2025",
+    "title": "【公演中止】ALPHA WOLF JAPAN TOUR 2025",
     "url": "https://bangboo.jp/schedule/detail/43119",
     "venue": "梅田BANGBOO",
     "note": ""
@@ -11209,7 +11209,7 @@
     "day": "木",
     "artist": "Parallel Frank",
     "title": "存在証明",
-    "url": "https://clubdrop.jp/schedule/detail/40765",
+    "url": "https://clubdrop.jp/schedule/detail/43684",
     "venue": "アメリカ村DROP",
     "note": ""
   },
@@ -11218,7 +11218,16 @@
     "day": "木",
     "artist": "場違いクラウン",
     "title": "存在証明",
-    "url": "https://clubdrop.jp/schedule/detail/40765",
+    "url": "https://clubdrop.jp/schedule/detail/43684",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2025/04/10",
+    "day": "木",
+    "artist": "CLOWN'S CROWN",
+    "title": "存在証明",
+    "url": "https://clubdrop.jp/schedule/detail/43684",
     "venue": "アメリカ村DROP",
     "note": ""
   },
@@ -11227,16 +11236,7 @@
     "day": "木",
     "artist": "VEŁŁY",
     "title": "存在証明",
-    "url": "https://clubdrop.jp/schedule/detail/40765",
-    "venue": "アメリカ村DROP",
-    "note": ""
-  },
-  {
-    "date": "2025/04/10",
-    "day": "木",
-    "artist": "＋1BAND",
-    "title": "存在証明",
-    "url": "https://clubdrop.jp/schedule/detail/40765",
+    "url": "https://clubdrop.jp/schedule/detail/43684",
     "venue": "アメリカ村DROP",
     "note": ""
   },
@@ -11297,7 +11297,7 @@
   {
     "date": "2025/04/11",
     "day": "金",
-    "artist": "VDX) andmore!!MAH",
+    "artist": "VDX)MAH",
     "title": "GOEMON PRE DROPLAY VOL2",
     "url": "https://clubdrop.jp/schedule/detail/42772",
     "venue": "アメリカ村DROP",
@@ -12002,6 +12002,51 @@
     "artist": "LEIWAN",
     "title": "LEIWAN BAND SET TOUR 2025 ICCHOYATTARUKA! TOUR",
     "url": "https://clubdrop.jp/schedule/detail/41504",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2025/05/16",
+    "day": "金",
+    "artist": "LUMiRiSE",
+    "title": "飛び出せLUMiRiSE ~1st full album \"≠ encore.\"リリースツアー supported by Girls,Girls,Girls,",
+    "url": "https://clubdrop.jp/schedule/detail/41614",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2025/05/16",
+    "day": "金",
+    "artist": "mm limit",
+    "title": "飛び出せLUMiRiSE ~1st full album \"≠ encore.\"リリースツアー supported by Girls,Girls,Girls,",
+    "url": "https://clubdrop.jp/schedule/detail/41614",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2025/05/16",
+    "day": "金",
+    "artist": "Ovalcore",
+    "title": "飛び出せLUMiRiSE ~1st full album \"≠ encore.\"リリースツアー supported by Girls,Girls,Girls,",
+    "url": "https://clubdrop.jp/schedule/detail/41614",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2025/05/16",
+    "day": "金",
+    "artist": "天女神樂",
+    "title": "飛び出せLUMiRiSE ~1st full album \"≠ encore.\"リリースツアー supported by Girls,Girls,Girls,",
+    "url": "https://clubdrop.jp/schedule/detail/41614",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2025/05/16",
+    "day": "金",
+    "artist": "and more...",
+    "title": "飛び出せLUMiRiSE ~1st full album \"≠ encore.\"リリースツアー supported by Girls,Girls,Girls,",
+    "url": "https://clubdrop.jp/schedule/detail/41614",
     "venue": "アメリカ村DROP",
     "note": ""
   },
@@ -13181,6 +13226,15 @@
     "artist": "Leetspeak monsters",
     "title": "梟×3470.mon×Leetspeak monsters Coupling Tour Yoo Hoo Moonsters OSAKA",
     "url": "https://osaka-varon.jp/schedule/detail/36062",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2025/04/28",
+    "day": "月",
+    "artist": "鳴ル神",
+    "title": "鳴ル神 戌井ありさ HAPPY BIRTHDAY EVENT \"ﾜﾝ!derful days\"",
+    "url": "https://osaka-varon.jp/schedule/detail/42027",
     "venue": "VARON",
     "note": ""
   },
@@ -15444,6 +15498,51 @@
     "note": ""
   },
   {
+    "date": "2025/04/18",
+    "day": "金",
+    "artist": "出演：YA’ABURNEE 客演：アブソプ",
+    "title": "YA’ABURNEE pre.「血祭大阪」",
+    "url": "https://osaka-zeela.jp/schedule/detail/42316",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2025/04/18",
+    "day": "金",
+    "artist": "白黒アリス",
+    "title": "YA’ABURNEE pre.「血祭大阪」",
+    "url": "https://osaka-zeela.jp/schedule/detail/42316",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2025/04/18",
+    "day": "金",
+    "artist": "ぷりしえーる",
+    "title": "YA’ABURNEE pre.「血祭大阪」",
+    "url": "https://osaka-zeela.jp/schedule/detail/42316",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2025/04/18",
+    "day": "金",
+    "artist": "ミラーシュカ",
+    "title": "YA’ABURNEE pre.「血祭大阪」",
+    "url": "https://osaka-zeela.jp/schedule/detail/42316",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2025/04/18",
+    "day": "金",
+    "artist": ".LiNⅨLiNE.",
+    "title": "YA’ABURNEE pre.「血祭大阪」",
+    "url": "https://osaka-zeela.jp/schedule/detail/42316",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
     "date": "2025/04/19",
     "day": "土",
     "artist": "AfacE",
@@ -15941,7 +16040,7 @@
   {
     "date": "2025/04/27",
     "day": "日",
-    "artist": "DUCK OR PEKIN",
+    "artist": "DUCK OF PEKIN",
     "title": "しーざー生誕企画2025 人生ワンマンじゃなかった",
     "url": "https://osaka-zeela.jp/schedule/detail/37485",
     "venue": "Zeela",
@@ -16106,6 +16205,42 @@
     "artist": "メタボリックシンジゲート",
     "title": "南風とクジラ 4th mini album「道化師の切り札」リリースツアー 「道に化なりそう」",
     "url": "https://osaka-zeela.jp/schedule/detail/41254",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2025/05/02",
+    "day": "金",
+    "artist": "holoyoi",
+    "title": "holoyoi LIVE IN THE ROMANCE Tour",
+    "url": "https://osaka-zeela.jp/schedule/detail/39540",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2025/05/02",
+    "day": "金",
+    "artist": "琳子",
+    "title": "holoyoi LIVE IN THE ROMANCE Tour",
+    "url": "https://osaka-zeela.jp/schedule/detail/39540",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2025/05/02",
+    "day": "金",
+    "artist": "OXU",
+    "title": "holoyoi LIVE IN THE ROMANCE Tour",
+    "url": "https://osaka-zeela.jp/schedule/detail/39540",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2025/05/02",
+    "day": "金",
+    "artist": "O'D SECT",
+    "title": "holoyoi LIVE IN THE ROMANCE Tour",
+    "url": "https://osaka-zeela.jp/schedule/detail/39540",
     "venue": "Zeela",
     "note": ""
   },
