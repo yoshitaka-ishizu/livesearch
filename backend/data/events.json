@@ -72,6 +72,51 @@
     "note": ""
   },
   {
+    "date": "2025/04/07",
+    "day": "月",
+    "artist": "CYCLONISTA",
+    "title": "ENCLOSURE",
+    "url": "https://fireloop.net/schedule_now.shtml#0407",
+    "venue": "寺田町Fireloop",
+    "note": ""
+  },
+  {
+    "date": "2025/04/07",
+    "day": "月",
+    "artist": "ELEVYZ",
+    "title": "ENCLOSURE",
+    "url": "https://fireloop.net/schedule_now.shtml#0407",
+    "venue": "寺田町Fireloop",
+    "note": ""
+  },
+  {
+    "date": "2025/04/07",
+    "day": "月",
+    "artist": "ENVY PARANOID",
+    "title": "ENCLOSURE",
+    "url": "https://fireloop.net/schedule_now.shtml#0407",
+    "venue": "寺田町Fireloop",
+    "note": ""
+  },
+  {
+    "date": "2025/04/07",
+    "day": "月",
+    "artist": "CALETWOLF",
+    "title": "ENCLOSURE",
+    "url": "https://fireloop.net/schedule_now.shtml#0407",
+    "venue": "寺田町Fireloop",
+    "note": ""
+  },
+  {
+    "date": "2025/04/07",
+    "day": "月",
+    "artist": "妖狐繚乱",
+    "title": "ENCLOSURE",
+    "url": "https://fireloop.net/schedule_now.shtml#0407",
+    "venue": "寺田町Fireloop",
+    "note": ""
+  },
+  {
     "date": "2025/04/09",
     "day": "水",
     "artist": "Monju Sagacity",
@@ -2207,7 +2252,7 @@
   {
     "date": "2025/04/15",
     "day": "火",
-    "artist": "木村三郎",
+    "artist": "jocojo",
     "title": "para-dice 16th anniversary",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
@@ -3215,25 +3260,7 @@
   {
     "date": "2025/05/04",
     "day": "日",
-    "artist": "ヨツドメノディ",
-    "title": "para-dice企画",
-    "url": "https://para-dice.net/",
-    "venue": "扇町para-dice",
-    "note": ""
-  },
-  {
-    "date": "2025/05/04",
-    "day": "日",
-    "artist": "Gangliphone",
-    "title": "para-dice企画",
-    "url": "https://para-dice.net/",
-    "venue": "扇町para-dice",
-    "note": ""
-  },
-  {
-    "date": "2025/05/04",
-    "day": "日",
-    "artist": "女の子のマーチ",
+    "artist": "『 Frame By Frame 』",
     "title": "para-dice企画",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
@@ -3251,7 +3278,34 @@
   {
     "date": "2025/05/04",
     "day": "日",
-    "artist": "shitakuchü and more...",
+    "artist": "女の子のマーチ",
+    "title": "para-dice企画",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
+    "date": "2025/05/04",
+    "day": "日",
+    "artist": "shitakuchü",
+    "title": "para-dice企画",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
+    "date": "2025/05/04",
+    "day": "日",
+    "artist": "Gangliphone",
+    "title": "para-dice企画",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
+    "date": "2025/05/04",
+    "day": "日",
+    "artist": "ヨツドメノディ",
     "title": "para-dice企画",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
@@ -3269,6 +3323,15 @@
   {
     "date": "2025/05/05",
     "day": "月祝",
+    "artist": "『 FROM THE BASEMENT 』",
+    "title": "para-dice企画",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
+    "date": "2025/05/05",
+    "day": "月祝",
     "artist": "monohoxon",
     "title": "para-dice企画",
     "url": "https://para-dice.net/",
@@ -3278,7 +3341,7 @@
   {
     "date": "2025/05/05",
     "day": "月祝",
-    "artist": "ORANGE STONES",
+    "artist": "wave",
     "title": "para-dice企画",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
@@ -3287,7 +3350,7 @@
   {
     "date": "2025/05/05",
     "day": "月祝",
-    "artist": "wave and more...",
+    "artist": "ORANGE STONES",
     "title": "para-dice企画",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
@@ -3540,15 +3603,6 @@
     "date": "2025/05/14",
     "day": "水",
     "artist": "maru",
-    "title": "OPEN 18:30",
-    "url": "https://para-dice.net/",
-    "venue": "扇町para-dice",
-    "note": ""
-  },
-  {
-    "date": "2025/05/14",
-    "day": "水",
-    "artist": "木村三郎",
     "title": "OPEN 18:30",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
@@ -5177,6 +5231,15 @@
   {
     "date": "2025/04/04",
     "day": "金",
+    "artist": "ゲキアツな大喜利スト多数集結予定。",
+    "title": "【北堀江 緊急大喜利大会】",
+    "url": "https://vijon.jp/schedule/detail/43736",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2025/04/04",
+    "day": "金",
     "artist": "イケアツゲキアツ",
     "title": "【ASOBANIGHT!】vol.2",
     "url": "https://vijon.jp/schedule/detail/42417",
@@ -6656,6 +6719,24 @@
     "artist": "principessa",
     "title": "【IDOL MAX】",
     "url": "https://vijon.jp/schedule/detail/41993",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2025/04/29",
+    "day": "火",
+    "artist": "窓際ぼっち倶楽部",
+    "title": "緊急開催! 窓際ぼっち倶楽部とtonericoのツーマンとか絶対素敵やん。絶対人いっぱい集まってもらった方がいいやん。もうどうせなら投げ銭ライブとかにしてみいひん？ええやん、やってみよ。vol.1",
+    "url": "https://vijon.jp/schedule/detail/41965",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2025/04/29",
+    "day": "火",
+    "artist": "tonerico",
+    "title": "緊急開催! 窓際ぼっち倶楽部とtonericoのツーマンとか絶対素敵やん。絶対人いっぱい集まってもらった方がいいやん。もうどうせなら投げ銭ライブとかにしてみいひん？ええやん、やってみよ。vol.1",
+    "url": "https://vijon.jp/schedule/detail/41965",
     "venue": "北堀江club vijon",
     "note": ""
   },
@@ -8759,7 +8840,7 @@
   {
     "date": "2025/04/26",
     "day": "土",
-    "artist": "Ac!u Gromov、いつかの夜に僕たちが、、丑03-USHIMITSU-、エイアイカ、棘-おどろ-、CUBΣLIC、the mishmash、始発待ちアンダーグラウンド、MIC RAW RUGA、meluQ、YOUR ADVISORY BOARD、.LiNIXLiNE.、LØISLOID",
+    "artist": "Ac!u Gromov、いつかの夜に僕たちが、、丑03-USHIMITSU-、エイアイカ、棘-おどろ-、CUBΣLIC、the mishmash、始発待ちアンダーグラウンド、MIC RAW RUGA、meluQ、YOUR ADVISORY BOARD、.LiNIXLiNE.、LØISLOID、Maison de Queen",
     "title": "こぐまカリーPresents「Spice it Up」",
     "url": "https://bangboo.jp/schedule/detail/40092",
     "venue": "梅田BANGBOO",
@@ -10163,7 +10244,7 @@
   {
     "date": "2025/06/02",
     "day": "月",
-    "artist": "and more",
+    "artist": "冥土ぱん",
     "title": "【あきらかにたのしいいちにち】去勢 3rd EP Release Tour 『君のためなら駄菓子屋の前で何時間でも待てるよ！』",
     "url": "https://bangboo.jp/schedule/detail/41687",
     "venue": "梅田BANGBOO",
@@ -10526,6 +10607,15 @@
     "artist": "milktub",
     "title": "抱き枕奇祭2025大阪編 〜大阪エレクトパレード〜",
     "url": "https://bangboo.jp/schedule/detail/41985",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2025/07/13",
+    "day": "日",
+    "artist": "LustQueen",
+    "title": "LustQueen 1stワンマンツアー「RAISE A FLAG」",
+    "url": "https://bangboo.jp/schedule/detail/42272",
     "venue": "梅田BANGBOO",
     "note": ""
   },
@@ -11244,8 +11334,8 @@
     "date": "2025/04/05",
     "day": "土",
     "artist": "アルカナビス",
-    "title": "BBB",
-    "url": "https://clubdrop.jp/schedule/detail/43389",
+    "title": "〜きっと最後の大阪単独〜",
+    "url": "https://clubdrop.jp/schedule/detail/43614",
     "venue": "アメリカ村DROP",
     "note": ""
   },
@@ -11792,18 +11882,45 @@
   {
     "date": "2025/04/12",
     "day": "土",
-    "artist": "MAZE",
-    "title": "\"MEMEMEME TOUR 2025\"",
-    "url": "https://clubdrop.jp/schedule/detail/41443",
+    "artist": "AZ-ON",
+    "title": "AZ-ON pre. HYPER MOSH PIT!!",
+    "url": "https://clubdrop.jp/schedule/detail/36247",
     "venue": "アメリカ村DROP",
     "note": ""
   },
   {
     "date": "2025/04/12",
     "day": "土",
-    "artist": "AZ-ON",
-    "title": "\"MEMEMEME TOUR 2025\"",
-    "url": "https://clubdrop.jp/schedule/detail/41443",
+    "artist": "どーぴんぐ疑惑",
+    "title": "AZ-ON pre. HYPER MOSH PIT!!",
+    "url": "https://clubdrop.jp/schedule/detail/36247",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2025/04/12",
+    "day": "土",
+    "artist": "9DayzGlitchClubTokyo",
+    "title": "AZ-ON pre. HYPER MOSH PIT!!",
+    "url": "https://clubdrop.jp/schedule/detail/36247",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2025/04/12",
+    "day": "土",
+    "artist": "鳴ル神",
+    "title": "AZ-ON pre. HYPER MOSH PIT!!",
+    "url": "https://clubdrop.jp/schedule/detail/36247",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2025/04/12",
+    "day": "土",
+    "artist": "MAZE",
+    "title": "AZ-ON pre. HYPER MOSH PIT!!",
+    "url": "https://clubdrop.jp/schedule/detail/36247",
     "venue": "アメリカ村DROP",
     "note": ""
   },
@@ -13025,9 +13142,171 @@
   {
     "date": "2025/04/05",
     "day": "土",
+    "artist": "Fille mimi",
+    "title": "Fille mimi 拡散向上委員会！",
+    "url": "https://osaka-varon.jp/schedule/detail/36805",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2025/04/05",
+    "day": "土",
     "artist": "Ange☆Reve",
     "title": "Ange☆Reve単独公演〜大阪えんじぇる2025-spring-〜",
     "url": "https://osaka-varon.jp/schedule/detail/43708",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2025/04/06",
+    "day": "日",
+    "artist": "ワッツ◎さーくる",
+    "title": "IDOLISM JAPAN -緊急開催SP!!-",
+    "url": "https://osaka-varon.jp/schedule/detail/36712",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2025/04/06",
+    "day": "日",
+    "artist": "逆転ねこぱんちっ！",
+    "title": "IDOLISM JAPAN -緊急開催SP!!-",
+    "url": "https://osaka-varon.jp/schedule/detail/36712",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2025/04/06",
+    "day": "日",
+    "artist": "蜜兎",
+    "title": "IDOLISM JAPAN -緊急開催SP!!-",
+    "url": "https://osaka-varon.jp/schedule/detail/36712",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2025/04/06",
+    "day": "日",
+    "artist": "あたまのなかは８ビット!?",
+    "title": "IDOLISM JAPAN -緊急開催SP!!-",
+    "url": "https://osaka-varon.jp/schedule/detail/36712",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2025/04/06",
+    "day": "日",
+    "artist": "#PANnana",
+    "title": "IDOLISM JAPAN -緊急開催SP!!-",
+    "url": "https://osaka-varon.jp/schedule/detail/36712",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2025/04/06",
+    "day": "日",
+    "artist": "侵喰ぴぴぴKLAXON",
+    "title": "IDOLISM JAPAN -緊急開催SP!!-",
+    "url": "https://osaka-varon.jp/schedule/detail/36712",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2025/04/06",
+    "day": "日",
+    "artist": "caprice",
+    "title": "IDOLISM JAPAN -緊急開催SP!!-",
+    "url": "https://osaka-varon.jp/schedule/detail/36712",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2025/04/06",
+    "day": "日",
+    "artist": "めいてん",
+    "title": "IDOLISM JAPAN -緊急開催SP!!-",
+    "url": "https://osaka-varon.jp/schedule/detail/36712",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2025/04/06",
+    "day": "日",
+    "artist": "アクアリウム。",
+    "title": "IDOLISM JAPAN -緊急開催SP!!-",
+    "url": "https://osaka-varon.jp/schedule/detail/36712",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2025/04/06",
+    "day": "日",
+    "artist": "ティラミス",
+    "title": "IDOLISM JAPAN -緊急開催SP!!-",
+    "url": "https://osaka-varon.jp/schedule/detail/36712",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2025/04/06",
+    "day": "日",
+    "artist": "AsteRythm",
+    "title": "IDOLISM JAPAN -緊急開催SP!!-",
+    "url": "https://osaka-varon.jp/schedule/detail/36712",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2025/04/06",
+    "day": "日",
+    "artist": "ミケネコガールズ",
+    "title": "IDOLISM JAPAN -緊急開催SP!!-",
+    "url": "https://osaka-varon.jp/schedule/detail/36712",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2025/04/06",
+    "day": "日",
+    "artist": "うぃるめり！",
+    "title": "IDOLISM JAPAN -緊急開催SP!!-",
+    "url": "https://osaka-varon.jp/schedule/detail/36712",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2025/04/06",
+    "day": "日",
+    "artist": "妖狐繚乱",
+    "title": "IDOLISM JAPAN -緊急開催SP!!-",
+    "url": "https://osaka-varon.jp/schedule/detail/36712",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2025/04/06",
+    "day": "日",
+    "artist": "LΩPARA",
+    "title": "IDOLISM JAPAN -緊急開催SP!!-",
+    "url": "https://osaka-varon.jp/schedule/detail/36712",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2025/04/06",
+    "day": "日",
+    "artist": "Fille mimi",
+    "title": "IDOLISM JAPAN -緊急開催SP!!-",
+    "url": "https://osaka-varon.jp/schedule/detail/36712",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2025/04/06",
+    "day": "日",
+    "artist": "ららびっと！",
+    "title": "IDOLISM JAPAN -緊急開催SP!!-",
+    "url": "https://osaka-varon.jp/schedule/detail/36712",
     "venue": "VARON",
     "note": ""
   },
@@ -13313,6 +13592,15 @@
   {
     "date": "2025/04/12",
     "day": "土",
+    "artist": "AVEST",
+    "title": "AVEST ワンマンライブ",
+    "url": "https://osaka-varon.jp/schedule/detail/37828",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2025/04/12",
+    "day": "土",
     "artist": "The Dust’n’Bonez",
     "title": "The Dust’n’Bonez 「21st anniversary」",
     "url": "https://osaka-varon.jp/schedule/detail/37431",
@@ -13581,9 +13869,54 @@
     "note": ""
   },
   {
+    "date": "2025/04/16",
+    "day": "水",
+    "artist": "NI=YON",
+    "title": "西きさき生誕祭2025",
+    "url": "https://osaka-varon.jp/schedule/detail/42699",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2025/04/16",
+    "day": "水",
+    "artist": "OGP4期研修生",
+    "title": "西きさき生誕祭2025",
+    "url": "https://osaka-varon.jp/schedule/detail/42699",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2025/04/16",
+    "day": "水",
+    "artist": "ChanceMovement",
+    "title": "西きさき生誕祭2025",
+    "url": "https://osaka-varon.jp/schedule/detail/42699",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2025/04/16",
+    "day": "水",
+    "artist": "五代目KONAMON",
+    "title": "西きさき生誕祭2025",
+    "url": "https://osaka-varon.jp/schedule/detail/42699",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2025/04/16",
+    "day": "水",
+    "artist": "ふぁんたす！",
+    "title": "西きさき生誕祭2025",
+    "url": "https://osaka-varon.jp/schedule/detail/42699",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
     "date": "2025/04/17",
     "day": "木",
-    "artist": "hyuntorio",
+    "artist": "hyunTorio",
     "title": "おちゃわんのなかみ~私たちによる私たちのための生誕祭~ ERI&PIMA presents",
     "url": "https://osaka-varon.jp/schedule/detail/39804",
     "venue": "VARON",
@@ -14261,6 +14594,60 @@
     "artist": "NightOwl",
     "title": "NightOwl 全国単独公演ツアー 「宵ノ光芒」",
     "url": "https://osaka-varon.jp/schedule/detail/39693",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2025/06/06",
+    "day": "金",
+    "artist": "歪-HIZUMI-",
+    "title": "心斎橋VARON present's Day Dreamer -8th night- 歪-HIZUMI-1st Album 【アイデンティティに灯火を】Release TOUR",
+    "url": "https://osaka-varon.jp/schedule/detail/38992",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2025/06/06",
+    "day": "金",
+    "artist": "アシガルユース",
+    "title": "心斎橋VARON present's Day Dreamer -8th night- 歪-HIZUMI-1st Album 【アイデンティティに灯火を】Release TOUR",
+    "url": "https://osaka-varon.jp/schedule/detail/38992",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2025/06/06",
+    "day": "金",
+    "artist": "Edna",
+    "title": "心斎橋VARON present's Day Dreamer -8th night- 歪-HIZUMI-1st Album 【アイデンティティに灯火を】Release TOUR",
+    "url": "https://osaka-varon.jp/schedule/detail/38992",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2025/06/06",
+    "day": "金",
+    "artist": "4lme",
+    "title": "心斎橋VARON present's Day Dreamer -8th night- 歪-HIZUMI-1st Album 【アイデンティティに灯火を】Release TOUR",
+    "url": "https://osaka-varon.jp/schedule/detail/38992",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2025/06/06",
+    "day": "金",
+    "artist": "Machinearhythm",
+    "title": "心斎橋VARON present's Day Dreamer -8th night- 歪-HIZUMI-1st Album 【アイデンティティに灯火を】Release TOUR",
+    "url": "https://osaka-varon.jp/schedule/detail/38992",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2025/06/06",
+    "day": "金",
+    "artist": "OneOnceOver",
+    "title": "心斎橋VARON present's Day Dreamer -8th night- 歪-HIZUMI-1st Album 【アイデンティティに灯火を】Release TOUR",
+    "url": "https://osaka-varon.jp/schedule/detail/38992",
     "venue": "VARON",
     "note": ""
   },
@@ -16167,6 +16554,15 @@
     "date": "2025/04/16",
     "day": "水",
     "artist": "食堂ni。",
+    "title": "Zeela & bar T.A.B presents \"UMEDA BLOCK PARTY\"",
+    "url": "https://osaka-zeela.jp/schedule/detail/40609",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2025/04/16",
+    "day": "水",
+    "artist": "松もと×AMOMESHI",
     "title": "Zeela & bar T.A.B presents \"UMEDA BLOCK PARTY\"",
     "url": "https://osaka-zeela.jp/schedule/detail/40609",
     "venue": "Zeela",
@@ -22104,6 +22500,51 @@
     "note": ""
   },
   {
+    "date": "2025/06/12",
+    "day": "木",
+    "artist": "裏堀江系～誇り高き3マン編～",
+    "title": "knave 23rd Anniversary supported by KIRIN",
+    "url": "http://www.knave.co.jp/schedule/s_2025_06.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2025/06/12",
+    "day": "木",
+    "artist": "rale one stance",
+    "title": "knave 23rd Anniversary supported by KIRIN",
+    "url": "http://www.knave.co.jp/schedule/s_2025_06.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2025/06/12",
+    "day": "木",
+    "artist": "メルシー",
+    "title": "knave 23rd Anniversary supported by KIRIN",
+    "url": "http://www.knave.co.jp/schedule/s_2025_06.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2025/06/12",
+    "day": "木",
+    "artist": "QLIP",
+    "title": "knave 23rd Anniversary supported by KIRIN",
+    "url": "http://www.knave.co.jp/schedule/s_2025_06.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2025/06/12",
+    "day": "木",
+    "artist": "問)knave06-6535-0691",
+    "title": "knave 23rd Anniversary supported by KIRIN",
+    "url": "http://www.knave.co.jp/schedule/s_2025_06.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
     "date": "2025/06/13",
     "day": "金",
     "artist": "北摂GOLDBLEND vol.15 堀江編ROLLY",
@@ -22700,6 +23141,51 @@
   {
     "date": "2025/07/27",
     "day": "日",
+    "artist": "問)knave06-6535-0691",
+    "title": "梅垣義明withスギテツ",
+    "url": "http://www.knave.co.jp/schedule/s_2025_06.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2025/07/28",
+    "day": "月",
+    "artist": "ザ・シャンソン祭 特別編 in大阪 追加公演",
+    "title": "梅垣義明withスギテツ",
+    "url": "http://www.knave.co.jp/schedule/s_2025_06.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2025/07/28",
+    "day": "月",
+    "artist": "梅垣義明withスギテツ",
+    "title": "梅垣義明withスギテツ",
+    "url": "http://www.knave.co.jp/schedule/s_2025_06.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2025/07/28",
+    "day": "月",
+    "artist": "一般発売4",
+    "title": "梅垣義明withスギテツ",
+    "url": "http://www.knave.co.jp/schedule/s_2025_06.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2025/07/28",
+    "day": "月",
+    "artist": "13",
+    "title": "梅垣義明withスギテツ",
+    "url": "http://www.knave.co.jp/schedule/s_2025_06.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2025/07/28",
+    "day": "月",
     "artist": "問)knave06-6535-0691",
     "title": "梅垣義明withスギテツ",
     "url": "http://www.knave.co.jp/schedule/s_2025_06.html",
