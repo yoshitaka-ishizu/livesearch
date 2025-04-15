@@ -4574,35 +4574,8 @@
   {
     "date": "2025/05/17",
     "day": "土",
-    "artist": "寄集",
-    "title": "寄集 / Lucky Age  / ボクノココロネ  / El Primo  / mango. / マッドショットガン",
-    "url": "https://para-dice.net/",
-    "venue": "扇町para-dice",
-    "note": ""
-  },
-  {
-    "date": "2025/05/17",
-    "day": "土",
-    "artist": "Lucky Age",
-    "title": "寄集 / Lucky Age  / ボクノココロネ  / El Primo  / mango. / マッドショットガン",
-    "url": "https://para-dice.net/",
-    "venue": "扇町para-dice",
-    "note": ""
-  },
-  {
-    "date": "2025/05/17",
-    "day": "土",
-    "artist": "ボクノココロネ",
-    "title": "寄集 / Lucky Age  / ボクノココロネ  / El Primo  / mango. / マッドショットガン",
-    "url": "https://para-dice.net/",
-    "venue": "扇町para-dice",
-    "note": ""
-  },
-  {
-    "date": "2025/05/17",
-    "day": "土",
-    "artist": "El Primo",
-    "title": "寄集 / Lucky Age  / ボクノココロネ  / El Primo  / mango. / マッドショットガン",
+    "artist": "マッドショットガン",
+    "title": "OPEN 17:30",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -4611,7 +4584,7 @@
     "date": "2025/05/17",
     "day": "土",
     "artist": "mango.",
-    "title": "寄集 / Lucky Age  / ボクノココロネ  / El Primo  / mango. / マッドショットガン",
+    "title": "OPEN 17:30",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -4619,8 +4592,35 @@
   {
     "date": "2025/05/17",
     "day": "土",
-    "artist": "マッドショットガン",
-    "title": "寄集 / Lucky Age  / ボクノココロネ  / El Primo  / mango. / マッドショットガン",
+    "artist": "El Primo",
+    "title": "OPEN 17:30",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
+    "date": "2025/05/17",
+    "day": "土",
+    "artist": "ボクノココロネ",
+    "title": "OPEN 17:30",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
+    "date": "2025/05/17",
+    "day": "土",
+    "artist": "Lucky Age",
+    "title": "OPEN 17:30",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
+    "date": "2025/05/17",
+    "day": "土",
+    "artist": "寄集",
+    "title": "OPEN 17:30",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -5904,6 +5904,42 @@
     "note": ""
   },
   {
+    "date": "2025/06/30",
+    "day": "月",
+    "artist": "&.",
+    "title": "OPEN 19:00",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
+    "date": "2025/06/30",
+    "day": "月",
+    "artist": "Amsterdamned",
+    "title": "OPEN 19:00",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
+    "date": "2025/06/30",
+    "day": "月",
+    "artist": "ハンバーグオムレ",
+    "title": "OPEN 19:00",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
+    "date": "2025/06/30",
+    "day": "月",
+    "artist": "ANYO",
+    "title": "OPEN 19:00",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
     "date": "2025/04/01",
     "day": "火",
     "artist": "<王座> クリトリック・リス",
@@ -7176,15 +7212,6 @@
     "date": "2025/04/16",
     "day": "水",
     "artist": "ミスターこと神宮寺",
-    "title": "居酒屋黒木 vol.9 ～DROP編～",
-    "url": "https://vijon.jp/schedule/detail/43889",
-    "venue": "北堀江club vijon",
-    "note": ""
-  },
-  {
-    "date": "2025/04/16",
-    "day": "水",
-    "artist": "and more…",
     "title": "居酒屋黒木 vol.9 ～DROP編～",
     "url": "https://vijon.jp/schedule/detail/43889",
     "venue": "北堀江club vijon",
@@ -10128,7 +10155,7 @@
     "date": "2025/04/15",
     "day": "火",
     "artist": "Absopetus",
-    "title": "Absopetus Pre. 『SAVIOURS",
+    "title": "Absopetus Pre. 『SAVIOURS』",
     "url": "https://bangboo.jp/schedule/detail/40850",
     "venue": "梅田BANGBOO",
     "note": ""
@@ -10137,7 +10164,7 @@
     "date": "2025/04/15",
     "day": "火",
     "artist": "ココロシンドローム",
-    "title": "Absopetus Pre. 『SAVIOURS",
+    "title": "Absopetus Pre. 『SAVIOURS』",
     "url": "https://bangboo.jp/schedule/detail/40850",
     "venue": "梅田BANGBOO",
     "note": ""
@@ -10146,7 +10173,7 @@
     "date": "2025/04/15",
     "day": "火",
     "artist": "カミサマパレード",
-    "title": "Absopetus Pre. 『SAVIOURS",
+    "title": "Absopetus Pre. 『SAVIOURS』",
     "url": "https://bangboo.jp/schedule/detail/40850",
     "venue": "梅田BANGBOO",
     "note": ""
@@ -10155,7 +10182,7 @@
     "date": "2025/04/15",
     "day": "火",
     "artist": "ADOMIO",
-    "title": "Absopetus Pre. 『SAVIOURS",
+    "title": "Absopetus Pre. 『SAVIOURS』",
     "url": "https://bangboo.jp/schedule/detail/40850",
     "venue": "梅田BANGBOO",
     "note": ""
@@ -10164,7 +10191,7 @@
     "date": "2025/04/15",
     "day": "火",
     "artist": "nyanpuri",
-    "title": "Absopetus Pre. 『SAVIOURS",
+    "title": "Absopetus Pre. 『SAVIOURS』",
     "url": "https://bangboo.jp/schedule/detail/40850",
     "venue": "梅田BANGBOO",
     "note": ""
@@ -10173,7 +10200,7 @@
     "date": "2025/04/15",
     "day": "火",
     "artist": "CALETWOLF",
-    "title": "Absopetus Pre. 『SAVIOURS",
+    "title": "Absopetus Pre. 『SAVIOURS』",
     "url": "https://bangboo.jp/schedule/detail/40850",
     "venue": "梅田BANGBOO",
     "note": ""
@@ -10182,7 +10209,7 @@
     "date": "2025/04/15",
     "day": "火",
     "artist": "Loading...Parady",
-    "title": "Absopetus Pre. 『SAVIOURS",
+    "title": "Absopetus Pre. 『SAVIOURS』",
     "url": "https://bangboo.jp/schedule/detail/40850",
     "venue": "梅田BANGBOO",
     "note": ""
@@ -10191,7 +10218,7 @@
     "date": "2025/04/15",
     "day": "火",
     "artist": "ネテルダイヤ",
-    "title": "Absopetus Pre. 『SAVIOURS",
+    "title": "Absopetus Pre. 『SAVIOURS』",
     "url": "https://bangboo.jp/schedule/detail/40850",
     "venue": "梅田BANGBOO",
     "note": ""
@@ -10200,7 +10227,7 @@
     "date": "2025/04/15",
     "day": "火",
     "artist": "SANUGLOW",
-    "title": "Absopetus Pre. 『SAVIOURS",
+    "title": "Absopetus Pre. 『SAVIOURS』",
     "url": "https://bangboo.jp/schedule/detail/40850",
     "venue": "梅田BANGBOO",
     "note": ""
@@ -10209,7 +10236,7 @@
     "date": "2025/04/15",
     "day": "火",
     "artist": "ゼロキョリハーツ",
-    "title": "Absopetus Pre. 『SAVIOURS",
+    "title": "Absopetus Pre. 『SAVIOURS』",
     "url": "https://bangboo.jp/schedule/detail/40850",
     "venue": "梅田BANGBOO",
     "note": ""
@@ -10218,7 +10245,7 @@
     "date": "2025/04/15",
     "day": "火",
     "artist": "AIMIA",
-    "title": "Absopetus Pre. 『SAVIOURS",
+    "title": "Absopetus Pre. 『SAVIOURS』",
     "url": "https://bangboo.jp/schedule/detail/40850",
     "venue": "梅田BANGBOO",
     "note": ""
@@ -10227,7 +10254,7 @@
     "date": "2025/04/15",
     "day": "火",
     "artist": "KAMuRO",
-    "title": "Absopetus Pre. 『SAVIOURS",
+    "title": "Absopetus Pre. 『SAVIOURS』",
     "url": "https://bangboo.jp/schedule/detail/40850",
     "venue": "梅田BANGBOO",
     "note": ""
@@ -10236,7 +10263,7 @@
     "date": "2025/04/15",
     "day": "火",
     "artist": "白黒アリス",
-    "title": "Absopetus Pre. 『SAVIOURS",
+    "title": "Absopetus Pre. 『SAVIOURS』",
     "url": "https://bangboo.jp/schedule/detail/40850",
     "venue": "梅田BANGBOO",
     "note": ""
@@ -12656,7 +12683,7 @@
   {
     "date": "2025/06/05",
     "day": "木",
-    "artist": "and more",
+    "artist": "Umnoise",
     "title": "【BANGBOO VIBES】vol.4",
     "url": "https://bangboo.jp/schedule/detail/41622",
     "venue": "梅田BANGBOO",
@@ -15392,6 +15419,78 @@
   {
     "date": "2025/04/30",
     "day": "水",
+    "artist": "むげんこんぜ",
+    "title": "むげんこんぜ定期公演vol.1\"君の無限アイドル公演\"",
+    "url": "https://clubdrop.jp/schedule/detail/41274",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2025/04/30",
+    "day": "水",
+    "artist": "Despair End",
+    "title": "むげんこんぜ定期公演vol.1\"君の無限アイドル公演\"",
+    "url": "https://clubdrop.jp/schedule/detail/41274",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2025/04/30",
+    "day": "水",
+    "artist": "バブルカ",
+    "title": "むげんこんぜ定期公演vol.1\"君の無限アイドル公演\"",
+    "url": "https://clubdrop.jp/schedule/detail/41274",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2025/04/30",
+    "day": "水",
+    "artist": "Hi-Fi GIRLs PROJECT osaka Fleur",
+    "title": "むげんこんぜ定期公演vol.1\"君の無限アイドル公演\"",
+    "url": "https://clubdrop.jp/schedule/detail/41274",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2025/04/30",
+    "day": "水",
+    "artist": "永遠のセツナ",
+    "title": "むげんこんぜ定期公演vol.1\"君の無限アイドル公演\"",
+    "url": "https://clubdrop.jp/schedule/detail/41274",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2025/04/30",
+    "day": "水",
+    "artist": "Lunouir Tiara-ルノティア-",
+    "title": "むげんこんぜ定期公演vol.1\"君の無限アイドル公演\"",
+    "url": "https://clubdrop.jp/schedule/detail/41274",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2025/04/30",
+    "day": "水",
+    "artist": "PRINCIPESSA",
+    "title": "むげんこんぜ定期公演vol.1\"君の無限アイドル公演\"",
+    "url": "https://clubdrop.jp/schedule/detail/41274",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2025/04/30",
+    "day": "水",
+    "artist": "にゃんらゔ♡  ※順不同、敬称略",
+    "title": "むげんこんぜ定期公演vol.1\"君の無限アイドル公演\"",
+    "url": "https://clubdrop.jp/schedule/detail/41274",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2025/04/30",
+    "day": "水",
     "artist": "Na☆",
     "title": "ダンスバトル",
     "url": "https://clubdrop.jp/schedule/detail/42156",
@@ -15485,6 +15584,51 @@
     "artist": "詳細欄をご確認下さい",
     "title": "MAWA LOOP OSAKA 2025 10th Anniversary",
     "url": "https://clubdrop.jp/schedule/detail/35597",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2025/05/12",
+    "day": "月",
+    "artist": "White nova",
+    "title": "BRAVER!! Level.29",
+    "url": "https://clubdrop.jp/schedule/detail/42467",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2025/05/12",
+    "day": "月",
+    "artist": "blur birds",
+    "title": "BRAVER!! Level.29",
+    "url": "https://clubdrop.jp/schedule/detail/42467",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2025/05/12",
+    "day": "月",
+    "artist": "彩音-io-",
+    "title": "BRAVER!! Level.29",
+    "url": "https://clubdrop.jp/schedule/detail/42467",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2025/05/12",
+    "day": "月",
+    "artist": "千賀岳人",
+    "title": "BRAVER!! Level.29",
+    "url": "https://clubdrop.jp/schedule/detail/42467",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2025/05/12",
+    "day": "月",
+    "artist": "and more!!",
+    "title": "BRAVER!! Level.29",
+    "url": "https://clubdrop.jp/schedule/detail/42467",
     "venue": "アメリカ村DROP",
     "note": ""
   },
@@ -17415,6 +17559,105 @@
     "note": ""
   },
   {
+    "date": "2025/04/30",
+    "day": "水",
+    "artist": "husky",
+    "title": "chemical reaction Vol.44",
+    "url": "https://osaka-varon.jp/schedule/detail/40629",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2025/04/30",
+    "day": "水",
+    "artist": "sync sens",
+    "title": "chemical reaction Vol.44",
+    "url": "https://osaka-varon.jp/schedule/detail/40629",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2025/04/30",
+    "day": "水",
+    "artist": "FanCy-",
+    "title": "chemical reaction Vol.44",
+    "url": "https://osaka-varon.jp/schedule/detail/40629",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2025/04/30",
+    "day": "水",
+    "artist": "MeltGem",
+    "title": "chemical reaction Vol.44",
+    "url": "https://osaka-varon.jp/schedule/detail/40629",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2025/04/30",
+    "day": "水",
+    "artist": "ハウツー世界征服",
+    "title": "chemical reaction Vol.44",
+    "url": "https://osaka-varon.jp/schedule/detail/40629",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2025/04/30",
+    "day": "水",
+    "artist": "ミラーシュカ",
+    "title": "chemical reaction Vol.44",
+    "url": "https://osaka-varon.jp/schedule/detail/40629",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2025/04/30",
+    "day": "水",
+    "artist": "無花果とマシンガン",
+    "title": "chemical reaction Vol.44",
+    "url": "https://osaka-varon.jp/schedule/detail/40629",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2025/04/30",
+    "day": "水",
+    "artist": "SOCIAL×MATCH",
+    "title": "chemical reaction Vol.44",
+    "url": "https://osaka-varon.jp/schedule/detail/40629",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2025/04/30",
+    "day": "水",
+    "artist": "妖狐繚乱",
+    "title": "chemical reaction Vol.44",
+    "url": "https://osaka-varon.jp/schedule/detail/40629",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2025/04/30",
+    "day": "水",
+    "artist": "ココなった！",
+    "title": "chemical reaction Vol.44",
+    "url": "https://osaka-varon.jp/schedule/detail/40629",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2025/04/30",
+    "day": "水",
+    "artist": "OA 冬子",
+    "title": "chemical reaction Vol.44",
+    "url": "https://osaka-varon.jp/schedule/detail/40629",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
     "date": "2025/05/02",
     "day": "金",
     "artist": "CHASED",
@@ -17604,6 +17847,87 @@
     "note": ""
   },
   {
+    "date": "2025/05/15",
+    "day": "木",
+    "artist": "AIRFLIP",
+    "title": "SHINSAIBASHI VARON PRESENTS. COMING HOME - THE FINAL -",
+    "url": "https://osaka-varon.jp/schedule/detail/41189",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2025/05/15",
+    "day": "木",
+    "artist": "Bubble Baby",
+    "title": "SHINSAIBASHI VARON PRESENTS. COMING HOME - THE FINAL -",
+    "url": "https://osaka-varon.jp/schedule/detail/41189",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2025/05/15",
+    "day": "木",
+    "artist": "Good Grief",
+    "title": "SHINSAIBASHI VARON PRESENTS. COMING HOME - THE FINAL -",
+    "url": "https://osaka-varon.jp/schedule/detail/41189",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2025/05/15",
+    "day": "木",
+    "artist": "POP DISASTER",
+    "title": "SHINSAIBASHI VARON PRESENTS. COMING HOME - THE FINAL -",
+    "url": "https://osaka-varon.jp/schedule/detail/41189",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2025/05/15",
+    "day": "木",
+    "artist": "See You Smile",
+    "title": "SHINSAIBASHI VARON PRESENTS. COMING HOME - THE FINAL -",
+    "url": "https://osaka-varon.jp/schedule/detail/41189",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2025/05/15",
+    "day": "木",
+    "artist": "SEPTALUCK",
+    "title": "SHINSAIBASHI VARON PRESENTS. COMING HOME - THE FINAL -",
+    "url": "https://osaka-varon.jp/schedule/detail/41189",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2025/05/15",
+    "day": "木",
+    "artist": "SIGHTS",
+    "title": "SHINSAIBASHI VARON PRESENTS. COMING HOME - THE FINAL -",
+    "url": "https://osaka-varon.jp/schedule/detail/41189",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2025/05/15",
+    "day": "木",
+    "artist": "Ⅶ DAYS REASON",
+    "title": "SHINSAIBASHI VARON PRESENTS. COMING HOME - THE FINAL -",
+    "url": "https://osaka-varon.jp/schedule/detail/41189",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2025/05/15",
+    "day": "木",
+    "artist": "4 Roses and more...  Heavenly BURGER",
+    "title": "SHINSAIBASHI VARON PRESENTS. COMING HOME - THE FINAL -",
+    "url": "https://osaka-varon.jp/schedule/detail/41189",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
     "date": "2025/05/18",
     "day": "日",
     "artist": "Glim Assembler",
@@ -17669,7 +17993,7 @@
   {
     "date": "2025/05/22",
     "day": "木",
-    "artist": "ホシミッツ",
+    "artist": "ホシミッツ  つまみ屋ねむちゃん",
     "title": "白昼夢vol.4 day3",
     "url": "https://osaka-varon.jp/schedule/detail/41275",
     "venue": "VARON",
