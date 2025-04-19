@@ -12512,7 +12512,7 @@
   {
     "date": "2025/05/26",
     "day": "月",
-    "artist": "and more",
+    "artist": "VAR'MILION",
     "title": "【DOYAMarvelous】vol.4〜NitoeL『Graffiti』MV public tour〜",
     "url": "https://bangboo.jp/schedule/detail/40812",
     "venue": "梅田BANGBOO",
@@ -16461,6 +16461,15 @@
     "note": ""
   },
   {
+    "date": "2025/05/17",
+    "day": "土",
+    "artist": "鐘ト銃声",
+    "title": "鐘ト銃声無料単独公演「大阪博覧会」",
+    "url": "https://clubdrop.jp/schedule/detail/39784",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
     "date": "2025/05/21",
     "day": "水",
     "artist": "Craps Obscure Life",
@@ -16533,6 +16542,15 @@
     "note": ""
   },
   {
+    "date": "2025/05/27",
+    "day": "火",
+    "artist": "ELEVYZ",
+    "title": "ELEVYZ presents \"感電ビビPOP\"",
+    "url": "https://clubdrop.jp/schedule/detail/41449",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
     "date": "2025/06/01",
     "day": "日",
     "artist": "COUNTERPARTS",
@@ -16553,7 +16571,25 @@
   {
     "date": "2025/06/01",
     "day": "日",
-    "artist": "and more!!",
+    "artist": "STRANDED",
+    "title": "BLOODAXE TOUR  COUNTERPARTS / DYING WISH JAPAN TOUR 2025",
+    "url": "https://clubdrop.jp/schedule/detail/39528",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2025/06/01",
+    "day": "日",
+    "artist": "LAUNCHER NO.8",
+    "title": "BLOODAXE TOUR  COUNTERPARTS / DYING WISH JAPAN TOUR 2025",
+    "url": "https://clubdrop.jp/schedule/detail/39528",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2025/06/01",
+    "day": "日",
+    "artist": "OLPHEUS",
     "title": "BLOODAXE TOUR  COUNTERPARTS / DYING WISH JAPAN TOUR 2025",
     "url": "https://clubdrop.jp/schedule/detail/39528",
     "venue": "アメリカ村DROP",
@@ -17957,7 +17993,7 @@
   {
     "date": "2025/04/20",
     "day": "日",
-    "artist": "Re:sist",
+    "artist": "LΩPARA",
     "title": "IDOLCORE NITE -EXTRA-",
     "url": "https://osaka-varon.jp/schedule/detail/36713",
     "venue": "VARON",
@@ -17966,7 +18002,7 @@
   {
     "date": "2025/04/20",
     "day": "日",
-    "artist": "LΩPARA",
+    "artist": "※出演予定でしたRe:sistはキャンセルになりました。",
     "title": "IDOLCORE NITE -EXTRA-",
     "url": "https://osaka-varon.jp/schedule/detail/36713",
     "venue": "VARON",
@@ -18659,8 +18695,71 @@
   {
     "date": "2025/05/09",
     "day": "金",
-    "artist": "UNMASK aLIVE and more...",
-    "title": "UNMASK aLIVE DOMESTIC GROOVE TOUR",
+    "artist": "UNMASK aLIVE",
+    "title": "COMINGHOME x UNMASK aLIVE\"DOMESTIC GROOVE TOUR\" \"A LETTER TO THE FUTURE\" vol.1000",
+    "url": "https://osaka-varon.jp/schedule/detail/40012",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2025/05/09",
+    "day": "金",
+    "artist": "All is Well",
+    "title": "COMINGHOME x UNMASK aLIVE\"DOMESTIC GROOVE TOUR\" \"A LETTER TO THE FUTURE\" vol.1000",
+    "url": "https://osaka-varon.jp/schedule/detail/40012",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2025/05/09",
+    "day": "金",
+    "artist": "All I Cracks",
+    "title": "COMINGHOME x UNMASK aLIVE\"DOMESTIC GROOVE TOUR\" \"A LETTER TO THE FUTURE\" vol.1000",
+    "url": "https://osaka-varon.jp/schedule/detail/40012",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2025/05/09",
+    "day": "金",
+    "artist": "Exes on TV",
+    "title": "COMINGHOME x UNMASK aLIVE\"DOMESTIC GROOVE TOUR\" \"A LETTER TO THE FUTURE\" vol.1000",
+    "url": "https://osaka-varon.jp/schedule/detail/40012",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2025/05/09",
+    "day": "金",
+    "artist": "Launcher No.8",
+    "title": "COMINGHOME x UNMASK aLIVE\"DOMESTIC GROOVE TOUR\" \"A LETTER TO THE FUTURE\" vol.1000",
+    "url": "https://osaka-varon.jp/schedule/detail/40012",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2025/05/09",
+    "day": "金",
+    "artist": "recess",
+    "title": "COMINGHOME x UNMASK aLIVE\"DOMESTIC GROOVE TOUR\" \"A LETTER TO THE FUTURE\" vol.1000",
+    "url": "https://osaka-varon.jp/schedule/detail/40012",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2025/05/09",
+    "day": "金",
+    "artist": "Heavenly Burger",
+    "title": "COMINGHOME x UNMASK aLIVE\"DOMESTIC GROOVE TOUR\" \"A LETTER TO THE FUTURE\" vol.1000",
+    "url": "https://osaka-varon.jp/schedule/detail/40012",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2025/05/09",
+    "day": "金",
+    "artist": "slacksloth",
+    "title": "COMINGHOME x UNMASK aLIVE\"DOMESTIC GROOVE TOUR\" \"A LETTER TO THE FUTURE\" vol.1000",
     "url": "https://osaka-varon.jp/schedule/detail/40012",
     "venue": "VARON",
     "note": ""
@@ -19262,7 +19361,52 @@
   {
     "date": "2025/07/04",
     "day": "金",
-    "artist": "トラケミスト  and more...",
+    "artist": "トラケミスト",
+    "title": "トラケミスト\"爆炎の慢性化危険TOUR 2025\"",
+    "url": "https://osaka-varon.jp/schedule/detail/39858",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2025/07/04",
+    "day": "金",
+    "artist": "Ciely",
+    "title": "トラケミスト\"爆炎の慢性化危険TOUR 2025\"",
+    "url": "https://osaka-varon.jp/schedule/detail/39858",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2025/07/04",
+    "day": "金",
+    "artist": "Days,near LAND",
+    "title": "トラケミスト\"爆炎の慢性化危険TOUR 2025\"",
+    "url": "https://osaka-varon.jp/schedule/detail/39858",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2025/07/04",
+    "day": "金",
+    "artist": "LUDENS",
+    "title": "トラケミスト\"爆炎の慢性化危険TOUR 2025\"",
+    "url": "https://osaka-varon.jp/schedule/detail/39858",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2025/07/04",
+    "day": "金",
+    "artist": "Mr.EggPlant",
+    "title": "トラケミスト\"爆炎の慢性化危険TOUR 2025\"",
+    "url": "https://osaka-varon.jp/schedule/detail/39858",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2025/07/04",
+    "day": "金",
+    "artist": "Wisteria",
     "title": "トラケミスト\"爆炎の慢性化危険TOUR 2025\"",
     "url": "https://osaka-varon.jp/schedule/detail/39858",
     "venue": "VARON",
@@ -22203,6 +22347,141 @@
     "note": ""
   },
   {
+    "date": "2025/06/08",
+    "day": "日",
+    "artist": "Full Of Harmony",
+    "title": "「音色」〜Full Of Harmony 25th Year SPECIAL EDITION!!〜",
+    "url": "https://osaka-zeela.jp/schedule/detail/36994",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2025/06/08",
+    "day": "日",
+    "artist": "真之介",
+    "title": "「音色」〜Full Of Harmony 25th Year SPECIAL EDITION!!〜",
+    "url": "https://osaka-zeela.jp/schedule/detail/36994",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2025/06/08",
+    "day": "日",
+    "artist": "石川マリー",
+    "title": "「音色」〜Full Of Harmony 25th Year SPECIAL EDITION!!〜",
+    "url": "https://osaka-zeela.jp/schedule/detail/36994",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2025/06/08",
+    "day": "日",
+    "artist": "DI-RAY",
+    "title": "「音色」〜Full Of Harmony 25th Year SPECIAL EDITION!!〜",
+    "url": "https://osaka-zeela.jp/schedule/detail/36994",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2025/06/08",
+    "day": "日",
+    "artist": "宏実",
+    "title": "「音色」〜Full Of Harmony 25th Year SPECIAL EDITION!!〜",
+    "url": "https://osaka-zeela.jp/schedule/detail/36994",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2025/06/08",
+    "day": "日",
+    "artist": "Daiki Blunt",
+    "title": "「音色」〜Full Of Harmony 25th Year SPECIAL EDITION!!〜",
+    "url": "https://osaka-zeela.jp/schedule/detail/36994",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2025/06/08",
+    "day": "日",
+    "artist": "Linus",
+    "title": "「音色」〜Full Of Harmony 25th Year SPECIAL EDITION!!〜",
+    "url": "https://osaka-zeela.jp/schedule/detail/36994",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2025/06/08",
+    "day": "日",
+    "artist": "M$K",
+    "title": "「音色」〜Full Of Harmony 25th Year SPECIAL EDITION!!〜",
+    "url": "https://osaka-zeela.jp/schedule/detail/36994",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2025/06/08",
+    "day": "日",
+    "artist": "FAITH",
+    "title": "「音色」〜Full Of Harmony 25th Year SPECIAL EDITION!!〜",
+    "url": "https://osaka-zeela.jp/schedule/detail/36994",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2025/06/08",
+    "day": "日",
+    "artist": "SYOGUN",
+    "title": "「音色」〜Full Of Harmony 25th Year SPECIAL EDITION!!〜",
+    "url": "https://osaka-zeela.jp/schedule/detail/36994",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2025/06/08",
+    "day": "日",
+    "artist": "YOUTO",
+    "title": "「音色」〜Full Of Harmony 25th Year SPECIAL EDITION!!〜",
+    "url": "https://osaka-zeela.jp/schedule/detail/36994",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2025/06/08",
+    "day": "日",
+    "artist": "九州男",
+    "title": "「音色」〜Full Of Harmony 25th Year SPECIAL EDITION!!〜",
+    "url": "https://osaka-zeela.jp/schedule/detail/36994",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2025/06/08",
+    "day": "日",
+    "artist": "KUMI",
+    "title": "「音色」〜Full Of Harmony 25th Year SPECIAL EDITION!!〜",
+    "url": "https://osaka-zeela.jp/schedule/detail/36994",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2025/06/08",
+    "day": "日",
+    "artist": "8IGHT",
+    "title": "「音色」〜Full Of Harmony 25th Year SPECIAL EDITION!!〜",
+    "url": "https://osaka-zeela.jp/schedule/detail/36994",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2025/06/08",
+    "day": "日",
+    "artist": "D-Masa",
+    "title": "「音色」〜Full Of Harmony 25th Year SPECIAL EDITION!!〜",
+    "url": "https://osaka-zeela.jp/schedule/detail/36994",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
     "date": "2025/06/13",
     "day": "金",
     "artist": "Jupiter",
@@ -23274,6 +23553,24 @@
     "note": ""
   },
   {
+    "date": "2025/04/21",
+    "day": "月",
+    "artist": "NeoAster",
+    "title": "Cendrillon-vol.16-",
+    "url": "http://rocktown.jp/schedule/index.html",
+    "venue": "あべのROCKTOWN",
+    "note": ""
+  },
+  {
+    "date": "2025/04/21",
+    "day": "月",
+    "artist": "Lumi7's",
+    "title": "Cendrillon-vol.16-",
+    "url": "http://rocktown.jp/schedule/index.html",
+    "venue": "あべのROCKTOWN",
+    "note": ""
+  },
+  {
     "date": "2025/04/22",
     "day": "火",
     "artist": "山本ピカソ",
@@ -23393,7 +23690,16 @@
   {
     "date": "2025/04/22",
     "day": "火",
-    "artist": "syo-go白井大輔",
+    "artist": "syo-go",
+    "title": "Natural Bloom special edition~堤先⽣ ROLLING 60~",
+    "url": "http://rocktown.jp/schedule/index.html",
+    "venue": "あべのROCKTOWN",
+    "note": ""
+  },
+  {
+    "date": "2025/04/22",
+    "day": "火",
+    "artist": "白井大輔",
     "title": "Natural Bloom special edition~堤先⽣ ROLLING 60~",
     "url": "http://rocktown.jp/schedule/index.html",
     "venue": "あべのROCKTOWN",
@@ -23411,7 +23717,7 @@
   {
     "date": "2025/04/22",
     "day": "火",
-    "artist": "YonePiMC ⼋⽊沙季",
+    "artist": "YonePitatsuya",
     "title": "Natural Bloom special edition~堤先⽣ ROLLING 60~",
     "url": "http://rocktown.jp/schedule/index.html",
     "venue": "あべのROCKTOWN",
@@ -23420,7 +23726,43 @@
   {
     "date": "2025/04/22",
     "day": "火",
-    "artist": "and more…",
+    "artist": "長谷太吉未羽",
+    "title": "Natural Bloom special edition~堤先⽣ ROLLING 60~",
+    "url": "http://rocktown.jp/schedule/index.html",
+    "venue": "あべのROCKTOWN",
+    "note": ""
+  },
+  {
+    "date": "2025/04/22",
+    "day": "火",
+    "artist": "HARUKA",
+    "title": "Natural Bloom special edition~堤先⽣ ROLLING 60~",
+    "url": "http://rocktown.jp/schedule/index.html",
+    "venue": "あべのROCKTOWN",
+    "note": ""
+  },
+  {
+    "date": "2025/04/22",
+    "day": "火",
+    "artist": "毛利泰士",
+    "title": "Natural Bloom special edition~堤先⽣ ROLLING 60~",
+    "url": "http://rocktown.jp/schedule/index.html",
+    "venue": "あべのROCKTOWN",
+    "note": ""
+  },
+  {
+    "date": "2025/04/22",
+    "day": "火",
+    "artist": "soel",
+    "title": "Natural Bloom special edition~堤先⽣ ROLLING 60~",
+    "url": "http://rocktown.jp/schedule/index.html",
+    "venue": "あべのROCKTOWN",
+    "note": ""
+  },
+  {
+    "date": "2025/04/22",
+    "day": "火",
+    "artist": "NazunaMC ⼋⽊沙季",
     "title": "Natural Bloom special edition~堤先⽣ ROLLING 60~",
     "url": "http://rocktown.jp/schedule/index.html",
     "venue": "あべのROCKTOWN",
@@ -24170,6 +24512,15 @@
     "artist": "Patrick's",
     "title": "Patrick's 3rd One Man Live『EMERALD』",
     "url": "http://rocktown.jp/schedule/202505.html",
+    "venue": "あべのROCKTOWN",
+    "note": ""
+  },
+  {
+    "date": "2025/06/15",
+    "day": "日",
+    "artist": "VELLE.J",
+    "title": "VELLE.J ONE-MAN LIVE 2025 A to Z\"JOKER“",
+    "url": "http://rocktown.jp/schedule/202506.html",
     "venue": "あべのROCKTOWN",
     "note": ""
   },
@@ -27236,7 +27587,7 @@
   {
     "date": "2025/05/21",
     "day": "水",
-    "artist": "moomantai",
+    "artist": "moomantie",
     "title": "NEW ROCK",
     "url": "http://www.knave.co.jp/schedule/s_2025_05.html",
     "venue": "knave",
@@ -27569,7 +27920,7 @@
   {
     "date": "2025/05/28",
     "day": "水",
-    "artist": "樋高楽々",
+    "artist": "LALA",
     "title": "NaturalWoman",
     "url": "http://www.knave.co.jp/schedule/s_2025_05.html",
     "venue": "knave",
@@ -29189,7 +29540,7 @@
   {
     "date": "2025/07/10",
     "day": "木",
-    "artist": "and more...",
+    "artist": "MiLe",
     "title": "NaturalWoman",
     "url": "http://www.knave.co.jp/schedule/s_2025_07.html",
     "venue": "knave",
