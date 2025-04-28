@@ -785,7 +785,7 @@
   {
     "date": "2025/05/02",
     "day": "金",
-    "artist": "濱添アキ",
+    "artist": "浅野毅",
     "title": "VIP領域 for tellmean",
     "url": "https://fireloop.net/schedule_now.shtml#0502",
     "venue": "寺田町Fireloop",
@@ -2318,6 +2318,51 @@
     "artist": "Lambda",
     "title": "ZOOZ VS Lambda",
     "url": "https://fireloop.net/schedule_now.shtml#0811",
+    "venue": "寺田町Fireloop",
+    "note": ""
+  },
+  {
+    "date": "2025/08/31",
+    "day": "",
+    "artist": "Yusuke Terauchi",
+    "title": "我が道を行く",
+    "url": "https://fireloop.net/schedule_now.shtml#0831",
+    "venue": "寺田町Fireloop",
+    "note": ""
+  },
+  {
+    "date": "2025/08/31",
+    "day": "",
+    "artist": "街蜥蜴塾",
+    "title": "我が道を行く",
+    "url": "https://fireloop.net/schedule_now.shtml#0831",
+    "venue": "寺田町Fireloop",
+    "note": ""
+  },
+  {
+    "date": "2025/08/31",
+    "day": "",
+    "artist": "nayuta",
+    "title": "我が道を行く",
+    "url": "https://fireloop.net/schedule_now.shtml#0831",
+    "venue": "寺田町Fireloop",
+    "note": ""
+  },
+  {
+    "date": "2025/08/31",
+    "day": "",
+    "artist": "Genius P.J's",
+    "title": "我が道を行く",
+    "url": "https://fireloop.net/schedule_now.shtml#0831",
+    "venue": "寺田町Fireloop",
+    "note": ""
+  },
+  {
+    "date": "2025/08/31",
+    "day": "",
+    "artist": "and more!",
+    "title": "我が道を行く",
+    "url": "https://fireloop.net/schedule_now.shtml#0831",
     "venue": "寺田町Fireloop",
     "note": ""
   },
@@ -4896,6 +4941,60 @@
     "note": ""
   },
   {
+    "date": "2025/05/04",
+    "day": "日",
+    "artist": "和歌山大学 流行音楽倶楽部",
+    "title": "新入生に魅せるLIVE 2025",
+    "url": "https://vijon.jp/schedule/detail/44356",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2025/05/04",
+    "day": "日",
+    "artist": "神戸市外国語大学 学部軽音楽部",
+    "title": "新入生に魅せるLIVE 2025",
+    "url": "https://vijon.jp/schedule/detail/44356",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2025/05/04",
+    "day": "日",
+    "artist": "奈良県立大学 軽音楽部",
+    "title": "新入生に魅せるLIVE 2025",
+    "url": "https://vijon.jp/schedule/detail/44356",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2025/05/04",
+    "day": "日",
+    "artist": "流通科学大学 軽音楽部",
+    "title": "新入生に魅せるLIVE 2025",
+    "url": "https://vijon.jp/schedule/detail/44356",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2025/05/04",
+    "day": "日",
+    "artist": "摂南大学 軽音楽部",
+    "title": "新入生に魅せるLIVE 2025",
+    "url": "https://vijon.jp/schedule/detail/44356",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2025/05/04",
+    "day": "日",
+    "artist": "武庫川女子大学 軽音楽部",
+    "title": "新入生に魅せるLIVE 2025",
+    "url": "https://vijon.jp/schedule/detail/44356",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
     "date": "2025/05/06",
     "day": "火",
     "artist": "魂のレベル向上委員会",
@@ -5513,6 +5612,51 @@
     "artist": "ノーサイド・アウトサイダー",
     "title": "梅田Zeela presents.“出張”MAGIC HOUR～ vijon編～",
     "url": "https://vijon.jp/schedule/detail/43600",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2025/05/20",
+    "day": "火",
+    "artist": "EMILY",
+    "title": "【SWIMMY】",
+    "url": "https://vijon.jp/schedule/detail/42929",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2025/05/20",
+    "day": "火",
+    "artist": "新世界心中",
+    "title": "【SWIMMY】",
+    "url": "https://vijon.jp/schedule/detail/42929",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2025/05/20",
+    "day": "火",
+    "artist": "Goat hope.",
+    "title": "【SWIMMY】",
+    "url": "https://vijon.jp/schedule/detail/42929",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2025/05/20",
+    "day": "火",
+    "artist": "can me",
+    "title": "【SWIMMY】",
+    "url": "https://vijon.jp/schedule/detail/42929",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2025/05/20",
+    "day": "火",
+    "artist": "...and more",
+    "title": "【SWIMMY】",
+    "url": "https://vijon.jp/schedule/detail/42929",
     "venue": "北堀江club vijon",
     "note": ""
   },
@@ -9192,6 +9336,15 @@
     "date": "2025/05/04",
     "day": "日",
     "artist": "依存性えんじぇる",
+    "title": "HAPPYHOLIDAYS! - orange-",
+    "url": "https://bangboo.jp/schedule/detail/42514",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2025/05/04",
+    "day": "日",
+    "artist": "エートエス",
     "title": "HAPPYHOLIDAYS! - orange-",
     "url": "https://bangboo.jp/schedule/detail/42514",
     "venue": "梅田BANGBOO",
@@ -24057,6 +24210,60 @@
     "note": ""
   },
   {
+    "date": "2025/05/26",
+    "day": "月",
+    "artist": "なにわらいん",
+    "title": "FaveZone",
+    "url": "http://rocktown.jp/schedule/202505.html",
+    "venue": "あべのROCKTOWN",
+    "note": ""
+  },
+  {
+    "date": "2025/05/26",
+    "day": "月",
+    "artist": "キミだけの天使！",
+    "title": "FaveZone",
+    "url": "http://rocktown.jp/schedule/202505.html",
+    "venue": "あべのROCKTOWN",
+    "note": ""
+  },
+  {
+    "date": "2025/05/26",
+    "day": "月",
+    "artist": "UNWHITE",
+    "title": "FaveZone",
+    "url": "http://rocktown.jp/schedule/202505.html",
+    "venue": "あべのROCKTOWN",
+    "note": ""
+  },
+  {
+    "date": "2025/05/26",
+    "day": "月",
+    "artist": "ELVA",
+    "title": "FaveZone",
+    "url": "http://rocktown.jp/schedule/202505.html",
+    "venue": "あべのROCKTOWN",
+    "note": ""
+  },
+  {
+    "date": "2025/05/26",
+    "day": "月",
+    "artist": "SAWAGE",
+    "title": "FaveZone",
+    "url": "http://rocktown.jp/schedule/202505.html",
+    "venue": "あべのROCKTOWN",
+    "note": ""
+  },
+  {
+    "date": "2025/05/26",
+    "day": "月",
+    "artist": "Aim for One",
+    "title": "FaveZone",
+    "url": "http://rocktown.jp/schedule/202505.html",
+    "venue": "あべのROCKTOWN",
+    "note": ""
+  },
+  {
     "date": "2025/05/27",
     "day": "火",
     "artist": "ギルド",
@@ -29596,6 +29803,60 @@
     "day": "月",
     "artist": "問)清水音泉 06-6357-3666",
     "title": "DUDE TONE LIVE 2025",
+    "url": "http://www.knave.co.jp/schedule/s_2025_07.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2025/08/17",
+    "day": "日",
+    "artist": "- blooming 34 -】",
+    "title": "【Kachu Birthday Live 2025",
+    "url": "http://www.knave.co.jp/schedule/s_2025_07.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2025/08/17",
+    "day": "日",
+    "artist": "内川樺月",
+    "title": "【Kachu Birthday Live 2025",
+    "url": "http://www.knave.co.jp/schedule/s_2025_07.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2025/08/17",
+    "day": "日",
+    "artist": "一般発売5",
+    "title": "【Kachu Birthday Live 2025",
+    "url": "http://www.knave.co.jp/schedule/s_2025_07.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2025/08/17",
+    "day": "日",
+    "artist": "318:00〜",
+    "title": "【Kachu Birthday Live 2025",
+    "url": "http://www.knave.co.jp/schedule/s_2025_07.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2025/08/17",
+    "day": "日",
+    "artist": "問)https:",
+    "title": "【Kachu Birthday Live 2025",
+    "url": "http://www.knave.co.jp/schedule/s_2025_07.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2025/08/17",
+    "day": "日",
+    "artist": "www.katsuki-uchikawa.info",
+    "title": "【Kachu Birthday Live 2025",
     "url": "http://www.knave.co.jp/schedule/s_2025_07.html",
     "venue": "knave",
     "note": ""
