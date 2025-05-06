@@ -3171,7 +3171,7 @@
     "date": "2025/06/01",
     "day": "日",
     "artist": "Sesse",
-    "title": "Sesse / シュムシュムグミラスティクム / 0大陸 / Lone Otter",
+    "title": "OPEN 17:00",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -3180,7 +3180,7 @@
     "date": "2025/06/01",
     "day": "日",
     "artist": "シュムシュムグミラスティクム",
-    "title": "Sesse / シュムシュムグミラスティクム / 0大陸 / Lone Otter",
+    "title": "OPEN 17:00",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -3189,7 +3189,7 @@
     "date": "2025/06/01",
     "day": "日",
     "artist": "0大陸",
-    "title": "Sesse / シュムシュムグミラスティクム / 0大陸 / Lone Otter",
+    "title": "OPEN 17:00",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -3198,25 +3198,7 @@
     "date": "2025/06/01",
     "day": "日",
     "artist": "Lone Otter",
-    "title": "Sesse / シュムシュムグミラスティクム / 0大陸 / Lone Otter",
-    "url": "https://para-dice.net/",
-    "venue": "扇町para-dice",
-    "note": ""
-  },
-  {
-    "date": "2025/06/03",
-    "day": "火",
-    "artist": "1158",
-    "title": "1158 / Luke / MCSHIGE Rockingchair / strange world's end / アステリズム×369beats / ハヅメ",
-    "url": "https://para-dice.net/",
-    "venue": "扇町para-dice",
-    "note": ""
-  },
-  {
-    "date": "2025/06/03",
-    "day": "火",
-    "artist": "Luke",
-    "title": "1158 / Luke / MCSHIGE Rockingchair / strange world's end / アステリズム×369beats / ハヅメ",
+    "title": "OPEN 17:00",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -3225,7 +3207,7 @@
     "date": "2025/06/03",
     "day": "火",
     "artist": "MCSHIGE Rockingchair",
-    "title": "1158 / Luke / MCSHIGE Rockingchair / strange world's end / アステリズム×369beats / ハヅメ",
+    "title": "OPEN 18:00",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -3233,17 +3215,8 @@
   {
     "date": "2025/06/03",
     "day": "火",
-    "artist": "strange world's end",
-    "title": "1158 / Luke / MCSHIGE Rockingchair / strange world's end / アステリズム×369beats / ハヅメ",
-    "url": "https://para-dice.net/",
-    "venue": "扇町para-dice",
-    "note": ""
-  },
-  {
-    "date": "2025/06/03",
-    "day": "火",
-    "artist": "アステリズム×369beats",
-    "title": "1158 / Luke / MCSHIGE Rockingchair / strange world's end / アステリズム×369beats / ハヅメ",
+    "artist": "Luke",
+    "title": "OPEN 18:00",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -3252,34 +3225,34 @@
     "date": "2025/06/03",
     "day": "火",
     "artist": "ハヅメ",
-    "title": "1158 / Luke / MCSHIGE Rockingchair / strange world's end / アステリズム×369beats / ハヅメ",
+    "title": "OPEN 18:00",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
   },
   {
-    "date": "2025/06/04",
-    "day": "水",
-    "artist": "タイラキタ",
-    "title": "タイラキタ / 望月あづさ / イヌイタダユキ / mickey / カリウタ",
+    "date": "2025/06/03",
+    "day": "火",
+    "artist": "strange world's end",
+    "title": "OPEN 18:00",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
   },
   {
-    "date": "2025/06/04",
-    "day": "水",
-    "artist": "望月あづさ",
-    "title": "タイラキタ / 望月あづさ / イヌイタダユキ / mickey / カリウタ",
+    "date": "2025/06/03",
+    "day": "火",
+    "artist": "アステリズム×369beats",
+    "title": "OPEN 18:00",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
   },
   {
-    "date": "2025/06/04",
-    "day": "水",
-    "artist": "イヌイタダユキ",
-    "title": "タイラキタ / 望月あづさ / イヌイタダユキ / mickey / カリウタ",
+    "date": "2025/06/03",
+    "day": "火",
+    "artist": "1158",
+    "title": "OPEN 18:00",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -3288,7 +3261,7 @@
     "date": "2025/06/04",
     "day": "水",
     "artist": "mickey",
-    "title": "タイラキタ / 望月あづさ / イヌイタダユキ / mickey / カリウタ",
+    "title": "OPEN 18:30",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -3297,7 +3270,70 @@
     "date": "2025/06/04",
     "day": "水",
     "artist": "カリウタ",
-    "title": "タイラキタ / 望月あづさ / イヌイタダユキ / mickey / カリウタ",
+    "title": "OPEN 18:30",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
+    "date": "2025/06/04",
+    "day": "水",
+    "artist": "タイラキタ",
+    "title": "OPEN 18:30",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
+    "date": "2025/06/04",
+    "day": "水",
+    "artist": "望月あづさ",
+    "title": "OPEN 18:30",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
+    "date": "2025/06/04",
+    "day": "水",
+    "artist": "イヌイタダユキ",
+    "title": "OPEN 18:30",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
+    "date": "2025/06/05",
+    "day": "木",
+    "artist": "para-dice企画",
+    "title": "『Para minha casa』",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
+    "date": "2025/06/05",
+    "day": "木",
+    "artist": "『Para minha casa』",
+    "title": "『Para minha casa』",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
+    "date": "2025/06/05",
+    "day": "木",
+    "artist": "サッちゃナオちゃ",
+    "title": "『Para minha casa』",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
+    "date": "2025/06/05",
+    "day": "木",
+    "artist": "shocojo＋jocojo)",
+    "title": "『Para minha casa』",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -3368,7 +3404,7 @@
   {
     "date": "2025/06/07",
     "day": "土",
-    "artist": "moodress",
+    "artist": "PPHHXX",
     "title": "『 Powerslave 』",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
@@ -3377,7 +3413,7 @@
   {
     "date": "2025/06/07",
     "day": "土",
-    "artist": "PPHHXX",
+    "artist": "moodress",
     "title": "『 Powerslave 』",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
@@ -3486,16 +3522,7 @@
     "date": "2025/06/12",
     "day": "木",
     "artist": "岡﨑コウユウ",
-    "title": "岡﨑コウユウ / ながおかみお(くつした) / 灰原正之 / 松延慎吾 / 新實幸太朗",
-    "url": "https://para-dice.net/",
-    "venue": "扇町para-dice",
-    "note": ""
-  },
-  {
-    "date": "2025/06/12",
-    "day": "木",
-    "artist": "ながおかみお",
-    "title": "岡﨑コウユウ / ながおかみお(くつした) / 灰原正之 / 松延慎吾 / 新實幸太朗",
+    "title": "OPEN 18:30",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -3504,7 +3531,7 @@
     "date": "2025/06/12",
     "day": "木",
     "artist": "灰原正之",
-    "title": "岡﨑コウユウ / ながおかみお(くつした) / 灰原正之 / 松延慎吾 / 新實幸太朗",
+    "title": "OPEN 18:30",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -3513,7 +3540,16 @@
     "date": "2025/06/12",
     "day": "木",
     "artist": "松延慎吾",
-    "title": "岡﨑コウユウ / ながおかみお(くつした) / 灰原正之 / 松延慎吾 / 新實幸太朗",
+    "title": "OPEN 18:30",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
+    "date": "2025/06/12",
+    "day": "木",
+    "artist": "ながおかみお",
+    "title": "OPEN 18:30",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -3522,7 +3558,7 @@
     "date": "2025/06/12",
     "day": "木",
     "artist": "新實幸太朗",
-    "title": "岡﨑コウユウ / ながおかみお(くつした) / 灰原正之 / 松延慎吾 / 新實幸太朗",
+    "title": "OPEN 18:30",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -3620,35 +3656,8 @@
   {
     "date": "2025/06/17",
     "day": "火",
-    "artist": "河童のヨーコ",
-    "title": "河童のヨーコ / 雲雀 / モリ やすヒロ / 久保田和之 / 藤箱",
-    "url": "https://para-dice.net/",
-    "venue": "扇町para-dice",
-    "note": ""
-  },
-  {
-    "date": "2025/06/17",
-    "day": "火",
-    "artist": "雲雀",
-    "title": "河童のヨーコ / 雲雀 / モリ やすヒロ / 久保田和之 / 藤箱",
-    "url": "https://para-dice.net/",
-    "venue": "扇町para-dice",
-    "note": ""
-  },
-  {
-    "date": "2025/06/17",
-    "day": "火",
-    "artist": "モリ やすヒロ",
-    "title": "河童のヨーコ / 雲雀 / モリ やすヒロ / 久保田和之 / 藤箱",
-    "url": "https://para-dice.net/",
-    "venue": "扇町para-dice",
-    "note": ""
-  },
-  {
-    "date": "2025/06/17",
-    "day": "火",
     "artist": "久保田和之",
-    "title": "河童のヨーコ / 雲雀 / モリ やすヒロ / 久保田和之 / 藤箱",
+    "title": "OPEN 18:30",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -3657,7 +3666,34 @@
     "date": "2025/06/17",
     "day": "火",
     "artist": "藤箱",
-    "title": "河童のヨーコ / 雲雀 / モリ やすヒロ / 久保田和之 / 藤箱",
+    "title": "OPEN 18:30",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
+    "date": "2025/06/17",
+    "day": "火",
+    "artist": "河童のヨーコ",
+    "title": "OPEN 18:30",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
+    "date": "2025/06/17",
+    "day": "火",
+    "artist": "雲雀",
+    "title": "OPEN 18:30",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
+    "date": "2025/06/17",
+    "day": "火",
+    "artist": "モリ やすヒロ",
+    "title": "OPEN 18:30",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -3837,7 +3873,7 @@
     "date": "2025/06/22",
     "day": "日",
     "artist": "ユアパラソルイズヌード",
-    "title": "ユアパラソルイズヌード / collector colors / nn_underground / 南都騒楽団 / 独演家朱音",
+    "title": "OPEN 16:30",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -3846,7 +3882,7 @@
     "date": "2025/06/22",
     "day": "日",
     "artist": "collector colors",
-    "title": "ユアパラソルイズヌード / collector colors / nn_underground / 南都騒楽団 / 独演家朱音",
+    "title": "OPEN 16:30",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -3855,7 +3891,16 @@
     "date": "2025/06/22",
     "day": "日",
     "artist": "nn_underground",
-    "title": "ユアパラソルイズヌード / collector colors / nn_underground / 南都騒楽団 / 独演家朱音",
+    "title": "OPEN 16:30",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
+    "date": "2025/06/22",
+    "day": "日",
+    "artist": "独演家朱音",
+    "title": "OPEN 16:30",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -3864,16 +3909,7 @@
     "date": "2025/06/22",
     "day": "日",
     "artist": "南都騒楽団",
-    "title": "ユアパラソルイズヌード / collector colors / nn_underground / 南都騒楽団 / 独演家朱音",
-    "url": "https://para-dice.net/",
-    "venue": "扇町para-dice",
-    "note": ""
-  },
-  {
-    "date": "2025/06/22",
-    "day": "日",
-    "artist": "独演家朱音 and more...",
-    "title": "ユアパラソルイズヌード / collector colors / nn_underground / 南都騒楽団 / 独演家朱音",
+    "title": "OPEN 16:30",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -3998,8 +4034,8 @@
   {
     "date": "2025/06/28",
     "day": "土",
-    "artist": "ヴィンセントナガバンド",
-    "title": "ヴィンセントナガバンド / SUPER DO / BRODY / NOI / wait!!!",
+    "artist": "SUPER DO",
+    "title": "OPEN 17:00",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -4007,8 +4043,26 @@
   {
     "date": "2025/06/28",
     "day": "土",
-    "artist": "SUPER DO",
-    "title": "ヴィンセントナガバンド / SUPER DO / BRODY / NOI / wait!!!",
+    "artist": "wait!!!",
+    "title": "OPEN 17:00",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
+    "date": "2025/06/28",
+    "day": "土",
+    "artist": "The Lacquers",
+    "title": "OPEN 17:00",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
+    "date": "2025/06/28",
+    "day": "土",
+    "artist": "ヴィンセントナガバンド",
+    "title": "OPEN 17:00",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -4017,7 +4071,7 @@
     "date": "2025/06/28",
     "day": "土",
     "artist": "BRODY",
-    "title": "ヴィンセントナガバンド / SUPER DO / BRODY / NOI / wait!!!",
+    "title": "OPEN 17:00",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -4026,34 +4080,7 @@
     "date": "2025/06/28",
     "day": "土",
     "artist": "NOI",
-    "title": "ヴィンセントナガバンド / SUPER DO / BRODY / NOI / wait!!!",
-    "url": "https://para-dice.net/",
-    "venue": "扇町para-dice",
-    "note": ""
-  },
-  {
-    "date": "2025/06/28",
-    "day": "土",
-    "artist": "wait!!! and more...",
-    "title": "ヴィンセントナガバンド / SUPER DO / BRODY / NOI / wait!!!",
-    "url": "https://para-dice.net/",
-    "venue": "扇町para-dice",
-    "note": ""
-  },
-  {
-    "date": "2025/06/29",
-    "day": "日",
-    "artist": "RUST",
-    "title": "RUST / BATINE / MOGETS / 砂街ケースケ / BOMBJACK",
-    "url": "https://para-dice.net/",
-    "venue": "扇町para-dice",
-    "note": ""
-  },
-  {
-    "date": "2025/06/29",
-    "day": "日",
-    "artist": "BATINE",
-    "title": "RUST / BATINE / MOGETS / 砂街ケースケ / BOMBJACK",
+    "title": "OPEN 17:00",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -4062,7 +4089,7 @@
     "date": "2025/06/29",
     "day": "日",
     "artist": "MOGETS",
-    "title": "RUST / BATINE / MOGETS / 砂街ケースケ / BOMBJACK",
+    "title": "OPEN 16:30",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -4071,7 +4098,7 @@
     "date": "2025/06/29",
     "day": "日",
     "artist": "砂街ケースケ",
-    "title": "RUST / BATINE / MOGETS / 砂街ケースケ / BOMBJACK",
+    "title": "OPEN 16:30",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -4079,8 +4106,26 @@
   {
     "date": "2025/06/29",
     "day": "日",
-    "artist": "BOMBJACK and more...",
-    "title": "RUST / BATINE / MOGETS / 砂街ケースケ / BOMBJACK",
+    "artist": "BOMBJACK",
+    "title": "OPEN 16:30",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
+    "date": "2025/06/29",
+    "day": "日",
+    "artist": "BATINE",
+    "title": "OPEN 16:30",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
+    "date": "2025/06/29",
+    "day": "日",
+    "artist": "RUST",
+    "title": "OPEN 16:30",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -5499,6 +5544,15 @@
     "note": ""
   },
   {
+    "date": "2025/05/10",
+    "day": "土",
+    "artist": "シェルミィ",
+    "title": "シェルミィ二日連続コンセプト型公演 「双極大阪 −躁−｣",
+    "url": "https://vijon.jp/schedule/detail/41529",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
     "date": "2025/05/12",
     "day": "月",
     "artist": "バク",
@@ -6237,6 +6291,60 @@
     "note": ""
   },
   {
+    "date": "2025/05/27",
+    "day": "火",
+    "artist": "Novaflair",
+    "title": "MUSIC HOUR LOVER!!",
+    "url": "https://vijon.jp/schedule/detail/42672",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2025/05/27",
+    "day": "火",
+    "artist": "A Little Sugar",
+    "title": "MUSIC HOUR LOVER!!",
+    "url": "https://vijon.jp/schedule/detail/42672",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2025/05/27",
+    "day": "火",
+    "artist": "Bevvy",
+    "title": "MUSIC HOUR LOVER!!",
+    "url": "https://vijon.jp/schedule/detail/42672",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2025/05/27",
+    "day": "火",
+    "artist": "and more... ノリバル",
+    "title": "MUSIC HOUR LOVER!!",
+    "url": "https://vijon.jp/schedule/detail/42672",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2025/05/27",
+    "day": "火",
+    "artist": "ピンクマン",
+    "title": "MUSIC HOUR LOVER!!",
+    "url": "https://vijon.jp/schedule/detail/42672",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2025/05/27",
+    "day": "火",
+    "artist": "and more...",
+    "title": "MUSIC HOUR LOVER!!",
+    "url": "https://vijon.jp/schedule/detail/42672",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
     "date": "2025/05/30",
     "day": "金",
     "artist": "クロメ",
@@ -6485,6 +6593,69 @@
     "artist": "終活クラブ",
     "title": "夕方と猫pre. 『時速90kmの流れ星ツアー』",
     "url": "https://vijon.jp/schedule/detail/42651",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2025/06/19",
+    "day": "木",
+    "artist": "Blue Veil",
+    "title": "club vijon × ウドー音楽事務所 pre.【Youth Gone Wild 2025】vol.2",
+    "url": "https://vijon.jp/schedule/detail/42588",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2025/06/19",
+    "day": "木",
+    "artist": "カレラ",
+    "title": "club vijon × ウドー音楽事務所 pre.【Youth Gone Wild 2025】vol.2",
+    "url": "https://vijon.jp/schedule/detail/42588",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2025/06/19",
+    "day": "木",
+    "artist": "Holism",
+    "title": "club vijon × ウドー音楽事務所 pre.【Youth Gone Wild 2025】vol.2",
+    "url": "https://vijon.jp/schedule/detail/42588",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2025/06/19",
+    "day": "木",
+    "artist": "凛黎",
+    "title": "club vijon × ウドー音楽事務所 pre.【Youth Gone Wild 2025】vol.2",
+    "url": "https://vijon.jp/schedule/detail/42588",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2025/06/19",
+    "day": "木",
+    "artist": "kasane",
+    "title": "club vijon × ウドー音楽事務所 pre.【Youth Gone Wild 2025】vol.2",
+    "url": "https://vijon.jp/schedule/detail/42588",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2025/06/19",
+    "day": "木",
+    "artist": "アンツレイト",
+    "title": "club vijon × ウドー音楽事務所 pre.【Youth Gone Wild 2025】vol.2",
+    "url": "https://vijon.jp/schedule/detail/42588",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2025/06/19",
+    "day": "木",
+    "artist": "Jack N’ Boro",
+    "title": "club vijon × ウドー音楽事務所 pre.【Youth Gone Wild 2025】vol.2",
+    "url": "https://vijon.jp/schedule/detail/42588",
     "venue": "北堀江club vijon",
     "note": ""
   },
@@ -11756,7 +11927,7 @@
   {
     "date": "2025/05/28",
     "day": "水",
-    "artist": "memory like a sieve  andmore...",
+    "artist": "memory like a sieve",
     "title": "POP×ROCK×POP#2",
     "url": "https://clubdrop.jp/schedule/detail/42888",
     "venue": "アメリカ村DROP",
@@ -12119,6 +12290,42 @@
     "artist": "OLPHEUS",
     "title": "BLOODAXE TOUR  COUNTERPARTS / DYING WISH JAPAN TOUR 2025",
     "url": "https://clubdrop.jp/schedule/detail/39528",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2025/06/02",
+    "day": "月",
+    "artist": "Curiosity.",
+    "title": "BRAVER!!Level.31",
+    "url": "https://clubdrop.jp/schedule/detail/42513",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2025/06/02",
+    "day": "月",
+    "artist": "イクリプスレイ",
+    "title": "BRAVER!!Level.31",
+    "url": "https://clubdrop.jp/schedule/detail/42513",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2025/06/02",
+    "day": "月",
+    "artist": "infinie sentimeter",
+    "title": "BRAVER!!Level.31",
+    "url": "https://clubdrop.jp/schedule/detail/42513",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2025/06/02",
+    "day": "月",
+    "artist": "and more!!",
+    "title": "BRAVER!!Level.31",
+    "url": "https://clubdrop.jp/schedule/detail/42513",
     "venue": "アメリカ村DROP",
     "note": ""
   },
@@ -20484,6 +20691,51 @@
     "note": ""
   },
   {
+    "date": "2025/07/19",
+    "day": "土",
+    "artist": "HAYATO From →Pia-no-jaC←",
+    "title": "「ジャムコレおかわり　清ちゃん編」",
+    "url": "http://www.knave.co.jp/schedule/s_2025_07.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2025/07/19",
+    "day": "土",
+    "artist": "有田清幸",
+    "title": "「ジャムコレおかわり　清ちゃん編」",
+    "url": "http://www.knave.co.jp/schedule/s_2025_07.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2025/07/19",
+    "day": "土",
+    "artist": "一般発売5",
+    "title": "「ジャムコレおかわり　清ちゃん編」",
+    "url": "http://www.knave.co.jp/schedule/s_2025_07.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2025/07/19",
+    "day": "土",
+    "artist": "1712:00",
+    "title": "「ジャムコレおかわり　清ちゃん編」",
+    "url": "http://www.knave.co.jp/schedule/s_2025_07.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2025/07/19",
+    "day": "土",
+    "artist": "問)knave06-6535-0691",
+    "title": "「ジャムコレおかわり　清ちゃん編」",
+    "url": "http://www.knave.co.jp/schedule/s_2025_07.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
     "date": "2025/07/23",
     "day": "水",
     "artist": "きばやし",
@@ -20587,6 +20839,42 @@
     "day": "金",
     "artist": "問)knave06-6535-0691",
     "title": "LoversRock",
+    "url": "http://www.knave.co.jp/schedule/s_2025_07.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2025/07/26",
+    "day": "土",
+    "artist": "→Pia-no-jaC←",
+    "title": "「→Pia-no-jaC← 39リクエストアワー」",
+    "url": "http://www.knave.co.jp/schedule/s_2025_07.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2025/07/26",
+    "day": "土",
+    "artist": "一般発売5",
+    "title": "「→Pia-no-jaC← 39リクエストアワー」",
+    "url": "http://www.knave.co.jp/schedule/s_2025_07.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2025/07/26",
+    "day": "土",
+    "artist": "1712:00",
+    "title": "「→Pia-no-jaC← 39リクエストアワー」",
+    "url": "http://www.knave.co.jp/schedule/s_2025_07.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2025/07/26",
+    "day": "土",
+    "artist": "問)knave06-6535-0691",
+    "title": "「→Pia-no-jaC← 39リクエストアワー」",
     "url": "http://www.knave.co.jp/schedule/s_2025_07.html",
     "venue": "knave",
     "note": ""
