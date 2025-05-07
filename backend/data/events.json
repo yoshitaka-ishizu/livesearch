@@ -3440,35 +3440,8 @@
   {
     "date": "2025/06/08",
     "day": "日",
-    "artist": "ミズオチアンダスタンディング",
-    "title": "ミズオチアンダスタンディング / 爆音シンフォニー(徳島) / THE 王様クジラ / きまぐれ☆まゃバンド / VALLEY SIDE(徳島) / DOROTHY",
-    "url": "https://para-dice.net/",
-    "venue": "扇町para-dice",
-    "note": ""
-  },
-  {
-    "date": "2025/06/08",
-    "day": "日",
-    "artist": "爆音シンフォニー",
-    "title": "ミズオチアンダスタンディング / 爆音シンフォニー(徳島) / THE 王様クジラ / きまぐれ☆まゃバンド / VALLEY SIDE(徳島) / DOROTHY",
-    "url": "https://para-dice.net/",
-    "venue": "扇町para-dice",
-    "note": ""
-  },
-  {
-    "date": "2025/06/08",
-    "day": "日",
     "artist": "THE 王様クジラ",
-    "title": "ミズオチアンダスタンディング / 爆音シンフォニー(徳島) / THE 王様クジラ / きまぐれ☆まゃバンド / VALLEY SIDE(徳島) / DOROTHY",
-    "url": "https://para-dice.net/",
-    "venue": "扇町para-dice",
-    "note": ""
-  },
-  {
-    "date": "2025/06/08",
-    "day": "日",
-    "artist": "きまぐれ☆まゃバンド",
-    "title": "ミズオチアンダスタンディング / 爆音シンフォニー(徳島) / THE 王様クジラ / きまぐれ☆まゃバンド / VALLEY SIDE(徳島) / DOROTHY",
+    "title": "OPEN 16:30",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -3477,7 +3450,34 @@
     "date": "2025/06/08",
     "day": "日",
     "artist": "VALLEY SIDE",
-    "title": "ミズオチアンダスタンディング / 爆音シンフォニー(徳島) / THE 王様クジラ / きまぐれ☆まゃバンド / VALLEY SIDE(徳島) / DOROTHY",
+    "title": "OPEN 16:30",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
+    "date": "2025/06/08",
+    "day": "日",
+    "artist": "きまぐれ☆まゃバンド",
+    "title": "OPEN 16:30",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
+    "date": "2025/06/08",
+    "day": "日",
+    "artist": "爆音シンフォニー",
+    "title": "OPEN 16:30",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
+    "date": "2025/06/08",
+    "day": "日",
+    "artist": "ミズオチアンダスタンディング",
+    "title": "OPEN 16:30",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -3486,7 +3486,7 @@
     "date": "2025/06/08",
     "day": "日",
     "artist": "DOROTHY",
-    "title": "ミズオチアンダスタンディング / 爆音シンフォニー(徳島) / THE 王様クジラ / きまぐれ☆まゃバンド / VALLEY SIDE(徳島) / DOROTHY",
+    "title": "OPEN 16:30",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -6338,9 +6338,108 @@
   {
     "date": "2025/05/27",
     "day": "火",
+    "artist": "JINSEI TUMU TUMU",
+    "title": "MUSIC HOUR LOVER!!",
+    "url": "https://vijon.jp/schedule/detail/42672",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2025/05/27",
+    "day": "火",
     "artist": "and more...",
     "title": "MUSIC HOUR LOVER!!",
     "url": "https://vijon.jp/schedule/detail/42672",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2025/05/28",
+    "day": "水",
+    "artist": "post public",
+    "title": "【BRAVE SONGS】vol.5",
+    "url": "https://vijon.jp/schedule/detail/42572",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2025/05/28",
+    "day": "水",
+    "artist": "ゆらる",
+    "title": "【BRAVE SONGS】vol.5",
+    "url": "https://vijon.jp/schedule/detail/42572",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2025/05/28",
+    "day": "水",
+    "artist": "Urushite",
+    "title": "【BRAVE SONGS】vol.5",
+    "url": "https://vijon.jp/schedule/detail/42572",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2025/05/28",
+    "day": "水",
+    "artist": "ヌーディーブランク",
+    "title": "【BRAVE SONGS】vol.5",
+    "url": "https://vijon.jp/schedule/detail/42572",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2025/05/28",
+    "day": "水",
+    "artist": "松久保竜也",
+    "title": "【BRAVE SONGS】vol.5",
+    "url": "https://vijon.jp/schedule/detail/42572",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2025/05/29",
+    "day": "木",
+    "artist": "青が藍に染まるまで",
+    "title": "【COLORS】vol.5",
+    "url": "https://vijon.jp/schedule/detail/43221",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2025/05/29",
+    "day": "木",
+    "artist": "怪獣ピクルス",
+    "title": "【COLORS】vol.5",
+    "url": "https://vijon.jp/schedule/detail/43221",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2025/05/29",
+    "day": "木",
+    "artist": "Akane",
+    "title": "【COLORS】vol.5",
+    "url": "https://vijon.jp/schedule/detail/43221",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2025/05/29",
+    "day": "木",
+    "artist": "Anty-coco",
+    "title": "【COLORS】vol.5",
+    "url": "https://vijon.jp/schedule/detail/43221",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2025/05/29",
+    "day": "木",
+    "artist": "and more...",
+    "title": "【COLORS】vol.5",
+    "url": "https://vijon.jp/schedule/detail/43221",
     "venue": "北堀江club vijon",
     "note": ""
   },
@@ -8258,6 +8357,87 @@
     "artist": "ENVY PARANOID",
     "title": "ENVY PARANOID 1st ANNIVERSARY ONE MAN SHOW",
     "url": "https://bangboo.jp/schedule/detail/42350",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2025/05/15",
+    "day": "木",
+    "artist": "全9組 バブルカ",
+    "title": "バブルカラスト主催",
+    "url": "https://bangboo.jp/schedule/detail/44587",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2025/05/15",
+    "day": "木",
+    "artist": "リトルーチェ",
+    "title": "バブルカラスト主催",
+    "url": "https://bangboo.jp/schedule/detail/44587",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2025/05/15",
+    "day": "木",
+    "artist": "永遠のセツナ",
+    "title": "バブルカラスト主催",
+    "url": "https://bangboo.jp/schedule/detail/44587",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2025/05/15",
+    "day": "木",
+    "artist": "maiぷれしゃす",
+    "title": "バブルカラスト主催",
+    "url": "https://bangboo.jp/schedule/detail/44587",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2025/05/15",
+    "day": "木",
+    "artist": "naniwairo",
+    "title": "バブルカラスト主催",
+    "url": "https://bangboo.jp/schedule/detail/44587",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2025/05/15",
+    "day": "木",
+    "artist": "むげんこんぜ",
+    "title": "バブルカラスト主催",
+    "url": "https://bangboo.jp/schedule/detail/44587",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2025/05/15",
+    "day": "木",
+    "artist": "iMoon",
+    "title": "バブルカラスト主催",
+    "url": "https://bangboo.jp/schedule/detail/44587",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2025/05/15",
+    "day": "木",
+    "artist": "Dear❥Nightmare",
+    "title": "バブルカラスト主催",
+    "url": "https://bangboo.jp/schedule/detail/44587",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2025/05/15",
+    "day": "木",
+    "artist": "青春えたんせる",
+    "title": "バブルカラスト主催",
+    "url": "https://bangboo.jp/schedule/detail/44587",
     "venue": "梅田BANGBOO",
     "note": ""
   },
@@ -10809,6 +10989,33 @@
     "note": ""
   },
   {
+    "date": "2025/10/03",
+    "day": "金",
+    "artist": "主演:三国未来 Crewle",
+    "title": "三国未来  生誕記念単独公演 「麗歳新章」",
+    "url": "https://bangboo.jp/schedule/detail/43792",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2025/10/03",
+    "day": "金",
+    "artist": "レヌセット",
+    "title": "三国未来  生誕記念単独公演 「麗歳新章」",
+    "url": "https://bangboo.jp/schedule/detail/43792",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2025/10/03",
+    "day": "金",
+    "artist": "弾き語り",
+    "title": "三国未来  生誕記念単独公演 「麗歳新章」",
+    "url": "https://bangboo.jp/schedule/detail/43792",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
     "date": "2025/05/02",
     "day": "金",
     "artist": "ネコノ欠伸",
@@ -11694,8 +11901,8 @@
     "date": "2025/05/19",
     "day": "月",
     "artist": "亜舞琴美",
-    "title": "こんな箱ですが、アンプラグド始めました SEASON.20",
-    "url": "https://clubdrop.jp/schedule/detail/42357",
+    "title": "こんな箱ですが、アンプラグド始めました SEASON.20-Tanki∞machi Birthday Before Party-",
+    "url": "https://clubdrop.jp/schedule/detail/44485",
     "venue": "アメリカ村DROP",
     "note": ""
   },
@@ -11703,8 +11910,17 @@
     "date": "2025/05/19",
     "day": "月",
     "artist": "黒田保輝",
-    "title": "こんな箱ですが、アンプラグド始めました SEASON.20",
-    "url": "https://clubdrop.jp/schedule/detail/42357",
+    "title": "こんな箱ですが、アンプラグド始めました SEASON.20-Tanki∞machi Birthday Before Party-",
+    "url": "https://clubdrop.jp/schedule/detail/44485",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2025/05/19",
+    "day": "月",
+    "artist": "眞鍋総一郎",
+    "title": "こんな箱ですが、アンプラグド始めました SEASON.20-Tanki∞machi Birthday Before Party-",
+    "url": "https://clubdrop.jp/schedule/detail/44485",
     "venue": "アメリカ村DROP",
     "note": ""
   },
@@ -11712,17 +11928,35 @@
     "date": "2025/05/19",
     "day": "月",
     "artist": "Tiiy",
-    "title": "こんな箱ですが、アンプラグド始めました SEASON.20",
-    "url": "https://clubdrop.jp/schedule/detail/42357",
+    "title": "こんな箱ですが、アンプラグド始めました SEASON.20-Tanki∞machi Birthday Before Party-",
+    "url": "https://clubdrop.jp/schedule/detail/44485",
     "venue": "アメリカ村DROP",
     "note": ""
   },
   {
     "date": "2025/05/19",
     "day": "月",
-    "artist": "Nobutaka Hayashi andmore!!",
-    "title": "こんな箱ですが、アンプラグド始めました SEASON.20",
-    "url": "https://clubdrop.jp/schedule/detail/42357",
+    "artist": "Nobutaka Hayashi",
+    "title": "こんな箱ですが、アンプラグド始めました SEASON.20-Tanki∞machi Birthday Before Party-",
+    "url": "https://clubdrop.jp/schedule/detail/44485",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2025/05/19",
+    "day": "月",
+    "artist": "でぃすこね!",
+    "title": "こんな箱ですが、アンプラグド始めました SEASON.20-Tanki∞machi Birthday Before Party-",
+    "url": "https://clubdrop.jp/schedule/detail/44485",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2025/05/19",
+    "day": "月",
+    "artist": "おみず",
+    "title": "こんな箱ですが、アンプラグド始めました SEASON.20-Tanki∞machi Birthday Before Party-",
+    "url": "https://clubdrop.jp/schedule/detail/44485",
     "venue": "アメリカ村DROP",
     "note": ""
   },
@@ -12315,6 +12549,15 @@
     "date": "2025/06/02",
     "day": "月",
     "artist": "infinie sentimeter",
+    "title": "BRAVER!!Level.31",
+    "url": "https://clubdrop.jp/schedule/detail/42513",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2025/06/02",
+    "day": "月",
+    "artist": "Groove Junction",
     "title": "BRAVER!!Level.31",
     "url": "https://clubdrop.jp/schedule/detail/42513",
     "venue": "アメリカ村DROP",
@@ -13298,6 +13541,87 @@
     "artist": "全人類アイドルプロジェクト",
     "title": "SPRISE pre. 「NEO TRIP」",
     "url": "https://osaka-varon.jp/schedule/detail/37198",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2025/05/11",
+    "day": "日",
+    "artist": "侵喰ぴぴぴKLAXON",
+    "title": "ぴぴぴ電撃BOP",
+    "url": "https://osaka-varon.jp/schedule/detail/44375",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2025/05/11",
+    "day": "日",
+    "artist": "ネテルダイヤ",
+    "title": "ぴぴぴ電撃BOP",
+    "url": "https://osaka-varon.jp/schedule/detail/44375",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2025/05/11",
+    "day": "日",
+    "artist": "めいてん",
+    "title": "ぴぴぴ電撃BOP",
+    "url": "https://osaka-varon.jp/schedule/detail/44375",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2025/05/11",
+    "day": "日",
+    "artist": "Dear❥Nightmare",
+    "title": "ぴぴぴ電撃BOP",
+    "url": "https://osaka-varon.jp/schedule/detail/44375",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2025/05/11",
+    "day": "日",
+    "artist": "ららびっと！",
+    "title": "ぴぴぴ電撃BOP",
+    "url": "https://osaka-varon.jp/schedule/detail/44375",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2025/05/11",
+    "day": "日",
+    "artist": "五代目KONAMON",
+    "title": "FOR ALL IDOLOVERS #アイラバ",
+    "url": "https://osaka-varon.jp/schedule/detail/36714",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2025/05/11",
+    "day": "日",
+    "artist": "COzMICぱれーど",
+    "title": "FOR ALL IDOLOVERS #アイラバ",
+    "url": "https://osaka-varon.jp/schedule/detail/36714",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2025/05/11",
+    "day": "日",
+    "artist": "HIGH SPY DOLL",
+    "title": "FOR ALL IDOLOVERS #アイラバ",
+    "url": "https://osaka-varon.jp/schedule/detail/36714",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2025/05/11",
+    "day": "日",
+    "artist": "link start",
+    "title": "FOR ALL IDOLOVERS #アイラバ",
+    "url": "https://osaka-varon.jp/schedule/detail/36714",
     "venue": "VARON",
     "note": ""
   },
@@ -20731,6 +21055,105 @@
     "day": "土",
     "artist": "問)knave06-6535-0691",
     "title": "「ジャムコレおかわり　清ちゃん編」",
+    "url": "http://www.knave.co.jp/schedule/s_2025_07.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2025/07/20",
+    "day": "日",
+    "artist": "お魚フェス 2025",
+    "title": "soratobiwo presents",
+    "url": "http://www.knave.co.jp/schedule/s_2025_07.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2025/07/20",
+    "day": "日",
+    "artist": "soratobiwo",
+    "title": "soratobiwo presents",
+    "url": "http://www.knave.co.jp/schedule/s_2025_07.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2025/07/20",
+    "day": "日",
+    "artist": "and more !!!",
+    "title": "soratobiwo presents",
+    "url": "http://www.knave.co.jp/schedule/s_2025_07.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2025/07/20",
+    "day": "日",
+    "artist": "会場：北堀江 club vijon",
+    "title": "soratobiwo presents",
+    "url": "http://www.knave.co.jp/schedule/s_2025_07.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2025/07/20",
+    "day": "日",
+    "artist": "南堀江Knave",
+    "title": "soratobiwo presents",
+    "url": "http://www.knave.co.jp/schedule/s_2025_07.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2025/07/20",
+    "day": "日",
+    "artist": "SOCORE FACTORY",
+    "title": "soratobiwo presents",
+    "url": "http://www.knave.co.jp/schedule/s_2025_07.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2025/07/20",
+    "day": "日",
+    "artist": "hillsパン工場",
+    "title": "soratobiwo presents",
+    "url": "http://www.knave.co.jp/schedule/s_2025_07.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2025/07/20",
+    "day": "日",
+    "artist": "堀江 Goldee",
+    "title": "soratobiwo presents",
+    "url": "http://www.knave.co.jp/schedule/s_2025_07.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2025/07/20",
+    "day": "日",
+    "artist": "問)https:",
+    "title": "soratobiwo presents",
+    "url": "http://www.knave.co.jp/schedule/s_2025_07.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2025/07/20",
+    "day": "日",
+    "artist": "x.com",
+    "title": "soratobiwo presents",
+    "url": "http://www.knave.co.jp/schedule/s_2025_07.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2025/07/20",
+    "day": "日",
+    "artist": "osakanafes",
+    "title": "soratobiwo presents",
     "url": "http://www.knave.co.jp/schedule/s_2025_07.html",
     "venue": "knave",
     "note": ""
