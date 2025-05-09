@@ -344,15 +344,6 @@
   {
     "date": "2025/05/09",
     "day": "金",
-    "artist": "Uncurtain",
-    "title": "サンキューソーマッチ",
-    "url": "https://fireloop.net/schedule_now.shtml#0509",
-    "venue": "寺田町Fireloop",
-    "note": ""
-  },
-  {
-    "date": "2025/05/09",
-    "day": "金",
     "artist": "いろかにほへと",
     "title": "サンキューソーマッチ",
     "url": "https://fireloop.net/schedule_now.shtml#0509",
@@ -2513,16 +2504,7 @@
   {
     "date": "2025/05/08",
     "day": "木",
-    "artist": "くもり",
-    "title": "【MUSIC for FUTURE】",
-    "url": "https://vijon.jp/schedule/detail/41921",
-    "venue": "北堀江club vijon",
-    "note": ""
-  },
-  {
-    "date": "2025/05/08",
-    "day": "木",
-    "artist": "Retro Page",
+    "artist": "Retro Page　※出演予定でした、くもり ですが、体調不良のため出演がキャンセルとなりました。",
     "title": "【MUSIC for FUTURE】",
     "url": "https://vijon.jp/schedule/detail/41921",
     "venue": "北堀江club vijon",
@@ -9209,7 +9191,7 @@
   {
     "date": "2025/05/17",
     "day": "土",
-    "artist": "Mary Ann and more...  RAM(ヲタ霊",
+    "artist": "Mary Ann",
     "title": "【ANIvijSON】 vol.2",
     "url": "https://clubdrop.jp/schedule/detail/44414",
     "venue": "アメリカ村DROP",
@@ -9218,7 +9200,52 @@
   {
     "date": "2025/05/17",
     "day": "土",
-    "artist": "弟...!  サーモン太郎",
+    "artist": "翔(みんめし",
+    "title": "【ANIvijSON】 vol.2",
+    "url": "https://clubdrop.jp/schedule/detail/44414",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2025/05/17",
+    "day": "土",
+    "artist": "ほろくら)",
+    "title": "【ANIvijSON】 vol.2",
+    "url": "https://clubdrop.jp/schedule/detail/44414",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2025/05/17",
+    "day": "土",
+    "artist": "ちゃんなお",
+    "title": "【ANIvijSON】 vol.2",
+    "url": "https://clubdrop.jp/schedule/detail/44414",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2025/05/17",
+    "day": "土",
+    "artist": "なつき  RAM(ヲタ霊",
+    "title": "【ANIvijSON】 vol.2",
+    "url": "https://clubdrop.jp/schedule/detail/44414",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2025/05/17",
+    "day": "土",
+    "artist": "弟...!",
+    "title": "【ANIvijSON】 vol.2",
+    "url": "https://clubdrop.jp/schedule/detail/44414",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2025/05/17",
+    "day": "土",
+    "artist": "ほろくら) サーモン太郎",
     "title": "【ANIvijSON】 vol.2",
     "url": "https://clubdrop.jp/schedule/detail/44414",
     "venue": "アメリカ村DROP",
@@ -9828,6 +9855,285 @@
     "note": ""
   },
   {
+    "date": "2025/05/31",
+    "day": "土",
+    "artist": "YUA",
+    "title": "平成ナイト vol.4",
+    "url": "https://clubdrop.jp/schedule/detail/44635",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2025/05/31",
+    "day": "土",
+    "artist": "ポール",
+    "title": "平成ナイト vol.4",
+    "url": "https://clubdrop.jp/schedule/detail/44635",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2025/05/31",
+    "day": "土",
+    "artist": "クボタリュウノスケ(Yellow Train",
+    "title": "平成ナイト vol.4",
+    "url": "https://clubdrop.jp/schedule/detail/44635",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2025/05/31",
+    "day": "土",
+    "artist": "Funk Style)",
+    "title": "平成ナイト vol.4",
+    "url": "https://clubdrop.jp/schedule/detail/44635",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2025/05/31",
+    "day": "土",
+    "artist": "RAM(ヲタ霊",
+    "title": "平成ナイト vol.4",
+    "url": "https://clubdrop.jp/schedule/detail/44635",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2025/05/31",
+    "day": "土",
+    "artist": "異臭騒ぎ)",
+    "title": "平成ナイト vol.4",
+    "url": "https://clubdrop.jp/schedule/detail/44635",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2025/05/31",
+    "day": "土",
+    "artist": "孤白",
+    "title": "平成ナイト vol.4",
+    "url": "https://clubdrop.jp/schedule/detail/44635",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2025/05/31",
+    "day": "土",
+    "artist": "YUTO(みそぼん",
+    "title": "平成ナイト vol.4",
+    "url": "https://clubdrop.jp/schedule/detail/44635",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2025/05/31",
+    "day": "土",
+    "artist": "みんめし)",
+    "title": "平成ナイト vol.4",
+    "url": "https://clubdrop.jp/schedule/detail/44635",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2025/05/31",
+    "day": "土",
+    "artist": "変態理科の先生",
+    "title": "平成ナイト vol.4",
+    "url": "https://clubdrop.jp/schedule/detail/44635",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2025/05/31",
+    "day": "土",
+    "artist": "ましろゆりか(shiroNo_0",
+    "title": "平成ナイト vol.4",
+    "url": "https://clubdrop.jp/schedule/detail/44635",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2025/05/31",
+    "day": "土",
+    "artist": "Super Cassette Vijon)",
+    "title": "平成ナイト vol.4",
+    "url": "https://clubdrop.jp/schedule/detail/44635",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2025/05/31",
+    "day": "土",
+    "artist": "なつき",
+    "title": "平成ナイト vol.4",
+    "url": "https://clubdrop.jp/schedule/detail/44635",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2025/05/31",
+    "day": "土",
+    "artist": "神楽",
+    "title": "平成ナイト vol.4",
+    "url": "https://clubdrop.jp/schedule/detail/44635",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2025/05/31",
+    "day": "土",
+    "artist": "ゑがちゃん(ボカタイ",
+    "title": "平成ナイト vol.4",
+    "url": "https://clubdrop.jp/schedule/detail/44635",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2025/05/31",
+    "day": "土",
+    "artist": "イケナイ)",
+    "title": "平成ナイト vol.4",
+    "url": "https://clubdrop.jp/schedule/detail/44635",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2025/05/31",
+    "day": "土",
+    "artist": "してやったり顔イッヌ(時の扉",
+    "title": "平成ナイト vol.4",
+    "url": "https://clubdrop.jp/schedule/detail/44635",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2025/05/31",
+    "day": "土",
+    "artist": "YAAAAAS)",
+    "title": "平成ナイト vol.4",
+    "url": "https://clubdrop.jp/schedule/detail/44635",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2025/05/31",
+    "day": "土",
+    "artist": "DJイェーガーマン",
+    "title": "平成ナイト vol.4",
+    "url": "https://clubdrop.jp/schedule/detail/44635",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2025/05/31",
+    "day": "土",
+    "artist": "Bigswamp a.k.a だいふく(New Lights",
+    "title": "平成ナイト vol.4",
+    "url": "https://clubdrop.jp/schedule/detail/44635",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2025/05/31",
+    "day": "土",
+    "artist": "ゲーマーズヘブン)",
+    "title": "平成ナイト vol.4",
+    "url": "https://clubdrop.jp/schedule/detail/44635",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2025/05/31",
+    "day": "土",
+    "artist": "つばさ(メロデイ",
+    "title": "平成ナイト vol.4",
+    "url": "https://clubdrop.jp/schedule/detail/44635",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2025/05/31",
+    "day": "土",
+    "artist": "Freja)",
+    "title": "平成ナイト vol.4",
+    "url": "https://clubdrop.jp/schedule/detail/44635",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2025/05/31",
+    "day": "土",
+    "artist": "RiKU (Junk Story",
+    "title": "平成ナイト vol.4",
+    "url": "https://clubdrop.jp/schedule/detail/44635",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2025/05/31",
+    "day": "土",
+    "artist": "Visual Rock Station)",
+    "title": "平成ナイト vol.4",
+    "url": "https://clubdrop.jp/schedule/detail/44635",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2025/05/31",
+    "day": "土",
+    "artist": "kyon",
+    "title": "平成ナイト vol.4",
+    "url": "https://clubdrop.jp/schedule/detail/44635",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2025/05/31",
+    "day": "土",
+    "artist": "憂漓",
+    "title": "平成ナイト vol.4",
+    "url": "https://clubdrop.jp/schedule/detail/44635",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2025/05/31",
+    "day": "土",
+    "artist": "icochan.",
+    "title": "平成ナイト vol.4",
+    "url": "https://clubdrop.jp/schedule/detail/44635",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2025/05/31",
+    "day": "土",
+    "artist": "らべーな(イケナイ",
+    "title": "平成ナイト vol.4",
+    "url": "https://clubdrop.jp/schedule/detail/44635",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2025/05/31",
+    "day": "土",
+    "artist": "YAAAAAS)  RAM(ヲタ霊",
+    "title": "平成ナイト vol.4",
+    "url": "https://clubdrop.jp/schedule/detail/44635",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2025/05/31",
+    "day": "土",
+    "artist": "ひつじん ごはんや影山",
+    "title": "平成ナイト vol.4",
+    "url": "https://clubdrop.jp/schedule/detail/44635",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
     "date": "2025/06/01",
     "day": "日",
     "artist": "COUNTERPARTS",
@@ -9914,6 +10220,42 @@
     "artist": "and more!!",
     "title": "BRAVER!!Level.31",
     "url": "https://clubdrop.jp/schedule/detail/42513",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2025/06/06",
+    "day": "金",
+    "artist": "WENDY",
+    "title": "The Everlasting Days Vol.14",
+    "url": "https://clubdrop.jp/schedule/detail/42952",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2025/06/06",
+    "day": "金",
+    "artist": "THE LUM",
+    "title": "The Everlasting Days Vol.14",
+    "url": "https://clubdrop.jp/schedule/detail/42952",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2025/06/06",
+    "day": "金",
+    "artist": "ANYDOUBT",
+    "title": "The Everlasting Days Vol.14",
+    "url": "https://clubdrop.jp/schedule/detail/42952",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2025/06/06",
+    "day": "金",
+    "artist": "WORLD OCEAN andmore!!",
+    "title": "The Everlasting Days Vol.14",
+    "url": "https://clubdrop.jp/schedule/detail/42952",
     "venue": "アメリカ村DROP",
     "note": ""
   },
@@ -10649,7 +10991,7 @@
   {
     "date": "2025/05/09",
     "day": "金",
-    "artist": "All I Cracks",
+    "artist": "All I Clacks",
     "title": "COMINGHOME x UNMASK aLIVE\"DOMESTIC GROOVE TOUR\" \"A LETTER TO THE FUTURE\" vol.1000",
     "url": "https://osaka-varon.jp/schedule/detail/40012",
     "venue": "VARON",
@@ -18090,6 +18432,60 @@
     "note": ""
   },
   {
+    "date": "2025/07/01",
+    "day": "火",
+    "artist": "Curiosity.",
+    "title": "Devil's Crossroads",
+    "url": "http://www.knave.co.jp/schedule/s_2025_07.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2025/07/01",
+    "day": "火",
+    "artist": "ベリーバッドアラモード",
+    "title": "Devil's Crossroads",
+    "url": "http://www.knave.co.jp/schedule/s_2025_07.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2025/07/01",
+    "day": "火",
+    "artist": "すいしょく",
+    "title": "Devil's Crossroads",
+    "url": "http://www.knave.co.jp/schedule/s_2025_07.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2025/07/01",
+    "day": "火",
+    "artist": "QLIP",
+    "title": "Devil's Crossroads",
+    "url": "http://www.knave.co.jp/schedule/s_2025_07.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2025/07/01",
+    "day": "火",
+    "artist": "bar bzilla",
+    "title": "Devil's Crossroads",
+    "url": "http://www.knave.co.jp/schedule/s_2025_07.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2025/07/01",
+    "day": "火",
+    "artist": "問)knave06-6535-0691",
+    "title": "Devil's Crossroads",
+    "url": "http://www.knave.co.jp/schedule/s_2025_07.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
     "date": "2025/07/02",
     "day": "水",
     "artist": "Tiiy",
@@ -18144,6 +18540,105 @@
     "note": ""
   },
   {
+    "date": "2025/07/03",
+    "day": "木",
+    "artist": "さよなら人工衛星",
+    "title": "高気圧ボーイズ&ガールズ",
+    "url": "http://www.knave.co.jp/schedule/s_2025_07.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2025/07/03",
+    "day": "木",
+    "artist": "MelloDramatico",
+    "title": "高気圧ボーイズ&ガールズ",
+    "url": "http://www.knave.co.jp/schedule/s_2025_07.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2025/07/03",
+    "day": "木",
+    "artist": "moomantie",
+    "title": "高気圧ボーイズ&ガールズ",
+    "url": "http://www.knave.co.jp/schedule/s_2025_07.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2025/07/03",
+    "day": "木",
+    "artist": "かたるくりこ",
+    "title": "高気圧ボーイズ&ガールズ",
+    "url": "http://www.knave.co.jp/schedule/s_2025_07.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2025/07/03",
+    "day": "木",
+    "artist": "問)knave06-6535-0691",
+    "title": "高気圧ボーイズ&ガールズ",
+    "url": "http://www.knave.co.jp/schedule/s_2025_07.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2025/07/04",
+    "day": "金",
+    "artist": "君がそうなら僕はこう",
+    "title": "That's Entertainment!",
+    "url": "http://www.knave.co.jp/schedule/s_2025_07.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2025/07/04",
+    "day": "金",
+    "artist": "理科室コーヒー実験ブレンド",
+    "title": "That's Entertainment!",
+    "url": "http://www.knave.co.jp/schedule/s_2025_07.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2025/07/04",
+    "day": "金",
+    "artist": "らくだのこぶX",
+    "title": "That's Entertainment!",
+    "url": "http://www.knave.co.jp/schedule/s_2025_07.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2025/07/04",
+    "day": "金",
+    "artist": "半袖セミナー",
+    "title": "That's Entertainment!",
+    "url": "http://www.knave.co.jp/schedule/s_2025_07.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2025/07/04",
+    "day": "金",
+    "artist": "赤いアフロ",
+    "title": "That's Entertainment!",
+    "url": "http://www.knave.co.jp/schedule/s_2025_07.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2025/07/04",
+    "day": "金",
+    "artist": "問)knave06-6535-0691",
+    "title": "That's Entertainment!",
+    "url": "http://www.knave.co.jp/schedule/s_2025_07.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
     "date": "2025/07/05",
     "day": "土",
     "artist": "The Alan Smithy Band",
@@ -18184,6 +18679,60 @@
     "day": "土",
     "artist": "問)knave06-6535-0691",
     "title": "LoversRock",
+    "url": "http://www.knave.co.jp/schedule/s_2025_07.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2025/07/07",
+    "day": "月",
+    "artist": "俺のかっこいいを見てくれ！！",
+    "title": "TANABIRTHDAY NIGHT",
+    "url": "http://www.knave.co.jp/schedule/s_2025_07.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2025/07/07",
+    "day": "月",
+    "artist": "ウィズランジャー",
+    "title": "TANABIRTHDAY NIGHT",
+    "url": "http://www.knave.co.jp/schedule/s_2025_07.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2025/07/07",
+    "day": "月",
+    "artist": "トイメゾン",
+    "title": "TANABIRTHDAY NIGHT",
+    "url": "http://www.knave.co.jp/schedule/s_2025_07.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2025/07/07",
+    "day": "月",
+    "artist": "蟹光船",
+    "title": "TANABIRTHDAY NIGHT",
+    "url": "http://www.knave.co.jp/schedule/s_2025_07.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2025/07/07",
+    "day": "月",
+    "artist": "メルシー",
+    "title": "TANABIRTHDAY NIGHT",
+    "url": "http://www.knave.co.jp/schedule/s_2025_07.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2025/07/07",
+    "day": "月",
+    "artist": "問)knave06-6535-0691",
+    "title": "TANABIRTHDAY NIGHT",
     "url": "http://www.knave.co.jp/schedule/s_2025_07.html",
     "venue": "knave",
     "note": ""
@@ -18535,6 +19084,51 @@
     "day": "木",
     "artist": "問)knave06-6535-0691",
     "title": "NaturalWoman",
+    "url": "http://www.knave.co.jp/schedule/s_2025_07.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2025/07/18",
+    "day": "金",
+    "artist": "KU-NEL MYMY",
+    "title": "I've Got A Feeling",
+    "url": "http://www.knave.co.jp/schedule/s_2025_07.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2025/07/18",
+    "day": "金",
+    "artist": "おなじ話",
+    "title": "I've Got A Feeling",
+    "url": "http://www.knave.co.jp/schedule/s_2025_07.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2025/07/18",
+    "day": "金",
+    "artist": "キセイチュウ",
+    "title": "I've Got A Feeling",
+    "url": "http://www.knave.co.jp/schedule/s_2025_07.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2025/07/18",
+    "day": "金",
+    "artist": "クロニックブルー",
+    "title": "I've Got A Feeling",
+    "url": "http://www.knave.co.jp/schedule/s_2025_07.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2025/07/18",
+    "day": "金",
+    "artist": "問)knave06-6535-0691",
+    "title": "I've Got A Feeling",
     "url": "http://www.knave.co.jp/schedule/s_2025_07.html",
     "venue": "knave",
     "note": ""
