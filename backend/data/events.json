@@ -3206,7 +3206,7 @@
   {
     "date": "2025/05/21",
     "day": "水",
-    "artist": "AcroBox",
+    "artist": "たくま",
     "title": "【COVER LOVER】vol.5",
     "url": "https://vijon.jp/schedule/detail/42453",
     "venue": "北堀江club vijon",
@@ -3216,15 +3216,6 @@
     "date": "2025/05/21",
     "day": "水",
     "artist": "えせいんてり",
-    "title": "【COVER LOVER】vol.5",
-    "url": "https://vijon.jp/schedule/detail/42453",
-    "venue": "北堀江club vijon",
-    "note": ""
-  },
-  {
-    "date": "2025/05/21",
-    "day": "水",
-    "artist": "and more...",
     "title": "【COVER LOVER】vol.5",
     "url": "https://vijon.jp/schedule/detail/42453",
     "venue": "北堀江club vijon",
@@ -3557,7 +3548,7 @@
   {
     "date": "2025/05/27",
     "day": "火",
-    "artist": "and more... ノリバル",
+    "artist": "Vierror　  ノリバル",
     "title": "MUSIC HOUR LOVER!!",
     "url": "https://vijon.jp/schedule/detail/42672",
     "venue": "北堀江club vijon",
@@ -3575,16 +3566,7 @@
   {
     "date": "2025/05/27",
     "day": "火",
-    "artist": "JINSEI TUMU TUMU",
-    "title": "MUSIC HOUR LOVER!!",
-    "url": "https://vijon.jp/schedule/detail/42672",
-    "venue": "北堀江club vijon",
-    "note": ""
-  },
-  {
-    "date": "2025/05/27",
-    "day": "火",
-    "artist": "and more...",
+    "artist": "JINSEI TSUMU TSUMU",
     "title": "MUSIC HOUR LOVER!!",
     "url": "https://vijon.jp/schedule/detail/42672",
     "venue": "北堀江club vijon",
@@ -4214,7 +4196,7 @@
   {
     "date": "2025/06/20",
     "day": "金",
-    "artist": "半袖セミナー",
+    "artist": "半袖セミナー 　 ギヤソーマ",
     "title": "STILL PINK vol.3 先輩の手も借りたい編〜チャイニーズマフィアのチャーハンは中華料理〜3MAN!!",
     "url": "https://vijon.jp/schedule/detail/41442",
     "venue": "北堀江club vijon",
@@ -4223,7 +4205,7 @@
   {
     "date": "2025/06/20",
     "day": "金",
-    "artist": "ゲストアクト後日解禁",
+    "artist": "いろかにほへと",
     "title": "STILL PINK vol.3 先輩の手も借りたい編〜チャイニーズマフィアのチャーハンは中華料理〜3MAN!!",
     "url": "https://vijon.jp/schedule/detail/41442",
     "venue": "北堀江club vijon",
@@ -7301,7 +7283,7 @@
   {
     "date": "2025/06/04",
     "day": "水",
-    "artist": "赤間モエナ",
+    "artist": "WINE RED",
     "title": "【JEWEL BOX】vol.1",
     "url": "https://bangboo.jp/schedule/detail/42148",
     "venue": "梅田BANGBOO",
@@ -9759,8 +9741,8 @@
     "date": "2025/05/18",
     "day": "日",
     "artist": "ワッツ◎さーくる",
-    "title": "SPRISE pre『NEO TRIBE』",
-    "url": "https://clubdrop.jp/schedule/detail/44686",
+    "title": "ワッツ◎さーくる単独公演「What’s Summer！」",
+    "url": "https://clubdrop.jp/schedule/detail/44685",
     "venue": "アメリカ村DROP",
     "note": ""
   },
@@ -10796,6 +10778,60 @@
     "artist": "AZ-ON -BAND SET-",
     "title": "MAZE-ON BANDSET2MAN SHOW-無規制-",
     "url": "https://clubdrop.jp/schedule/detail/37708",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2025/06/10",
+    "day": "火",
+    "artist": "HARUKI",
+    "title": "BRAVER!!Level.31.5",
+    "url": "https://clubdrop.jp/schedule/detail/43732",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2025/06/10",
+    "day": "火",
+    "artist": "mm limit",
+    "title": "BRAVER!!Level.31.5",
+    "url": "https://clubdrop.jp/schedule/detail/43732",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2025/06/10",
+    "day": "火",
+    "artist": "ネオンと無重力",
+    "title": "BRAVER!!Level.31.5",
+    "url": "https://clubdrop.jp/schedule/detail/43732",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2025/06/10",
+    "day": "火",
+    "artist": "ZIYOLA",
+    "title": "BRAVER!!Level.31.5",
+    "url": "https://clubdrop.jp/schedule/detail/43732",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2025/06/10",
+    "day": "火",
+    "artist": "アスノシオリ",
+    "title": "BRAVER!!Level.31.5",
+    "url": "https://clubdrop.jp/schedule/detail/43732",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2025/06/10",
+    "day": "火",
+    "artist": "Disconnect Cendrillon",
+    "title": "BRAVER!!Level.31.5",
+    "url": "https://clubdrop.jp/schedule/detail/43732",
     "venue": "アメリカ村DROP",
     "note": ""
   },
@@ -12258,6 +12294,114 @@
     "note": ""
   },
   {
+    "date": "2025/05/17",
+    "day": "土",
+    "artist": "caprice",
+    "title": "idolpack",
+    "url": "https://osaka-varon.jp/schedule/detail/44706",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2025/05/17",
+    "day": "土",
+    "artist": "Tri-Sphere",
+    "title": "idolpack",
+    "url": "https://osaka-varon.jp/schedule/detail/44706",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2025/05/17",
+    "day": "土",
+    "artist": "NI=YON",
+    "title": "idolpack",
+    "url": "https://osaka-varon.jp/schedule/detail/44706",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2025/05/17",
+    "day": "土",
+    "artist": "OGP研修生チーム",
+    "title": "idolpack",
+    "url": "https://osaka-varon.jp/schedule/detail/44706",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2025/05/17",
+    "day": "土",
+    "artist": "meluQ",
+    "title": "idolpack",
+    "url": "https://osaka-varon.jp/schedule/detail/44706",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2025/05/17",
+    "day": "土",
+    "artist": "SITRA.",
+    "title": "idolpack",
+    "url": "https://osaka-varon.jp/schedule/detail/44706",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2025/05/17",
+    "day": "土",
+    "artist": "Good knight**",
+    "title": "IDOL Highlights",
+    "url": "https://osaka-varon.jp/schedule/detail/36807",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2025/05/17",
+    "day": "土",
+    "artist": "Fille mimi",
+    "title": "IDOL Highlights",
+    "url": "https://osaka-varon.jp/schedule/detail/36807",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2025/05/17",
+    "day": "土",
+    "artist": "シェリコフレ",
+    "title": "IDOL Highlights",
+    "url": "https://osaka-varon.jp/schedule/detail/36807",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2025/05/17",
+    "day": "土",
+    "artist": "AsteRythm",
+    "title": "AsteRythm 月雲すずか生誕祭",
+    "url": "https://osaka-varon.jp/schedule/detail/44707",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2025/05/17",
+    "day": "土",
+    "artist": "アクアリウム。",
+    "title": "AsteRythm 月雲すずか生誕祭",
+    "url": "https://osaka-varon.jp/schedule/detail/44707",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2025/05/17",
+    "day": "土",
+    "artist": "SOCIAL×MATCH",
+    "title": "AsteRythm 月雲すずか生誕祭",
+    "url": "https://osaka-varon.jp/schedule/detail/44707",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
     "date": "2025/05/18",
     "day": "日",
     "artist": "Glim Assembler",
@@ -13086,6 +13230,51 @@
     "note": ""
   },
   {
+    "date": "2025/06/09",
+    "day": "月",
+    "artist": "アマリモノ",
+    "title": "DUMBSTRUCK Vol.6",
+    "url": "https://osaka-varon.jp/schedule/detail/42615",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2025/06/09",
+    "day": "月",
+    "artist": "Running Home Run",
+    "title": "DUMBSTRUCK Vol.6",
+    "url": "https://osaka-varon.jp/schedule/detail/42615",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2025/06/09",
+    "day": "月",
+    "artist": "hi-right",
+    "title": "DUMBSTRUCK Vol.6",
+    "url": "https://osaka-varon.jp/schedule/detail/42615",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2025/06/09",
+    "day": "月",
+    "artist": "Rizz",
+    "title": "DUMBSTRUCK Vol.6",
+    "url": "https://osaka-varon.jp/schedule/detail/42615",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2025/06/09",
+    "day": "月",
+    "artist": "SOL BEHIND THE CROWD",
+    "title": "DUMBSTRUCK Vol.6",
+    "url": "https://osaka-varon.jp/schedule/detail/42615",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
     "date": "2025/06/16",
     "day": "月",
     "artist": "Chanty",
@@ -13334,6 +13523,15 @@
     "artist": "HARVEST",
     "title": "THE冠「俺の名を言ってみろTOUR2025」〜MY NAME IS HEAVY METALアルバムリリース〜",
     "url": "https://osaka-varon.jp/schedule/detail/43602",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2025/08/14",
+    "day": "木",
+    "artist": "やさしいひとたち。",
+    "title": "やさしいひとたち。FC TOUR2025 「いとしいひとたちへ。」",
+    "url": "https://osaka-varon.jp/schedule/detail/42214",
     "venue": "VARON",
     "note": ""
   },
@@ -21186,6 +21384,258 @@
     "note": ""
   },
   {
+    "date": "2025/08/03",
+    "day": "日",
+    "artist": "長尾有優華",
+    "title": "Generation Next",
+    "url": "http://www.knave.co.jp/schedule/s_2025_08.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2025/08/03",
+    "day": "日",
+    "artist": "須田みみ",
+    "title": "Generation Next",
+    "url": "http://www.knave.co.jp/schedule/s_2025_08.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2025/08/03",
+    "day": "日",
+    "artist": "西凜華",
+    "title": "Generation Next",
+    "url": "http://www.knave.co.jp/schedule/s_2025_08.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2025/08/03",
+    "day": "日",
+    "artist": "Rubiiy",
+    "title": "Generation Next",
+    "url": "http://www.knave.co.jp/schedule/s_2025_08.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2025/08/03",
+    "day": "日",
+    "artist": "and more...",
+    "title": "Generation Next",
+    "url": "http://www.knave.co.jp/schedule/s_2025_08.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2025/08/03",
+    "day": "日",
+    "artist": "問)knave06-6535-0691",
+    "title": "Generation Next",
+    "url": "http://www.knave.co.jp/schedule/s_2025_08.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2025/08/05",
+    "day": "火",
+    "artist": "白航",
+    "title": "白航の日",
+    "url": "http://www.knave.co.jp/schedule/s_2025_08.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2025/08/05",
+    "day": "火",
+    "artist": "遠征エロー",
+    "title": "白航の日",
+    "url": "http://www.knave.co.jp/schedule/s_2025_08.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2025/08/05",
+    "day": "火",
+    "artist": "yoake no seirei",
+    "title": "白航の日",
+    "url": "http://www.knave.co.jp/schedule/s_2025_08.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2025/08/05",
+    "day": "火",
+    "artist": "カレラ",
+    "title": "白航の日",
+    "url": "http://www.knave.co.jp/schedule/s_2025_08.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2025/08/05",
+    "day": "火",
+    "artist": "QLIP",
+    "title": "白航の日",
+    "url": "http://www.knave.co.jp/schedule/s_2025_08.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2025/08/05",
+    "day": "火",
+    "artist": "学割でのご入場は身分証明書の提示が必要です。",
+    "title": "白航の日",
+    "url": "http://www.knave.co.jp/schedule/s_2025_08.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2025/08/05",
+    "day": "火",
+    "artist": "問)knave06-6535-0691",
+    "title": "白航の日",
+    "url": "http://www.knave.co.jp/schedule/s_2025_08.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2025/08/06",
+    "day": "水",
+    "artist": "〜下北沢 DY CUBE × 南堀江 knave〜",
+    "title": "【東西交流戦】",
+    "url": "http://www.knave.co.jp/schedule/s_2025_08.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2025/08/06",
+    "day": "水",
+    "artist": "@大阪編",
+    "title": "【東西交流戦】",
+    "url": "http://www.knave.co.jp/schedule/s_2025_08.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2025/08/06",
+    "day": "水",
+    "artist": "有沢優",
+    "title": "【東西交流戦】",
+    "url": "http://www.knave.co.jp/schedule/s_2025_08.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2025/08/06",
+    "day": "水",
+    "artist": "ぽっぷこーん☆",
+    "title": "【東西交流戦】",
+    "url": "http://www.knave.co.jp/schedule/s_2025_08.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2025/08/06",
+    "day": "水",
+    "artist": "山先大生",
+    "title": "【東西交流戦】",
+    "url": "http://www.knave.co.jp/schedule/s_2025_08.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2025/08/06",
+    "day": "水",
+    "artist": "岩内幸乃",
+    "title": "【東西交流戦】",
+    "url": "http://www.knave.co.jp/schedule/s_2025_08.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2025/08/06",
+    "day": "水",
+    "artist": "瑚雪",
+    "title": "【東西交流戦】",
+    "url": "http://www.knave.co.jp/schedule/s_2025_08.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2025/08/06",
+    "day": "水",
+    "artist": "たいき",
+    "title": "【東西交流戦】",
+    "url": "http://www.knave.co.jp/schedule/s_2025_08.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2025/08/06",
+    "day": "水",
+    "artist": "問)knave06-6535-0691",
+    "title": "【東西交流戦】",
+    "url": "http://www.knave.co.jp/schedule/s_2025_08.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2025/08/07",
+    "day": "木",
+    "artist": "Ritomo",
+    "title": "NaturalWoman",
+    "url": "http://www.knave.co.jp/schedule/s_2025_08.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2025/08/07",
+    "day": "木",
+    "artist": "ケシカルカッコ",
+    "title": "NaturalWoman",
+    "url": "http://www.knave.co.jp/schedule/s_2025_08.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2025/08/07",
+    "day": "木",
+    "artist": "KOSSY",
+    "title": "NaturalWoman",
+    "url": "http://www.knave.co.jp/schedule/s_2025_08.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2025/08/07",
+    "day": "木",
+    "artist": "冬木希",
+    "title": "NaturalWoman",
+    "url": "http://www.knave.co.jp/schedule/s_2025_08.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2025/08/07",
+    "day": "木",
+    "artist": "青葉らら",
+    "title": "NaturalWoman",
+    "url": "http://www.knave.co.jp/schedule/s_2025_08.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2025/08/07",
+    "day": "木",
+    "artist": "問)knave06-6535-0691",
+    "title": "NaturalWoman",
+    "url": "http://www.knave.co.jp/schedule/s_2025_08.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
     "date": "2025/08/11",
     "day": "月",
     "artist": "“ Walkin’ Blues “ vol.10",
@@ -21235,6 +21685,114 @@
     "day": "月",
     "artist": "問)清水音泉 06-6357-3666",
     "title": "DUDE TONE LIVE 2025",
+    "url": "http://www.knave.co.jp/schedule/s_2025_08.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2025/08/14",
+    "day": "木",
+    "artist": "一原ちひろ",
+    "title": "girlstalk",
+    "url": "http://www.knave.co.jp/schedule/s_2025_08.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2025/08/14",
+    "day": "木",
+    "artist": "OTOHA",
+    "title": "girlstalk",
+    "url": "http://www.knave.co.jp/schedule/s_2025_08.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2025/08/14",
+    "day": "木",
+    "artist": "たきすず",
+    "title": "girlstalk",
+    "url": "http://www.knave.co.jp/schedule/s_2025_08.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2025/08/14",
+    "day": "木",
+    "artist": "咲那",
+    "title": "girlstalk",
+    "url": "http://www.knave.co.jp/schedule/s_2025_08.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2025/08/14",
+    "day": "木",
+    "artist": "TTMはづき",
+    "title": "girlstalk",
+    "url": "http://www.knave.co.jp/schedule/s_2025_08.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2025/08/14",
+    "day": "木",
+    "artist": "問)knave06-6535-0691",
+    "title": "girlstalk",
+    "url": "http://www.knave.co.jp/schedule/s_2025_08.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2025/08/15",
+    "day": "金",
+    "artist": "まえ",
+    "title": "NaturalWoman",
+    "url": "http://www.knave.co.jp/schedule/s_2025_08.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2025/08/15",
+    "day": "金",
+    "artist": "Sae.",
+    "title": "NaturalWoman",
+    "url": "http://www.knave.co.jp/schedule/s_2025_08.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2025/08/15",
+    "day": "金",
+    "artist": "斉藤れいか",
+    "title": "NaturalWoman",
+    "url": "http://www.knave.co.jp/schedule/s_2025_08.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2025/08/15",
+    "day": "金",
+    "artist": "梶有紀子",
+    "title": "NaturalWoman",
+    "url": "http://www.knave.co.jp/schedule/s_2025_08.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2025/08/15",
+    "day": "金",
+    "artist": "小野亜里沙",
+    "title": "NaturalWoman",
+    "url": "http://www.knave.co.jp/schedule/s_2025_08.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2025/08/15",
+    "day": "金",
+    "artist": "問)knave06-6535-0691",
+    "title": "NaturalWoman",
     "url": "http://www.knave.co.jp/schedule/s_2025_08.html",
     "venue": "knave",
     "note": ""
@@ -21388,6 +21946,60 @@
     "day": "月",
     "artist": "問)knave06-6535-0691",
     "title": "\"parallel grow\"",
+    "url": "http://www.knave.co.jp/schedule/s_2025_08.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2025/08/19",
+    "day": "火",
+    "artist": "Ica",
+    "title": "LoversRock",
+    "url": "http://www.knave.co.jp/schedule/s_2025_08.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2025/08/19",
+    "day": "火",
+    "artist": "Kiona",
+    "title": "LoversRock",
+    "url": "http://www.knave.co.jp/schedule/s_2025_08.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2025/08/19",
+    "day": "火",
+    "artist": "Kanna",
+    "title": "LoversRock",
+    "url": "http://www.knave.co.jp/schedule/s_2025_08.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2025/08/19",
+    "day": "火",
+    "artist": "亨汰",
+    "title": "LoversRock",
+    "url": "http://www.knave.co.jp/schedule/s_2025_08.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2025/08/19",
+    "day": "火",
+    "artist": "松尾公美子",
+    "title": "LoversRock",
+    "url": "http://www.knave.co.jp/schedule/s_2025_08.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2025/08/19",
+    "day": "火",
+    "artist": "問)knave06-6535-0691",
+    "title": "LoversRock",
     "url": "http://www.knave.co.jp/schedule/s_2025_08.html",
     "venue": "knave",
     "note": ""
