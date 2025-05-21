@@ -3134,15 +3134,6 @@
   {
     "date": "2025/05/20",
     "day": "火",
-    "artist": "新世界心中",
-    "title": "【SWIMMY】",
-    "url": "https://vijon.jp/schedule/detail/42929",
-    "venue": "北堀江club vijon",
-    "note": ""
-  },
-  {
-    "date": "2025/05/20",
-    "day": "火",
     "artist": "Goat hope.",
     "title": "【SWIMMY】",
     "url": "https://vijon.jp/schedule/detail/42929",
@@ -3152,7 +3143,7 @@
   {
     "date": "2025/05/20",
     "day": "火",
-    "artist": "can me",
+    "artist": "can me ※出演予定でした、新世界心中は体調不良により出演がキャンセルとなりました。",
     "title": "【SWIMMY】",
     "url": "https://vijon.jp/schedule/detail/42929",
     "venue": "北堀江club vijon",
@@ -4503,6 +4494,15 @@
     "date": "2025/07/02",
     "day": "水",
     "artist": "SOL BEHIND THE CROWD",
+    "title": "グルーヴ先生 × vijon pre.【なかまつれてきたで！】vol.2",
+    "url": "https://vijon.jp/schedule/detail/43285",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2025/07/02",
+    "day": "水",
+    "artist": "sixteencoins",
     "title": "グルーヴ先生 × vijon pre.【なかまつれてきたで！】vol.2",
     "url": "https://vijon.jp/schedule/detail/43285",
     "venue": "北堀江club vijon",
@@ -11936,6 +11936,24 @@
   {
     "date": "2025/06/08",
     "day": "日",
+    "artist": "侵喰ぴぴぴKLAXON",
+    "title": "鈴乃みう生誕祭",
+    "url": "https://clubdrop.jp/schedule/detail/39986",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2025/06/08",
+    "day": "日",
+    "artist": "Dear❥Nightmare",
+    "title": "鈴乃みう生誕祭",
+    "url": "https://clubdrop.jp/schedule/detail/39986",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2025/06/08",
+    "day": "日",
     "artist": "MAZE -BAND SET-",
     "title": "MAZE-ON BANDSET2MAN SHOW-無規制-",
     "url": "https://clubdrop.jp/schedule/detail/37708",
@@ -12002,6 +12020,69 @@
     "artist": "Disconnect Cendrillon",
     "title": "BRAVER!!Level.31.5",
     "url": "https://clubdrop.jp/schedule/detail/43732",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2025/06/13",
+    "day": "金",
+    "artist": "husky",
+    "title": "Section U.G Presents 『VOLTAGE LEGION』",
+    "url": "https://clubdrop.jp/schedule/detail/43002",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2025/06/13",
+    "day": "金",
+    "artist": "ASH FRAST",
+    "title": "Section U.G Presents 『VOLTAGE LEGION』",
+    "url": "https://clubdrop.jp/schedule/detail/43002",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2025/06/13",
+    "day": "金",
+    "artist": "天女神樂",
+    "title": "Section U.G Presents 『VOLTAGE LEGION』",
+    "url": "https://clubdrop.jp/schedule/detail/43002",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2025/06/13",
+    "day": "金",
+    "artist": "frecia",
+    "title": "Section U.G Presents 『VOLTAGE LEGION』",
+    "url": "https://clubdrop.jp/schedule/detail/43002",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2025/06/13",
+    "day": "金",
+    "artist": "神薙-時うさぎ-",
+    "title": "Section U.G Presents 『VOLTAGE LEGION』",
+    "url": "https://clubdrop.jp/schedule/detail/43002",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2025/06/13",
+    "day": "金",
+    "artist": "妖狐繚乱",
+    "title": "Section U.G Presents 『VOLTAGE LEGION』",
+    "url": "https://clubdrop.jp/schedule/detail/43002",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2025/06/13",
+    "day": "金",
+    "artist": "sync-sens 阿王",
+    "title": "Section U.G Presents 『VOLTAGE LEGION』",
+    "url": "https://clubdrop.jp/schedule/detail/43002",
     "venue": "アメリカ村DROP",
     "note": ""
   },
@@ -12398,6 +12479,24 @@
     "artist": "MAPA",
     "title": "雨の城",
     "url": "https://clubdrop.jp/schedule/detail/42686",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2025/08/17",
+    "day": "日",
+    "artist": "9DayzGlitchClubTokyo",
+    "title": "9DayzGlitchClubTokyo 1st BEST ALBUM Devour a sol 五代都市Release Tour 大阪編",
+    "url": "https://clubdrop.jp/schedule/detail/40826",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2025/08/29",
+    "day": "金",
+    "artist": "後日解禁！",
+    "title": "BlueVeil 1st Anniversary Event 「黎明、蒼に咲いて」",
+    "url": "https://clubdrop.jp/schedule/detail/42873",
     "venue": "アメリカ村DROP",
     "note": ""
   },
@@ -14877,6 +14976,96 @@
     "note": ""
   },
   {
+    "date": "2025/06/10",
+    "day": "火",
+    "artist": "husky",
+    "title": "chemical reaction Vol.47",
+    "url": "https://osaka-varon.jp/schedule/detail/40635",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2025/06/10",
+    "day": "火",
+    "artist": "sync sens",
+    "title": "chemical reaction Vol.47",
+    "url": "https://osaka-varon.jp/schedule/detail/40635",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2025/06/10",
+    "day": "火",
+    "artist": "妖狐繚乱",
+    "title": "chemical reaction Vol.47",
+    "url": "https://osaka-varon.jp/schedule/detail/40635",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2025/06/10",
+    "day": "火",
+    "artist": "Fancy-",
+    "title": "chemical reaction Vol.47",
+    "url": "https://osaka-varon.jp/schedule/detail/40635",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2025/06/10",
+    "day": "火",
+    "artist": "MeltGem",
+    "title": "chemical reaction Vol.47",
+    "url": "https://osaka-varon.jp/schedule/detail/40635",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2025/06/10",
+    "day": "火",
+    "artist": "無花果とマシンガン",
+    "title": "chemical reaction Vol.47",
+    "url": "https://osaka-varon.jp/schedule/detail/40635",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2025/06/10",
+    "day": "火",
+    "artist": "RIZZ",
+    "title": "chemical reaction Vol.47",
+    "url": "https://osaka-varon.jp/schedule/detail/40635",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2025/06/10",
+    "day": "火",
+    "artist": "SOCIAL×MATCH",
+    "title": "chemical reaction Vol.47",
+    "url": "https://osaka-varon.jp/schedule/detail/40635",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2025/06/10",
+    "day": "火",
+    "artist": "COzMICぱれーど",
+    "title": "chemical reaction Vol.47",
+    "url": "https://osaka-varon.jp/schedule/detail/40635",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2025/06/10",
+    "day": "火",
+    "artist": "ココなった！",
+    "title": "chemical reaction Vol.47",
+    "url": "https://osaka-varon.jp/schedule/detail/40635",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
     "date": "2025/06/16",
     "day": "月",
     "artist": "Chanty",
@@ -16097,6 +16286,60 @@
     "artist": "かつ田教団",
     "title": "MUSIC MARKET vol.3",
     "url": "https://osaka-zeela.jp/schedule/detail/36303",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2025/06/23",
+    "day": "月",
+    "artist": "ParaMiria",
+    "title": "甘露まな生誕祭2025 -世界でいちばん甘い日-",
+    "url": "https://osaka-zeela.jp/schedule/detail/43109",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2025/06/24",
+    "day": "火",
+    "artist": "Mini M!kke",
+    "title": "Zeela presents \"over the moon\"",
+    "url": "https://osaka-zeela.jp/schedule/detail/42542",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2025/06/24",
+    "day": "火",
+    "artist": "エダワカレ",
+    "title": "Zeela presents \"over the moon\"",
+    "url": "https://osaka-zeela.jp/schedule/detail/42542",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2025/06/24",
+    "day": "火",
+    "artist": "STITCHES",
+    "title": "Zeela presents \"over the moon\"",
+    "url": "https://osaka-zeela.jp/schedule/detail/42542",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2025/06/24",
+    "day": "火",
+    "artist": "揺らいで凪",
+    "title": "Zeela presents \"over the moon\"",
+    "url": "https://osaka-zeela.jp/schedule/detail/42542",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2025/06/24",
+    "day": "火",
+    "artist": "and more...",
+    "title": "Zeela presents \"over the moon\"",
+    "url": "https://osaka-zeela.jp/schedule/detail/42542",
     "venue": "Zeela",
     "note": ""
   },
@@ -18355,6 +18598,33 @@
     "day": "日",
     "artist": "ハル",
     "title": "勿忘うた 活動10周年記念- 10th Anniversary One-man live -「 Forget-me-not 」",
+    "url": "http://rocktown.jp/schedule/202507.html",
+    "venue": "あべのROCKTOWN",
+    "note": ""
+  },
+  {
+    "date": "2025/07/11",
+    "day": "金",
+    "artist": "I$M~guest~ Who Are You?",
+    "title": "I$M 2nd Album release東名阪ツアー in OSAKA Final",
+    "url": "http://rocktown.jp/schedule/202507.html",
+    "venue": "あべのROCKTOWN",
+    "note": ""
+  },
+  {
+    "date": "2025/07/11",
+    "day": "金",
+    "artist": "Gold&Silver",
+    "title": "I$M 2nd Album release東名阪ツアー in OSAKA Final",
+    "url": "http://rocktown.jp/schedule/202507.html",
+    "venue": "あべのROCKTOWN",
+    "note": ""
+  },
+  {
+    "date": "2025/07/11",
+    "day": "金",
+    "artist": "Over Tone",
+    "title": "I$M 2nd Album release東名阪ツアー in OSAKA Final",
     "url": "http://rocktown.jp/schedule/202507.html",
     "venue": "あべのROCKTOWN",
     "note": ""
@@ -22293,6 +22563,33 @@
     "note": ""
   },
   {
+    "date": "2025/07/06",
+    "day": "日",
+    "artist": "Super Sake Sonic vol.2",
+    "title": "Sake Oasis 4th Anniversary Fes.",
+    "url": "http://www.knave.co.jp/schedule/s_2025_07.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2025/07/06",
+    "day": "日",
+    "artist": "4 Band＋3DJ",
+    "title": "Sake Oasis 4th Anniversary Fes.",
+    "url": "http://www.knave.co.jp/schedule/s_2025_07.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2025/07/06",
+    "day": "日",
+    "artist": "問)日本酒オアシス",
+    "title": "Sake Oasis 4th Anniversary Fes.",
+    "url": "http://www.knave.co.jp/schedule/s_2025_07.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
     "date": "2025/07/07",
     "day": "月",
     "artist": "俺のかっこいいを見てくれ！！",
@@ -22945,6 +23242,33 @@
     "day": "日",
     "artist": "osakanafes",
     "title": "soratobiwo presents",
+    "url": "http://www.knave.co.jp/schedule/s_2025_07.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2025/07/21",
+    "day": "月",
+    "artist": "大阪公演",
+    "title": "サトマイ弾き語りTour “LIVE'25 靴”",
+    "url": "http://www.knave.co.jp/schedule/s_2025_07.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2025/07/21",
+    "day": "月",
+    "artist": "さとう麻衣",
+    "title": "サトマイ弾き語りTour “LIVE'25 靴”",
+    "url": "http://www.knave.co.jp/schedule/s_2025_07.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2025/07/21",
+    "day": "月",
+    "artist": "問)さとう麻衣 official site",
+    "title": "サトマイ弾き語りTour “LIVE'25 靴”",
     "url": "http://www.knave.co.jp/schedule/s_2025_07.html",
     "venue": "knave",
     "note": ""
@@ -24169,7 +24493,7 @@
     "day": "土",
     "artist": "『残暑お見舞いツアー』",
     "title": "ピュアミュージック ２０２５",
-    "url": "http://www.knave.co.jp/schedule/s_2025_08.html",
+    "url": "http://www.knave.co.jp/schedule/s_2025_09.html",
     "venue": "knave",
     "note": ""
   },
@@ -24178,7 +24502,7 @@
     "day": "土",
     "artist": "杉 真理、伊豆田 洋之、山本 英美",
     "title": "ピュアミュージック ２０２５",
-    "url": "http://www.knave.co.jp/schedule/s_2025_08.html",
+    "url": "http://www.knave.co.jp/schedule/s_2025_09.html",
     "venue": "knave",
     "note": ""
   },
@@ -24187,7 +24511,7 @@
     "day": "土",
     "artist": "一般発売 6",
     "title": "ピュアミュージック ２０２５",
-    "url": "http://www.knave.co.jp/schedule/s_2025_08.html",
+    "url": "http://www.knave.co.jp/schedule/s_2025_09.html",
     "venue": "knave",
     "note": ""
   },
@@ -24196,7 +24520,7 @@
     "day": "土",
     "artist": "7",
     "title": "ピュアミュージック ２０２５",
-    "url": "http://www.knave.co.jp/schedule/s_2025_08.html",
+    "url": "http://www.knave.co.jp/schedule/s_2025_09.html",
     "venue": "knave",
     "note": ""
   },
@@ -24205,7 +24529,7 @@
     "day": "土",
     "artist": "問)knave06-6535-0691",
     "title": "ピュアミュージック ２０２５",
-    "url": "http://www.knave.co.jp/schedule/s_2025_08.html",
+    "url": "http://www.knave.co.jp/schedule/s_2025_09.html",
     "venue": "knave",
     "note": ""
   },
@@ -24214,7 +24538,7 @@
     "day": "土",
     "artist": "バースデーワンマンライブツアー",
     "title": "小野亜里沙",
-    "url": "http://www.knave.co.jp/schedule/s_2025_08.html",
+    "url": "http://www.knave.co.jp/schedule/s_2025_09.html",
     "venue": "knave",
     "note": ""
   },
@@ -24223,7 +24547,7 @@
     "day": "土",
     "artist": "2025大阪公演",
     "title": "小野亜里沙",
-    "url": "http://www.knave.co.jp/schedule/s_2025_08.html",
+    "url": "http://www.knave.co.jp/schedule/s_2025_09.html",
     "venue": "knave",
     "note": ""
   },
@@ -24232,7 +24556,7 @@
     "day": "土",
     "artist": "世界〜誰かの希望になりたくて〜",
     "title": "小野亜里沙",
-    "url": "http://www.knave.co.jp/schedule/s_2025_08.html",
+    "url": "http://www.knave.co.jp/schedule/s_2025_09.html",
     "venue": "knave",
     "note": ""
   },
@@ -24241,7 +24565,7 @@
     "day": "土",
     "artist": "小野亜里沙",
     "title": "小野亜里沙",
-    "url": "http://www.knave.co.jp/schedule/s_2025_08.html",
+    "url": "http://www.knave.co.jp/schedule/s_2025_09.html",
     "venue": "knave",
     "note": ""
   },
@@ -24250,7 +24574,7 @@
     "day": "土",
     "artist": "問)knave06-6535-0691",
     "title": "小野亜里沙",
-    "url": "http://www.knave.co.jp/schedule/s_2025_08.html",
+    "url": "http://www.knave.co.jp/schedule/s_2025_09.html",
     "venue": "knave",
     "note": ""
   },
@@ -24259,7 +24583,7 @@
     "day": "日",
     "artist": "Raspberry Circus",
     "title": "「星空タイムワープツアー 2025」",
-    "url": "http://www.knave.co.jp/schedule/s_2025_08.html",
+    "url": "http://www.knave.co.jp/schedule/s_2025_09.html",
     "venue": "knave",
     "note": ""
   },
@@ -24268,7 +24592,7 @@
     "day": "日",
     "artist": "イープラス プレオーダー",
     "title": "「星空タイムワープツアー 2025」",
-    "url": "http://www.knave.co.jp/schedule/s_2025_08.html",
+    "url": "http://www.knave.co.jp/schedule/s_2025_09.html",
     "venue": "knave",
     "note": ""
   },
@@ -24277,7 +24601,7 @@
     "day": "日",
     "artist": "25.5",
     "title": "「星空タイムワープツアー 2025」",
-    "url": "http://www.knave.co.jp/schedule/s_2025_08.html",
+    "url": "http://www.knave.co.jp/schedule/s_2025_09.html",
     "venue": "knave",
     "note": ""
   },
@@ -24286,7 +24610,7 @@
     "day": "日",
     "artist": "2312:00〜5",
     "title": "「星空タイムワープツアー 2025」",
-    "url": "http://www.knave.co.jp/schedule/s_2025_08.html",
+    "url": "http://www.knave.co.jp/schedule/s_2025_09.html",
     "venue": "knave",
     "note": ""
   },
@@ -24295,7 +24619,7 @@
     "day": "日",
     "artist": "3023:59",
     "title": "「星空タイムワープツアー 2025」",
-    "url": "http://www.knave.co.jp/schedule/s_2025_08.html",
+    "url": "http://www.knave.co.jp/schedule/s_2025_09.html",
     "venue": "knave",
     "note": ""
   },
@@ -24304,7 +24628,7 @@
     "day": "日",
     "artist": "一般発売 6",
     "title": "「星空タイムワープツアー 2025」",
-    "url": "http://www.knave.co.jp/schedule/s_2025_08.html",
+    "url": "http://www.knave.co.jp/schedule/s_2025_09.html",
     "venue": "knave",
     "note": ""
   },
@@ -24313,7 +24637,7 @@
     "day": "日",
     "artist": "14",
     "title": "「星空タイムワープツアー 2025」",
-    "url": "http://www.knave.co.jp/schedule/s_2025_08.html",
+    "url": "http://www.knave.co.jp/schedule/s_2025_09.html",
     "venue": "knave",
     "note": ""
   },
@@ -24322,7 +24646,52 @@
     "day": "日",
     "artist": "問)knave06-6535-0691",
     "title": "「星空タイムワープツアー 2025」",
-    "url": "http://www.knave.co.jp/schedule/s_2025_08.html",
+    "url": "http://www.knave.co.jp/schedule/s_2025_09.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2025/10/16",
+    "day": "木",
+    "artist": "「Vague",
+    "title": "遥瀬桜子 BIRTHDAY ONE MAN LIVE",
+    "url": "http://www.knave.co.jp/schedule/s_2025_09.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2025/10/16",
+    "day": "木",
+    "artist": "but Close」遥瀬桜子",
+    "title": "遥瀬桜子 BIRTHDAY ONE MAN LIVE",
+    "url": "http://www.knave.co.jp/schedule/s_2025_09.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2025/10/16",
+    "day": "木",
+    "artist": "※学生証提示で¥1",
+    "title": "遥瀬桜子 BIRTHDAY ONE MAN LIVE",
+    "url": "http://www.knave.co.jp/schedule/s_2025_09.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2025/10/16",
+    "day": "木",
+    "artist": "000",
+    "title": "遥瀬桜子 BIRTHDAY ONE MAN LIVE",
+    "url": "http://www.knave.co.jp/schedule/s_2025_09.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2025/10/16",
+    "day": "木",
+    "artist": "問)knave06-6535-0691",
+    "title": "遥瀬桜子 BIRTHDAY ONE MAN LIVE",
+    "url": "http://www.knave.co.jp/schedule/s_2025_09.html",
     "venue": "knave",
     "note": ""
   }
