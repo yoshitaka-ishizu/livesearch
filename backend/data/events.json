@@ -722,7 +722,7 @@
   {
     "date": "2025/05/23",
     "day": "金",
-    "artist": "rockngate",
+    "artist": "岩﨑なずな",
     "title": "New order",
     "url": "https://fireloop.net/schedule_now.shtml#0523",
     "venue": "寺田町Fireloop",
@@ -3530,18 +3530,45 @@
   {
     "date": "2025/05/23",
     "day": "金",
-    "artist": "バンドマンの底辺×高さ÷２",
+    "artist": "ODD-I’s-GIRL ※出演予定でした、バンドマンの底辺×高さ÷２は諸事情により出演がキャンセルとなりました。あらかじめご了承ください。",
     "title": "【HEVVVVVIJON】",
     "url": "https://vijon.jp/schedule/detail/42585",
     "venue": "北堀江club vijon",
     "note": ""
   },
   {
-    "date": "2025/05/23",
-    "day": "金",
-    "artist": "ODD-I’s-GIRL",
-    "title": "【HEVVVVVIJON】",
-    "url": "https://vijon.jp/schedule/detail/42585",
+    "date": "2025/05/24",
+    "day": "土",
+    "artist": "#YO",
+    "title": "-#YO//1& bae<3 TALK&LiVE-“BACK 2 SKOOL”",
+    "url": "https://vijon.jp/schedule/detail/42869",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2025/05/24",
+    "day": "土",
+    "artist": "1",
+    "title": "-#YO//1& bae<3 TALK&LiVE-“BACK 2 SKOOL”",
+    "url": "https://vijon.jp/schedule/detail/42869",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2025/05/24",
+    "day": "土",
+    "artist": "bae<3   MC",
+    "title": "-#YO//1& bae<3 TALK&LiVE-“BACK 2 SKOOL”",
+    "url": "https://vijon.jp/schedule/detail/42869",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2025/05/24",
+    "day": "土",
+    "artist": "ぐみ",
+    "title": "-#YO//1& bae<3 TALK&LiVE-“BACK 2 SKOOL”",
+    "url": "https://vijon.jp/schedule/detail/42869",
     "venue": "北堀江club vijon",
     "note": ""
   },
@@ -4106,6 +4133,15 @@
   {
     "date": "2025/06/06",
     "day": "金",
+    "artist": "I.VILL",
+    "title": "Mix Up Jam Vol.2",
+    "url": "https://vijon.jp/schedule/detail/43880",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2025/06/06",
+    "day": "金",
     "artist": "孤独RTA",
     "title": "Mix Up Jam Vol.2",
     "url": "https://vijon.jp/schedule/detail/43880",
@@ -4136,6 +4172,33 @@
     "artist": "シエルメル",
     "title": "Mix Up Jam Vol.2",
     "url": "https://vijon.jp/schedule/detail/43880",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2025/06/07",
+    "day": "土",
+    "artist": "#YO",
+    "title": "-#YO//1 REGULAR EVENT-“TOKIMEKI*”",
+    "url": "https://vijon.jp/schedule/detail/43806",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2025/06/07",
+    "day": "土",
+    "artist": "1 GUEST:下北姫菜",
+    "title": "-#YO//1 REGULAR EVENT-“TOKIMEKI*”",
+    "url": "https://vijon.jp/schedule/detail/43806",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2025/06/07",
+    "day": "土",
+    "artist": "iMOON",
+    "title": "-#YO//1 REGULAR EVENT-“TOKIMEKI*”",
+    "url": "https://vijon.jp/schedule/detail/43806",
     "venue": "北堀江club vijon",
     "note": ""
   },
@@ -11253,7 +11316,7 @@
     "date": "2025/05/23",
     "day": "金",
     "artist": "白黒アリス",
-    "title": "",
+    "title": "ENCLOSURE",
     "url": "https://clubdrop.jp/schedule/detail/42029",
     "venue": "アメリカ村DROP",
     "note": ""
@@ -11262,7 +11325,7 @@
     "date": "2025/05/23",
     "day": "金",
     "artist": "CYCLONISTA",
-    "title": "",
+    "title": "ENCLOSURE",
     "url": "https://clubdrop.jp/schedule/detail/42029",
     "venue": "アメリカ村DROP",
     "note": ""
@@ -11271,7 +11334,7 @@
     "date": "2025/05/23",
     "day": "金",
     "artist": "PLYDE",
-    "title": "",
+    "title": "ENCLOSURE",
     "url": "https://clubdrop.jp/schedule/detail/42029",
     "venue": "アメリカ村DROP",
     "note": ""
@@ -11280,7 +11343,7 @@
     "date": "2025/05/23",
     "day": "金",
     "artist": "AIMIA",
-    "title": "",
+    "title": "ENCLOSURE",
     "url": "https://clubdrop.jp/schedule/detail/42029",
     "venue": "アメリカ村DROP",
     "note": ""
@@ -11289,7 +11352,7 @@
     "date": "2025/05/23",
     "day": "金",
     "artist": "ミラーシュカ",
-    "title": "",
+    "title": "ENCLOSURE",
     "url": "https://clubdrop.jp/schedule/detail/42029",
     "venue": "アメリカ村DROP",
     "note": ""
@@ -11298,7 +11361,7 @@
     "date": "2025/05/23",
     "day": "金",
     "artist": "ELEVYZ",
-    "title": "",
+    "title": "ENCLOSURE",
     "url": "https://clubdrop.jp/schedule/detail/42029",
     "venue": "アメリカ村DROP",
     "note": ""
@@ -11309,6 +11372,15 @@
     "artist": "HAGANE",
     "title": "【SOLD OUT!!】\"HAGANE Full Album Release Tour「TOP OF THE TOWER 」\"",
     "url": "https://clubdrop.jp/schedule/detail/38713",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2025/05/25",
+    "day": "日",
+    "artist": "みらくらんど",
+    "title": "みらくらんど単独公演  -TIF2025全国選抜LIVE応援ありがとう公演-",
+    "url": "https://clubdrop.jp/schedule/detail/41400",
     "venue": "アメリカ村DROP",
     "note": ""
   },
@@ -11702,7 +11774,7 @@
   {
     "date": "2025/05/30",
     "day": "金",
-    "artist": "WAA卍 あつきん",
+    "artist": "WASS卍 あつきん",
     "title": "STRUCTURE",
     "url": "https://clubdrop.jp/schedule/detail/43454",
     "venue": "アメリカ村DROP",
@@ -14519,9 +14591,9 @@
   {
     "date": "2025/05/25",
     "day": "日",
-    "artist": "無花果とマシンガン",
-    "title": "FOR ALL IDOLOVERS #アイラバ",
-    "url": "https://osaka-varon.jp/schedule/detail/36715",
+    "artist": "ふぁんたす！",
+    "title": "心斎橋アイドル化計画。",
+    "url": "https://osaka-varon.jp/schedule/detail/44826",
     "venue": "VARON",
     "note": ""
   },
@@ -14529,6 +14601,69 @@
     "date": "2025/05/25",
     "day": "日",
     "artist": "KiMiNiAiTAi",
+    "title": "心斎橋アイドル化計画。",
+    "url": "https://osaka-varon.jp/schedule/detail/44826",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2025/05/25",
+    "day": "日",
+    "artist": "Cute Robin",
+    "title": "心斎橋アイドル化計画。",
+    "url": "https://osaka-varon.jp/schedule/detail/44826",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2025/05/25",
+    "day": "日",
+    "artist": "ミケネコガールズ",
+    "title": "心斎橋アイドル化計画。",
+    "url": "https://osaka-varon.jp/schedule/detail/44826",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2025/05/25",
+    "day": "日",
+    "artist": "侵喰ぴぴぴKLAXON",
+    "title": "心斎橋アイドル化計画。",
+    "url": "https://osaka-varon.jp/schedule/detail/44826",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2025/05/25",
+    "day": "日",
+    "artist": "リリシック学園",
+    "title": "心斎橋アイドル化計画。",
+    "url": "https://osaka-varon.jp/schedule/detail/44826",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2025/05/25",
+    "day": "日",
+    "artist": "No.*Day",
+    "title": "心斎橋アイドル化計画。",
+    "url": "https://osaka-varon.jp/schedule/detail/44826",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2025/05/25",
+    "day": "日",
+    "artist": "めいてん",
+    "title": "心斎橋アイドル化計画。",
+    "url": "https://osaka-varon.jp/schedule/detail/44826",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2025/05/25",
+    "day": "日",
+    "artist": "無花果とマシンガン",
     "title": "FOR ALL IDOLOVERS #アイラバ",
     "url": "https://osaka-varon.jp/schedule/detail/36715",
     "venue": "VARON",
@@ -14582,15 +14717,6 @@
   {
     "date": "2025/05/25",
     "day": "日",
-    "artist": "侵喰ぴぴぴKLAXON",
-    "title": "FOR ALL IDOLOVERS #アイラバ",
-    "url": "https://osaka-varon.jp/schedule/detail/36715",
-    "venue": "VARON",
-    "note": ""
-  },
-  {
-    "date": "2025/05/25",
-    "day": "日",
     "artist": "da-gashi☆",
     "title": "FOR ALL IDOLOVERS #アイラバ",
     "url": "https://osaka-varon.jp/schedule/detail/36715",
@@ -14610,15 +14736,6 @@
     "date": "2025/05/25",
     "day": "日",
     "artist": "天空音パレード",
-    "title": "FOR ALL IDOLOVERS #アイラバ",
-    "url": "https://osaka-varon.jp/schedule/detail/36715",
-    "venue": "VARON",
-    "note": ""
-  },
-  {
-    "date": "2025/05/25",
-    "day": "日",
-    "artist": "No.*Day",
     "title": "FOR ALL IDOLOVERS #アイラバ",
     "url": "https://osaka-varon.jp/schedule/detail/36715",
     "venue": "VARON",
@@ -14654,43 +14771,7 @@
   {
     "date": "2025/05/25",
     "day": "日",
-    "artist": "ふぁんたす！",
-    "title": "FOR ALL IDOLOVERS #アイラバ",
-    "url": "https://osaka-varon.jp/schedule/detail/36715",
-    "venue": "VARON",
-    "note": ""
-  },
-  {
-    "date": "2025/05/25",
-    "day": "日",
-    "artist": "ミケネコガールズ",
-    "title": "FOR ALL IDOLOVERS #アイラバ",
-    "url": "https://osaka-varon.jp/schedule/detail/36715",
-    "venue": "VARON",
-    "note": ""
-  },
-  {
-    "date": "2025/05/25",
-    "day": "日",
-    "artist": "めいてん",
-    "title": "FOR ALL IDOLOVERS #アイラバ",
-    "url": "https://osaka-varon.jp/schedule/detail/36715",
-    "venue": "VARON",
-    "note": ""
-  },
-  {
-    "date": "2025/05/25",
-    "day": "日",
     "artist": "ららびっと！",
-    "title": "FOR ALL IDOLOVERS #アイラバ",
-    "url": "https://osaka-varon.jp/schedule/detail/36715",
-    "venue": "VARON",
-    "note": ""
-  },
-  {
-    "date": "2025/05/25",
-    "day": "日",
-    "artist": "リリシック学園",
     "title": "FOR ALL IDOLOVERS #アイラバ",
     "url": "https://osaka-varon.jp/schedule/detail/36715",
     "venue": "VARON",
@@ -15521,6 +15602,51 @@
     "artist": "NETH PRIERE CAIN",
     "title": "Chanty vs ゼラ vs NETH PRIERE CAIN 3MAN 『三原色』",
     "url": "https://osaka-varon.jp/schedule/detail/43535",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2025/06/19",
+    "day": "木",
+    "artist": "Unlucky Coke",
+    "title": "DUMBSTRUCK Vol.7",
+    "url": "https://osaka-varon.jp/schedule/detail/42616",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2025/06/19",
+    "day": "木",
+    "artist": "Innate Goodness",
+    "title": "DUMBSTRUCK Vol.7",
+    "url": "https://osaka-varon.jp/schedule/detail/42616",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2025/06/19",
+    "day": "木",
+    "artist": "Smokin'After school",
+    "title": "DUMBSTRUCK Vol.7",
+    "url": "https://osaka-varon.jp/schedule/detail/42616",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2025/06/19",
+    "day": "木",
+    "artist": "NON BRAINER",
+    "title": "DUMBSTRUCK Vol.7",
+    "url": "https://osaka-varon.jp/schedule/detail/42616",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2025/06/19",
+    "day": "木",
+    "artist": "Rizz",
+    "title": "DUMBSTRUCK Vol.7",
+    "url": "https://osaka-varon.jp/schedule/detail/42616",
     "venue": "VARON",
     "note": ""
   },
@@ -17096,6 +17222,24 @@
     "artist": "神咲レイト",
     "title": "Let's Enjoy!! vol.4",
     "url": "https://osaka-zeela.jp/schedule/detail/37072",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2025/07/14",
+    "day": "月",
+    "artist": "kalmia",
+    "title": "kalmia \"RE:CONNATION TOUR\"",
+    "url": "https://osaka-zeela.jp/schedule/detail/42905",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2025/07/14",
+    "day": "月",
+    "artist": "and more...",
+    "title": "kalmia \"RE:CONNATION TOUR\"",
+    "url": "https://osaka-zeela.jp/schedule/detail/42905",
     "venue": "Zeela",
     "note": ""
   },
@@ -19064,7 +19208,61 @@
   {
     "date": "2025/07/25",
     "day": "金",
-    "artist": "透明な7日目の真実and more...",
+    "artist": "透明な7日目の真実",
+    "title": "透明な7日目の真実 pre.1会場2ステージサーキットイベント\n弍足の草鞋 -咲かせよ百姫-",
+    "url": "http://rocktown.jp/schedule/202507.html",
+    "venue": "あべのROCKTOWN",
+    "note": ""
+  },
+  {
+    "date": "2025/07/25",
+    "day": "金",
+    "artist": "ナンカノユメ",
+    "title": "透明な7日目の真実 pre.1会場2ステージサーキットイベント\n弍足の草鞋 -咲かせよ百姫-",
+    "url": "http://rocktown.jp/schedule/202507.html",
+    "venue": "あべのROCKTOWN",
+    "note": ""
+  },
+  {
+    "date": "2025/07/25",
+    "day": "金",
+    "artist": "Disconnect Cendrillon",
+    "title": "透明な7日目の真実 pre.1会場2ステージサーキットイベント\n弍足の草鞋 -咲かせよ百姫-",
+    "url": "http://rocktown.jp/schedule/202507.html",
+    "venue": "あべのROCKTOWN",
+    "note": ""
+  },
+  {
+    "date": "2025/07/25",
+    "day": "金",
+    "artist": "スプリーガル",
+    "title": "透明な7日目の真実 pre.1会場2ステージサーキットイベント\n弍足の草鞋 -咲かせよ百姫-",
+    "url": "http://rocktown.jp/schedule/202507.html",
+    "venue": "あべのROCKTOWN",
+    "note": ""
+  },
+  {
+    "date": "2025/07/25",
+    "day": "金",
+    "artist": "ハイファイコーヒーズ",
+    "title": "透明な7日目の真実 pre.1会場2ステージサーキットイベント\n弍足の草鞋 -咲かせよ百姫-",
+    "url": "http://rocktown.jp/schedule/202507.html",
+    "venue": "あべのROCKTOWN",
+    "note": ""
+  },
+  {
+    "date": "2025/07/25",
+    "day": "金",
+    "artist": "芽菜海野夕凪",
+    "title": "透明な7日目の真実 pre.1会場2ステージサーキットイベント\n弍足の草鞋 -咲かせよ百姫-",
+    "url": "http://rocktown.jp/schedule/202507.html",
+    "venue": "あべのROCKTOWN",
+    "note": ""
+  },
+  {
+    "date": "2025/07/25",
+    "day": "金",
+    "artist": "前田琴音",
     "title": "透明な7日目の真実 pre.1会場2ステージサーキットイベント\n弍足の草鞋 -咲かせよ百姫-",
     "url": "http://rocktown.jp/schedule/202507.html",
     "venue": "あべのROCKTOWN",
