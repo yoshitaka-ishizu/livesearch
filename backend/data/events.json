@@ -866,15 +866,6 @@
   {
     "date": "2025/05/28",
     "day": "水",
-    "artist": "The right",
-    "title": "overplugged",
-    "url": "https://fireloop.net/schedule_now.shtml#0528",
-    "venue": "寺田町Fireloop",
-    "note": ""
-  },
-  {
-    "date": "2025/05/28",
-    "day": "水",
     "artist": "PLASTIC NIPPON",
     "title": "overplugged",
     "url": "https://fireloop.net/schedule_now.shtml#0528",
@@ -885,6 +876,15 @@
     "date": "2025/05/28",
     "day": "水",
     "artist": "フクスイボンニカエス",
+    "title": "overplugged",
+    "url": "https://fireloop.net/schedule_now.shtml#0528",
+    "venue": "寺田町Fireloop",
+    "note": ""
+  },
+  {
+    "date": "2025/05/28",
+    "day": "水",
+    "artist": "The rightはキャンセルとなりました",
     "title": "overplugged",
     "url": "https://fireloop.net/schedule_now.shtml#0528",
     "venue": "寺田町Fireloop",
@@ -1967,6 +1967,42 @@
     "artist": "メルシー",
     "title": "てっさん爆誕36祭",
     "url": "https://fireloop.net/schedule_now.shtml#0725",
+    "venue": "寺田町Fireloop",
+    "note": ""
+  },
+  {
+    "date": "2025/07/30",
+    "day": "水",
+    "artist": "チセツナガラ",
+    "title": "品性は金で買えないよ",
+    "url": "https://fireloop.net/schedule_now.shtml#0730",
+    "venue": "寺田町Fireloop",
+    "note": ""
+  },
+  {
+    "date": "2025/07/30",
+    "day": "水",
+    "artist": "and more...",
+    "title": "品性は金で買えないよ",
+    "url": "https://fireloop.net/schedule_now.shtml#0730",
+    "venue": "寺田町Fireloop",
+    "note": ""
+  },
+  {
+    "date": "2025/08/02",
+    "day": "",
+    "artist": "ULTRA CUB",
+    "title": "『生きたい、逢いたい』ツアー",
+    "url": "https://fireloop.net/schedule_now.shtml#0802",
+    "venue": "寺田町Fireloop",
+    "note": ""
+  },
+  {
+    "date": "2025/08/02",
+    "day": "",
+    "artist": "and more...",
+    "title": "『生きたい、逢いたい』ツアー",
+    "url": "https://fireloop.net/schedule_now.shtml#0802",
     "venue": "寺田町Fireloop",
     "note": ""
   },
@@ -4025,7 +4061,7 @@
   {
     "date": "2025/05/29",
     "day": "木",
-    "artist": "and more...",
+    "artist": "エラーガール",
     "title": "【COLORS】vol.5",
     "url": "https://vijon.jp/schedule/detail/43221",
     "venue": "北堀江club vijon",
@@ -4302,15 +4338,6 @@
     "note": ""
   },
   {
-    "date": "2025/06/03",
-    "day": "火",
-    "artist": "...and more",
-    "title": "vijon pre.【YOGARI in the Sky】",
-    "url": "https://vijon.jp/schedule/detail/43275",
-    "venue": "北堀江club vijon",
-    "note": ""
-  },
-  {
     "date": "2025/06/05",
     "day": "木",
     "artist": "池田篤",
@@ -4532,6 +4559,51 @@
     "artist": "遠征エロー",
     "title": "【SUPER MONDAY】- SUGOI TANOSHII GETSUYOUBI -",
     "url": "https://vijon.jp/schedule/detail/42813",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2025/06/10",
+    "day": "火",
+    "artist": "K星人",
+    "title": "vijon pre.【VIJONIZM】",
+    "url": "https://vijon.jp/schedule/detail/44427",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2025/06/10",
+    "day": "火",
+    "artist": "あんどーまいか",
+    "title": "vijon pre.【VIJONIZM】",
+    "url": "https://vijon.jp/schedule/detail/44427",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2025/06/10",
+    "day": "火",
+    "artist": "JUNGLEJANGARIAN",
+    "title": "vijon pre.【VIJONIZM】",
+    "url": "https://vijon.jp/schedule/detail/44427",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2025/06/10",
+    "day": "火",
+    "artist": "ポール",
+    "title": "vijon pre.【VIJONIZM】",
+    "url": "https://vijon.jp/schedule/detail/44427",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2025/06/10",
+    "day": "火",
+    "artist": "...and more",
+    "title": "vijon pre.【VIJONIZM】",
+    "url": "https://vijon.jp/schedule/detail/44427",
     "venue": "北堀江club vijon",
     "note": ""
   },
@@ -6120,11 +6192,128 @@
     "note": ""
   },
   {
+    "date": "2025/08/01",
+    "day": "金",
+    "artist": "ワンダー久道",
+    "title": "ポール店長就任1周年記念【New vijon devision】Day1",
+    "url": "https://vijon.jp/schedule/detail/42325",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2025/08/01",
+    "day": "金",
+    "artist": "Junk Unit",
+    "title": "ポール店長就任1周年記念【New vijon devision】Day1",
+    "url": "https://vijon.jp/schedule/detail/42325",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2025/08/01",
+    "day": "金",
+    "artist": "コスメティックラヴァーズ",
+    "title": "ポール店長就任1周年記念【New vijon devision】Day1",
+    "url": "https://vijon.jp/schedule/detail/42325",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2025/08/01",
+    "day": "金",
+    "artist": "a frankenlouie",
+    "title": "ポール店長就任1周年記念【New vijon devision】Day1",
+    "url": "https://vijon.jp/schedule/detail/42325",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2025/08/01",
+    "day": "金",
+    "artist": "rale one stance",
+    "title": "ポール店長就任1周年記念【New vijon devision】Day1",
+    "url": "https://vijon.jp/schedule/detail/42325",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2025/08/01",
+    "day": "金",
+    "artist": "Ruby Seaside",
+    "title": "ポール店長就任1周年記念【New vijon devision】Day1",
+    "url": "https://vijon.jp/schedule/detail/42325",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
     "date": "2025/08/16",
     "day": "土",
     "artist": "THE MICRO HEAD 4N'S",
     "title": "THE MICRO HEAD 4N'S 14th Anniversary Tour",
     "url": "https://vijon.jp/schedule/detail/43760",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2025/08/18",
+    "day": "月",
+    "artist": "ELECTRIC MAMA",
+    "title": "ポール店長就任1周年記念【New vijon devision】Day2",
+    "url": "https://vijon.jp/schedule/detail/43120",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2025/08/18",
+    "day": "月",
+    "artist": "ハシグチカナデリヤ",
+    "title": "ポール店長就任1周年記念【New vijon devision】Day2",
+    "url": "https://vijon.jp/schedule/detail/43120",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2025/08/18",
+    "day": "月",
+    "artist": "soratobiwo",
+    "title": "ポール店長就任1周年記念【New vijon devision】Day2",
+    "url": "https://vijon.jp/schedule/detail/43120",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2025/08/18",
+    "day": "月",
+    "artist": "ワダアツシとビアウマイオールスターズ",
+    "title": "ポール店長就任1周年記念【New vijon devision】Day2",
+    "url": "https://vijon.jp/schedule/detail/43120",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2025/08/18",
+    "day": "月",
+    "artist": "ハヤシライフ",
+    "title": "ポール店長就任1周年記念【New vijon devision】Day2",
+    "url": "https://vijon.jp/schedule/detail/43120",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2025/08/18",
+    "day": "月",
+    "artist": "Melissa Barry",
+    "title": "ポール店長就任1周年記念【New vijon devision】Day2",
+    "url": "https://vijon.jp/schedule/detail/43120",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2025/08/18",
+    "day": "月",
+    "artist": "Helpress Triangle",
+    "title": "ポール店長就任1周年記念【New vijon devision】Day2",
+    "url": "https://vijon.jp/schedule/detail/43120",
     "venue": "北堀江club vijon",
     "note": ""
   },
@@ -9873,6 +10062,60 @@
     "note": ""
   },
   {
+    "date": "2025/06/26",
+    "day": "木",
+    "artist": "THE SUNSHINE",
+    "title": "【気ガ狂イソウナ夜】Vol.6",
+    "url": "https://bangboo.jp/schedule/detail/42301",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2025/06/26",
+    "day": "木",
+    "artist": "Midnight Mischief",
+    "title": "【気ガ狂イソウナ夜】Vol.6",
+    "url": "https://bangboo.jp/schedule/detail/42301",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2025/06/26",
+    "day": "木",
+    "artist": "Hecatoncheir sisters",
+    "title": "【気ガ狂イソウナ夜】Vol.6",
+    "url": "https://bangboo.jp/schedule/detail/42301",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2025/06/26",
+    "day": "木",
+    "artist": "Helpless Triangle",
+    "title": "【気ガ狂イソウナ夜】Vol.6",
+    "url": "https://bangboo.jp/schedule/detail/42301",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2025/06/26",
+    "day": "木",
+    "artist": "Antages",
+    "title": "【気ガ狂イソウナ夜】Vol.6",
+    "url": "https://bangboo.jp/schedule/detail/42301",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2025/06/26",
+    "day": "木",
+    "artist": "sixteencoins",
+    "title": "【気ガ狂イソウナ夜】Vol.6",
+    "url": "https://bangboo.jp/schedule/detail/42301",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
     "date": "2025/06/28",
     "day": "土",
     "artist": "Neko Hacker",
@@ -13369,7 +13612,7 @@
     "day": "木",
     "artist": "CANTOY",
     "title": "Tanki∞machi pre.百花繚乱第15章-Tanki∞machi Birthday day-",
-    "url": "https://clubdrop.jp/schedule/detail/43161",
+    "url": "https://clubdrop.jp/schedule/detail/45084",
     "venue": "アメリカ村DROP",
     "note": ""
   },
@@ -13378,7 +13621,7 @@
     "day": "木",
     "artist": "AZ-ON",
     "title": "Tanki∞machi pre.百花繚乱第15章-Tanki∞machi Birthday day-",
-    "url": "https://clubdrop.jp/schedule/detail/43161",
+    "url": "https://clubdrop.jp/schedule/detail/45084",
     "venue": "アメリカ村DROP",
     "note": ""
   },
@@ -13387,7 +13630,7 @@
     "day": "木",
     "artist": "鳴ル神",
     "title": "Tanki∞machi pre.百花繚乱第15章-Tanki∞machi Birthday day-",
-    "url": "https://clubdrop.jp/schedule/detail/43161",
+    "url": "https://clubdrop.jp/schedule/detail/45084",
     "venue": "アメリカ村DROP",
     "note": ""
   },
@@ -13457,8 +13700,8 @@
   {
     "date": "2025/06/08",
     "day": "日",
-    "artist": "侵喰ぴぴぴKLAXON",
-    "title": "鈴乃みう生誕祭",
+    "artist": "ボクセカ",
+    "title": "ボクセカ休日単独公演 部活コス公演",
     "url": "https://clubdrop.jp/schedule/detail/39986",
     "venue": "アメリカ村DROP",
     "note": ""
@@ -13466,9 +13709,9 @@
   {
     "date": "2025/06/08",
     "day": "日",
-    "artist": "Dear❥Nightmare",
+    "artist": "侵喰ぴぴぴKLAXON Dear❥Nightmare",
     "title": "鈴乃みう生誕祭",
-    "url": "https://clubdrop.jp/schedule/detail/39986",
+    "url": "https://clubdrop.jp/schedule/detail/45115",
     "venue": "アメリカ村DROP",
     "note": ""
   },
@@ -17276,6 +17519,15 @@
     "artist": "ゼロキュリハーツ",
     "title": "アクアリウム。定期公演Vol.8 『天水降誕祭』〜聖なる決意の集い〜",
     "url": "https://osaka-varon.jp/schedule/detail/38372",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2025/06/15",
+    "day": "日",
+    "artist": "Fille mimi",
+    "title": "Fille mimi つぐみ生誕祭",
+    "url": "https://osaka-varon.jp/schedule/detail/40062",
     "venue": "VARON",
     "note": ""
   },
@@ -23096,15 +23348,6 @@
   {
     "date": "2025/05/28",
     "day": "水",
-    "artist": "Uka",
-    "title": "NaturalWoman",
-    "url": "http://www.knave.co.jp/schedule/s_2025_05.html",
-    "venue": "knave",
-    "note": ""
-  },
-  {
-    "date": "2025/05/28",
-    "day": "水",
     "artist": "杉野淳子",
     "title": "NaturalWoman",
     "url": "http://www.knave.co.jp/schedule/s_2025_05.html",
@@ -23133,6 +23376,24 @@
     "date": "2025/05/28",
     "day": "水",
     "artist": "小野亜里沙",
+    "title": "NaturalWoman",
+    "url": "http://www.knave.co.jp/schedule/s_2025_05.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2025/05/28",
+    "day": "水",
+    "artist": "※Ukaは体調不良により出演キャンセルと",
+    "title": "NaturalWoman",
+    "url": "http://www.knave.co.jp/schedule/s_2025_05.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2025/05/28",
+    "day": "水",
+    "artist": "なりました。直前のご報告でご迷惑をおかけいたしますが何卒ご了承くださいませ。",
     "title": "NaturalWoman",
     "url": "http://www.knave.co.jp/schedule/s_2025_05.html",
     "venue": "knave",
