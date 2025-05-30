@@ -10712,7 +10712,7 @@
   {
     "date": "2025/07/17",
     "day": "木",
-    "artist": "and more",
+    "artist": "No.9",
     "title": "【bamboo shoot】vol.3",
     "url": "https://bangboo.jp/schedule/detail/42704",
     "venue": "梅田BANGBOO",
@@ -13025,15 +13025,6 @@
   {
     "date": "2025/05/30",
     "day": "金",
-    "artist": "SALVIA",
-    "title": "STRUCTURE",
-    "url": "https://clubdrop.jp/schedule/detail/43454",
-    "venue": "アメリカ村DROP",
-    "note": ""
-  },
-  {
-    "date": "2025/05/30",
-    "day": "金",
     "artist": "STEEL",
     "title": "STRUCTURE",
     "url": "https://clubdrop.jp/schedule/detail/43454",
@@ -13070,7 +13061,7 @@
   {
     "date": "2025/05/30",
     "day": "金",
-    "artist": "DJ DAI",
+    "artist": "DJ DAI　※出演予定でしたSALVIAは体調不良により出演キャンセルとなりました。",
     "title": "STRUCTURE",
     "url": "https://clubdrop.jp/schedule/detail/43454",
     "venue": "アメリカ村DROP",
@@ -13945,7 +13936,7 @@
     "day": "木",
     "artist": "ノーサイド・アウトサイダー",
     "title": "POP×ROCK×POP#3",
-    "url": "https://clubdrop.jp/schedule/detail/42764",
+    "url": "https://clubdrop.jp/schedule/detail/45118",
     "venue": "アメリカ村DROP",
     "note": ""
   },
@@ -13954,7 +13945,7 @@
     "day": "木",
     "artist": "Free Aqua Butterfly",
     "title": "POP×ROCK×POP#3",
-    "url": "https://clubdrop.jp/schedule/detail/42764",
+    "url": "https://clubdrop.jp/schedule/detail/45118",
     "venue": "アメリカ村DROP",
     "note": ""
   },
@@ -13963,7 +13954,7 @@
     "day": "木",
     "artist": "にゃんにゃん倶楽部",
     "title": "POP×ROCK×POP#3",
-    "url": "https://clubdrop.jp/schedule/detail/42764",
+    "url": "https://clubdrop.jp/schedule/detail/45118",
     "venue": "アメリカ村DROP",
     "note": ""
   },
@@ -13972,7 +13963,16 @@
     "day": "木",
     "artist": "Worth of the Youth",
     "title": "POP×ROCK×POP#3",
-    "url": "https://clubdrop.jp/schedule/detail/42764",
+    "url": "https://clubdrop.jp/schedule/detail/45118",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2025/06/19",
+    "day": "木",
+    "artist": "Neil DiMC",
+    "title": "POP×ROCK×POP#3",
+    "url": "https://clubdrop.jp/schedule/detail/45118",
     "venue": "アメリカ村DROP",
     "note": ""
   },
@@ -17631,6 +17631,42 @@
     "note": ""
   },
   {
+    "date": "2025/06/22",
+    "day": "日",
+    "artist": "白黒アリス",
+    "title": "白黒アリス 愛結れむ生誕祭",
+    "url": "https://osaka-varon.jp/schedule/detail/36810",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2025/06/22",
+    "day": "日",
+    "artist": "YA’ABURNEE",
+    "title": "白黒アリス 愛結れむ生誕祭",
+    "url": "https://osaka-varon.jp/schedule/detail/36810",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2025/06/22",
+    "day": "日",
+    "artist": "DIAVEL",
+    "title": "白黒アリス 愛結れむ生誕祭",
+    "url": "https://osaka-varon.jp/schedule/detail/36810",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2025/06/22",
+    "day": "日",
+    "artist": "いつかの夜に僕たちが、",
+    "title": "白黒アリス 愛結れむ生誕祭",
+    "url": "https://osaka-varon.jp/schedule/detail/36810",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
     "date": "2025/06/26",
     "day": "木",
     "artist": "cleomery",
@@ -18599,6 +18635,24 @@
     "artist": "Disconnect Cendrillon",
     "title": "UMEDA SUPER SMASH!!!",
     "url": "https://osaka-zeela.jp/schedule/detail/42360",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2025/06/10",
+    "day": "火",
+    "artist": "Lumi7's",
+    "title": "『Cendrillon-vol.28-』",
+    "url": "https://osaka-zeela.jp/schedule/detail/43361",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2025/06/10",
+    "day": "火",
+    "artist": "NeoAster",
+    "title": "『Cendrillon-vol.28-』",
+    "url": "https://osaka-zeela.jp/schedule/detail/43361",
     "venue": "Zeela",
     "note": ""
   },
@@ -26010,6 +26064,60 @@
     "note": ""
   },
   {
+    "date": "2025/07/11",
+    "day": "金",
+    "artist": "シャレオツな堀江でシャレオツな音楽を",
+    "title": "Y-nation",
+    "url": "http://www.knave.co.jp/schedule/s_2025_07.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2025/07/11",
+    "day": "金",
+    "artist": "小野亜里沙",
+    "title": "Y-nation",
+    "url": "http://www.knave.co.jp/schedule/s_2025_07.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2025/07/11",
+    "day": "金",
+    "artist": "河村麻未",
+    "title": "Y-nation",
+    "url": "http://www.knave.co.jp/schedule/s_2025_07.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2025/07/11",
+    "day": "金",
+    "artist": "平野里沙",
+    "title": "Y-nation",
+    "url": "http://www.knave.co.jp/schedule/s_2025_07.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2025/07/11",
+    "day": "金",
+    "artist": "伊谷亜子",
+    "title": "Y-nation",
+    "url": "http://www.knave.co.jp/schedule/s_2025_07.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2025/07/11",
+    "day": "金",
+    "artist": "問)knave06-6535-0691",
+    "title": "Y-nation",
+    "url": "http://www.knave.co.jp/schedule/s_2025_07.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
     "date": "2025/07/12",
     "day": "土",
     "artist": "設立記念〜",
@@ -26201,7 +26309,16 @@
   {
     "date": "2025/07/13",
     "day": "日",
-    "artist": "イープラス発売日 近日",
+    "artist": "一般発売5",
+    "title": "広石武彦 60th anniversary",
+    "url": "http://www.knave.co.jp/schedule/s_2025_07.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2025/07/13",
+    "day": "日",
+    "artist": "29",
     "title": "広石武彦 60th anniversary",
     "url": "http://www.knave.co.jp/schedule/s_2025_07.html",
     "venue": "knave",
@@ -27236,6 +27353,15 @@
   {
     "date": "2025/08/03",
     "day": "日",
+    "artist": "あやなゆりな",
+    "title": "Generation Next",
+    "url": "http://www.knave.co.jp/schedule/s_2025_08.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2025/08/03",
+    "day": "日",
     "artist": "問)knave06-6535-0691",
     "title": "Generation Next",
     "url": "http://www.knave.co.jp/schedule/s_2025_08.html",
@@ -27787,6 +27913,60 @@
     "day": "月",
     "artist": "問)knave06-6535-0691",
     "title": "\"parallel grow\"",
+    "url": "http://www.knave.co.jp/schedule/s_2025_08.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2025/08/25",
+    "day": "月",
+    "artist": "うに",
+    "title": "NaturalWoman SP",
+    "url": "http://www.knave.co.jp/schedule/s_2025_08.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2025/08/25",
+    "day": "月",
+    "artist": "絹",
+    "title": "NaturalWoman SP",
+    "url": "http://www.knave.co.jp/schedule/s_2025_08.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2025/08/25",
+    "day": "月",
+    "artist": "RIN°",
+    "title": "NaturalWoman SP",
+    "url": "http://www.knave.co.jp/schedule/s_2025_08.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2025/08/25",
+    "day": "月",
+    "artist": "かおちー",
+    "title": "NaturalWoman SP",
+    "url": "http://www.knave.co.jp/schedule/s_2025_08.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2025/08/25",
+    "day": "月",
+    "artist": "高賀音羽",
+    "title": "NaturalWoman SP",
+    "url": "http://www.knave.co.jp/schedule/s_2025_08.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2025/08/25",
+    "day": "月",
+    "artist": "問)knave06-6535-0691",
+    "title": "NaturalWoman SP",
     "url": "http://www.knave.co.jp/schedule/s_2025_08.html",
     "venue": "knave",
     "note": ""
