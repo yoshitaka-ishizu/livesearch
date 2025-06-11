@@ -5060,15 +5060,6 @@
   {
     "date": "2025/06/10",
     "day": "火",
-    "artist": "こーぷす",
-    "title": "緊急開催！！　FREE DJ &BAR EVENT",
-    "url": "https://vijon.jp/schedule/detail/45367",
-    "venue": "北堀江club vijon",
-    "note": ""
-  },
-  {
-    "date": "2025/06/10",
-    "day": "火",
     "artist": "ましろゆりか",
     "title": "緊急開催！！　FREE DJ &BAR EVENT",
     "url": "https://vijon.jp/schedule/detail/45367",
@@ -5132,7 +5123,25 @@
   {
     "date": "2025/06/10",
     "day": "火",
-    "artist": "ノリバル 　※DJまだまだ募集中！飛び込み枠あります！",
+    "artist": "ノリバル",
+    "title": "緊急開催！！　FREE DJ &BAR EVENT",
+    "url": "https://vijon.jp/schedule/detail/45367",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2025/06/10",
+    "day": "火",
+    "artist": "吾妻光記",
+    "title": "緊急開催！！　FREE DJ &BAR EVENT",
+    "url": "https://vijon.jp/schedule/detail/45367",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2025/06/10",
+    "day": "火",
+    "artist": "あまちゃん 　※DJまだまだ募集中！飛び込み枠あります！",
     "title": "緊急開催！！　FREE DJ &BAR EVENT",
     "url": "https://vijon.jp/schedule/detail/45367",
     "venue": "北堀江club vijon",
@@ -5540,6 +5549,15 @@
     "artist": "seepriz",
     "title": "wake up",
     "url": "https://vijon.jp/schedule/detail/44758",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2025/06/16",
+    "day": "月",
+    "artist": "ミラーシュカ",
+    "title": "「儚き人形ノ記憶-偽りの楽園へ-」3ヶ月連続コンセプトワンマン",
+    "url": "https://vijon.jp/schedule/detail/44575",
     "venue": "北堀江club vijon",
     "note": ""
   },
@@ -9831,7 +9849,7 @@
     "date": "2025/09/15",
     "day": "月",
     "artist": "逹瑯",
-    "title": "#逹瑯 LIVE HOUSE TOUR [タイトル未定]",
+    "title": "#逹瑯LIVE HOUSE TOUR[VILLAINS]",
     "url": "https://bangboo.jp/schedule/detail/41691",
     "venue": "梅田BANGBOO",
     "note": ""
@@ -11777,6 +11795,60 @@
     "artist": "kein",
     "title": "kein TOUR 2025 「delusional inflammation」",
     "url": "https://clubdrop.jp/schedule/detail/41569",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2025/07/16",
+    "day": "水",
+    "artist": "Craps Obscure Life",
+    "title": "-Golden Groove- #3",
+    "url": "https://clubdrop.jp/schedule/detail/43803",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2025/07/16",
+    "day": "水",
+    "artist": "EMILY",
+    "title": "-Golden Groove- #3",
+    "url": "https://clubdrop.jp/schedule/detail/43803",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2025/07/16",
+    "day": "水",
+    "artist": "franker",
+    "title": "-Golden Groove- #3",
+    "url": "https://clubdrop.jp/schedule/detail/43803",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2025/07/16",
+    "day": "水",
+    "artist": "FLANN ACE",
+    "title": "-Golden Groove- #3",
+    "url": "https://clubdrop.jp/schedule/detail/43803",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2025/07/16",
+    "day": "水",
+    "artist": "THE AFTER ALL'S",
+    "title": "-Golden Groove- #3",
+    "url": "https://clubdrop.jp/schedule/detail/43803",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2025/07/16",
+    "day": "水",
+    "artist": "and more...!!!",
+    "title": "-Golden Groove- #3",
+    "url": "https://clubdrop.jp/schedule/detail/43803",
     "venue": "アメリカ村DROP",
     "note": ""
   },
@@ -15925,16 +15997,43 @@
     "day": "水",
     "artist": "oldflame",
     "title": "oldflame 「KESHOU DE MUSOU」TOUR",
-    "url": "https://osaka-zeela.jp/schedule/detail/42770",
+    "url": "https://osaka-zeela.jp/schedule/detail/45409",
     "venue": "Zeela",
     "note": ""
   },
   {
     "date": "2025/07/16",
     "day": "水",
-    "artist": "and more...",
+    "artist": "City Lovers",
     "title": "oldflame 「KESHOU DE MUSOU」TOUR",
-    "url": "https://osaka-zeela.jp/schedule/detail/42770",
+    "url": "https://osaka-zeela.jp/schedule/detail/45409",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2025/07/16",
+    "day": "水",
+    "artist": "tenoto",
+    "title": "oldflame 「KESHOU DE MUSOU」TOUR",
+    "url": "https://osaka-zeela.jp/schedule/detail/45409",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2025/07/16",
+    "day": "水",
+    "artist": "ザ・ハウル",
+    "title": "oldflame 「KESHOU DE MUSOU」TOUR",
+    "url": "https://osaka-zeela.jp/schedule/detail/45409",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2025/07/16",
+    "day": "水",
+    "artist": "STRIDES",
+    "title": "oldflame 「KESHOU DE MUSOU」TOUR",
+    "url": "https://osaka-zeela.jp/schedule/detail/45409",
     "venue": "Zeela",
     "note": ""
   },
@@ -16367,6 +16466,24 @@
     "artist": "Rhythmic Toy World",
     "title": "それいけ!ギフトメン2025",
     "url": "https://osaka-zeela.jp/schedule/detail/40343",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2025/08/02",
+    "day": "土",
+    "artist": "咲良ゆの",
+    "title": "Yuno Sakura ONE-MAN LIVE 『I Know, You Know?』",
+    "url": "https://osaka-zeela.jp/schedule/detail/40287",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2025/08/02",
+    "day": "土",
+    "artist": "Guest... 川口綾",
+    "title": "Yuno Sakura ONE-MAN LIVE 『I Know, You Know?』",
+    "url": "https://osaka-zeela.jp/schedule/detail/40287",
     "venue": "Zeela",
     "note": ""
   },
