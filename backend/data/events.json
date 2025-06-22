@@ -3674,8 +3674,8 @@
   {
     "date": "2025/07/14",
     "day": "月",
-    "artist": "マッドショットガン",
-    "title": "マッドショットガン / SALVA / カリニャンクール",
+    "artist": "カリニャンクール",
+    "title": "OPEN 18:30",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -3684,7 +3684,7 @@
     "date": "2025/07/14",
     "day": "月",
     "artist": "SALVA",
-    "title": "マッドショットガン / SALVA / カリニャンクール",
+    "title": "OPEN 18:30",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -3692,8 +3692,17 @@
   {
     "date": "2025/07/14",
     "day": "月",
-    "artist": "カリニャンクール  and more...",
-    "title": "マッドショットガン / SALVA / カリニャンクール",
+    "artist": "UNDER THE KLOUD",
+    "title": "OPEN 18:30",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
+    "date": "2025/07/14",
+    "day": "月",
+    "artist": "マッドショットガン",
+    "title": "OPEN 18:30",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -3711,6 +3720,24 @@
     "date": "2025/07/16",
     "day": "水",
     "artist": "『 FROM THE BASEMENT 』",
+    "title": "para-dice企画",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
+    "date": "2025/07/16",
+    "day": "水",
+    "artist": "モカリン",
+    "title": "para-dice企画",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
+    "date": "2025/07/16",
+    "day": "水",
+    "artist": "アシスタンツ",
     "title": "para-dice企画",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
@@ -3753,55 +3780,10 @@
     "note": ""
   },
   {
-    "date": "2025/07/16",
-    "day": "水",
-    "artist": "アシスタンツ",
-    "title": "para-dice企画",
-    "url": "https://para-dice.net/",
-    "venue": "扇町para-dice",
-    "note": ""
-  },
-  {
-    "date": "2025/07/16",
-    "day": "水",
-    "artist": "モカリン",
-    "title": "para-dice企画",
-    "url": "https://para-dice.net/",
-    "venue": "扇町para-dice",
-    "note": ""
-  },
-  {
-    "date": "2025/07/17",
-    "day": "木",
-    "artist": "自転車SO業舎",
-    "title": "自転車SO業舎 / こもも / 優午(バンドセット) / 虚舟 dub experience / DietGRRRL",
-    "url": "https://para-dice.net/",
-    "venue": "扇町para-dice",
-    "note": ""
-  },
-  {
-    "date": "2025/07/17",
-    "day": "木",
-    "artist": "こもも",
-    "title": "自転車SO業舎 / こもも / 優午(バンドセット) / 虚舟 dub experience / DietGRRRL",
-    "url": "https://para-dice.net/",
-    "venue": "扇町para-dice",
-    "note": ""
-  },
-  {
-    "date": "2025/07/17",
-    "day": "木",
-    "artist": "優午",
-    "title": "自転車SO業舎 / こもも / 優午(バンドセット) / 虚舟 dub experience / DietGRRRL",
-    "url": "https://para-dice.net/",
-    "venue": "扇町para-dice",
-    "note": ""
-  },
-  {
     "date": "2025/07/17",
     "day": "木",
     "artist": "虚舟 dub experience",
-    "title": "自転車SO業舎 / こもも / 優午(バンドセット) / 虚舟 dub experience / DietGRRRL",
+    "title": "OPEN 18:30",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -3810,7 +3792,34 @@
     "date": "2025/07/17",
     "day": "木",
     "artist": "DietGRRRL",
-    "title": "自転車SO業舎 / こもも / 優午(バンドセット) / 虚舟 dub experience / DietGRRRL",
+    "title": "OPEN 18:30",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
+    "date": "2025/07/17",
+    "day": "木",
+    "artist": "優午",
+    "title": "OPEN 18:30",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
+    "date": "2025/07/17",
+    "day": "木",
+    "artist": "こもも",
+    "title": "OPEN 18:30",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
+    "date": "2025/07/17",
+    "day": "木",
+    "artist": "自転車SO業舎",
+    "title": "OPEN 18:30",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -4682,7 +4691,7 @@
   {
     "date": "2025/08/22",
     "day": "金",
-    "artist": "Plugman",
+    "artist": "Masayoshi Sakaguchi",
     "title": "para-dice企画",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
@@ -4700,7 +4709,7 @@
   {
     "date": "2025/08/22",
     "day": "金",
-    "artist": "Masayoshi Sakaguchi",
+    "artist": "Plugman",
     "title": "para-dice企画",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
@@ -4772,7 +4781,7 @@
   {
     "date": "2025/08/25",
     "day": "月",
-    "artist": "kumanini",
+    "artist": "『 GOLD EXPERIENCE 』",
     "title": "para-dice企画",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
@@ -4782,6 +4791,15 @@
     "date": "2025/08/25",
     "day": "月",
     "artist": "SANMOJI",
+    "title": "para-dice企画",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
+    "date": "2025/08/25",
+    "day": "月",
+    "artist": "kumanini",
     "title": "para-dice企画",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
@@ -6437,16 +6455,7 @@
   {
     "date": "2025/06/23",
     "day": "月",
-    "artist": "RIKKA",
-    "title": "【COLORS】",
-    "url": "https://vijon.jp/schedule/detail/44048",
-    "venue": "北堀江club vijon",
-    "note": ""
-  },
-  {
-    "date": "2025/06/23",
-    "day": "月",
-    "artist": "and more...",
+    "artist": "and more...  ※出演予定でしたRIKKA は体調不良のため 出演キャンセルとなりました。",
     "title": "【COLORS】",
     "url": "https://vijon.jp/schedule/detail/44048",
     "venue": "北堀江club vijon",
@@ -8069,6 +8078,60 @@
     "artist": "...and more",
     "title": "Mr.Suicide × vijon Pre.【彷徨する残響回帰性症候群】※本イベントは全バンドフロアライブとなります。",
     "url": "https://vijon.jp/schedule/detail/43407",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2025/07/29",
+    "day": "火",
+    "artist": "秋月 煉",
+    "title": "club vijon pre. 【NEO OSAKA】",
+    "url": "https://vijon.jp/schedule/detail/44352",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2025/07/29",
+    "day": "火",
+    "artist": "Stardust Alone",
+    "title": "club vijon pre. 【NEO OSAKA】",
+    "url": "https://vijon.jp/schedule/detail/44352",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2025/07/29",
+    "day": "火",
+    "artist": "No.9",
+    "title": "club vijon pre. 【NEO OSAKA】",
+    "url": "https://vijon.jp/schedule/detail/44352",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2025/07/29",
+    "day": "火",
+    "artist": "ReiMei",
+    "title": "club vijon pre. 【NEO OSAKA】",
+    "url": "https://vijon.jp/schedule/detail/44352",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2025/07/29",
+    "day": "火",
+    "artist": "THE SAGA",
+    "title": "club vijon pre. 【NEO OSAKA】",
+    "url": "https://vijon.jp/schedule/detail/44352",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2025/07/29",
+    "day": "火",
+    "artist": "WAY DO THRU",
+    "title": "club vijon pre. 【NEO OSAKA】",
+    "url": "https://vijon.jp/schedule/detail/44352",
     "venue": "北堀江club vijon",
     "note": ""
   },
@@ -9866,7 +9929,7 @@
   {
     "date": "2025/06/24",
     "day": "火",
-    "artist": "リトルシェノン／ゲスト：シンセカイヒーロー、Good knight**、ほか",
+    "artist": "リトルシェノン／ゲスト：シンセカイヒーロー、Good knight**、コドモシンカ",
     "title": "『リトルシェノン～淀川れいら卒業ライブ～』",
     "url": "https://bangboo.jp/schedule/detail/42808",
     "venue": "梅田BANGBOO",
@@ -10586,15 +10649,6 @@
   {
     "date": "2025/07/09",
     "day": "水",
-    "artist": "デリバリー神様",
-    "title": "【 i n u t e r o 】~vol.2",
-    "url": "https://bangboo.jp/schedule/detail/43578",
-    "venue": "梅田BANGBOO",
-    "note": ""
-  },
-  {
-    "date": "2025/07/09",
-    "day": "水",
     "artist": "イルカノート",
     "title": "【 i n u t e r o 】~vol.2",
     "url": "https://bangboo.jp/schedule/detail/43578",
@@ -10605,6 +10659,15 @@
     "date": "2025/07/09",
     "day": "水",
     "artist": "凛黎",
+    "title": "【 i n u t e r o 】~vol.2",
+    "url": "https://bangboo.jp/schedule/detail/43578",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2025/07/09",
+    "day": "水",
+    "artist": "※出演予定でした、 デリバリー神様は諸事情により、出演キャンセルとなりました。",
     "title": "【 i n u t e r o 】~vol.2",
     "url": "https://bangboo.jp/schedule/detail/43578",
     "venue": "梅田BANGBOO",
@@ -15813,6 +15876,195 @@
     "note": ""
   },
   {
+    "date": "2025/08/24",
+    "day": "日",
+    "artist": "THE CHORIZO VIBES",
+    "title": "TAKAO&NaKK pre アメ村頂上決戦-朋友- ライブハウスに不可能はない、出会いと夏編 -アメリカ村DROP 22th Annivarsary-",
+    "url": "https://clubdrop.jp/schedule/detail/41175",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2025/08/24",
+    "day": "日",
+    "artist": "SKA FREAKS",
+    "title": "TAKAO&NaKK pre アメ村頂上決戦-朋友- ライブハウスに不可能はない、出会いと夏編 -アメリカ村DROP 22th Annivarsary-",
+    "url": "https://clubdrop.jp/schedule/detail/41175",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2025/08/24",
+    "day": "日",
+    "artist": "ENVY PARANOID",
+    "title": "TAKAO&NaKK pre アメ村頂上決戦-朋友- ライブハウスに不可能はない、出会いと夏編 -アメリカ村DROP 22th Annivarsary-",
+    "url": "https://clubdrop.jp/schedule/detail/41175",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2025/08/24",
+    "day": "日",
+    "artist": "FELICETTE",
+    "title": "TAKAO&NaKK pre アメ村頂上決戦-朋友- ライブハウスに不可能はない、出会いと夏編 -アメリカ村DROP 22th Annivarsary-",
+    "url": "https://clubdrop.jp/schedule/detail/41175",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2025/08/24",
+    "day": "日",
+    "artist": "Bushman",
+    "title": "TAKAO&NaKK pre アメ村頂上決戦-朋友- ライブハウスに不可能はない、出会いと夏編 -アメリカ村DROP 22th Annivarsary-",
+    "url": "https://clubdrop.jp/schedule/detail/41175",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2025/08/24",
+    "day": "日",
+    "artist": "OVER LIMIT",
+    "title": "TAKAO&NaKK pre アメ村頂上決戦-朋友- ライブハウスに不可能はない、出会いと夏編 -アメリカ村DROP 22th Annivarsary-",
+    "url": "https://clubdrop.jp/schedule/detail/41175",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2025/08/24",
+    "day": "日",
+    "artist": "アイスクリームネバーグラウンド",
+    "title": "TAKAO&NaKK pre アメ村頂上決戦-朋友- ライブハウスに不可能はない、出会いと夏編 -アメリカ村DROP 22th Annivarsary-",
+    "url": "https://clubdrop.jp/schedule/detail/41175",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2025/08/24",
+    "day": "日",
+    "artist": "DIVIBE",
+    "title": "TAKAO&NaKK pre アメ村頂上決戦-朋友- ライブハウスに不可能はない、出会いと夏編 -アメリカ村DROP 22th Annivarsary-",
+    "url": "https://clubdrop.jp/schedule/detail/41175",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2025/08/24",
+    "day": "日",
+    "artist": "LUMiRiSE",
+    "title": "TAKAO&NaKK pre アメ村頂上決戦-朋友- ライブハウスに不可能はない、出会いと夏編 -アメリカ村DROP 22th Annivarsary-",
+    "url": "https://clubdrop.jp/schedule/detail/41175",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2025/08/24",
+    "day": "日",
+    "artist": "NO♡AF",
+    "title": "TAKAO&NaKK pre アメ村頂上決戦-朋友- ライブハウスに不可能はない、出会いと夏編 -アメリカ村DROP 22th Annivarsary-",
+    "url": "https://clubdrop.jp/schedule/detail/41175",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2025/08/24",
+    "day": "日",
+    "artist": "The Dilong",
+    "title": "TAKAO&NaKK pre アメ村頂上決戦-朋友- ライブハウスに不可能はない、出会いと夏編 -アメリカ村DROP 22th Annivarsary-",
+    "url": "https://clubdrop.jp/schedule/detail/41175",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2025/08/24",
+    "day": "日",
+    "artist": "LØISLOID",
+    "title": "TAKAO&NaKK pre アメ村頂上決戦-朋友- ライブハウスに不可能はない、出会いと夏編 -アメリカ村DROP 22th Annivarsary-",
+    "url": "https://clubdrop.jp/schedule/detail/41175",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2025/08/24",
+    "day": "日",
+    "artist": "sly cat girl",
+    "title": "TAKAO&NaKK pre アメ村頂上決戦-朋友- ライブハウスに不可能はない、出会いと夏編 -アメリカ村DROP 22th Annivarsary-",
+    "url": "https://clubdrop.jp/schedule/detail/41175",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2025/08/24",
+    "day": "日",
+    "artist": "All is Well",
+    "title": "TAKAO&NaKK pre アメ村頂上決戦-朋友- ライブハウスに不可能はない、出会いと夏編 -アメリカ村DROP 22th Annivarsary-",
+    "url": "https://clubdrop.jp/schedule/detail/41175",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2025/08/24",
+    "day": "日",
+    "artist": "ギークラーケン",
+    "title": "TAKAO&NaKK pre アメ村頂上決戦-朋友- ライブハウスに不可能はない、出会いと夏編 -アメリカ村DROP 22th Annivarsary-",
+    "url": "https://clubdrop.jp/schedule/detail/41175",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2025/08/24",
+    "day": "日",
+    "artist": "THE S.O.S",
+    "title": "TAKAO&NaKK pre アメ村頂上決戦-朋友- ライブハウスに不可能はない、出会いと夏編 -アメリカ村DROP 22th Annivarsary-",
+    "url": "https://clubdrop.jp/schedule/detail/41175",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2025/08/24",
+    "day": "日",
+    "artist": "3springs",
+    "title": "TAKAO&NaKK pre アメ村頂上決戦-朋友- ライブハウスに不可能はない、出会いと夏編 -アメリカ村DROP 22th Annivarsary-",
+    "url": "https://clubdrop.jp/schedule/detail/41175",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2025/08/24",
+    "day": "日",
+    "artist": "チンコマッカートニー&マンコクサー",
+    "title": "TAKAO&NaKK pre アメ村頂上決戦-朋友- ライブハウスに不可能はない、出会いと夏編 -アメリカ村DROP 22th Annivarsary-",
+    "url": "https://clubdrop.jp/schedule/detail/41175",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2025/08/24",
+    "day": "日",
+    "artist": "OddLazyサスケ",
+    "title": "TAKAO&NaKK pre アメ村頂上決戦-朋友- ライブハウスに不可能はない、出会いと夏編 -アメリカ村DROP 22th Annivarsary-",
+    "url": "https://clubdrop.jp/schedule/detail/41175",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2025/08/24",
+    "day": "日",
+    "artist": "伊藤たのし",
+    "title": "TAKAO&NaKK pre アメ村頂上決戦-朋友- ライブハウスに不可能はない、出会いと夏編 -アメリカ村DROP 22th Annivarsary-",
+    "url": "https://clubdrop.jp/schedule/detail/41175",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2025/08/24",
+    "day": "日",
+    "artist": "GIZMOチャベス",
+    "title": "TAKAO&NaKK pre アメ村頂上決戦-朋友- ライブハウスに不可能はない、出会いと夏編 -アメリカ村DROP 22th Annivarsary-",
+    "url": "https://clubdrop.jp/schedule/detail/41175",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
     "date": "2025/08/29",
     "day": "金",
     "artist": "後日解禁！",
@@ -17165,6 +17417,42 @@
   {
     "date": "2025/06/22",
     "day": "日",
+    "artist": "キミだけの花言葉",
+    "title": "【キミはな 単独公演 in 大阪-今できる曲全部やります！公演！】",
+    "url": "https://osaka-varon.jp/schedule/detail/44922",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2025/06/22",
+    "day": "日",
+    "artist": "caprice",
+    "title": "【VARON de IDOL EX】",
+    "url": "https://osaka-varon.jp/schedule/detail/45695",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2025/06/22",
+    "day": "日",
+    "artist": "AsteRythm",
+    "title": "【VARON de IDOL EX】",
+    "url": "https://osaka-varon.jp/schedule/detail/45695",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2025/06/22",
+    "day": "日",
+    "artist": "Fille mimi",
+    "title": "【VARON de IDOL EX】",
+    "url": "https://osaka-varon.jp/schedule/detail/45695",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2025/06/22",
+    "day": "日",
     "artist": "白黒アリス",
     "title": "白黒アリス 愛結れむ生誕祭",
     "url": "https://osaka-varon.jp/schedule/detail/36810",
@@ -17195,6 +17483,42 @@
     "artist": "いつかの夜に僕たちが、",
     "title": "白黒アリス 愛結れむ生誕祭",
     "url": "https://osaka-varon.jp/schedule/detail/36810",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2025/06/23",
+    "day": "月",
+    "artist": "AZ-ON",
+    "title": "ぱにぱにないと!!",
+    "url": "https://osaka-varon.jp/schedule/detail/41842",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2025/06/23",
+    "day": "月",
+    "artist": "鳴ル神",
+    "title": "ぱにぱにないと!!",
+    "url": "https://osaka-varon.jp/schedule/detail/41842",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2025/06/23",
+    "day": "月",
+    "artist": "9DayzGlitchClubTokyo",
+    "title": "ぱにぱにないと!!",
+    "url": "https://osaka-varon.jp/schedule/detail/41842",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2025/06/23",
+    "day": "月",
+    "artist": "YA'ABURNEE",
+    "title": "ぱにぱにないと!!",
+    "url": "https://osaka-varon.jp/schedule/detail/41842",
     "venue": "VARON",
     "note": ""
   },
@@ -17505,6 +17829,51 @@
     "note": ""
   },
   {
+    "date": "2025/06/30",
+    "day": "月",
+    "artist": "ミラーシュカ",
+    "title": "『TRY CROSS IDOL Fes』",
+    "url": "https://osaka-varon.jp/schedule/detail/43439",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2025/06/30",
+    "day": "月",
+    "artist": "sync-sens",
+    "title": "『TRY CROSS IDOL Fes』",
+    "url": "https://osaka-varon.jp/schedule/detail/43439",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2025/06/30",
+    "day": "月",
+    "artist": "RIZZ",
+    "title": "『TRY CROSS IDOL Fes』",
+    "url": "https://osaka-varon.jp/schedule/detail/43439",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2025/06/30",
+    "day": "月",
+    "artist": "ココなった！",
+    "title": "『TRY CROSS IDOL Fes』",
+    "url": "https://osaka-varon.jp/schedule/detail/43439",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2025/06/30",
+    "day": "月",
+    "artist": "husky",
+    "title": "『TRY CROSS IDOL Fes』",
+    "url": "https://osaka-varon.jp/schedule/detail/43439",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
     "date": "2025/07/01",
     "day": "火",
     "artist": "husky",
@@ -17645,6 +18014,15 @@
     "artist": "詳細をご覧ください",
     "title": "見放題大阪2025",
     "url": "https://osaka-varon.jp/schedule/detail/35847",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2025/07/06",
+    "day": "日",
+    "artist": "SPRISE",
+    "title": "白方美羽 生誕祭 単独編",
+    "url": "https://osaka-varon.jp/schedule/detail/45600",
     "venue": "VARON",
     "note": ""
   },
@@ -17870,6 +18248,24 @@
     "artist": "XENO CLOWN",
     "title": "DUMBSTRUCK Vol.8",
     "url": "https://osaka-varon.jp/schedule/detail/43721",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2025/07/11",
+    "day": "金",
+    "artist": "アクアリウム。",
+    "title": "アクアリウム。定期公演Vol.9  春野うるる生誕祭『今日だけお姫様って呼べますか？』",
+    "url": "https://osaka-varon.jp/schedule/detail/38373",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2025/07/11",
+    "day": "金",
+    "artist": "柊ゆう",
+    "title": "アクアリウム。定期公演Vol.9  春野うるる生誕祭『今日だけお姫様って呼べますか？』",
+    "url": "https://osaka-varon.jp/schedule/detail/38373",
     "venue": "VARON",
     "note": ""
   },
@@ -18306,6 +18702,33 @@
     "note": ""
   },
   {
+    "date": "2025/08/28",
+    "day": "木",
+    "artist": "husky",
+    "title": "huskyのどか生誕祭 inOsaka",
+    "url": "https://osaka-varon.jp/schedule/detail/43073",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2025/08/28",
+    "day": "木",
+    "artist": "sync-sens",
+    "title": "huskyのどか生誕祭 inOsaka",
+    "url": "https://osaka-varon.jp/schedule/detail/43073",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2025/08/28",
+    "day": "木",
+    "artist": "渡久地翔伍",
+    "title": "huskyのどか生誕祭 inOsaka",
+    "url": "https://osaka-varon.jp/schedule/detail/43073",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
     "date": "2025/09/08",
     "day": "月",
     "artist": "甲南女子大学軽音楽部",
@@ -18410,6 +18833,15 @@
     "artist": "神戸学院大学Port of music",
     "title": "BASONTOP pre. We are Live project vol.55 2005 GENERATION Edi.",
     "url": "https://osaka-varon.jp/schedule/detail/42530",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2025/10/24",
+    "day": "金",
+    "artist": "Drop After Dawn and more...",
+    "title": "Drop After Dawn NEW SINGLE \"REVIVE\" RELEASE TOUR 2025",
+    "url": "https://osaka-varon.jp/schedule/detail/44338",
     "venue": "VARON",
     "note": ""
   },
@@ -21101,6 +21533,24 @@
     "artist": "変態理科の先生",
     "title": "BASS ON TOP OSAKA UMEDA presents UMEDA CONECTION 夏の陣",
     "url": "https://osaka-zeela.jp/schedule/detail/37951",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2025/09/06",
+    "day": "土",
+    "artist": "to be announced...",
+    "title": "UMEDA AOICHIBAN '25",
+    "url": "https://osaka-zeela.jp/schedule/detail/39999",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2025/09/07",
+    "day": "日",
+    "artist": "to be announced...",
+    "title": "UMEDA AOICHIBAN '25",
+    "url": "https://osaka-zeela.jp/schedule/detail/40000",
     "venue": "Zeela",
     "note": ""
   },
