@@ -6509,24 +6509,6 @@
   {
     "date": "2025/06/24",
     "day": "火",
-    "artist": "Anri",
-    "title": "【UNPLUGOOD】vol.6",
-    "url": "https://vijon.jp/schedule/detail/43186",
-    "venue": "北堀江club vijon",
-    "note": ""
-  },
-  {
-    "date": "2025/06/24",
-    "day": "火",
-    "artist": "たかき",
-    "title": "【UNPLUGOOD】vol.6",
-    "url": "https://vijon.jp/schedule/detail/43186",
-    "venue": "北堀江club vijon",
-    "note": ""
-  },
-  {
-    "date": "2025/06/24",
-    "day": "火",
     "artist": "優真",
     "title": "【UNPLUGOOD】vol.6",
     "url": "https://vijon.jp/schedule/detail/43186",
@@ -6536,7 +6518,16 @@
   {
     "date": "2025/06/24",
     "day": "火",
-    "artist": "せと",
+    "artist": "せと  ※出演予定でした Anri",
+    "title": "【UNPLUGOOD】vol.6",
+    "url": "https://vijon.jp/schedule/detail/43186",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2025/06/24",
+    "day": "火",
+    "artist": "たかき は出演キャンセルとなりました。",
     "title": "【UNPLUGOOD】vol.6",
     "url": "https://vijon.jp/schedule/detail/43186",
     "venue": "北堀江club vijon",
@@ -6833,7 +6824,7 @@
   {
     "date": "2025/06/28",
     "day": "土",
-    "artist": "YUBA syabusyabu",
+    "artist": "コメヨリコムギ",
     "title": "奈良医ジョイント",
     "url": "https://vijon.jp/schedule/detail/43409",
     "venue": "北堀江club vijon",
@@ -8280,6 +8271,15 @@
     "note": ""
   },
   {
+    "date": "2025/08/02",
+    "day": "土",
+    "artist": "西片梨帆",
+    "title": "西片梨帆 【大阪】単独公演 「始まりはいつも雨、あなたが好きだった」",
+    "url": "https://vijon.jp/schedule/detail/43294",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
     "date": "2025/08/15",
     "day": "金",
     "artist": "HEP BURN",
@@ -8616,6 +8616,15 @@
     "date": "2025/08/31",
     "day": "日",
     "artist": "J-Buck",
+    "title": "【MIX VIJON 2025】",
+    "url": "https://vijon.jp/schedule/detail/42582",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2025/08/31",
+    "day": "日",
+    "artist": "THE SOUL DRIVER",
     "title": "【MIX VIJON 2025】",
     "url": "https://vijon.jp/schedule/detail/42582",
     "venue": "北堀江club vijon",
@@ -11655,6 +11664,132 @@
     "note": ""
   },
   {
+    "date": "2025/08/10",
+    "day": "日",
+    "artist": "TOKURA",
+    "title": "彩葉大作戦2025",
+    "url": "https://bangboo.jp/schedule/detail/38220",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2025/08/10",
+    "day": "日",
+    "artist": "Calvin Klein",
+    "title": "彩葉大作戦2025",
+    "url": "https://bangboo.jp/schedule/detail/38220",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2025/08/10",
+    "day": "日",
+    "artist": "留まれっ！摂南軽音！",
+    "title": "彩葉大作戦2025",
+    "url": "https://bangboo.jp/schedule/detail/38220",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2025/08/10",
+    "day": "日",
+    "artist": "#3",
+    "title": "彩葉大作戦2025",
+    "url": "https://bangboo.jp/schedule/detail/38220",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2025/08/10",
+    "day": "日",
+    "artist": "サカナアクション",
+    "title": "彩葉大作戦2025",
+    "url": "https://bangboo.jp/schedule/detail/38220",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2025/08/10",
+    "day": "日",
+    "artist": "カナブーン",
+    "title": "彩葉大作戦2025",
+    "url": "https://bangboo.jp/schedule/detail/38220",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2025/08/10",
+    "day": "日",
+    "artist": "ししゃもが夜逃げするからタオル持ってきて⁉️",
+    "title": "彩葉大作戦2025",
+    "url": "https://bangboo.jp/schedule/detail/38220",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2025/08/10",
+    "day": "日",
+    "artist": "ﾒﾀ･ﾏﾄﾘｯｸｽ･ﾊｯｶｰ",
+    "title": "彩葉大作戦2025",
+    "url": "https://bangboo.jp/schedule/detail/38220",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2025/08/10",
+    "day": "日",
+    "artist": "瀧本のせい",
+    "title": "彩葉大作戦2025",
+    "url": "https://bangboo.jp/schedule/detail/38220",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2025/08/10",
+    "day": "日",
+    "artist": "うますぎるベーグル",
+    "title": "彩葉大作戦2025",
+    "url": "https://bangboo.jp/schedule/detail/38220",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2025/08/10",
+    "day": "日",
+    "artist": "あばれるくせっ毛",
+    "title": "彩葉大作戦2025",
+    "url": "https://bangboo.jp/schedule/detail/38220",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2025/08/10",
+    "day": "日",
+    "artist": "暮れなずむ",
+    "title": "彩葉大作戦2025",
+    "url": "https://bangboo.jp/schedule/detail/38220",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2025/08/10",
+    "day": "日",
+    "artist": "ねどこ",
+    "title": "彩葉大作戦2025",
+    "url": "https://bangboo.jp/schedule/detail/38220",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2025/08/10",
+    "day": "日",
+    "artist": "なきごとぅ",
+    "title": "彩葉大作戦2025",
+    "url": "https://bangboo.jp/schedule/detail/38220",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
     "date": "2025/08/11",
     "day": "月",
     "artist": "ジエメイ",
@@ -14049,6 +14184,60 @@
     "note": ""
   },
   {
+    "date": "2025/06/29",
+    "day": "日",
+    "artist": "CYCLONISTA",
+    "title": "Short Scale",
+    "url": "https://clubdrop.jp/schedule/detail/43160",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2025/06/29",
+    "day": "日",
+    "artist": "BR!OT",
+    "title": "Short Scale",
+    "url": "https://clubdrop.jp/schedule/detail/43160",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2025/06/29",
+    "day": "日",
+    "artist": "ELEVYZ",
+    "title": "Short Scale",
+    "url": "https://clubdrop.jp/schedule/detail/43160",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2025/06/29",
+    "day": "日",
+    "artist": "ELLIC",
+    "title": "Short Scale",
+    "url": "https://clubdrop.jp/schedule/detail/43160",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2025/06/29",
+    "day": "日",
+    "artist": "ミラーシュカ",
+    "title": "Short Scale",
+    "url": "https://clubdrop.jp/schedule/detail/43160",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2025/06/29",
+    "day": "日",
+    "artist": "ココなった！",
+    "title": "Short Scale",
+    "url": "https://clubdrop.jp/schedule/detail/43160",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
     "date": "2025/06/30",
     "day": "月",
     "artist": "<COPY BAND & SHOW CASE> secret zone〜君がぬれたもの〜",
@@ -15449,6 +15638,42 @@
     "artist": "Stained",
     "title": "View From The Soyuz Presents Ubiquitous Release Tour 2025",
     "url": "https://clubdrop.jp/schedule/detail/40214",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2025/07/28",
+    "day": "月",
+    "artist": "いたづら",
+    "title": "to chill out",
+    "url": "https://clubdrop.jp/schedule/detail/44374",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2025/07/28",
+    "day": "月",
+    "artist": "Neil DiMC",
+    "title": "to chill out",
+    "url": "https://clubdrop.jp/schedule/detail/44374",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2025/07/28",
+    "day": "月",
+    "artist": "大石裕太郎",
+    "title": "to chill out",
+    "url": "https://clubdrop.jp/schedule/detail/44374",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2025/07/28",
+    "day": "月",
+    "artist": "and more!!",
+    "title": "to chill out",
+    "url": "https://clubdrop.jp/schedule/detail/44374",
     "venue": "アメリカ村DROP",
     "note": ""
   },
@@ -20268,6 +20493,429 @@
     "note": ""
   },
   {
+    "date": "2025/07/01",
+    "day": "火",
+    "artist": "icchang",
+    "title": "Zeela presents. YAMINABE DEATH MATCH!! ～CR でかハマグリ生誕祭～",
+    "url": "https://osaka-zeela.jp/schedule/detail/43183",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2025/07/01",
+    "day": "火",
+    "artist": "江藤慧(yoaca.",
+    "title": "Zeela presents. YAMINABE DEATH MATCH!! ～CR でかハマグリ生誕祭～",
+    "url": "https://osaka-zeela.jp/schedule/detail/43183",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2025/07/01",
+    "day": "火",
+    "artist": "Edna)",
+    "title": "Zeela presents. YAMINABE DEATH MATCH!! ～CR でかハマグリ生誕祭～",
+    "url": "https://osaka-zeela.jp/schedule/detail/43183",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2025/07/01",
+    "day": "火",
+    "artist": "岸川八宝菜",
+    "title": "Zeela presents. YAMINABE DEATH MATCH!! ～CR でかハマグリ生誕祭～",
+    "url": "https://osaka-zeela.jp/schedule/detail/43183",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2025/07/01",
+    "day": "火",
+    "artist": "CRでかハマグリ",
+    "title": "Zeela presents. YAMINABE DEATH MATCH!! ～CR でかハマグリ生誕祭～",
+    "url": "https://osaka-zeela.jp/schedule/detail/43183",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2025/07/01",
+    "day": "火",
+    "artist": "ジャガー西宮",
+    "title": "Zeela presents. YAMINABE DEATH MATCH!! ～CR でかハマグリ生誕祭～",
+    "url": "https://osaka-zeela.jp/schedule/detail/43183",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2025/07/01",
+    "day": "火",
+    "artist": "それゆけ！土根 丈",
+    "title": "Zeela presents. YAMINABE DEATH MATCH!! ～CR でかハマグリ生誕祭～",
+    "url": "https://osaka-zeela.jp/schedule/detail/43183",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2025/07/01",
+    "day": "火",
+    "artist": "タカダモモ",
+    "title": "Zeela presents. YAMINABE DEATH MATCH!! ～CR でかハマグリ生誕祭～",
+    "url": "https://osaka-zeela.jp/schedule/detail/43183",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2025/07/01",
+    "day": "火",
+    "artist": "夏月",
+    "title": "Zeela presents. YAMINABE DEATH MATCH!! ～CR でかハマグリ生誕祭～",
+    "url": "https://osaka-zeela.jp/schedule/detail/43183",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2025/07/01",
+    "day": "火",
+    "artist": "ニューアヤカ",
+    "title": "Zeela presents. YAMINABE DEATH MATCH!! ～CR でかハマグリ生誕祭～",
+    "url": "https://osaka-zeela.jp/schedule/detail/43183",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2025/07/01",
+    "day": "火",
+    "artist": "パンピ",
+    "title": "Zeela presents. YAMINABE DEATH MATCH!! ～CR でかハマグリ生誕祭～",
+    "url": "https://osaka-zeela.jp/schedule/detail/43183",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2025/07/01",
+    "day": "火",
+    "artist": "ukpon",
+    "title": "Zeela presents. YAMINABE DEATH MATCH!! ～CR でかハマグリ生誕祭～",
+    "url": "https://osaka-zeela.jp/schedule/detail/43183",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2025/07/01",
+    "day": "火",
+    "artist": "アーサー(レベル27",
+    "title": "Zeela presents. YAMINABE DEATH MATCH!! ～CR でかハマグリ生誕祭～",
+    "url": "https://osaka-zeela.jp/schedule/detail/43183",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2025/07/01",
+    "day": "火",
+    "artist": "夜の最前線)",
+    "title": "Zeela presents. YAMINABE DEATH MATCH!! ～CR でかハマグリ生誕祭～",
+    "url": "https://osaka-zeela.jp/schedule/detail/43183",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2025/07/01",
+    "day": "火",
+    "artist": "一色隼",
+    "title": "Zeela presents. YAMINABE DEATH MATCH!! ～CR でかハマグリ生誕祭～",
+    "url": "https://osaka-zeela.jp/schedule/detail/43183",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2025/07/01",
+    "day": "火",
+    "artist": "影山しずか",
+    "title": "Zeela presents. YAMINABE DEATH MATCH!! ～CR でかハマグリ生誕祭～",
+    "url": "https://osaka-zeela.jp/schedule/detail/43183",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2025/07/01",
+    "day": "火",
+    "artist": "ジュニア",
+    "title": "Zeela presents. YAMINABE DEATH MATCH!! ～CR でかハマグリ生誕祭～",
+    "url": "https://osaka-zeela.jp/schedule/detail/43183",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2025/07/01",
+    "day": "火",
+    "artist": "ずん",
+    "title": "Zeela presents. YAMINABE DEATH MATCH!! ～CR でかハマグリ生誕祭～",
+    "url": "https://osaka-zeela.jp/schedule/detail/43183",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2025/07/01",
+    "day": "火",
+    "artist": "ダブルボギー上田",
+    "title": "Zeela presents. YAMINABE DEATH MATCH!! ～CR でかハマグリ生誕祭～",
+    "url": "https://osaka-zeela.jp/schedule/detail/43183",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2025/07/01",
+    "day": "火",
+    "artist": "NaKK",
+    "title": "Zeela presents. YAMINABE DEATH MATCH!! ～CR でかハマグリ生誕祭～",
+    "url": "https://osaka-zeela.jp/schedule/detail/43183",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2025/07/01",
+    "day": "火",
+    "artist": "ふじむ(ソウルフード",
+    "title": "Zeela presents. YAMINABE DEATH MATCH!! ～CR でかハマグリ生誕祭～",
+    "url": "https://osaka-zeela.jp/schedule/detail/43183",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2025/07/01",
+    "day": "火",
+    "artist": "KINGSX)",
+    "title": "Zeela presents. YAMINABE DEATH MATCH!! ～CR でかハマグリ生誕祭～",
+    "url": "https://osaka-zeela.jp/schedule/detail/43183",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2025/07/01",
+    "day": "火",
+    "artist": "ふるてぃ",
+    "title": "Zeela presents. YAMINABE DEATH MATCH!! ～CR でかハマグリ生誕祭～",
+    "url": "https://osaka-zeela.jp/schedule/detail/43183",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2025/07/01",
+    "day": "火",
+    "artist": "msk",
+    "title": "Zeela presents. YAMINABE DEATH MATCH!! ～CR でかハマグリ生誕祭～",
+    "url": "https://osaka-zeela.jp/schedule/detail/43183",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2025/07/01",
+    "day": "火",
+    "artist": "御影まり",
+    "title": "Zeela presents. YAMINABE DEATH MATCH!! ～CR でかハマグリ生誕祭～",
+    "url": "https://osaka-zeela.jp/schedule/detail/43183",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2025/07/01",
+    "day": "火",
+    "artist": "Akane",
+    "title": "Zeela presents. YAMINABE DEATH MATCH!! ～CR でかハマグリ生誕祭～",
+    "url": "https://osaka-zeela.jp/schedule/detail/43183",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2025/07/01",
+    "day": "火",
+    "artist": "SHAKE-KUN",
+    "title": "Zeela presents. YAMINABE DEATH MATCH!! ～CR でかハマグリ生誕祭～",
+    "url": "https://osaka-zeela.jp/schedule/detail/43183",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2025/07/01",
+    "day": "火",
+    "artist": "しらいし",
+    "title": "Zeela presents. YAMINABE DEATH MATCH!! ～CR でかハマグリ生誕祭～",
+    "url": "https://osaka-zeela.jp/schedule/detail/43183",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2025/07/01",
+    "day": "火",
+    "artist": "たか",
+    "title": "Zeela presents. YAMINABE DEATH MATCH!! ～CR でかハマグリ生誕祭～",
+    "url": "https://osaka-zeela.jp/schedule/detail/43183",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2025/07/01",
+    "day": "火",
+    "artist": "ナッシュビル",
+    "title": "Zeela presents. YAMINABE DEATH MATCH!! ～CR でかハマグリ生誕祭～",
+    "url": "https://osaka-zeela.jp/schedule/detail/43183",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2025/07/01",
+    "day": "火",
+    "artist": "藤岡慶行",
+    "title": "Zeela presents. YAMINABE DEATH MATCH!! ～CR でかハマグリ生誕祭～",
+    "url": "https://osaka-zeela.jp/schedule/detail/43183",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2025/07/01",
+    "day": "火",
+    "artist": "マーシー亭シオハマ",
+    "title": "Zeela presents. YAMINABE DEATH MATCH!! ～CR でかハマグリ生誕祭～",
+    "url": "https://osaka-zeela.jp/schedule/detail/43183",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2025/07/01",
+    "day": "火",
+    "artist": "蒙古斑バインバインのとく",
+    "title": "Zeela presents. YAMINABE DEATH MATCH!! ～CR でかハマグリ生誕祭～",
+    "url": "https://osaka-zeela.jp/schedule/detail/43183",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2025/07/01",
+    "day": "火",
+    "artist": "MOTTY",
+    "title": "Zeela presents. YAMINABE DEATH MATCH!! ～CR でかハマグリ生誕祭～",
+    "url": "https://osaka-zeela.jp/schedule/detail/43183",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2025/07/01",
+    "day": "火",
+    "artist": "青海",
+    "title": "Zeela presents. YAMINABE DEATH MATCH!! ～CR でかハマグリ生誕祭～",
+    "url": "https://osaka-zeela.jp/schedule/detail/43183",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2025/07/01",
+    "day": "火",
+    "artist": "OKN",
+    "title": "Zeela presents. YAMINABE DEATH MATCH!! ～CR でかハマグリ生誕祭～",
+    "url": "https://osaka-zeela.jp/schedule/detail/43183",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2025/07/01",
+    "day": "火",
+    "artist": "夏未",
+    "title": "Zeela presents. YAMINABE DEATH MATCH!! ～CR でかハマグリ生誕祭～",
+    "url": "https://osaka-zeela.jp/schedule/detail/43183",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2025/07/01",
+    "day": "火",
+    "artist": "赤い彗星のしゃ〜",
+    "title": "Zeela presents. YAMINABE DEATH MATCH!! ～CR でかハマグリ生誕祭～",
+    "url": "https://osaka-zeela.jp/schedule/detail/43183",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2025/07/01",
+    "day": "火",
+    "artist": "イカワサトル",
+    "title": "Zeela presents. YAMINABE DEATH MATCH!! ～CR でかハマグリ生誕祭～",
+    "url": "https://osaka-zeela.jp/schedule/detail/43183",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2025/07/01",
+    "day": "火",
+    "artist": "カミヤショウ",
+    "title": "Zeela presents. YAMINABE DEATH MATCH!! ～CR でかハマグリ生誕祭～",
+    "url": "https://osaka-zeela.jp/schedule/detail/43183",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2025/07/01",
+    "day": "火",
+    "artist": "かれどん",
+    "title": "Zeela presents. YAMINABE DEATH MATCH!! ～CR でかハマグリ生誕祭～",
+    "url": "https://osaka-zeela.jp/schedule/detail/43183",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2025/07/01",
+    "day": "火",
+    "artist": "子供達から絶大な人気を誇る劇団肉祭り",
+    "title": "Zeela presents. YAMINABE DEATH MATCH!! ～CR でかハマグリ生誕祭～",
+    "url": "https://osaka-zeela.jp/schedule/detail/43183",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2025/07/01",
+    "day": "火",
+    "artist": "汐紀優華",
+    "title": "Zeela presents. YAMINABE DEATH MATCH!! ～CR でかハマグリ生誕祭～",
+    "url": "https://osaka-zeela.jp/schedule/detail/43183",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2025/07/01",
+    "day": "火",
+    "artist": "セパ・タクロー",
+    "title": "Zeela presents. YAMINABE DEATH MATCH!! ～CR でかハマグリ生誕祭～",
+    "url": "https://osaka-zeela.jp/schedule/detail/43183",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2025/07/01",
+    "day": "火",
+    "artist": "田中",
+    "title": "Zeela presents. YAMINABE DEATH MATCH!! ～CR でかハマグリ生誕祭～",
+    "url": "https://osaka-zeela.jp/schedule/detail/43183",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2025/07/01",
+    "day": "火",
+    "artist": "だんぼ",
+    "title": "Zeela presents. YAMINABE DEATH MATCH!! ～CR でかハマグリ生誕祭～",
+    "url": "https://osaka-zeela.jp/schedule/detail/43183",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2025/07/01",
+    "day": "火",
+    "artist": "ののんの",
+    "title": "Zeela presents. YAMINABE DEATH MATCH!! ～CR でかハマグリ生誕祭～",
+    "url": "https://osaka-zeela.jp/schedule/detail/43183",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
     "date": "2025/07/02",
     "day": "水",
     "artist": "鬼頭大晴",
@@ -21983,6 +22631,87 @@
     "artist": "tenoto",
     "title": "矢田武史 × 柴田裕一朗 \"Nu Skool Area\"SPLIT TOUR~1st Re:Mind 終業式 大阪エリア",
     "url": "https://osaka-zeela.jp/schedule/detail/41112",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2025/09/21",
+    "day": "日",
+    "artist": "Mickey Band Circle",
+    "title": "BASS ON TOP pre.関西社会人サークルジョイントライブ",
+    "url": "https://osaka-zeela.jp/schedule/detail/40672",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2025/09/21",
+    "day": "日",
+    "artist": "UNION",
+    "title": "BASS ON TOP pre.関西社会人サークルジョイントライブ",
+    "url": "https://osaka-zeela.jp/schedule/detail/40672",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2025/09/21",
+    "day": "日",
+    "artist": "OTOTOBI関西支部",
+    "title": "BASS ON TOP pre.関西社会人サークルジョイントライブ",
+    "url": "https://osaka-zeela.jp/schedule/detail/40672",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2025/09/21",
+    "day": "日",
+    "artist": "とある県庁の軽音楽部",
+    "title": "BASS ON TOP pre.関西社会人サークルジョイントライブ",
+    "url": "https://osaka-zeela.jp/schedule/detail/40672",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2025/09/21",
+    "day": "日",
+    "artist": "Home Ground West",
+    "title": "BASS ON TOP pre.関西社会人サークルジョイントライブ",
+    "url": "https://osaka-zeela.jp/schedule/detail/40672",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2025/09/21",
+    "day": "日",
+    "artist": "M LiNE",
+    "title": "BASS ON TOP pre.関西社会人サークルジョイントライブ",
+    "url": "https://osaka-zeela.jp/schedule/detail/40672",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2025/09/21",
+    "day": "日",
+    "artist": "Doooor",
+    "title": "BASS ON TOP pre.関西社会人サークルジョイントライブ",
+    "url": "https://osaka-zeela.jp/schedule/detail/40672",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2025/09/21",
+    "day": "日",
+    "artist": "軽音サークル零-ZERO-",
+    "title": "BASS ON TOP pre.関西社会人サークルジョイントライブ",
+    "url": "https://osaka-zeela.jp/schedule/detail/40672",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2025/09/21",
+    "day": "日",
+    "artist": "軽音サークルX",
+    "title": "BASS ON TOP pre.関西社会人サークルジョイントライブ",
+    "url": "https://osaka-zeela.jp/schedule/detail/40672",
     "venue": "Zeela",
     "note": ""
   },
@@ -26037,6 +26766,15 @@
     "note": ""
   },
   {
+    "date": "2025/08/04",
+    "day": "月",
+    "artist": "問)knave06-6535-0691",
+    "title": "『生立ち企画ライブ』",
+    "url": "http://www.knave.co.jp/schedule/s_2025_08.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
     "date": "2025/08/05",
     "day": "火",
     "artist": "白航",
@@ -26892,6 +27630,42 @@
     "note": ""
   },
   {
+    "date": "2025/08/23",
+    "day": "土",
+    "artist": "古川剛充(ゲキゲキ",
+    "title": "ODORIBA-MuDA#4",
+    "url": "http://www.knave.co.jp/schedule/s_2025_08.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2025/08/23",
+    "day": "土",
+    "artist": "オドリバ企画)",
+    "title": "ODORIBA-MuDA#4",
+    "url": "http://www.knave.co.jp/schedule/s_2025_08.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2025/08/23",
+    "day": "土",
+    "artist": "晨(シンガロンパレード",
+    "title": "ODORIBA-MuDA#4",
+    "url": "http://www.knave.co.jp/schedule/s_2025_08.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2025/08/23",
+    "day": "土",
+    "artist": "問)odoriva.staff@gmail.com",
+    "title": "ODORIBA-MuDA#4",
+    "url": "http://www.knave.co.jp/schedule/s_2025_08.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
     "date": "2025/08/24",
     "day": "日",
     "artist": "さちかぜあきの",
@@ -26995,6 +27769,51 @@
     "day": "月",
     "artist": "問)knave06-6535-0691",
     "title": "NaturalWoman SP",
+    "url": "http://www.knave.co.jp/schedule/s_2025_08.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2025/08/26",
+    "day": "火",
+    "artist": "Plastic Radio",
+    "title": "樋掛星",
+    "url": "http://www.knave.co.jp/schedule/s_2025_08.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2025/08/26",
+    "day": "火",
+    "artist": "QLIP",
+    "title": "樋掛星",
+    "url": "http://www.knave.co.jp/schedule/s_2025_08.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2025/08/26",
+    "day": "火",
+    "artist": "君影ノイズ",
+    "title": "樋掛星",
+    "url": "http://www.knave.co.jp/schedule/s_2025_08.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2025/08/26",
+    "day": "火",
+    "artist": "the OAK.",
+    "title": "樋掛星",
+    "url": "http://www.knave.co.jp/schedule/s_2025_08.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2025/08/26",
+    "day": "火",
+    "artist": "問)knave06-6535-0691",
+    "title": "樋掛星",
     "url": "http://www.knave.co.jp/schedule/s_2025_08.html",
     "venue": "knave",
     "note": ""
@@ -27144,8 +27963,8 @@
     "note": ""
   },
   {
-    "date": "2025/08/30",
-    "day": "土",
+    "date": "2025/08/31",
+    "day": "日",
     "artist": "森 大翔",
     "title": "森 大翔 ONEMAN TOUR 「響縁ll」",
     "url": "http://www.knave.co.jp/schedule/s_2025_08.html",
@@ -27153,8 +27972,8 @@
     "note": ""
   },
   {
-    "date": "2025/08/30",
-    "day": "土",
+    "date": "2025/08/31",
+    "day": "日",
     "artist": "U-23￥2",
     "title": "森 大翔 ONEMAN TOUR 「響縁ll」",
     "url": "http://www.knave.co.jp/schedule/s_2025_08.html",
@@ -27162,8 +27981,8 @@
     "note": ""
   },
   {
-    "date": "2025/08/30",
-    "day": "土",
+    "date": "2025/08/31",
+    "day": "日",
     "artist": "800",
     "title": "森 大翔 ONEMAN TOUR 「響縁ll」",
     "url": "http://www.knave.co.jp/schedule/s_2025_08.html",
@@ -27171,8 +27990,8 @@
     "note": ""
   },
   {
-    "date": "2025/08/30",
-    "day": "土",
+    "date": "2025/08/31",
+    "day": "日",
     "artist": "＊公演当日に23歳以下のお客様用のチケットになります。",
     "title": "森 大翔 ONEMAN TOUR 「響縁ll」",
     "url": "http://www.knave.co.jp/schedule/s_2025_08.html",
@@ -27180,8 +27999,8 @@
     "note": ""
   },
   {
-    "date": "2025/08/30",
-    "day": "土",
+    "date": "2025/08/31",
+    "day": "日",
     "artist": "＊ご入場時、身分証の確認を行います。身分証の確認が取れない場合、一般スタンディングとの差額￥1",
     "title": "森 大翔 ONEMAN TOUR 「響縁ll」",
     "url": "http://www.knave.co.jp/schedule/s_2025_08.html",
@@ -27189,8 +28008,8 @@
     "note": ""
   },
   {
-    "date": "2025/08/30",
-    "day": "土",
+    "date": "2025/08/31",
+    "day": "日",
     "artist": "000をお支払いいただきます。",
     "title": "森 大翔 ONEMAN TOUR 「響縁ll」",
     "url": "http://www.knave.co.jp/schedule/s_2025_08.html",
