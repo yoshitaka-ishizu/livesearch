@@ -4115,6 +4115,15 @@
   {
     "date": "2025/07/19",
     "day": "土",
+    "artist": "NovaFlash",
+    "title": "NovaFlash presents",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
+    "date": "2025/07/19",
+    "day": "土",
     "artist": "Running Home Run",
     "title": "NovaFlash presents",
     "url": "https://para-dice.net/",
@@ -4142,7 +4151,7 @@
   {
     "date": "2025/07/19",
     "day": "土",
-    "artist": "NovaFlash and more...",
+    "artist": "安達花",
     "title": "NovaFlash presents",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
@@ -7454,18 +7463,9 @@
   {
     "date": "2025/07/01",
     "day": "火",
-    "artist": "...and more",
+    "artist": "OKYO",
     "title": "水都音楽祭×club vijon pre. 「sweet music award」2025",
     "url": "https://vijon.jp/schedule/detail/44846",
-    "venue": "北堀江club vijon",
-    "note": ""
-  },
-  {
-    "date": "2025/07/01",
-    "day": "火",
-    "artist": "水都音楽祭オーディション予選　vijon編",
-    "title": "「sweet music award 2025」",
-    "url": "https://vijon.jp/schedule/detail/42931",
     "venue": "北堀江club vijon",
     "note": ""
   },
@@ -7544,7 +7544,7 @@
   {
     "date": "2025/07/06",
     "day": "日",
-    "artist": "coming soon...",
+    "artist": "関西フォークソング連盟",
     "title": "関西フォークソング連盟 フレッシュマンズコンサート2025",
     "url": "https://vijon.jp/schedule/detail/43722",
     "venue": "北堀江club vijon",
@@ -8771,6 +8771,24 @@
     "artist": "西片梨帆",
     "title": "西片梨帆 【大阪】単独公演 「始まりはいつも雨、あなたが好きだった」",
     "url": "https://vijon.jp/schedule/detail/43294",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2025/08/13",
+    "day": "水",
+    "artist": "Gum-9",
+    "title": "Gum-9 presents.「Bouquet 〜 大阪編 〜」",
+    "url": "https://vijon.jp/schedule/detail/42838",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2025/08/13",
+    "day": "水",
+    "artist": "and more...",
+    "title": "Gum-9 presents.「Bouquet 〜 大阪編 〜」",
+    "url": "https://vijon.jp/schedule/detail/42838",
     "venue": "北堀江club vijon",
     "note": ""
   },
@@ -10940,6 +10958,15 @@
     "artist": "ネテルダイヤ、SKILL of light.マイフェアガール、妖狐繚乱、Hi-Fi Girls Project osaka、カリフラワー冒険記、charlotte、LyricalPopParadox、柊ゆう、ゼロキョリハーツ",
     "title": "ネテルダイヤpre.  【Diamond Polishers】",
     "url": "https://bangboo.jp/schedule/detail/42526",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2025/07/01",
+    "day": "火",
+    "artist": "ネテルダイヤ、SKILL of light.マイフェアガール、カリフラワー冒険記、柊ゆう、KiMiNiAiTAi、naniwairo、コドモシンカ、COzMICぱれーど、AIMIA",
+    "title": "ネテルダイヤpre. 【Diamond Polishers】",
+    "url": "https://bangboo.jp/schedule/detail/42797",
     "venue": "梅田BANGBOO",
     "note": ""
   },
@@ -19010,6 +19037,96 @@
   {
     "date": "2025/06/29",
     "day": "日",
+    "artist": "ココなった！",
+    "title": "心斎橋アイドル化計画。",
+    "url": "https://osaka-varon.jp/schedule/detail/36717",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2025/06/29",
+    "day": "日",
+    "artist": "サルヴァドールの悪魔",
+    "title": "心斎橋アイドル化計画。",
+    "url": "https://osaka-varon.jp/schedule/detail/36717",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2025/06/29",
+    "day": "日",
+    "artist": "KLAIRE",
+    "title": "心斎橋アイドル化計画。",
+    "url": "https://osaka-varon.jp/schedule/detail/36717",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2025/06/29",
+    "day": "日",
+    "artist": "Prism Lovey",
+    "title": "心斎橋アイドル化計画。",
+    "url": "https://osaka-varon.jp/schedule/detail/36717",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2025/06/29",
+    "day": "日",
+    "artist": "KiMiNiAiTAi",
+    "title": "心斎橋アイドル化計画。",
+    "url": "https://osaka-varon.jp/schedule/detail/36717",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2025/06/29",
+    "day": "日",
+    "artist": "Belle Freiz",
+    "title": "心斎橋アイドル化計画。",
+    "url": "https://osaka-varon.jp/schedule/detail/36717",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2025/06/29",
+    "day": "日",
+    "artist": "天才PARADOX",
+    "title": "心斎橋アイドル化計画。",
+    "url": "https://osaka-varon.jp/schedule/detail/36717",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2025/06/29",
+    "day": "日",
+    "artist": "Dear❥Nightmare",
+    "title": "心斎橋アイドル化計画。",
+    "url": "https://osaka-varon.jp/schedule/detail/36717",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2025/06/29",
+    "day": "日",
+    "artist": "依存性えんじぇる",
+    "title": "心斎橋アイドル化計画。",
+    "url": "https://osaka-varon.jp/schedule/detail/36717",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2025/06/29",
+    "day": "日",
+    "artist": "妖狐繚乱",
+    "title": "心斎橋アイドル化計画。",
+    "url": "https://osaka-varon.jp/schedule/detail/36717",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2025/06/29",
+    "day": "日",
     "artist": "依存症えんじぇる",
     "title": "FOR ALL IDOLOVERS #アイラバ",
     "url": "https://osaka-varon.jp/schedule/detail/45781",
@@ -19020,33 +19137,6 @@
     "date": "2025/06/29",
     "day": "日",
     "artist": "イロハサクラ",
-    "title": "FOR ALL IDOLOVERS #アイラバ",
-    "url": "https://osaka-varon.jp/schedule/detail/45781",
-    "venue": "VARON",
-    "note": ""
-  },
-  {
-    "date": "2025/06/29",
-    "day": "日",
-    "artist": "KiMiNiAiTAi",
-    "title": "FOR ALL IDOLOVERS #アイラバ",
-    "url": "https://osaka-varon.jp/schedule/detail/45781",
-    "venue": "VARON",
-    "note": ""
-  },
-  {
-    "date": "2025/06/29",
-    "day": "日",
-    "artist": "KLAIRE",
-    "title": "FOR ALL IDOLOVERS #アイラバ",
-    "url": "https://osaka-varon.jp/schedule/detail/45781",
-    "venue": "VARON",
-    "note": ""
-  },
-  {
-    "date": "2025/06/29",
-    "day": "日",
-    "artist": "ココなった！",
     "title": "FOR ALL IDOLOVERS #アイラバ",
     "url": "https://osaka-varon.jp/schedule/detail/45781",
     "venue": "VARON",
@@ -19100,15 +19190,6 @@
   {
     "date": "2025/06/29",
     "day": "日",
-    "artist": "Dear❥Nightmare",
-    "title": "FOR ALL IDOLOVERS #アイラバ",
-    "url": "https://osaka-varon.jp/schedule/detail/45781",
-    "venue": "VARON",
-    "note": ""
-  },
-  {
-    "date": "2025/06/29",
-    "day": "日",
     "artist": "天才PARDOX",
     "title": "FOR ALL IDOLOVERS #アイラバ",
     "url": "https://osaka-varon.jp/schedule/detail/45781",
@@ -19154,15 +19235,6 @@
   {
     "date": "2025/06/29",
     "day": "日",
-    "artist": "Belle Freiz",
-    "title": "FOR ALL IDOLOVERS #アイラバ",
-    "url": "https://osaka-varon.jp/schedule/detail/45781",
-    "venue": "VARON",
-    "note": ""
-  },
-  {
-    "date": "2025/06/29",
-    "day": "日",
     "artist": "ふぁんたす！",
     "title": "FOR ALL IDOLOVERS #アイラバ",
     "url": "https://osaka-varon.jp/schedule/detail/45781",
@@ -19173,15 +19245,6 @@
     "date": "2025/06/29",
     "day": "日",
     "artist": "放課後ReCollction",
-    "title": "FOR ALL IDOLOVERS #アイラバ",
-    "url": "https://osaka-varon.jp/schedule/detail/45781",
-    "venue": "VARON",
-    "note": ""
-  },
-  {
-    "date": "2025/06/29",
-    "day": "日",
-    "artist": "妖狐繚乱",
     "title": "FOR ALL IDOLOVERS #アイラバ",
     "url": "https://osaka-varon.jp/schedule/detail/45781",
     "venue": "VARON",
@@ -19319,6 +19382,42 @@
     "artist": "Fortuness",
     "title": "風神雷神　夏の陣",
     "url": "https://osaka-varon.jp/schedule/detail/43066",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2025/07/03",
+    "day": "木",
+    "artist": "うぃるめり！",
+    "title": "うぃずめり！～project:BR～",
+    "url": "https://osaka-varon.jp/schedule/detail/43541",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2025/07/03",
+    "day": "木",
+    "artist": "むげんこんぜ",
+    "title": "うぃずめり！～project:BR～",
+    "url": "https://osaka-varon.jp/schedule/detail/43541",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2025/07/03",
+    "day": "木",
+    "artist": "LuvHz",
+    "title": "うぃずめり！～project:BR～",
+    "url": "https://osaka-varon.jp/schedule/detail/43541",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2025/07/03",
+    "day": "木",
+    "artist": "ハウツー世界征服",
+    "title": "うぃずめり！～project:BR～",
+    "url": "https://osaka-varon.jp/schedule/detail/43541",
     "venue": "VARON",
     "note": ""
   },
