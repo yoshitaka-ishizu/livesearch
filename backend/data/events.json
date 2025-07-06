@@ -2333,17 +2333,8 @@
   {
     "date": "2025/07/25",
     "day": "金",
-    "artist": "ザ☆バラ色人生ズ",
-    "title": "ザ☆バラ色人生ズ / 久保田和之 / けーずや。 / 蟻人",
-    "url": "https://para-dice.net/",
-    "venue": "扇町para-dice",
-    "note": ""
-  },
-  {
-    "date": "2025/07/25",
-    "day": "金",
     "artist": "久保田和之",
-    "title": "ザ☆バラ色人生ズ / 久保田和之 / けーずや。 / 蟻人",
+    "title": "OPEN 18:30",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -2352,7 +2343,7 @@
     "date": "2025/07/25",
     "day": "金",
     "artist": "けーずや。",
-    "title": "ザ☆バラ色人生ズ / 久保田和之 / けーずや。 / 蟻人",
+    "title": "OPEN 18:30",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -2360,8 +2351,26 @@
   {
     "date": "2025/07/25",
     "day": "金",
-    "artist": "蟻人 and more...",
-    "title": "ザ☆バラ色人生ズ / 久保田和之 / けーずや。 / 蟻人",
+    "artist": "ザ☆バラ色人生ズ",
+    "title": "OPEN 18:30",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
+    "date": "2025/07/25",
+    "day": "金",
+    "artist": "蟻人",
+    "title": "OPEN 18:30",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
+    "date": "2025/07/25",
+    "day": "金",
+    "artist": "SUPER DO",
+    "title": "OPEN 18:30",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -2718,6 +2727,60 @@
     "note": ""
   },
   {
+    "date": "2025/08/03",
+    "day": "日",
+    "artist": "CURIOUS",
+    "title": "OPEN 16:30",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
+    "date": "2025/08/03",
+    "day": "日",
+    "artist": "トウゲヤスタカ",
+    "title": "OPEN 16:30",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
+    "date": "2025/08/03",
+    "day": "日",
+    "artist": "THE LASTNEWS",
+    "title": "OPEN 16:30",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
+    "date": "2025/08/03",
+    "day": "日",
+    "artist": "砂街ケースケ",
+    "title": "OPEN 16:30",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
+    "date": "2025/08/03",
+    "day": "日",
+    "artist": "七色ストリッパー",
+    "title": "OPEN 16:30",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
+    "date": "2025/08/03",
+    "day": "日",
+    "artist": "河童のヨーコ",
+    "title": "OPEN 16:30",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
     "date": "2025/08/06",
     "day": "水",
     "artist": "西山昂志",
@@ -2803,6 +2866,60 @@
     "day": "金",
     "artist": "エレベーターズ",
     "title": "OPEN 18:30",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
+    "date": "2025/08/09",
+    "day": "土",
+    "artist": "ムーンライトシャドウ",
+    "title": "OPEN 16:30",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
+    "date": "2025/08/09",
+    "day": "土",
+    "artist": "Arty",
+    "title": "OPEN 16:30",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
+    "date": "2025/08/09",
+    "day": "土",
+    "artist": "訪花音楽",
+    "title": "OPEN 16:30",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
+    "date": "2025/08/09",
+    "day": "土",
+    "artist": "天才アンチ",
+    "title": "OPEN 16:30",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
+    "date": "2025/08/09",
+    "day": "土",
+    "artist": "Run away!!",
+    "title": "OPEN 16:30",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
+    "date": "2025/08/09",
+    "day": "土",
+    "artist": "Rukka",
+    "title": "OPEN 16:30",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -3261,16 +3378,7 @@
     "date": "2025/08/28",
     "day": "木",
     "artist": "中村天一",
-    "title": "OPEN 18:00",
-    "url": "https://para-dice.net/",
-    "venue": "扇町para-dice",
-    "note": ""
-  },
-  {
-    "date": "2025/08/28",
-    "day": "木",
-    "artist": "清家大記",
-    "title": "OPEN 18:00",
+    "title": "OPEN 18:30",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -3279,7 +3387,7 @@
     "date": "2025/08/28",
     "day": "木",
     "artist": "カリウタ",
-    "title": "OPEN 18:00",
+    "title": "OPEN 18:30",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -3288,7 +3396,7 @@
     "date": "2025/08/28",
     "day": "木",
     "artist": "谷口雅史",
-    "title": "OPEN 18:00",
+    "title": "OPEN 18:30",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -3297,7 +3405,7 @@
     "date": "2025/08/28",
     "day": "木",
     "artist": "吾妻光記",
-    "title": "OPEN 18:00",
+    "title": "OPEN 18:30",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -3306,7 +3414,7 @@
     "date": "2025/08/28",
     "day": "木",
     "artist": "鴨しんご",
-    "title": "OPEN 18:00",
+    "title": "OPEN 18:30",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -3755,7 +3863,16 @@
   {
     "date": "2025/09/13",
     "day": "土",
-    "artist": "かりすの死骸 and more...",
+    "artist": "かりすの死骸",
+    "title": "para-dice企画",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
+    "date": "2025/09/13",
+    "day": "土",
+    "artist": "peach Fuzz and more...",
     "title": "para-dice企画",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
@@ -3819,7 +3936,7 @@
     "date": "2025/09/17",
     "day": "水",
     "artist": "ワタリガラス",
-    "title": "ワタリガラス / 松延慎吾 / 瀬川浩平a.k.aしっぱいまん / 七歩",
+    "title": "ワタリガラス / 松延慎吾 / 瀬川浩平a.k.aしっぱいまん / 七歩 / 藤箱",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -3828,7 +3945,7 @@
     "date": "2025/09/17",
     "day": "水",
     "artist": "松延慎吾",
-    "title": "ワタリガラス / 松延慎吾 / 瀬川浩平a.k.aしっぱいまん / 七歩",
+    "title": "ワタリガラス / 松延慎吾 / 瀬川浩平a.k.aしっぱいまん / 七歩 / 藤箱",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -3837,7 +3954,7 @@
     "date": "2025/09/17",
     "day": "水",
     "artist": "瀬川浩平a.k.aしっぱいまん",
-    "title": "ワタリガラス / 松延慎吾 / 瀬川浩平a.k.aしっぱいまん / 七歩",
+    "title": "ワタリガラス / 松延慎吾 / 瀬川浩平a.k.aしっぱいまん / 七歩 / 藤箱",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -3845,62 +3962,17 @@
   {
     "date": "2025/09/17",
     "day": "水",
-    "artist": "七歩 and more...",
-    "title": "ワタリガラス / 松延慎吾 / 瀬川浩平a.k.aしっぱいまん / 七歩",
+    "artist": "七歩",
+    "title": "ワタリガラス / 松延慎吾 / 瀬川浩平a.k.aしっぱいまん / 七歩 / 藤箱",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
   },
   {
-    "date": "2025/09/18",
-    "day": "木",
-    "artist": "Mo’ Mango",
-    "title": "Mo’ Mango / 高岳銘 / netaro51 / 武下直樹 / ほりけはづき / そうごじた",
-    "url": "https://para-dice.net/",
-    "venue": "扇町para-dice",
-    "note": ""
-  },
-  {
-    "date": "2025/09/18",
-    "day": "木",
-    "artist": "高岳銘",
-    "title": "Mo’ Mango / 高岳銘 / netaro51 / 武下直樹 / ほりけはづき / そうごじた",
-    "url": "https://para-dice.net/",
-    "venue": "扇町para-dice",
-    "note": ""
-  },
-  {
-    "date": "2025/09/18",
-    "day": "木",
-    "artist": "netaro51",
-    "title": "Mo’ Mango / 高岳銘 / netaro51 / 武下直樹 / ほりけはづき / そうごじた",
-    "url": "https://para-dice.net/",
-    "venue": "扇町para-dice",
-    "note": ""
-  },
-  {
-    "date": "2025/09/18",
-    "day": "木",
-    "artist": "武下直樹",
-    "title": "Mo’ Mango / 高岳銘 / netaro51 / 武下直樹 / ほりけはづき / そうごじた",
-    "url": "https://para-dice.net/",
-    "venue": "扇町para-dice",
-    "note": ""
-  },
-  {
-    "date": "2025/09/18",
-    "day": "木",
-    "artist": "ほりけはづき",
-    "title": "Mo’ Mango / 高岳銘 / netaro51 / 武下直樹 / ほりけはづき / そうごじた",
-    "url": "https://para-dice.net/",
-    "venue": "扇町para-dice",
-    "note": ""
-  },
-  {
-    "date": "2025/09/18",
-    "day": "木",
-    "artist": "そうごじた and more...",
-    "title": "Mo’ Mango / 高岳銘 / netaro51 / 武下直樹 / ほりけはづき / そうごじた",
+    "date": "2025/09/17",
+    "day": "水",
+    "artist": "藤箱 and more...",
+    "title": "ワタリガラス / 松延慎吾 / 瀬川浩平a.k.aしっぱいまん / 七歩 / 藤箱",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -4026,7 +4098,7 @@
     "date": "2025/09/25",
     "day": "木",
     "artist": "灰原正之",
-    "title": "灰原正之 / アコギの国のチェルシー / arbor on the ridgeway",
+    "title": "灰原正之 / アコギの国のチェルシー / arbor on the ridgeway / 清家大記",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -4035,7 +4107,7 @@
     "date": "2025/09/25",
     "day": "木",
     "artist": "アコギの国のチェルシー",
-    "title": "灰原正之 / アコギの国のチェルシー / arbor on the ridgeway",
+    "title": "灰原正之 / アコギの国のチェルシー / arbor on the ridgeway / 清家大記",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -4043,8 +4115,17 @@
   {
     "date": "2025/09/25",
     "day": "木",
-    "artist": "arbor on the ridgeway  and more...",
-    "title": "灰原正之 / アコギの国のチェルシー / arbor on the ridgeway",
+    "artist": "arbor on the ridgeway",
+    "title": "灰原正之 / アコギの国のチェルシー / arbor on the ridgeway / 清家大記",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
+    "date": "2025/09/25",
+    "day": "木",
+    "artist": "清家大記   and more...",
+    "title": "灰原正之 / アコギの国のチェルシー / arbor on the ridgeway / 清家大記",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -4442,6 +4523,42 @@
     "artist": "関西フォークソング連盟",
     "title": "関西フォークソング連盟 フレッシュマンズコンサート2025",
     "url": "https://vijon.jp/schedule/detail/43722",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2025/07/07",
+    "day": "月",
+    "artist": "Peacock",
+    "title": "【SUPER ASOBITAI】DAY1",
+    "url": "https://vijon.jp/schedule/detail/42405",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2025/07/07",
+    "day": "月",
+    "artist": "Amazing Nights",
+    "title": "【SUPER ASOBITAI】DAY1",
+    "url": "https://vijon.jp/schedule/detail/42405",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2025/07/07",
+    "day": "月",
+    "artist": "安達花",
+    "title": "【SUPER ASOBITAI】DAY1",
+    "url": "https://vijon.jp/schedule/detail/42405",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2025/07/07",
+    "day": "月",
+    "artist": "吾妻光記",
+    "title": "【SUPER ASOBITAI】DAY1",
+    "url": "https://vijon.jp/schedule/detail/42405",
     "venue": "北堀江club vijon",
     "note": ""
   },
@@ -6246,6 +6363,114 @@
     "note": ""
   },
   {
+    "date": "2025/09/05",
+    "day": "金",
+    "artist": "moomantie",
+    "title": "Mary Ann &こーぷすBirthday Party 【BEATS AND CHEERS!!】",
+    "url": "https://vijon.jp/schedule/detail/40615",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2025/09/05",
+    "day": "金",
+    "artist": "Bank",
+    "title": "Mary Ann &こーぷすBirthday Party 【BEATS AND CHEERS!!】",
+    "url": "https://vijon.jp/schedule/detail/40615",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2025/09/05",
+    "day": "金",
+    "artist": "Blow the instability",
+    "title": "Mary Ann &こーぷすBirthday Party 【BEATS AND CHEERS!!】",
+    "url": "https://vijon.jp/schedule/detail/40615",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2025/09/05",
+    "day": "金",
+    "artist": "D'ypcys",
+    "title": "Mary Ann &こーぷすBirthday Party 【BEATS AND CHEERS!!】",
+    "url": "https://vijon.jp/schedule/detail/40615",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2025/09/05",
+    "day": "金",
+    "artist": "asano raincoat",
+    "title": "Mary Ann &こーぷすBirthday Party 【BEATS AND CHEERS!!】",
+    "url": "https://vijon.jp/schedule/detail/40615",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2025/09/05",
+    "day": "金",
+    "artist": "礒合風輝　NA2MI",
+    "title": "Mary Ann &こーぷすBirthday Party 【BEATS AND CHEERS!!】",
+    "url": "https://vijon.jp/schedule/detail/40615",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2025/09/05",
+    "day": "金",
+    "artist": "Kyon",
+    "title": "Mary Ann &こーぷすBirthday Party 【BEATS AND CHEERS!!】",
+    "url": "https://vijon.jp/schedule/detail/40615",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2025/09/05",
+    "day": "金",
+    "artist": "あまちゃん",
+    "title": "Mary Ann &こーぷすBirthday Party 【BEATS AND CHEERS!!】",
+    "url": "https://vijon.jp/schedule/detail/40615",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2025/09/05",
+    "day": "金",
+    "artist": "神楽",
+    "title": "Mary Ann &こーぷすBirthday Party 【BEATS AND CHEERS!!】",
+    "url": "https://vijon.jp/schedule/detail/40615",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2025/09/05",
+    "day": "金",
+    "artist": "HANE-ch",
+    "title": "Mary Ann &こーぷすBirthday Party 【BEATS AND CHEERS!!】",
+    "url": "https://vijon.jp/schedule/detail/40615",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2025/09/05",
+    "day": "金",
+    "artist": "こーぷす",
+    "title": "Mary Ann &こーぷすBirthday Party 【BEATS AND CHEERS!!】",
+    "url": "https://vijon.jp/schedule/detail/40615",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2025/09/05",
+    "day": "金",
+    "artist": "Mary Ann たけやま三種盛",
+    "title": "Mary Ann &こーぷすBirthday Party 【BEATS AND CHEERS!!】",
+    "url": "https://vijon.jp/schedule/detail/40615",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
     "date": "2025/09/15",
     "day": "月",
     "artist": "MAYOHK",
@@ -6971,6 +7196,96 @@
     "artist": "ソワカ",
     "title": "ROAD TO NONAGONiAN",
     "url": "https://bangboo.jp/schedule/detail/45566",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2025/07/07",
+    "day": "月",
+    "artist": "ネテルダイヤ",
+    "title": "ネテルダイヤpre.  【Diamond Polishers】",
+    "url": "https://bangboo.jp/schedule/detail/42527",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2025/07/07",
+    "day": "月",
+    "artist": "SKILL of light",
+    "title": "ネテルダイヤpre.  【Diamond Polishers】",
+    "url": "https://bangboo.jp/schedule/detail/42527",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2025/07/07",
+    "day": "月",
+    "artist": "カリフラワー冒険記",
+    "title": "ネテルダイヤpre.  【Diamond Polishers】",
+    "url": "https://bangboo.jp/schedule/detail/42527",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2025/07/07",
+    "day": "月",
+    "artist": "マイフェアガール",
+    "title": "ネテルダイヤpre.  【Diamond Polishers】",
+    "url": "https://bangboo.jp/schedule/detail/42527",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2025/07/07",
+    "day": "月",
+    "artist": "柊ゆう",
+    "title": "ネテルダイヤpre.  【Diamond Polishers】",
+    "url": "https://bangboo.jp/schedule/detail/42527",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2025/07/07",
+    "day": "月",
+    "artist": "CLANCROWN",
+    "title": "ネテルダイヤpre.  【Diamond Polishers】",
+    "url": "https://bangboo.jp/schedule/detail/42527",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2025/07/07",
+    "day": "月",
+    "artist": "無花果とマシンガン",
+    "title": "ネテルダイヤpre.  【Diamond Polishers】",
+    "url": "https://bangboo.jp/schedule/detail/42527",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2025/07/07",
+    "day": "月",
+    "artist": "squall line",
+    "title": "ネテルダイヤpre.  【Diamond Polishers】",
+    "url": "https://bangboo.jp/schedule/detail/42527",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2025/07/07",
+    "day": "月",
+    "artist": "Paramilia",
+    "title": "ネテルダイヤpre.  【Diamond Polishers】",
+    "url": "https://bangboo.jp/schedule/detail/42527",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2025/07/07",
+    "day": "月",
+    "artist": "むげんこんぜ",
+    "title": "ネテルダイヤpre.  【Diamond Polishers】",
+    "url": "https://bangboo.jp/schedule/detail/42527",
     "venue": "梅田BANGBOO",
     "note": ""
   },
@@ -9702,6 +10017,231 @@
     "note": ""
   },
   {
+    "date": "2025/07/05",
+    "day": "土",
+    "artist": "GUEST",
+    "title": "“CAOFF WEST 202”＜カオフ・ウエスト 202＞",
+    "url": "https://clubdrop.jp/schedule/detail/46081",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2025/07/05",
+    "day": "土",
+    "artist": "えのきづ",
+    "title": "“CAOFF WEST 202”＜カオフ・ウエスト 202＞",
+    "url": "https://clubdrop.jp/schedule/detail/46081",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2025/07/05",
+    "day": "土",
+    "artist": "クロ",
+    "title": "“CAOFF WEST 202”＜カオフ・ウエスト 202＞",
+    "url": "https://clubdrop.jp/schedule/detail/46081",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2025/07/05",
+    "day": "土",
+    "artist": "はっかー(みやぱ",
+    "title": "“CAOFF WEST 202”＜カオフ・ウエスト 202＞",
+    "url": "https://clubdrop.jp/schedule/detail/46081",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2025/07/05",
+    "day": "土",
+    "artist": "さぶさぶ)",
+    "title": "“CAOFF WEST 202”＜カオフ・ウエスト 202＞",
+    "url": "https://clubdrop.jp/schedule/detail/46081",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2025/07/05",
+    "day": "土",
+    "artist": "DJ",
+    "title": "“CAOFF WEST 202”＜カオフ・ウエスト 202＞",
+    "url": "https://clubdrop.jp/schedule/detail/46081",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2025/07/05",
+    "day": "土",
+    "artist": "moja (CAOFF WEST",
+    "title": "“CAOFF WEST 202”＜カオフ・ウエスト 202＞",
+    "url": "https://clubdrop.jp/schedule/detail/46081",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2025/07/05",
+    "day": "土",
+    "artist": "MASTER ANIMATION)",
+    "title": "“CAOFF WEST 202”＜カオフ・ウエスト 202＞",
+    "url": "https://clubdrop.jp/schedule/detail/46081",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2025/07/05",
+    "day": "土",
+    "artist": "やっしー",
+    "title": "“CAOFF WEST 202”＜カオフ・ウエスト 202＞",
+    "url": "https://clubdrop.jp/schedule/detail/46081",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2025/07/05",
+    "day": "土",
+    "artist": "SHIMA",
+    "title": "“CAOFF WEST 202”＜カオフ・ウエスト 202＞",
+    "url": "https://clubdrop.jp/schedule/detail/46081",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2025/07/05",
+    "day": "土",
+    "artist": "タカノ (CAOFF WEST",
+    "title": "“CAOFF WEST 202”＜カオフ・ウエスト 202＞",
+    "url": "https://clubdrop.jp/schedule/detail/46081",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2025/07/05",
+    "day": "土",
+    "artist": "Kyun)",
+    "title": "“CAOFF WEST 202”＜カオフ・ウエスト 202＞",
+    "url": "https://clubdrop.jp/schedule/detail/46081",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2025/07/05",
+    "day": "土",
+    "artist": "りゅうが",
+    "title": "“CAOFF WEST 202”＜カオフ・ウエスト 202＞",
+    "url": "https://clubdrop.jp/schedule/detail/46081",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2025/07/05",
+    "day": "土",
+    "artist": "ガキヤス(CAOFF WEST",
+    "title": "“CAOFF WEST 202”＜カオフ・ウエスト 202＞",
+    "url": "https://clubdrop.jp/schedule/detail/46081",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2025/07/05",
+    "day": "土",
+    "artist": "アニメコミチ)",
+    "title": "“CAOFF WEST 202”＜カオフ・ウエスト 202＞",
+    "url": "https://clubdrop.jp/schedule/detail/46081",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2025/07/05",
+    "day": "土",
+    "artist": "からくさ△マツ (レイワアニメーション",
+    "title": "“CAOFF WEST 202”＜カオフ・ウエスト 202＞",
+    "url": "https://clubdrop.jp/schedule/detail/46081",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2025/07/05",
+    "day": "土",
+    "artist": "アビスきょうかい)",
+    "title": "“CAOFF WEST 202”＜カオフ・ウエスト 202＞",
+    "url": "https://clubdrop.jp/schedule/detail/46081",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2025/07/05",
+    "day": "土",
+    "artist": "VJ",
+    "title": "“CAOFF WEST 202”＜カオフ・ウエスト 202＞",
+    "url": "https://clubdrop.jp/schedule/detail/46081",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2025/07/05",
+    "day": "土",
+    "artist": "みのり(CAOFF WEST",
+    "title": "“CAOFF WEST 202”＜カオフ・ウエスト 202＞",
+    "url": "https://clubdrop.jp/schedule/detail/46081",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2025/07/05",
+    "day": "土",
+    "artist": "伊達(AniTunes",
+    "title": "“CAOFF WEST 202”＜カオフ・ウエスト 202＞",
+    "url": "https://clubdrop.jp/schedule/detail/46081",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2025/07/05",
+    "day": "土",
+    "artist": "CAOFF WEST)",
+    "title": "“CAOFF WEST 202”＜カオフ・ウエスト 202＞",
+    "url": "https://clubdrop.jp/schedule/detail/46081",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2025/07/05",
+    "day": "土",
+    "artist": "やましぃ (ノミタイナ",
+    "title": "“CAOFF WEST 202”＜カオフ・ウエスト 202＞",
+    "url": "https://clubdrop.jp/schedule/detail/46081",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2025/07/05",
+    "day": "土",
+    "artist": "アニカフェスタ",
+    "title": "“CAOFF WEST 202”＜カオフ・ウエスト 202＞",
+    "url": "https://clubdrop.jp/schedule/detail/46081",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2025/07/05",
+    "day": "土",
+    "artist": "アニメコミチ",
+    "title": "“CAOFF WEST 202”＜カオフ・ウエスト 202＞",
+    "url": "https://clubdrop.jp/schedule/detail/46081",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2025/07/05",
+    "day": "土",
+    "artist": "MARTER ANIMATION)",
+    "title": "“CAOFF WEST 202”＜カオフ・ウエスト 202＞",
+    "url": "https://clubdrop.jp/schedule/detail/46081",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
     "date": "2025/07/06",
     "day": "日",
     "artist": "AZ-ON",
@@ -10125,6 +10665,24 @@
     "note": ""
   },
   {
+    "date": "2025/07/07",
+    "day": "月",
+    "artist": "LuvHz",
+    "title": "七夕夜会",
+    "url": "https://clubdrop.jp/schedule/detail/44742",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2025/07/07",
+    "day": "月",
+    "artist": "ハウツー世界征服",
+    "title": "七夕夜会",
+    "url": "https://clubdrop.jp/schedule/detail/44742",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
     "date": "2025/07/08",
     "day": "火",
     "artist": "点染テンセイ少女。",
@@ -10478,7 +11036,7 @@
   {
     "date": "2025/07/15",
     "day": "火",
-    "artist": "漆黒MAZE純白",
+    "artist": "漆黒混純白",
     "title": "漆黒の音楽会-第十六章",
     "url": "https://clubdrop.jp/schedule/detail/44270",
     "venue": "アメリカ村DROP",
@@ -12843,6 +13401,78 @@
     "note": ""
   },
   {
+    "date": "2025/07/13",
+    "day": "日",
+    "artist": "ELLIC",
+    "title": "ドルオタ is NOT DEAD.",
+    "url": "https://osaka-varon.jp/schedule/detail/46086",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2025/07/13",
+    "day": "日",
+    "artist": "妖狐繚乱",
+    "title": "ドルオタ is NOT DEAD.",
+    "url": "https://osaka-varon.jp/schedule/detail/46086",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2025/07/13",
+    "day": "日",
+    "artist": "LΩPARA",
+    "title": "ドルオタ is NOT DEAD.",
+    "url": "https://osaka-varon.jp/schedule/detail/46086",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2025/07/13",
+    "day": "日",
+    "artist": "Re:sist",
+    "title": "ドルオタ is NOT DEAD.",
+    "url": "https://osaka-varon.jp/schedule/detail/46086",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2025/07/13",
+    "day": "日",
+    "artist": "Dear❥Nightmare",
+    "title": "ドルオタ is NOT DEAD.",
+    "url": "https://osaka-varon.jp/schedule/detail/46086",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2025/07/13",
+    "day": "日",
+    "artist": "ココなった！",
+    "title": "ドルオタ is NOT DEAD.",
+    "url": "https://osaka-varon.jp/schedule/detail/46086",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2025/07/13",
+    "day": "日",
+    "artist": "I.VILL",
+    "title": "ドルオタ is NOT DEAD.",
+    "url": "https://osaka-varon.jp/schedule/detail/46086",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2025/07/13",
+    "day": "日",
+    "artist": "無花果とマシンガン",
+    "title": "ドルオタ is NOT DEAD.",
+    "url": "https://osaka-varon.jp/schedule/detail/46086",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
     "date": "2025/07/14",
     "day": "月",
     "artist": "Mirror,Mirror",
@@ -13475,6 +14105,15 @@
   {
     "date": "2025/07/26",
     "day": "土",
+    "artist": "柚原杏梨",
+    "title": "柚原杏梨 単独公演 推しは推せる時に推せ!!",
+    "url": "https://osaka-varon.jp/schedule/detail/45889",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2025/07/26",
+    "day": "土",
     "artist": "天女神樂",
     "title": "天女神樂主催『酒呑紫 生誕祭2025』",
     "url": "https://osaka-varon.jp/schedule/detail/36784",
@@ -13496,6 +14135,87 @@
     "artist": "Angel Symphony",
     "title": "天女神樂主催『酒呑紫 生誕祭2025』",
     "url": "https://osaka-varon.jp/schedule/detail/36784",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2025/07/27",
+    "day": "日",
+    "artist": "あおぞらをキミに",
+    "title": "朝からKawaii Night?",
+    "url": "https://osaka-varon.jp/schedule/detail/40790",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2025/07/27",
+    "day": "日",
+    "artist": "COzMICぱれーど",
+    "title": "朝からKawaii Night?",
+    "url": "https://osaka-varon.jp/schedule/detail/40790",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2025/07/27",
+    "day": "日",
+    "artist": "シェリコフレ",
+    "title": "朝からKawaii Night?",
+    "url": "https://osaka-varon.jp/schedule/detail/40790",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2025/07/27",
+    "day": "日",
+    "artist": "宇宙∞プラネクシア",
+    "title": "朝からKawaii Night?",
+    "url": "https://osaka-varon.jp/schedule/detail/40790",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2025/07/27",
+    "day": "日",
+    "artist": "#PANnana",
+    "title": "朝からKawaii Night?",
+    "url": "https://osaka-varon.jp/schedule/detail/40790",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2025/07/27",
+    "day": "日",
+    "artist": "みらくらんど",
+    "title": "朝からKawaii Night?",
+    "url": "https://osaka-varon.jp/schedule/detail/40790",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2025/07/27",
+    "day": "日",
+    "artist": "リリシック学園",
+    "title": "朝からKawaii Night?",
+    "url": "https://osaka-varon.jp/schedule/detail/40790",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2025/07/27",
+    "day": "日",
+    "artist": "侵喰ぴぴぴKLAXON",
+    "title": "-侵喰ぴぴぴKLAXON LAST LIVE-【紫月ゆな・鈴乃みう卒業公演】",
+    "url": "https://osaka-varon.jp/schedule/detail/46084",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2025/07/27",
+    "day": "日",
+    "artist": "Dear❥Nightmare",
+    "title": "-侵喰ぴぴぴKLAXON LAST LIVE-【紫月ゆな・鈴乃みう卒業公演】",
+    "url": "https://osaka-varon.jp/schedule/detail/46084",
     "venue": "VARON",
     "note": ""
   },
@@ -16205,6 +16925,24 @@
     "artist": "SumNaiL",
     "title": "SumNaiL One man LIVE SumFes ～宵に揺れる、ひと夏の炎～",
     "url": "https://osaka-zeela.jp/schedule/detail/38898",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2025/08/10",
+    "day": "日",
+    "artist": "wapiti",
+    "title": "ROCK STARISM＃0",
+    "url": "https://osaka-zeela.jp/schedule/detail/43304",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2025/08/10",
+    "day": "日",
+    "artist": "pachae",
+    "title": "ROCK STARISM＃0",
+    "url": "https://osaka-zeela.jp/schedule/detail/43304",
     "venue": "Zeela",
     "note": ""
   },
