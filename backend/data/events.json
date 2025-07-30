@@ -7632,15 +7632,6 @@
     "note": ""
   },
   {
-    "date": "2025/07/31",
-    "day": "木",
-    "artist": "and more…",
-    "title": "【北堀江納涼独唱倶楽部】",
-    "url": "https://vijon.jp/schedule/detail/45465",
-    "venue": "北堀江club vijon",
-    "note": ""
-  },
-  {
     "date": "2025/08/01",
     "day": "金",
     "artist": "ワンダー久道",
@@ -8732,7 +8723,7 @@
   {
     "date": "2025/08/28",
     "day": "木",
-    "artist": "...and more",
+    "artist": "グルーヴ先生",
     "title": "Stardust Alone × vijon pre. 【ベースリンちゃん一時帰国祭】",
     "url": "https://vijon.jp/schedule/detail/43017",
     "venue": "北堀江club vijon",
@@ -12335,6 +12326,69 @@
     "artist": "GhostParty",
     "title": "THE HOME TEAM LIVE IN JAPAN",
     "url": "https://bangboo.jp/schedule/detail/45977",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2025/09/08",
+    "day": "月",
+    "artist": "イヌガヨ",
+    "title": "【堂山わんこ大戦争】-イヌガヨ vs BANGBOO-",
+    "url": "https://bangboo.jp/schedule/detail/45087",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2025/09/08",
+    "day": "月",
+    "artist": "らくだのこぶX",
+    "title": "【堂山わんこ大戦争】-イヌガヨ vs BANGBOO-",
+    "url": "https://bangboo.jp/schedule/detail/45087",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2025/09/08",
+    "day": "月",
+    "artist": "Helpless Triangle",
+    "title": "【堂山わんこ大戦争】-イヌガヨ vs BANGBOO-",
+    "url": "https://bangboo.jp/schedule/detail/45087",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2025/09/08",
+    "day": "月",
+    "artist": "bluekeys",
+    "title": "【堂山わんこ大戦争】-イヌガヨ vs BANGBOO-",
+    "url": "https://bangboo.jp/schedule/detail/45087",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2025/09/08",
+    "day": "月",
+    "artist": "The Marriage Sky Blues",
+    "title": "【堂山わんこ大戦争】-イヌガヨ vs BANGBOO-",
+    "url": "https://bangboo.jp/schedule/detail/45087",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2025/09/08",
+    "day": "月",
+    "artist": "Hecatoncheir sisters",
+    "title": "【堂山わんこ大戦争】-イヌガヨ vs BANGBOO-",
+    "url": "https://bangboo.jp/schedule/detail/45087",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2025/09/08",
+    "day": "月",
+    "artist": "and more",
+    "title": "【堂山わんこ大戦争】-イヌガヨ vs BANGBOO-",
+    "url": "https://bangboo.jp/schedule/detail/45087",
     "venue": "梅田BANGBOO",
     "note": ""
   },
@@ -16022,7 +16076,7 @@
   {
     "date": "2025/08/03",
     "day": "日",
-    "artist": "ッツ◎さーくる",
+    "artist": "ワッツ◎さーくる",
     "title": "朝からKawaii Night",
     "url": "https://clubdrop.jp/schedule/detail/43940",
     "venue": "アメリカ村DROP",
@@ -16050,6 +16104,15 @@
     "date": "2025/08/03",
     "day": "日",
     "artist": "あおぞらをキミに",
+    "title": "朝からKawaii Night",
+    "url": "https://clubdrop.jp/schedule/detail/43940",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2025/08/03",
+    "day": "日",
+    "artist": "LOUTS MARRY",
     "title": "朝からKawaii Night",
     "url": "https://clubdrop.jp/schedule/detail/43940",
     "venue": "アメリカ村DROP",
@@ -16124,6 +16187,33 @@
     "artist": "ハピネスクラッカー!",
     "title": "朝からKawaii Night",
     "url": "https://clubdrop.jp/schedule/detail/43940",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2025/08/03",
+    "day": "日",
+    "artist": "アブソプ",
+    "title": "EXCITING DROP",
+    "url": "https://clubdrop.jp/schedule/detail/38648",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2025/08/03",
+    "day": "日",
+    "artist": "NiL",
+    "title": "EXCITING DROP",
+    "url": "https://clubdrop.jp/schedule/detail/38648",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2025/08/03",
+    "day": "日",
+    "artist": "魔訶不思議変革者-デスデス-",
+    "title": "EXCITING DROP",
+    "url": "https://clubdrop.jp/schedule/detail/38648",
     "venue": "アメリカ村DROP",
     "note": ""
   },
@@ -20354,6 +20444,96 @@
     "artist": "はるちょん",
     "title": "天女神樂主催『神代千夏 生誕祭2025』",
     "url": "https://osaka-varon.jp/schedule/detail/36785",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2025/08/11",
+    "day": "月",
+    "artist": "SPRISE",
+    "title": "SPRISE pre.『Neo-endorphin』",
+    "url": "https://osaka-varon.jp/schedule/detail/37203",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2025/08/11",
+    "day": "月",
+    "artist": "sync senc",
+    "title": "SPRISE pre.『Neo-endorphin』",
+    "url": "https://osaka-varon.jp/schedule/detail/37203",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2025/08/11",
+    "day": "月",
+    "artist": "No.*Day",
+    "title": "SPRISE pre.『Neo-endorphin』",
+    "url": "https://osaka-varon.jp/schedule/detail/37203",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2025/08/11",
+    "day": "月",
+    "artist": "妄想エデン",
+    "title": "SPRISE pre.『Neo-endorphin』",
+    "url": "https://osaka-varon.jp/schedule/detail/37203",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2025/08/11",
+    "day": "月",
+    "artist": "うとゆに",
+    "title": "SPRISE pre.『Neo-endorphin』",
+    "url": "https://osaka-varon.jp/schedule/detail/37203",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2025/08/11",
+    "day": "月",
+    "artist": "LOTUS MARRY",
+    "title": "SPRISE pre.『Neo-endorphin』",
+    "url": "https://osaka-varon.jp/schedule/detail/37203",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2025/08/11",
+    "day": "月",
+    "artist": "うぃるめり!",
+    "title": "SPRISE pre.『Neo-endorphin』",
+    "url": "https://osaka-varon.jp/schedule/detail/37203",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2025/08/11",
+    "day": "月",
+    "artist": "IS",
+    "title": "SPRISE pre.『Neo-endorphin』",
+    "url": "https://osaka-varon.jp/schedule/detail/37203",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2025/08/11",
+    "day": "月",
+    "artist": "lullllul",
+    "title": "SPRISE pre.『Neo-endorphin』",
+    "url": "https://osaka-varon.jp/schedule/detail/37203",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2025/08/11",
+    "day": "月",
+    "artist": "むげんこんぜ",
+    "title": "SPRISE pre.『Neo-endorphin』",
+    "url": "https://osaka-varon.jp/schedule/detail/37203",
     "venue": "VARON",
     "note": ""
   },
