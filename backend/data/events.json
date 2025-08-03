@@ -585,6 +585,15 @@
     "note": ""
   },
   {
+    "date": "2025/08/30",
+    "day": "",
+    "artist": "HERO",
+    "title": "会心の一撃",
+    "url": "https://fireloop.net/schedule_now.shtml#0830",
+    "venue": "寺田町Fireloop",
+    "note": ""
+  },
+  {
     "date": "2025/08/31",
     "day": "",
     "artist": "Yusuke Terauchi",
@@ -1040,6 +1049,51 @@
     "artist": "VOLA & THE ORIENTAL MACHINE",
     "title": "ORIENTAL CONCOUR",
     "url": "https://fireloop.net/schedule_now.shtml#1025",
+    "venue": "寺田町Fireloop",
+    "note": ""
+  },
+  {
+    "date": "2025/10/27",
+    "day": "月",
+    "artist": "BUDDY TANDEN",
+    "title": "SANKYUU",
+    "url": "https://fireloop.net/schedule_now.shtml#1027",
+    "venue": "寺田町Fireloop",
+    "note": ""
+  },
+  {
+    "date": "2025/10/27",
+    "day": "月",
+    "artist": "JUNIOR BREATH",
+    "title": "SANKYUU",
+    "url": "https://fireloop.net/schedule_now.shtml#1027",
+    "venue": "寺田町Fireloop",
+    "note": ""
+  },
+  {
+    "date": "2025/10/27",
+    "day": "月",
+    "artist": "〈O.A.〉SAITO.Q.",
+    "title": "SANKYUU",
+    "url": "https://fireloop.net/schedule_now.shtml#1027",
+    "venue": "寺田町Fireloop",
+    "note": ""
+  },
+  {
+    "date": "2025/10/27",
+    "day": "月",
+    "artist": "〈DJ〉K.Sumida",
+    "title": "SANKYUU",
+    "url": "https://fireloop.net/schedule_now.shtml#1027",
+    "venue": "寺田町Fireloop",
+    "note": ""
+  },
+  {
+    "date": "2025/10/27",
+    "day": "月",
+    "artist": "〈FOOD〉ニコト",
+    "title": "SANKYUU",
+    "url": "https://fireloop.net/schedule_now.shtml#1027",
     "venue": "寺田町Fireloop",
     "note": ""
   },
@@ -2874,25 +2928,7 @@
     "date": "2025/09/10",
     "day": "水",
     "artist": "歪みの国のチェルシー",
-    "title": "歪みの国のチェルシー / nehan / Seisuke / Jiro Matatabi   / ピーター大工原",
-    "url": "https://para-dice.net/",
-    "venue": "扇町para-dice",
-    "note": ""
-  },
-  {
-    "date": "2025/09/10",
-    "day": "水",
-    "artist": "nehan",
-    "title": "歪みの国のチェルシー / nehan / Seisuke / Jiro Matatabi   / ピーター大工原",
-    "url": "https://para-dice.net/",
-    "venue": "扇町para-dice",
-    "note": ""
-  },
-  {
-    "date": "2025/09/10",
-    "day": "水",
-    "artist": "Seisuke",
-    "title": "歪みの国のチェルシー / nehan / Seisuke / Jiro Matatabi   / ピーター大工原",
+    "title": "",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -2901,7 +2937,7 @@
     "date": "2025/09/10",
     "day": "水",
     "artist": "Jiro Matatabi",
-    "title": "歪みの国のチェルシー / nehan / Seisuke / Jiro Matatabi   / ピーター大工原",
+    "title": "",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -2909,8 +2945,26 @@
   {
     "date": "2025/09/10",
     "day": "水",
-    "artist": "ピーター大工原 and more...",
-    "title": "歪みの国のチェルシー / nehan / Seisuke / Jiro Matatabi   / ピーター大工原",
+    "artist": "ピーター大工原",
+    "title": "",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
+    "date": "2025/09/10",
+    "day": "水",
+    "artist": "nehan",
+    "title": "",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
+    "date": "2025/09/10",
+    "day": "水",
+    "artist": "Seisuke",
+    "title": "",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -2972,6 +3026,15 @@
   {
     "date": "2025/09/13",
     "day": "土",
+    "artist": "UNDER THE KLOUD",
+    "title": "para-dice企画",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
+    "date": "2025/09/13",
+    "day": "土",
     "artist": "ウサギバニーボーイ",
     "title": "para-dice企画",
     "url": "https://para-dice.net/",
@@ -2997,37 +3060,10 @@
     "note": ""
   },
   {
-    "date": "2025/09/13",
-    "day": "土",
-    "artist": "UNDER THE KLOUD",
-    "title": "para-dice企画",
-    "url": "https://para-dice.net/",
-    "venue": "扇町para-dice",
-    "note": ""
-  },
-  {
-    "date": "2025/09/14",
-    "day": "日",
-    "artist": "LINDA",
-    "title": "LINDA / ザ・マンガンズ / 自転車SO業舎 / BOMBJACK / サトウユウイチと解せない",
-    "url": "https://para-dice.net/",
-    "venue": "扇町para-dice",
-    "note": ""
-  },
-  {
     "date": "2025/09/14",
     "day": "日",
     "artist": "ザ・マンガンズ",
-    "title": "LINDA / ザ・マンガンズ / 自転車SO業舎 / BOMBJACK / サトウユウイチと解せない",
-    "url": "https://para-dice.net/",
-    "venue": "扇町para-dice",
-    "note": ""
-  },
-  {
-    "date": "2025/09/14",
-    "day": "日",
-    "artist": "自転車SO業舎",
-    "title": "LINDA / ザ・マンガンズ / 自転車SO業舎 / BOMBJACK / サトウユウイチと解せない",
+    "title": "OPEN 16:30",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -3036,7 +3072,7 @@
     "date": "2025/09/14",
     "day": "日",
     "artist": "BOMBJACK",
-    "title": "LINDA / ザ・マンガンズ / 自転車SO業舎 / BOMBJACK / サトウユウイチと解せない",
+    "title": "OPEN 16:30",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -3044,8 +3080,26 @@
   {
     "date": "2025/09/14",
     "day": "日",
-    "artist": "サトウユウイチと解せない  and more...",
-    "title": "LINDA / ザ・マンガンズ / 自転車SO業舎 / BOMBJACK / サトウユウイチと解せない",
+    "artist": "自転車SO業舎",
+    "title": "OPEN 16:30",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
+    "date": "2025/09/14",
+    "day": "日",
+    "artist": "サトウユウイチと解せない",
+    "title": "OPEN 16:30",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
+    "date": "2025/09/14",
+    "day": "日",
+    "artist": "LINDA",
+    "title": "OPEN 16:30",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -3098,26 +3152,8 @@
   {
     "date": "2025/09/17",
     "day": "水",
-    "artist": "ワタリガラス",
-    "title": "ワタリガラス / 松延慎吾 / 瀬川浩平a.k.aしっぱいまん / 七歩 / 藤箱 / 大石将史",
-    "url": "https://para-dice.net/",
-    "venue": "扇町para-dice",
-    "note": ""
-  },
-  {
-    "date": "2025/09/17",
-    "day": "水",
-    "artist": "松延慎吾",
-    "title": "ワタリガラス / 松延慎吾 / 瀬川浩平a.k.aしっぱいまん / 七歩 / 藤箱 / 大石将史",
-    "url": "https://para-dice.net/",
-    "venue": "扇町para-dice",
-    "note": ""
-  },
-  {
-    "date": "2025/09/17",
-    "day": "水",
-    "artist": "瀬川浩平a.k.aしっぱいまん",
-    "title": "ワタリガラス / 松延慎吾 / 瀬川浩平a.k.aしっぱいまん / 七歩 / 藤箱 / 大石将史",
+    "artist": "大石将史",
+    "title": "OPEN 18:00",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -3126,7 +3162,7 @@
     "date": "2025/09/17",
     "day": "水",
     "artist": "七歩",
-    "title": "ワタリガラス / 松延慎吾 / 瀬川浩平a.k.aしっぱいまん / 七歩 / 藤箱 / 大石将史",
+    "title": "OPEN 18:00",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -3134,8 +3170,8 @@
   {
     "date": "2025/09/17",
     "day": "水",
-    "artist": "藤箱",
-    "title": "ワタリガラス / 松延慎吾 / 瀬川浩平a.k.aしっぱいまん / 七歩 / 藤箱 / 大石将史",
+    "artist": "松延慎吾",
+    "title": "OPEN 18:00",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -3143,8 +3179,17 @@
   {
     "date": "2025/09/17",
     "day": "水",
-    "artist": "大石将史",
-    "title": "ワタリガラス / 松延慎吾 / 瀬川浩平a.k.aしっぱいまん / 七歩 / 藤箱 / 大石将史",
+    "artist": "ワタリガラス",
+    "title": "OPEN 18:00",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
+    "date": "2025/09/17",
+    "day": "水",
+    "artist": "藤箱 21:50 〜 22:20 瀬川浩平a.k.aしっぱいまん",
+    "title": "OPEN 18:00",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -3153,7 +3198,7 @@
     "date": "2025/09/18",
     "day": "木",
     "artist": "netaro51",
-    "title": "netaro51 / Mo’ Mango / そうごじた / 武下直樹 / ほりけはづき / 高岳銘",
+    "title": "OPEN 18:00",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -3162,7 +3207,7 @@
     "date": "2025/09/18",
     "day": "木",
     "artist": "Mo’ Mango",
-    "title": "netaro51 / Mo’ Mango / そうごじた / 武下直樹 / ほりけはづき / 高岳銘",
+    "title": "OPEN 18:00",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -3171,7 +3216,7 @@
     "date": "2025/09/18",
     "day": "木",
     "artist": "そうごじた",
-    "title": "netaro51 / Mo’ Mango / そうごじた / 武下直樹 / ほりけはづき / 高岳銘",
+    "title": "OPEN 18:00",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -3180,7 +3225,7 @@
     "date": "2025/09/18",
     "day": "木",
     "artist": "武下直樹",
-    "title": "netaro51 / Mo’ Mango / そうごじた / 武下直樹 / ほりけはづき / 高岳銘",
+    "title": "OPEN 18:00",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -3189,7 +3234,7 @@
     "date": "2025/09/18",
     "day": "木",
     "artist": "ほりけはづき",
-    "title": "netaro51 / Mo’ Mango / そうごじた / 武下直樹 / ほりけはづき / 高岳銘",
+    "title": "OPEN 18:00",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -3198,7 +3243,7 @@
     "date": "2025/09/18",
     "day": "木",
     "artist": "高岳銘",
-    "title": "netaro51 / Mo’ Mango / そうごじた / 武下直樹 / ほりけはづき / 高岳銘",
+    "title": "OPEN 18:00",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -4401,6 +4446,15 @@
     "note": ""
   },
   {
+    "date": "2025/08/05",
+    "day": "火",
+    "artist": "ゆずサワー",
+    "title": "DRAFT FES TOUR 2025 SUMMER",
+    "url": "https://vijon.jp/schedule/detail/43851",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
     "date": "2025/08/06",
     "day": "水",
     "artist": "アンイルミ",
@@ -4736,7 +4790,7 @@
   {
     "date": "2025/08/14",
     "day": "木",
-    "artist": "and more...",
+    "artist": "山口建人",
     "title": "【YAVAI VIBES】- ヤヴァイヴァイブス - DAY2",
     "url": "https://vijon.jp/schedule/detail/42839",
     "venue": "北堀江club vijon",
@@ -9927,6 +9981,51 @@
     "note": ""
   },
   {
+    "date": "2025/09/24",
+    "day": "水",
+    "artist": "The Amsterdam Red Light District",
+    "title": "TARLD KOREA&JAPAN TOUR 2025",
+    "url": "https://clubdrop.jp/schedule/detail/41699",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2025/09/24",
+    "day": "水",
+    "artist": "ZIYOLA",
+    "title": "TARLD KOREA&JAPAN TOUR 2025",
+    "url": "https://clubdrop.jp/schedule/detail/41699",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2025/09/24",
+    "day": "水",
+    "artist": "Cats Rule The World",
+    "title": "TARLD KOREA&JAPAN TOUR 2025",
+    "url": "https://clubdrop.jp/schedule/detail/41699",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2025/09/24",
+    "day": "水",
+    "artist": "IMPERFECTION",
+    "title": "TARLD KOREA&JAPAN TOUR 2025",
+    "url": "https://clubdrop.jp/schedule/detail/41699",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2025/09/24",
+    "day": "水",
+    "artist": "羅刹",
+    "title": "TARLD KOREA&JAPAN TOUR 2025",
+    "url": "https://clubdrop.jp/schedule/detail/41699",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
     "date": "2025/09/26",
     "day": "金",
     "artist": "SILHOUETTE FROM THE SKYLIT",
@@ -10926,6 +11025,51 @@
     "note": ""
   },
   {
+    "date": "2025/08/15",
+    "day": "金",
+    "artist": "アクアリウム。",
+    "title": "アクアリウム。定期公演Vol.10「りうむフェス」",
+    "url": "https://osaka-varon.jp/schedule/detail/38374",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2025/08/15",
+    "day": "金",
+    "artist": "ティラミス",
+    "title": "アクアリウム。定期公演Vol.10「りうむフェス」",
+    "url": "https://osaka-varon.jp/schedule/detail/38374",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2025/08/15",
+    "day": "金",
+    "artist": "lullllul",
+    "title": "アクアリウム。定期公演Vol.10「りうむフェス」",
+    "url": "https://osaka-varon.jp/schedule/detail/38374",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2025/08/15",
+    "day": "金",
+    "artist": "AsteRythm",
+    "title": "アクアリウム。定期公演Vol.10「りうむフェス」",
+    "url": "https://osaka-varon.jp/schedule/detail/38374",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2025/08/15",
+    "day": "金",
+    "artist": "caprice",
+    "title": "アクアリウム。定期公演Vol.10「りうむフェス」",
+    "url": "https://osaka-varon.jp/schedule/detail/38374",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
     "date": "2025/08/16",
     "day": "土",
     "artist": "藍空と月",
@@ -11340,6 +11484,24 @@
     "note": ""
   },
   {
+    "date": "2025/09/06",
+    "day": "土",
+    "artist": "ELEVEN P.M",
+    "title": "ELEVEN P.M x NERDCOREST 2MAN LIVE \"VERSUS\"PARTⅢ",
+    "url": "https://osaka-varon.jp/schedule/detail/37299",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2025/09/06",
+    "day": "土",
+    "artist": "NERDCOREST",
+    "title": "ELEVEN P.M x NERDCOREST 2MAN LIVE \"VERSUS\"PARTⅢ",
+    "url": "https://osaka-varon.jp/schedule/detail/37299",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
     "date": "2025/09/08",
     "day": "月",
     "artist": "甲南女子大学軽音楽部",
@@ -11579,6 +11741,51 @@
     "artist": "SAPO",
     "title": "心斎橋VARON × 裏切者死罪Pre. “XIII CRIMSON FEAST” -心斎橋VARON13th ANNIVERSARY-",
     "url": "https://osaka-varon.jp/schedule/detail/40835",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2025/10/01",
+    "day": "水",
+    "artist": "ホシミッツ",
+    "title": "SHISANSAIBASHI VARON × BASSONTOP OSAKI pre. 俺の見たいバンド集めました vol.59  SHISANIBASHI VARON13th ANNIVERSARY!!",
+    "url": "https://osaka-varon.jp/schedule/detail/44134",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2025/10/01",
+    "day": "水",
+    "artist": "UnpRayable",
+    "title": "SHISANSAIBASHI VARON × BASSONTOP OSAKI pre. 俺の見たいバンド集めました vol.59  SHISANIBASHI VARON13th ANNIVERSARY!!",
+    "url": "https://osaka-varon.jp/schedule/detail/44134",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2025/10/01",
+    "day": "水",
+    "artist": "JunkUnit",
+    "title": "SHISANSAIBASHI VARON × BASSONTOP OSAKI pre. 俺の見たいバンド集めました vol.59  SHISANIBASHI VARON13th ANNIVERSARY!!",
+    "url": "https://osaka-varon.jp/schedule/detail/44134",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2025/10/01",
+    "day": "水",
+    "artist": "ハヤシライフ",
+    "title": "SHISANSAIBASHI VARON × BASSONTOP OSAKI pre. 俺の見たいバンド集めました vol.59  SHISANIBASHI VARON13th ANNIVERSARY!!",
+    "url": "https://osaka-varon.jp/schedule/detail/44134",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2025/10/01",
+    "day": "水",
+    "artist": "soratobiwo   and more...",
+    "title": "SHISANSAIBASHI VARON × BASSONTOP OSAKI pre. 俺の見たいバンド集めました vol.59  SHISANIBASHI VARON13th ANNIVERSARY!!",
+    "url": "https://osaka-varon.jp/schedule/detail/44134",
     "venue": "VARON",
     "note": ""
   },
@@ -14090,6 +14297,15 @@
     "artist": "FECT",
     "title": "A//FECT ONEMAN LIVE TOUR 2025 -Luminous-",
     "url": "https://osaka-zeela.jp/schedule/detail/44192",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2025/11/22",
+    "day": "土",
+    "artist": "ザ・ハウル",
+    "title": "ザ・ハウル 11th Anniv.LIVE Band ONE-MAN 編 「グッド・アフタヌーン!!!」",
+    "url": "https://osaka-zeela.jp/schedule/detail/45663",
     "venue": "Zeela",
     "note": ""
   },
@@ -17177,6 +17393,303 @@
     "artist": "問)knave06-6535-0691",
     "title": "「星空タイムワープツアー 2025」",
     "url": "http://www.knave.co.jp/schedule/s_2025_09.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2025/10/01",
+    "day": "水",
+    "artist": "中井優月",
+    "title": "NaturalWoman",
+    "url": "http://www.knave.co.jp/schedule/s_2025_10.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2025/10/01",
+    "day": "水",
+    "artist": "aoco.",
+    "title": "NaturalWoman",
+    "url": "http://www.knave.co.jp/schedule/s_2025_10.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2025/10/01",
+    "day": "水",
+    "artist": "斉藤れいか",
+    "title": "NaturalWoman",
+    "url": "http://www.knave.co.jp/schedule/s_2025_10.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2025/10/01",
+    "day": "水",
+    "artist": "アキコ.",
+    "title": "NaturalWoman",
+    "url": "http://www.knave.co.jp/schedule/s_2025_10.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2025/10/01",
+    "day": "水",
+    "artist": "寺岸柚稀",
+    "title": "NaturalWoman",
+    "url": "http://www.knave.co.jp/schedule/s_2025_10.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2025/10/01",
+    "day": "水",
+    "artist": "問)knave06-6535-0691",
+    "title": "NaturalWoman",
+    "url": "http://www.knave.co.jp/schedule/s_2025_10.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2025/10/02",
+    "day": "木",
+    "artist": "ケシカルカッコ",
+    "title": "LoversRock",
+    "url": "http://www.knave.co.jp/schedule/s_2025_10.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2025/10/02",
+    "day": "木",
+    "artist": "岩内幸乃",
+    "title": "LoversRock",
+    "url": "http://www.knave.co.jp/schedule/s_2025_10.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2025/10/02",
+    "day": "木",
+    "artist": "たいき",
+    "title": "LoversRock",
+    "url": "http://www.knave.co.jp/schedule/s_2025_10.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2025/10/02",
+    "day": "木",
+    "artist": "ウエダアオイ",
+    "title": "LoversRock",
+    "url": "http://www.knave.co.jp/schedule/s_2025_10.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2025/10/02",
+    "day": "木",
+    "artist": "問)knave06-6535-0691",
+    "title": "LoversRock",
+    "url": "http://www.knave.co.jp/schedule/s_2025_10.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2025/10/06",
+    "day": "月",
+    "artist": "手がクリームパン",
+    "title": "girlstalk SP",
+    "url": "http://www.knave.co.jp/schedule/s_2025_10.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2025/10/06",
+    "day": "月",
+    "artist": "森あんぱん",
+    "title": "girlstalk SP",
+    "url": "http://www.knave.co.jp/schedule/s_2025_10.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2025/10/06",
+    "day": "月",
+    "artist": "一原ちひろ",
+    "title": "girlstalk SP",
+    "url": "http://www.knave.co.jp/schedule/s_2025_10.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2025/10/06",
+    "day": "月",
+    "artist": "朋恵",
+    "title": "girlstalk SP",
+    "url": "http://www.knave.co.jp/schedule/s_2025_10.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2025/10/06",
+    "day": "月",
+    "artist": "Nazuna",
+    "title": "girlstalk SP",
+    "url": "http://www.knave.co.jp/schedule/s_2025_10.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2025/10/06",
+    "day": "月",
+    "artist": "問)knave06-6535-0691",
+    "title": "girlstalk SP",
+    "url": "http://www.knave.co.jp/schedule/s_2025_10.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2025/10/07",
+    "day": "火",
+    "artist": "hiyomusica",
+    "title": "LoversRock",
+    "url": "http://www.knave.co.jp/schedule/s_2025_10.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2025/10/07",
+    "day": "火",
+    "artist": "Ei",
+    "title": "LoversRock",
+    "url": "http://www.knave.co.jp/schedule/s_2025_10.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2025/10/07",
+    "day": "火",
+    "artist": "ちゃむりん",
+    "title": "LoversRock",
+    "url": "http://www.knave.co.jp/schedule/s_2025_10.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2025/10/07",
+    "day": "火",
+    "artist": "成宮雛",
+    "title": "LoversRock",
+    "url": "http://www.knave.co.jp/schedule/s_2025_10.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2025/10/07",
+    "day": "火",
+    "artist": "問)knave06-6535-0691",
+    "title": "LoversRock",
+    "url": "http://www.knave.co.jp/schedule/s_2025_10.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2025/10/08",
+    "day": "水",
+    "artist": "OTOHA",
+    "title": "NaturalWoman",
+    "url": "http://www.knave.co.jp/schedule/s_2025_10.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2025/10/08",
+    "day": "水",
+    "artist": "瑚雪",
+    "title": "NaturalWoman",
+    "url": "http://www.knave.co.jp/schedule/s_2025_10.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2025/10/08",
+    "day": "水",
+    "artist": "冬木希",
+    "title": "NaturalWoman",
+    "url": "http://www.knave.co.jp/schedule/s_2025_10.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2025/10/08",
+    "day": "水",
+    "artist": "西凜華",
+    "title": "NaturalWoman",
+    "url": "http://www.knave.co.jp/schedule/s_2025_10.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2025/10/08",
+    "day": "水",
+    "artist": "問)knave06-6535-0691",
+    "title": "NaturalWoman",
+    "url": "http://www.knave.co.jp/schedule/s_2025_10.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2025/10/09",
+    "day": "木",
+    "artist": "中原愛",
+    "title": "girlstalk",
+    "url": "http://www.knave.co.jp/schedule/s_2025_10.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2025/10/09",
+    "day": "木",
+    "artist": "長真由美",
+    "title": "girlstalk",
+    "url": "http://www.knave.co.jp/schedule/s_2025_10.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2025/10/09",
+    "day": "木",
+    "artist": "高賀音羽",
+    "title": "girlstalk",
+    "url": "http://www.knave.co.jp/schedule/s_2025_10.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2025/10/09",
+    "day": "木",
+    "artist": "Ica",
+    "title": "girlstalk",
+    "url": "http://www.knave.co.jp/schedule/s_2025_10.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2025/10/09",
+    "day": "木",
+    "artist": "松尾公美子",
+    "title": "girlstalk",
+    "url": "http://www.knave.co.jp/schedule/s_2025_10.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2025/10/09",
+    "day": "木",
+    "artist": "問)knave06-6535-0691",
+    "title": "girlstalk",
+    "url": "http://www.knave.co.jp/schedule/s_2025_10.html",
     "venue": "knave",
     "note": ""
   },
