@@ -2342,15 +2342,6 @@
   {
     "date": "2025/08/24",
     "day": "日",
-    "artist": "LEEVE ROSELYN",
-    "title": "para-dice企画",
-    "url": "https://para-dice.net/",
-    "venue": "扇町para-dice",
-    "note": ""
-  },
-  {
-    "date": "2025/08/24",
-    "day": "日",
     "artist": "WolfSurfPurpleSky",
     "title": "para-dice企画",
     "url": "https://para-dice.net/",
@@ -2361,6 +2352,15 @@
     "date": "2025/08/24",
     "day": "日",
     "artist": "Qu",
+    "title": "para-dice企画",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
+    "date": "2025/08/24",
+    "day": "日",
+    "artist": "※LEEVE ROSELYNは諸事情により出演キャンセルとなりました。",
     "title": "para-dice企画",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
@@ -2693,8 +2693,8 @@
   {
     "date": "2025/09/03",
     "day": "水",
-    "artist": "イタミトクニン+箱+柾",
-    "title": "イタミトクニン+箱+柾 / 虚舟 dub experience / 異 / CHeol-Hong",
+    "artist": "虚舟 dub experience",
+    "title": "OPEN 18:30",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -2702,8 +2702,26 @@
   {
     "date": "2025/09/03",
     "day": "水",
-    "artist": "虚舟 dub experience",
-    "title": "イタミトクニン+箱+柾 / 虚舟 dub experience / 異 / CHeol-Hong",
+    "artist": "MCSHIGE Rockingchair",
+    "title": "OPEN 18:30",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
+    "date": "2025/09/03",
+    "day": "水",
+    "artist": "CHeol-Hong",
+    "title": "OPEN 18:30",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
+    "date": "2025/09/03",
+    "day": "水",
+    "artist": "イタミトクニン+箱+柾",
+    "title": "OPEN 18:30",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -2712,16 +2730,7 @@
     "date": "2025/09/03",
     "day": "水",
     "artist": "異",
-    "title": "イタミトクニン+箱+柾 / 虚舟 dub experience / 異 / CHeol-Hong",
-    "url": "https://para-dice.net/",
-    "venue": "扇町para-dice",
-    "note": ""
-  },
-  {
-    "date": "2025/09/03",
-    "day": "水",
-    "artist": "CHeol-Hong  and more...",
-    "title": "イタミトクニン+箱+柾 / 虚舟 dub experience / 異 / CHeol-Hong",
+    "title": "OPEN 18:30",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -3017,7 +3026,7 @@
   {
     "date": "2025/09/13",
     "day": "土",
-    "artist": "『beyond』",
+    "artist": "『 beyond 』",
     "title": "para-dice企画",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
@@ -3188,7 +3197,16 @@
   {
     "date": "2025/09/17",
     "day": "水",
-    "artist": "藤箱 21:50 〜 22:20 瀬川浩平a.k.aしっぱいまん",
+    "artist": "藤箱",
+    "title": "OPEN 18:00",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
+    "date": "2025/09/17",
+    "day": "水",
+    "artist": "瀬川浩平a.k.aしっぱいまん",
     "title": "OPEN 18:00",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
@@ -3303,6 +3321,51 @@
     "note": ""
   },
   {
+    "date": "2025/09/20",
+    "day": "土",
+    "artist": "SUGIYAMA",
+    "title": "SUGIYAMA pre.",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
+    "date": "2025/09/20",
+    "day": "土",
+    "artist": "B'low",
+    "title": "SUGIYAMA pre.",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
+    "date": "2025/09/20",
+    "day": "土",
+    "artist": "SICKS SENCE",
+    "title": "SUGIYAMA pre.",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
+    "date": "2025/09/20",
+    "day": "土",
+    "artist": "Brooooo!!!!",
+    "title": "SUGIYAMA pre.",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
+    "date": "2025/09/20",
+    "day": "土",
+    "artist": "STRAT 18:00",
+    "title": "SUGIYAMA pre.",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
     "date": "2025/09/21",
     "day": "日",
     "artist": "Gecko Cult Cartel",
@@ -3332,8 +3395,8 @@
   {
     "date": "2025/09/22",
     "day": "月",
-    "artist": "頷けば灰",
-    "title": "頷けば灰 / 奥村由希 / ヨギ サネキ / MIKI / 新實幸太朗",
+    "artist": "MIKI",
+    "title": "",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -3342,7 +3405,7 @@
     "date": "2025/09/22",
     "day": "月",
     "artist": "奥村由希",
-    "title": "頷けば灰 / 奥村由希 / ヨギ サネキ / MIKI / 新實幸太朗",
+    "title": "",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -3351,7 +3414,7 @@
     "date": "2025/09/22",
     "day": "月",
     "artist": "ヨギ サネキ",
-    "title": "頷けば灰 / 奥村由希 / ヨギ サネキ / MIKI / 新實幸太朗",
+    "title": "",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -3359,8 +3422,8 @@
   {
     "date": "2025/09/22",
     "day": "月",
-    "artist": "MIKI",
-    "title": "頷けば灰 / 奥村由希 / ヨギ サネキ / MIKI / 新實幸太朗",
+    "artist": "新實幸太朗",
+    "title": "",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -3368,8 +3431,8 @@
   {
     "date": "2025/09/22",
     "day": "月",
-    "artist": "新實幸太朗 and more...",
-    "title": "頷けば灰 / 奥村由希 / ヨギ サネキ / MIKI / 新實幸太朗",
+    "artist": "頷けば灰",
+    "title": "",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -3413,26 +3476,8 @@
   {
     "date": "2025/09/25",
     "day": "木",
-    "artist": "灰原正之",
-    "title": "灰原正之 / アコギの国のチェルシー / arbor on the ridgeway / 清家大記 /\n                \nHase",
-    "url": "https://para-dice.net/",
-    "venue": "扇町para-dice",
-    "note": ""
-  },
-  {
-    "date": "2025/09/25",
-    "day": "木",
-    "artist": "アコギの国のチェルシー",
-    "title": "灰原正之 / アコギの国のチェルシー / arbor on the ridgeway / 清家大記 /\n                \nHase",
-    "url": "https://para-dice.net/",
-    "venue": "扇町para-dice",
-    "note": ""
-  },
-  {
-    "date": "2025/09/25",
-    "day": "木",
-    "artist": "arbor on the ridgeway",
-    "title": "灰原正之 / アコギの国のチェルシー / arbor on the ridgeway / 清家大記 /\n                \nHase",
+    "artist": "Hase",
+    "title": "OPEN 18:00",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -3441,7 +3486,7 @@
     "date": "2025/09/25",
     "day": "木",
     "artist": "清家大記",
-    "title": "灰原正之 / アコギの国のチェルシー / arbor on the ridgeway / 清家大記 /\n                \nHase",
+    "title": "OPEN 18:00",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -3449,8 +3494,35 @@
   {
     "date": "2025/09/25",
     "day": "木",
-    "artist": "Hase   and more...",
-    "title": "灰原正之 / アコギの国のチェルシー / arbor on the ridgeway / 清家大記 /\n                \nHase",
+    "artist": "ツネ。",
+    "title": "OPEN 18:00",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
+    "date": "2025/09/25",
+    "day": "木",
+    "artist": "アコギの国のチェルシー",
+    "title": "OPEN 18:00",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
+    "date": "2025/09/25",
+    "day": "木",
+    "artist": "灰原正之",
+    "title": "OPEN 18:00",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
+    "date": "2025/09/25",
+    "day": "木",
+    "artist": "arbor on the ridgeway",
+    "title": "OPEN 18:00",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -3611,7 +3683,7 @@
   {
     "date": "2025/09/30",
     "day": "火",
-    "artist": "naonari ueda and more...",
+    "artist": "naonari ueda",
     "title": "アステリズム×369beats /  田渕直孝 / 岡﨑コウユウ / 堀 今日花 / naonari ueda",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
@@ -3638,8 +3710,17 @@
   {
     "date": "2025/10/02",
     "day": "木",
+    "artist": "ベリーバッドアラモード",
+    "title": "ベリーバッドアラモード / shitakuchü / JACKSTRAW / yoake no seirei / こもも",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
+    "date": "2025/10/02",
+    "day": "木",
     "artist": "shitakuchü",
-    "title": "shitakuchü / JACKSTRAW / yoake no seirei / こもも",
+    "title": "ベリーバッドアラモード / shitakuchü / JACKSTRAW / yoake no seirei / こもも",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -3648,7 +3729,7 @@
     "date": "2025/10/02",
     "day": "木",
     "artist": "JACKSTRAW",
-    "title": "shitakuchü / JACKSTRAW / yoake no seirei / こもも",
+    "title": "ベリーバッドアラモード / shitakuchü / JACKSTRAW / yoake no seirei / こもも",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -3657,7 +3738,7 @@
     "date": "2025/10/02",
     "day": "木",
     "artist": "yoake no seirei",
-    "title": "shitakuchü / JACKSTRAW / yoake no seirei / こもも",
+    "title": "ベリーバッドアラモード / shitakuchü / JACKSTRAW / yoake no seirei / こもも",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -3665,8 +3746,8 @@
   {
     "date": "2025/10/02",
     "day": "木",
-    "artist": "こもも  and more...",
-    "title": "shitakuchü / JACKSTRAW / yoake no seirei / こもも",
+    "artist": "こもも",
+    "title": "ベリーバッドアラモード / shitakuchü / JACKSTRAW / yoake no seirei / こもも",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -3792,7 +3873,7 @@
     "date": "2025/10/09",
     "day": "木",
     "artist": "二宮大輔とけうけげん",
-    "title": "二宮大輔とけうけげん / 中村タカユキ / まさき",
+    "title": "二宮大輔とけうけげん / 中村タカユキ / まさき / BEATALONE / 砂街ケースケ",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -3801,7 +3882,7 @@
     "date": "2025/10/09",
     "day": "木",
     "artist": "中村タカユキ",
-    "title": "二宮大輔とけうけげん / 中村タカユキ / まさき",
+    "title": "二宮大輔とけうけげん / 中村タカユキ / まさき / BEATALONE / 砂街ケースケ",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -3809,8 +3890,26 @@
   {
     "date": "2025/10/09",
     "day": "木",
-    "artist": "まさき  and more...",
-    "title": "二宮大輔とけうけげん / 中村タカユキ / まさき",
+    "artist": "まさき",
+    "title": "二宮大輔とけうけげん / 中村タカユキ / まさき / BEATALONE / 砂街ケースケ",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
+    "date": "2025/10/09",
+    "day": "木",
+    "artist": "BEATALONE",
+    "title": "二宮大輔とけうけげん / 中村タカユキ / まさき / BEATALONE / 砂街ケースケ",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
+    "date": "2025/10/09",
+    "day": "木",
+    "artist": "砂街ケースケ and more...",
+    "title": "二宮大輔とけうけげん / 中村タカユキ / まさき / BEATALONE / 砂街ケースケ",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -3854,8 +3953,35 @@
   {
     "date": "2025/10/15",
     "day": "水",
-    "artist": "マッドショットガン  and more...",
-    "title": "マッドショットガン",
+    "artist": "マッドショットガン",
+    "title": "マッドショットガン / \n                \nn",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
+    "date": "2025/10/15",
+    "day": "水",
+    "artist": "netaro51",
+    "title": "マッドショットガン / \n                \nn",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
+    "date": "2025/10/15",
+    "day": "水",
+    "artist": "NovaFlash",
+    "title": "マッドショットガン / \n                \nn",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
+    "date": "2025/10/15",
+    "day": "水",
+    "artist": "優午 and more...",
+    "title": "マッドショットガン / \n                \nn",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -3981,7 +4107,7 @@
     "date": "2025/10/24",
     "day": "金",
     "artist": "遠征エロー",
-    "title": "遠征エロー / 立てる / \n              \n              フジモト アキツグ",
+    "title": "遠征エロー / 立てる / \n              \n              フジモト アキツグ / \n              \n昂大(火星同盟)",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -3990,7 +4116,7 @@
     "date": "2025/10/24",
     "day": "金",
     "artist": "立てる",
-    "title": "遠征エロー / 立てる / \n              \n              フジモト アキツグ",
+    "title": "遠征エロー / 立てる / \n              \n              フジモト アキツグ / \n              \n昂大(火星同盟)",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -3998,8 +4124,17 @@
   {
     "date": "2025/10/24",
     "day": "金",
-    "artist": "フジモト アキツグ  and more...",
-    "title": "遠征エロー / 立てる / \n              \n              フジモト アキツグ",
+    "artist": "フジモト アキツグ",
+    "title": "遠征エロー / 立てる / \n              \n              フジモト アキツグ / \n              \n昂大(火星同盟)",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
+    "date": "2025/10/24",
+    "day": "金",
+    "artist": "昂大   and more...",
+    "title": "遠征エロー / 立てる / \n              \n              フジモト アキツグ / \n              \n昂大(火星同盟)",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -4008,7 +4143,7 @@
     "date": "2025/10/25",
     "day": "土",
     "artist": "BRODY",
-    "title": "BRODY / 生まれたての鯨 / 直撃バキューミー",
+    "title": "BRODY / 生まれたての鯨 / 直撃バキューミー / \n                \n河口績",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -4017,7 +4152,7 @@
     "date": "2025/10/25",
     "day": "土",
     "artist": "生まれたての鯨",
-    "title": "BRODY / 生まれたての鯨 / 直撃バキューミー",
+    "title": "BRODY / 生まれたての鯨 / 直撃バキューミー / \n                \n河口績",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -4025,8 +4160,17 @@
   {
     "date": "2025/10/25",
     "day": "土",
-    "artist": "直撃バキューミー  and more...",
-    "title": "BRODY / 生まれたての鯨 / 直撃バキューミー",
+    "artist": "直撃バキューミー",
+    "title": "BRODY / 生まれたての鯨 / 直撃バキューミー / \n                \n河口績",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
+    "date": "2025/10/25",
+    "day": "土",
+    "artist": "河口績  and more...",
+    "title": "BRODY / 生まれたての鯨 / 直撃バキューミー / \n                \n河口績",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -4035,7 +4179,7 @@
     "date": "2025/10/27",
     "day": "月",
     "artist": "エチュバリア",
-    "title": "エチュバリア / カズロウズ",
+    "title": "エチュバリア / カズロウズ / \n                \nスモーキンデスペラード",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -4043,8 +4187,17 @@
   {
     "date": "2025/10/27",
     "day": "月",
-    "artist": "カズロウズ  and more...",
-    "title": "エチュバリア / カズロウズ",
+    "artist": "カズロウズ",
+    "title": "エチュバリア / カズロウズ / \n                \nスモーキンデスペラード",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
+    "date": "2025/10/27",
+    "day": "月",
+    "artist": "スモーキンデスペラード and more...",
+    "title": "エチュバリア / カズロウズ / \n                \nスモーキンデスペラード",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -4430,15 +4583,6 @@
   {
     "date": "2025/08/05",
     "day": "火",
-    "artist": "アルバムニゲラ",
-    "title": "DRAFT FES TOUR 2025 SUMMER",
-    "url": "https://vijon.jp/schedule/detail/43851",
-    "venue": "北堀江club vijon",
-    "note": ""
-  },
-  {
-    "date": "2025/08/05",
-    "day": "火",
     "artist": "Urushite",
     "title": "DRAFT FES TOUR 2025 SUMMER",
     "url": "https://vijon.jp/schedule/detail/43851",
@@ -4449,6 +4593,15 @@
     "date": "2025/08/05",
     "day": "火",
     "artist": "ゆずサワー",
+    "title": "DRAFT FES TOUR 2025 SUMMER",
+    "url": "https://vijon.jp/schedule/detail/43851",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2025/08/05",
+    "day": "火",
+    "artist": "Turtle Frog",
     "title": "DRAFT FES TOUR 2025 SUMMER",
     "url": "https://vijon.jp/schedule/detail/43851",
     "venue": "北堀江club vijon",
@@ -5081,6 +5234,69 @@
     "artist": "天才凡人",
     "title": "天才凡人14周年LIVE TOUR 『The Buffet』",
     "url": "https://vijon.jp/schedule/detail/45025",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2025/08/24",
+    "day": "日",
+    "artist": "五臓六腑にグラインダー",
+    "title": "バンドスタジオ ベースオントップアメ村店presents 「アメ☆スピ〜AMEMURA SPIRIT〜Vol.12」",
+    "url": "https://vijon.jp/schedule/detail/44751",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2025/08/24",
+    "day": "日",
+    "artist": "ツヅラヲリ",
+    "title": "バンドスタジオ ベースオントップアメ村店presents 「アメ☆スピ〜AMEMURA SPIRIT〜Vol.12」",
+    "url": "https://vijon.jp/schedule/detail/44751",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2025/08/24",
+    "day": "日",
+    "artist": "spread across",
+    "title": "バンドスタジオ ベースオントップアメ村店presents 「アメ☆スピ〜AMEMURA SPIRIT〜Vol.12」",
+    "url": "https://vijon.jp/schedule/detail/44751",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2025/08/24",
+    "day": "日",
+    "artist": "ZERO SAINT",
+    "title": "バンドスタジオ ベースオントップアメ村店presents 「アメ☆スピ〜AMEMURA SPIRIT〜Vol.12」",
+    "url": "https://vijon.jp/schedule/detail/44751",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2025/08/24",
+    "day": "日",
+    "artist": "VERRE",
+    "title": "バンドスタジオ ベースオントップアメ村店presents 「アメ☆スピ〜AMEMURA SPIRIT〜Vol.12」",
+    "url": "https://vijon.jp/schedule/detail/44751",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2025/08/24",
+    "day": "日",
+    "artist": "BLACK BIRD",
+    "title": "バンドスタジオ ベースオントップアメ村店presents 「アメ☆スピ〜AMEMURA SPIRIT〜Vol.12」",
+    "url": "https://vijon.jp/schedule/detail/44751",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2025/08/24",
+    "day": "日",
+    "artist": "じぇんとるちゃん",
+    "title": "バンドスタジオ ベースオントップアメ村店presents 「アメ☆スピ〜AMEMURA SPIRIT〜Vol.12」",
+    "url": "https://vijon.jp/schedule/detail/44751",
     "venue": "北堀江club vijon",
     "note": ""
   },
@@ -6282,6 +6498,96 @@
     "note": ""
   },
   {
+    "date": "2025/08/13",
+    "day": "水",
+    "artist": "■出演： AIMIA",
+    "title": "\"GRAND ORDER\"",
+    "url": "https://bangboo.jp/schedule/detail/43425",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2025/08/13",
+    "day": "水",
+    "artist": "ENVY PARANOID",
+    "title": "\"GRAND ORDER\"",
+    "url": "https://bangboo.jp/schedule/detail/43425",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2025/08/13",
+    "day": "水",
+    "artist": "cleomery",
+    "title": "\"GRAND ORDER\"",
+    "url": "https://bangboo.jp/schedule/detail/43425",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2025/08/13",
+    "day": "水",
+    "artist": "CØCØRIZE",
+    "title": "\"GRAND ORDER\"",
+    "url": "https://bangboo.jp/schedule/detail/43425",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2025/08/13",
+    "day": "水",
+    "artist": "Dear❥Nightmare",
+    "title": "\"GRAND ORDER\"",
+    "url": "https://bangboo.jp/schedule/detail/43425",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2025/08/13",
+    "day": "水",
+    "artist": "BR!OT",
+    "title": "\"GRAND ORDER\"",
+    "url": "https://bangboo.jp/schedule/detail/43425",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2025/08/13",
+    "day": "水",
+    "artist": "frecia",
+    "title": "\"GRAND ORDER\"",
+    "url": "https://bangboo.jp/schedule/detail/43425",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2025/08/13",
+    "day": "水",
+    "artist": "LyricalPopParadox",
+    "title": "\"GRAND ORDER\"",
+    "url": "https://bangboo.jp/schedule/detail/43425",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2025/08/13",
+    "day": "水",
+    "artist": "Re:sist",
+    "title": "\"GRAND ORDER\"",
+    "url": "https://bangboo.jp/schedule/detail/43425",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2025/08/13",
+    "day": "水",
+    "artist": "LΩPARA",
+    "title": "\"GRAND ORDER\"",
+    "url": "https://bangboo.jp/schedule/detail/43425",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
     "date": "2025/08/14",
     "day": "木",
     "artist": "THE BODY",
@@ -6431,6 +6737,15 @@
     "artist": "ボクセカ",
     "title": "【 Sawage！Summer SP たぶん仲良い。知らんけどFES. 】",
     "url": "https://bangboo.jp/schedule/detail/42018",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2025/08/17",
+    "day": "日",
+    "artist": "シェリコフレ",
+    "title": "みんなのたからばこ シェリコフレ (解散ライブ)",
+    "url": "https://bangboo.jp/schedule/detail/46095",
     "venue": "梅田BANGBOO",
     "note": ""
   },
@@ -7195,7 +7510,7 @@
     "day": "月",
     "artist": "逹瑯",
     "title": "#逹瑯LIVE HOUSE TOUR[VILLAINS]",
-    "url": "https://bangboo.jp/schedule/detail/41691",
+    "url": "https://bangboo.jp/schedule/detail/46652",
     "venue": "梅田BANGBOO",
     "note": ""
   },
@@ -7502,6 +7817,69 @@
     "artist": "セツナフロート",
     "title": "「セツナフロート Debut Live  “float code 0001 -system start-”」",
     "url": "https://bangboo.jp/schedule/detail/45554",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2025/10/17",
+    "day": "金",
+    "artist": "] 音の旅crew",
+    "title": "【BANGBOO VIBES vol.6】",
+    "url": "https://bangboo.jp/schedule/detail/43953",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2025/10/17",
+    "day": "金",
+    "artist": "soratobiwo",
+    "title": "【BANGBOO VIBES vol.6】",
+    "url": "https://bangboo.jp/schedule/detail/43953",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2025/10/17",
+    "day": "金",
+    "artist": "ハヤシライフ",
+    "title": "【BANGBOO VIBES vol.6】",
+    "url": "https://bangboo.jp/schedule/detail/43953",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2025/10/17",
+    "day": "金",
+    "artist": "odd five",
+    "title": "【BANGBOO VIBES vol.6】",
+    "url": "https://bangboo.jp/schedule/detail/43953",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2025/10/17",
+    "day": "金",
+    "artist": "The Courtyard",
+    "title": "【BANGBOO VIBES vol.6】",
+    "url": "https://bangboo.jp/schedule/detail/43953",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2025/10/17",
+    "day": "金",
+    "artist": "Vierror",
+    "title": "【BANGBOO VIBES vol.6】",
+    "url": "https://bangboo.jp/schedule/detail/43953",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2025/10/17",
+    "day": "金",
+    "artist": "D’ypcys",
+    "title": "【BANGBOO VIBES vol.6】",
+    "url": "https://bangboo.jp/schedule/detail/43953",
     "venue": "梅田BANGBOO",
     "note": ""
   },
@@ -11399,6 +11777,51 @@
     "artist": "竹歳みずほ",
     "title": "-# YO//1 presents-“DOKIDOKI vol.2”",
     "url": "https://osaka-varon.jp/schedule/detail/43263",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2025/08/26",
+    "day": "火",
+    "artist": "AZ-ON",
+    "title": "VARON the STRONG",
+    "url": "https://osaka-varon.jp/schedule/detail/41846",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2025/08/26",
+    "day": "火",
+    "artist": "CYCLONISTA",
+    "title": "VARON the STRONG",
+    "url": "https://osaka-varon.jp/schedule/detail/41846",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2025/08/26",
+    "day": "火",
+    "artist": "NiTRO",
+    "title": "VARON the STRONG",
+    "url": "https://osaka-varon.jp/schedule/detail/41846",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2025/08/26",
+    "day": "火",
+    "artist": "lonlium",
+    "title": "VARON the STRONG",
+    "url": "https://osaka-varon.jp/schedule/detail/41846",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2025/08/26",
+    "day": "火",
+    "artist": "鳴ル神",
+    "title": "VARON the STRONG",
+    "url": "https://osaka-varon.jp/schedule/detail/41846",
     "venue": "VARON",
     "note": ""
   },
