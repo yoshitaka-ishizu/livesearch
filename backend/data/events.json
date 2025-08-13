@@ -578,7 +578,16 @@
   {
     "date": "2025/08/29",
     "day": "金",
-    "artist": "and more...",
+    "artist": "田村晴信",
+    "title": "匡崔",
+    "url": "https://fireloop.net/schedule_now.shtml#0829",
+    "venue": "寺田町Fireloop",
+    "note": ""
+  },
+  {
+    "date": "2025/08/29",
+    "day": "金",
+    "artist": "衝動革命",
     "title": "匡崔",
     "url": "https://fireloop.net/schedule_now.shtml#0829",
     "venue": "寺田町Fireloop",
@@ -918,6 +927,51 @@
     "note": ""
   },
   {
+    "date": "2025/09/12",
+    "day": "金",
+    "artist": "管制塔より",
+    "title": "〜遠くへ連れてって〜",
+    "url": "https://fireloop.net/schedule_now.shtml#0912",
+    "venue": "寺田町Fireloop",
+    "note": ""
+  },
+  {
+    "date": "2025/09/12",
+    "day": "金",
+    "artist": "highvvater",
+    "title": "〜遠くへ連れてって〜",
+    "url": "https://fireloop.net/schedule_now.shtml#0912",
+    "venue": "寺田町Fireloop",
+    "note": ""
+  },
+  {
+    "date": "2025/09/12",
+    "day": "金",
+    "artist": "neke",
+    "title": "〜遠くへ連れてって〜",
+    "url": "https://fireloop.net/schedule_now.shtml#0912",
+    "venue": "寺田町Fireloop",
+    "note": ""
+  },
+  {
+    "date": "2025/09/12",
+    "day": "金",
+    "artist": "LOVIN' THE BUNK",
+    "title": "〜遠くへ連れてって〜",
+    "url": "https://fireloop.net/schedule_now.shtml#0912",
+    "venue": "寺田町Fireloop",
+    "note": ""
+  },
+  {
+    "date": "2025/09/12",
+    "day": "金",
+    "artist": "MOTHER GOOSE",
+    "title": "〜遠くへ連れてって〜",
+    "url": "https://fireloop.net/schedule_now.shtml#0912",
+    "venue": "寺田町Fireloop",
+    "note": ""
+  },
+  {
     "date": "2025/09/18",
     "day": "木",
     "artist": "モラトリアム",
@@ -1103,6 +1157,114 @@
     "artist": "and more",
     "title": "WILDNESS! vol.3",
     "url": "https://fireloop.net/schedule_now.shtml#1004",
+    "venue": "寺田町Fireloop",
+    "note": ""
+  },
+  {
+    "date": "2025/10/06",
+    "day": "月",
+    "artist": "Comical Fighters",
+    "title": "マイ・ジェネレーション・アンデパンダン",
+    "url": "https://fireloop.net/schedule_now.shtml#1006",
+    "venue": "寺田町Fireloop",
+    "note": ""
+  },
+  {
+    "date": "2025/10/06",
+    "day": "月",
+    "artist": "NewtN",
+    "title": "マイ・ジェネレーション・アンデパンダン",
+    "url": "https://fireloop.net/schedule_now.shtml#1006",
+    "venue": "寺田町Fireloop",
+    "note": ""
+  },
+  {
+    "date": "2025/10/06",
+    "day": "月",
+    "artist": "人形人間",
+    "title": "マイ・ジェネレーション・アンデパンダン",
+    "url": "https://fireloop.net/schedule_now.shtml#1006",
+    "venue": "寺田町Fireloop",
+    "note": ""
+  },
+  {
+    "date": "2025/10/06",
+    "day": "月",
+    "artist": "Bob",
+    "title": "マイ・ジェネレーション・アンデパンダン",
+    "url": "https://fireloop.net/schedule_now.shtml#1006",
+    "venue": "寺田町Fireloop",
+    "note": ""
+  },
+  {
+    "date": "2025/10/06",
+    "day": "月",
+    "artist": "kaffu",
+    "title": "マイ・ジェネレーション・アンデパンダン",
+    "url": "https://fireloop.net/schedule_now.shtml#1006",
+    "venue": "寺田町Fireloop",
+    "note": ""
+  },
+  {
+    "date": "2025/10/06",
+    "day": "月",
+    "artist": "日本少",
+    "title": "マイ・ジェネレーション・アンデパンダン",
+    "url": "https://fireloop.net/schedule_now.shtml#1006",
+    "venue": "寺田町Fireloop",
+    "note": ""
+  },
+  {
+    "date": "2025/10/06",
+    "day": "月",
+    "artist": "ToHSeNBou",
+    "title": "マイ・ジェネレーション・アンデパンダン",
+    "url": "https://fireloop.net/schedule_now.shtml#1006",
+    "venue": "寺田町Fireloop",
+    "note": ""
+  },
+  {
+    "date": "2025/10/06",
+    "day": "月",
+    "artist": "MOTHER GOOSE",
+    "title": "マイ・ジェネレーション・アンデパンダン",
+    "url": "https://fireloop.net/schedule_now.shtml#1006",
+    "venue": "寺田町Fireloop",
+    "note": ""
+  },
+  {
+    "date": "2025/10/06",
+    "day": "月",
+    "artist": "爽風",
+    "title": "マイ・ジェネレーション・アンデパンダン",
+    "url": "https://fireloop.net/schedule_now.shtml#1006",
+    "venue": "寺田町Fireloop",
+    "note": ""
+  },
+  {
+    "date": "2025/10/06",
+    "day": "月",
+    "artist": "misomania",
+    "title": "マイ・ジェネレーション・アンデパンダン",
+    "url": "https://fireloop.net/schedule_now.shtml#1006",
+    "venue": "寺田町Fireloop",
+    "note": ""
+  },
+  {
+    "date": "2025/10/06",
+    "day": "月",
+    "artist": "Telepathy",
+    "title": "マイ・ジェネレーション・アンデパンダン",
+    "url": "https://fireloop.net/schedule_now.shtml#1006",
+    "venue": "寺田町Fireloop",
+    "note": ""
+  },
+  {
+    "date": "2025/10/06",
+    "day": "月",
+    "artist": "and more...!",
+    "title": "マイ・ジェネレーション・アンデパンダン",
+    "url": "https://fireloop.net/schedule_now.shtml#1006",
     "venue": "寺田町Fireloop",
     "note": ""
   },
@@ -7731,6 +7893,96 @@
     "note": ""
   },
   {
+    "date": "2025/08/22",
+    "day": "金",
+    "artist": "ネテルダイヤ",
+    "title": "ネテルダイヤpre. 【Diamond Polishers】 in梅田BANGBOO",
+    "url": "https://bangboo.jp/schedule/detail/44073",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2025/08/22",
+    "day": "金",
+    "artist": "SKILL of light",
+    "title": "ネテルダイヤpre. 【Diamond Polishers】 in梅田BANGBOO",
+    "url": "https://bangboo.jp/schedule/detail/44073",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2025/08/22",
+    "day": "金",
+    "artist": "ハピネスクラッカー",
+    "title": "ネテルダイヤpre. 【Diamond Polishers】 in梅田BANGBOO",
+    "url": "https://bangboo.jp/schedule/detail/44073",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2025/08/22",
+    "day": "金",
+    "artist": "妖狐繚乱",
+    "title": "ネテルダイヤpre. 【Diamond Polishers】 in梅田BANGBOO",
+    "url": "https://bangboo.jp/schedule/detail/44073",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2025/08/22",
+    "day": "金",
+    "artist": "SOCIAL×MATCH",
+    "title": "ネテルダイヤpre. 【Diamond Polishers】 in梅田BANGBOO",
+    "url": "https://bangboo.jp/schedule/detail/44073",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2025/08/22",
+    "day": "金",
+    "artist": "LyricalPopPradox",
+    "title": "ネテルダイヤpre. 【Diamond Polishers】 in梅田BANGBOO",
+    "url": "https://bangboo.jp/schedule/detail/44073",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2025/08/22",
+    "day": "金",
+    "artist": "voyage",
+    "title": "ネテルダイヤpre. 【Diamond Polishers】 in梅田BANGBOO",
+    "url": "https://bangboo.jp/schedule/detail/44073",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2025/08/22",
+    "day": "金",
+    "artist": "Despair End",
+    "title": "ネテルダイヤpre. 【Diamond Polishers】 in梅田BANGBOO",
+    "url": "https://bangboo.jp/schedule/detail/44073",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2025/08/22",
+    "day": "金",
+    "artist": "FanCy-",
+    "title": "ネテルダイヤpre. 【Diamond Polishers】 in梅田BANGBOO",
+    "url": "https://bangboo.jp/schedule/detail/44073",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2025/08/22",
+    "day": "金",
+    "artist": "マイフェアガール",
+    "title": "ネテルダイヤpre. 【Diamond Polishers】 in梅田BANGBOO",
+    "url": "https://bangboo.jp/schedule/detail/44073",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
     "date": "2025/08/23",
     "day": "土",
     "artist": "da-gashi☆・da-gashi☆研究生",
@@ -8363,15 +8615,6 @@
   {
     "date": "2025/09/12",
     "day": "金",
-    "artist": "and more",
-    "title": "透明世界&BANGBOOpre.【日進月歩】vol.1",
-    "url": "https://bangboo.jp/schedule/detail/44251",
-    "venue": "梅田BANGBOO",
-    "note": ""
-  },
-  {
-    "date": "2025/09/12",
-    "day": "金",
     "artist": "マザリ",
     "title": "二○二五年 真夜中の単独巡礼 『ひとりかくれんぼ』",
     "url": "https://bangboo.jp/schedule/detail/46358",
@@ -8627,6 +8870,15 @@
     "artist": "Glowing Paradise",
     "title": "《Glowing Paradise~Half Anniversary LIVE~》",
     "url": "https://bangboo.jp/schedule/detail/45480",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2025/10/02",
+    "day": "木",
+    "artist": "LΩPARA",
+    "title": "LΩPARA 1st Anniversary BANDSET ONEMAN LIVE 『CITY NIGHT』",
+    "url": "https://bangboo.jp/schedule/detail/43738",
     "venue": "梅田BANGBOO",
     "note": ""
   },
@@ -10836,6 +11088,15 @@
     "note": ""
   },
   {
+    "date": "2025/08/21",
+    "day": "木",
+    "artist": "※画像参照",
+    "title": "K-ON JAM!! 2025 supported by BASS ON TOP",
+    "url": "https://clubdrop.jp/schedule/detail/44119",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
     "date": "2025/08/22",
     "day": "金",
     "artist": "AZ-ON",
@@ -11244,7 +11505,7 @@
     "date": "2025/08/26",
     "day": "火",
     "artist": "UnderCliff",
-    "title": "BRAVER!! Level.37",
+    "title": "BRAVER!! Level.37-AMERICAMURA DROP 22th ANNIVERSARY-/千賀岳人",
     "url": "https://clubdrop.jp/schedule/detail/44160",
     "venue": "アメリカ村DROP",
     "note": ""
@@ -11253,7 +11514,7 @@
     "date": "2025/08/26",
     "day": "火",
     "artist": "Disappear Sound",
-    "title": "BRAVER!! Level.37",
+    "title": "BRAVER!! Level.37-AMERICAMURA DROP 22th ANNIVERSARY-/千賀岳人",
     "url": "https://clubdrop.jp/schedule/detail/44160",
     "venue": "アメリカ村DROP",
     "note": ""
@@ -11262,7 +11523,7 @@
     "date": "2025/08/26",
     "day": "火",
     "artist": "infinie sentimeter",
-    "title": "BRAVER!! Level.37",
+    "title": "BRAVER!! Level.37-AMERICAMURA DROP 22th ANNIVERSARY-/千賀岳人",
     "url": "https://clubdrop.jp/schedule/detail/44160",
     "venue": "アメリカ村DROP",
     "note": ""
@@ -12159,6 +12420,69 @@
     "note": ""
   },
   {
+    "date": "2025/10/02",
+    "day": "木",
+    "artist": "愛探眼影",
+    "title": "愛探眼影“AIR MINOR”Relese Tour “Vase of Airs”",
+    "url": "https://clubdrop.jp/schedule/detail/45151",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2025/10/02",
+    "day": "木",
+    "artist": "82回目の終身刑",
+    "title": "愛探眼影“AIR MINOR”Relese Tour “Vase of Airs”",
+    "url": "https://clubdrop.jp/schedule/detail/45151",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2025/10/02",
+    "day": "木",
+    "artist": "トラケミスト",
+    "title": "愛探眼影“AIR MINOR”Relese Tour “Vase of Airs”",
+    "url": "https://clubdrop.jp/schedule/detail/45151",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2025/10/02",
+    "day": "木",
+    "artist": "Romansquall",
+    "title": "愛探眼影“AIR MINOR”Relese Tour “Vase of Airs”",
+    "url": "https://clubdrop.jp/schedule/detail/45151",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2025/10/02",
+    "day": "木",
+    "artist": "ZIYOLA",
+    "title": "愛探眼影“AIR MINOR”Relese Tour “Vase of Airs”",
+    "url": "https://clubdrop.jp/schedule/detail/45151",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2025/10/02",
+    "day": "木",
+    "artist": "終音☆眠",
+    "title": "愛探眼影“AIR MINOR”Relese Tour “Vase of Airs”",
+    "url": "https://clubdrop.jp/schedule/detail/45151",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2025/10/02",
+    "day": "木",
+    "artist": "ノーサイド・アウトサイダー",
+    "title": "愛探眼影“AIR MINOR”Relese Tour “Vase of Airs”",
+    "url": "https://clubdrop.jp/schedule/detail/45151",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
     "date": "2025/10/05",
     "day": "日",
     "artist": "DEVILOOF",
@@ -12389,15 +12713,6 @@
     "artist": "蜃気楼",
     "title": "CURIOSITY. TOUR 2025-2026 ｢三叉路へ向かって｣",
     "url": "https://clubdrop.jp/schedule/detail/44498",
-    "venue": "アメリカ村DROP",
-    "note": ""
-  },
-  {
-    "date": "2026/01/15",
-    "day": "木",
-    "artist": "後日解禁！",
-    "title": "CURIOSITY. TOUR 2025-2026 ｢三叉路へ向かって｣",
-    "url": "https://clubdrop.jp/schedule/detail/46584",
     "venue": "アメリカ村DROP",
     "note": ""
   },
@@ -13694,6 +14009,69 @@
     "artist": "ハピネスクラッカー！",
     "title": "Synchro Sensation Vol.11",
     "url": "https://osaka-varon.jp/schedule/detail/43072",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2025/08/20",
+    "day": "水",
+    "artist": "husky",
+    "title": "狐軍奮闘第三段 夏祭り特別編",
+    "url": "https://osaka-varon.jp/schedule/detail/43626",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2025/08/20",
+    "day": "水",
+    "artist": "LØISLOID",
+    "title": "狐軍奮闘第三段 夏祭り特別編",
+    "url": "https://osaka-varon.jp/schedule/detail/43626",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2025/08/20",
+    "day": "水",
+    "artist": "the mishmash",
+    "title": "狐軍奮闘第三段 夏祭り特別編",
+    "url": "https://osaka-varon.jp/schedule/detail/43626",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2025/08/20",
+    "day": "水",
+    "artist": "Re:sist",
+    "title": "狐軍奮闘第三段 夏祭り特別編",
+    "url": "https://osaka-varon.jp/schedule/detail/43626",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2025/08/20",
+    "day": "水",
+    "artist": "妖狐繚乱",
+    "title": "狐軍奮闘第三段 夏祭り特別編",
+    "url": "https://osaka-varon.jp/schedule/detail/43626",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2025/08/20",
+    "day": "水",
+    "artist": "ELEVYZ",
+    "title": "狐軍奮闘第三段 夏祭り特別編",
+    "url": "https://osaka-varon.jp/schedule/detail/43626",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2025/08/20",
+    "day": "水",
+    "artist": "frecia",
+    "title": "狐軍奮闘第三段 夏祭り特別編",
+    "url": "https://osaka-varon.jp/schedule/detail/43626",
     "venue": "VARON",
     "note": ""
   },
@@ -16596,6 +16974,114 @@
     "note": ""
   },
   {
+    "date": "2025/09/03",
+    "day": "水",
+    "artist": "Parmegia",
+    "title": "ラギライブ vol.2",
+    "url": "https://osaka-zeela.jp/schedule/detail/43574",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2025/09/03",
+    "day": "水",
+    "artist": "カリソメ乙女",
+    "title": "ラギライブ vol.2",
+    "url": "https://osaka-zeela.jp/schedule/detail/43574",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2025/09/03",
+    "day": "水",
+    "artist": "ももンがぱンち。",
+    "title": "ラギライブ vol.2",
+    "url": "https://osaka-zeela.jp/schedule/detail/43574",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2025/09/03",
+    "day": "水",
+    "artist": "そらいろ日和",
+    "title": "ラギライブ vol.2",
+    "url": "https://osaka-zeela.jp/schedule/detail/43574",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2025/09/03",
+    "day": "水",
+    "artist": "花狐",
+    "title": "ラギライブ vol.2",
+    "url": "https://osaka-zeela.jp/schedule/detail/43574",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2025/09/03",
+    "day": "水",
+    "artist": "4B2P",
+    "title": "ラギライブ vol.2",
+    "url": "https://osaka-zeela.jp/schedule/detail/43574",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2025/09/03",
+    "day": "水",
+    "artist": "Al.kaphrah",
+    "title": "ラギライブ vol.2",
+    "url": "https://osaka-zeela.jp/schedule/detail/43574",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2025/09/03",
+    "day": "水",
+    "artist": "QED.",
+    "title": "ラギライブ vol.2",
+    "url": "https://osaka-zeela.jp/schedule/detail/43574",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2025/09/03",
+    "day": "水",
+    "artist": "FM_Compaz",
+    "title": "ラギライブ vol.2",
+    "url": "https://osaka-zeela.jp/schedule/detail/43574",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2025/09/03",
+    "day": "水",
+    "artist": "Wezen.",
+    "title": "ラギライブ vol.2",
+    "url": "https://osaka-zeela.jp/schedule/detail/43574",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2025/09/03",
+    "day": "水",
+    "artist": "CAMEL",
+    "title": "ラギライブ vol.2",
+    "url": "https://osaka-zeela.jp/schedule/detail/43574",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2025/09/03",
+    "day": "水",
+    "artist": "わくわく☆にゃんだふる",
+    "title": "ラギライブ vol.2",
+    "url": "https://osaka-zeela.jp/schedule/detail/43574",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
     "date": "2025/09/04",
     "day": "木",
     "artist": "ソルストーレ",
@@ -17561,8 +18047,8 @@
   {
     "date": "2025/09/28",
     "day": "日",
-    "artist": "coming soon...",
-    "title": "HALL RENTAL",
+    "artist": "mm limit",
+    "title": "mm limit 2nd ONE-MAN LIVE 『歪 ibitsu』",
     "url": "https://osaka-zeela.jp/schedule/detail/39008",
     "venue": "Zeela",
     "note": ""
