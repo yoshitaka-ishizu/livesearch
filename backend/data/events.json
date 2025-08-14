@@ -885,7 +885,7 @@
     "date": "2025/09/11",
     "day": "木",
     "artist": "むにゃむにゃプラスチック",
-    "title": "\" promenade \"",
+    "title": "promenade",
     "url": "https://fireloop.net/schedule_now.shtml#0911",
     "venue": "寺田町Fireloop",
     "note": ""
@@ -894,7 +894,7 @@
     "date": "2025/09/11",
     "day": "木",
     "artist": "ナナジュウハチ",
-    "title": "\" promenade \"",
+    "title": "promenade",
     "url": "https://fireloop.net/schedule_now.shtml#0911",
     "venue": "寺田町Fireloop",
     "note": ""
@@ -903,7 +903,7 @@
     "date": "2025/09/11",
     "day": "木",
     "artist": "Peachtopia",
-    "title": "\" promenade \"",
+    "title": "promenade",
     "url": "https://fireloop.net/schedule_now.shtml#0911",
     "venue": "寺田町Fireloop",
     "note": ""
@@ -912,7 +912,7 @@
     "date": "2025/09/11",
     "day": "木",
     "artist": "シトナユイ",
-    "title": "\" promenade \"",
+    "title": "promenade",
     "url": "https://fireloop.net/schedule_now.shtml#0911",
     "venue": "寺田町Fireloop",
     "note": ""
@@ -921,7 +921,7 @@
     "date": "2025/09/11",
     "day": "木",
     "artist": "Unvivid",
-    "title": "\" promenade \"",
+    "title": "promenade",
     "url": "https://fireloop.net/schedule_now.shtml#0911",
     "venue": "寺田町Fireloop",
     "note": ""
@@ -968,6 +968,60 @@
     "artist": "MOTHER GOOSE",
     "title": "〜遠くへ連れてって〜",
     "url": "https://fireloop.net/schedule_now.shtml#0912",
+    "venue": "寺田町Fireloop",
+    "note": ""
+  },
+  {
+    "date": "2025/09/15",
+    "day": "",
+    "artist": "The Slumbers",
+    "title": "GOLDEN SLUMBERS",
+    "url": "https://fireloop.net/schedule_now.shtml#0915",
+    "venue": "寺田町Fireloop",
+    "note": ""
+  },
+  {
+    "date": "2025/09/15",
+    "day": "",
+    "artist": "PULPS",
+    "title": "GOLDEN SLUMBERS",
+    "url": "https://fireloop.net/schedule_now.shtml#0915",
+    "venue": "寺田町Fireloop",
+    "note": ""
+  },
+  {
+    "date": "2025/09/15",
+    "day": "",
+    "artist": "芝岡翔梧とgood boys",
+    "title": "GOLDEN SLUMBERS",
+    "url": "https://fireloop.net/schedule_now.shtml#0915",
+    "venue": "寺田町Fireloop",
+    "note": ""
+  },
+  {
+    "date": "2025/09/15",
+    "day": "",
+    "artist": "azure",
+    "title": "GOLDEN SLUMBERS",
+    "url": "https://fireloop.net/schedule_now.shtml#0915",
+    "venue": "寺田町Fireloop",
+    "note": ""
+  },
+  {
+    "date": "2025/09/15",
+    "day": "",
+    "artist": "NEAD",
+    "title": "GOLDEN SLUMBERS",
+    "url": "https://fireloop.net/schedule_now.shtml#0915",
+    "venue": "寺田町Fireloop",
+    "note": ""
+  },
+  {
+    "date": "2025/09/15",
+    "day": "",
+    "artist": "Yosac OWL",
+    "title": "GOLDEN SLUMBERS",
+    "url": "https://fireloop.net/schedule_now.shtml#0915",
     "venue": "寺田町Fireloop",
     "note": ""
   },
@@ -5517,6 +5571,123 @@
     "note": ""
   },
   {
+    "date": "2025/08/17",
+    "day": "日",
+    "artist": "SPRISE",
+    "title": "ORTHRUS",
+    "url": "https://vijon.jp/schedule/detail/45540",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2025/08/17",
+    "day": "日",
+    "artist": "アブソプ",
+    "title": "ORTHRUS",
+    "url": "https://vijon.jp/schedule/detail/45540",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2025/08/17",
+    "day": "日",
+    "artist": "ミラーシュカ",
+    "title": "ORTHRUS",
+    "url": "https://vijon.jp/schedule/detail/45540",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2025/08/17",
+    "day": "日",
+    "artist": "東京mist",
+    "title": "ORTHRUS",
+    "url": "https://vijon.jp/schedule/detail/45540",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2025/08/17",
+    "day": "日",
+    "artist": "SHOWDOWN",
+    "title": "ORTHRUS",
+    "url": "https://vijon.jp/schedule/detail/45540",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2025/08/17",
+    "day": "日",
+    "artist": "#PANnana",
+    "title": "carol pixie -purple-",
+    "url": "https://vijon.jp/schedule/detail/46839",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2025/08/17",
+    "day": "日",
+    "artist": "アクアリウム。",
+    "title": "carol pixie -purple-",
+    "url": "https://vijon.jp/schedule/detail/46839",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2025/08/17",
+    "day": "日",
+    "artist": "SKILL of light",
+    "title": "carol pixie -purple-",
+    "url": "https://vijon.jp/schedule/detail/46839",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2025/08/17",
+    "day": "日",
+    "artist": "うぃるめり!",
+    "title": "carol pixie -purple-",
+    "url": "https://vijon.jp/schedule/detail/46839",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2025/08/17",
+    "day": "日",
+    "artist": "むげんこんぜ",
+    "title": "carol pixie -purple-",
+    "url": "https://vijon.jp/schedule/detail/46839",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2025/08/17",
+    "day": "日",
+    "artist": "放課後ReCollection",
+    "title": "carol pixie -purple-",
+    "url": "https://vijon.jp/schedule/detail/46839",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2025/08/17",
+    "day": "日",
+    "artist": "流星☆プレリュード",
+    "title": "carol pixie -purple-",
+    "url": "https://vijon.jp/schedule/detail/46839",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2025/08/17",
+    "day": "日",
+    "artist": "ゼロキョリハーツ",
+    "title": "carol pixie -purple-",
+    "url": "https://vijon.jp/schedule/detail/46839",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
     "date": "2025/08/18",
     "day": "月",
     "artist": "ELECTRIC MAMA",
@@ -8480,7 +8651,7 @@
   {
     "date": "2025/09/08",
     "day": "月",
-    "artist": "Noizy",
+    "artist": "NoiZy",
     "title": "【堂山わんこ大戦争】-イヌガヨ vs BANGBOO-",
     "url": "https://bangboo.jp/schedule/detail/45087",
     "venue": "梅田BANGBOO",
@@ -13815,6 +13986,51 @@
     "note": ""
   },
   {
+    "date": "2025/08/16",
+    "day": "土",
+    "artist": "HUMEN BEING OB",
+    "title": "関西大学HUMAN BEING OB LIVE",
+    "url": "https://osaka-varon.jp/schedule/detail/37805",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2025/08/17",
+    "day": "日",
+    "artist": "asterhythm⁂lumina",
+    "title": "心斎橋アイドル化計画。",
+    "url": "https://osaka-varon.jp/schedule/detail/46303",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2025/08/17",
+    "day": "日",
+    "artist": "ふぁんたす！",
+    "title": "心斎橋アイドル化計画。",
+    "url": "https://osaka-varon.jp/schedule/detail/46303",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2025/08/17",
+    "day": "日",
+    "artist": "KOBerrieS♪",
+    "title": "心斎橋アイドル化計画。",
+    "url": "https://osaka-varon.jp/schedule/detail/46303",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2025/08/17",
+    "day": "日",
+    "artist": "FanCy-",
+    "title": "心斎橋アイドル化計画。",
+    "url": "https://osaka-varon.jp/schedule/detail/46303",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
     "date": "2025/08/17",
     "day": "日",
     "artist": "Dear❥Nightmare",
@@ -14198,6 +14414,141 @@
     "artist": "Garden Of Chiken Cokes",
     "title": "Axith pre. Vale tudo vol.4",
     "url": "https://osaka-varon.jp/schedule/detail/42826",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2025/08/23",
+    "day": "土",
+    "artist": "SPRISE",
+    "title": "SPRISE pre. 『Neo-endorphin』",
+    "url": "https://osaka-varon.jp/schedule/detail/46765",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2025/08/23",
+    "day": "土",
+    "artist": "ワッツ◎さーくる",
+    "title": "SPRISE pre. 『Neo-endorphin』",
+    "url": "https://osaka-varon.jp/schedule/detail/46765",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2025/08/23",
+    "day": "土",
+    "artist": "#PANnana",
+    "title": "SPRISE pre. 『Neo-endorphin』",
+    "url": "https://osaka-varon.jp/schedule/detail/46765",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2025/08/23",
+    "day": "土",
+    "artist": "アブソプ",
+    "title": "SPRISE pre. 『Neo-endorphin』",
+    "url": "https://osaka-varon.jp/schedule/detail/46765",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2025/08/23",
+    "day": "土",
+    "artist": "SKILL of light",
+    "title": "SPRISE pre. 『Neo-endorphin』",
+    "url": "https://osaka-varon.jp/schedule/detail/46765",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2025/08/23",
+    "day": "土",
+    "artist": "リリシック学園",
+    "title": "SPRISE pre. 『Neo-endorphin』",
+    "url": "https://osaka-varon.jp/schedule/detail/46765",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2025/08/23",
+    "day": "土",
+    "artist": "FanCy-",
+    "title": "SPRISE pre. 『Neo-endorphin』",
+    "url": "https://osaka-varon.jp/schedule/detail/46765",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2025/08/23",
+    "day": "土",
+    "artist": "カリフラワー冒険記",
+    "title": "SPRISE pre. 『Neo-endorphin』",
+    "url": "https://osaka-varon.jp/schedule/detail/46765",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2025/08/23",
+    "day": "土",
+    "artist": "ミラーシュカ",
+    "title": "SPRISE pre. 『Neo-endorphin』",
+    "url": "https://osaka-varon.jp/schedule/detail/46765",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2025/08/23",
+    "day": "土",
+    "artist": "SANUGLOW",
+    "title": "SPRISE pre. 『Neo-endorphin』",
+    "url": "https://osaka-varon.jp/schedule/detail/46765",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2025/08/23",
+    "day": "土",
+    "artist": "lullllul",
+    "title": "SPRISE pre. 『Neo-endorphin』",
+    "url": "https://osaka-varon.jp/schedule/detail/46765",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2025/08/23",
+    "day": "土",
+    "artist": "むげんこんぜ",
+    "title": "SPRISE pre. 『Neo-endorphin』",
+    "url": "https://osaka-varon.jp/schedule/detail/46765",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2025/08/23",
+    "day": "土",
+    "artist": "asterhythm⁂lumina",
+    "title": "SPRISE pre. 『Neo-endorphin』",
+    "url": "https://osaka-varon.jp/schedule/detail/46765",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2025/08/24",
+    "day": "日",
+    "artist": "Merry Mellow",
+    "title": "Merry Mellow 新曲お披露目公演 『パステルサマーセンセーション』",
+    "url": "https://osaka-varon.jp/schedule/detail/46832",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2025/08/24",
+    "day": "日",
+    "artist": "Axelight",
+    "title": "#堂福眼福祭",
+    "url": "https://osaka-varon.jp/schedule/detail/40588",
     "venue": "VARON",
     "note": ""
   },
@@ -14900,6 +15251,33 @@
     "artist": "SEX MACHINEGUNS",
     "title": "TILT vs SEX MACHINEGUNS",
     "url": "https://osaka-varon.jp/schedule/detail/37423",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2025/09/19",
+    "day": "金",
+    "artist": "ROCK STOCK MAGAZINE",
+    "title": "ROCK STOCK MAGAZINE x Lightsout PRESENTS. PREGRET BOOZE Vol.3 - SHINSAIBASHI VARON 13TH ANNIVERSARY -",
+    "url": "https://osaka-varon.jp/schedule/detail/42874",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2025/09/19",
+    "day": "金",
+    "artist": "Lightsout",
+    "title": "ROCK STOCK MAGAZINE x Lightsout PRESENTS. PREGRET BOOZE Vol.3 - SHINSAIBASHI VARON 13TH ANNIVERSARY -",
+    "url": "https://osaka-varon.jp/schedule/detail/42874",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2025/09/19",
+    "day": "金",
+    "artist": "Stucks and more...",
+    "title": "ROCK STOCK MAGAZINE x Lightsout PRESENTS. PREGRET BOOZE Vol.3 - SHINSAIBASHI VARON 13TH ANNIVERSARY -",
+    "url": "https://osaka-varon.jp/schedule/detail/42874",
     "venue": "VARON",
     "note": ""
   },
@@ -21753,6 +22131,168 @@
     "note": ""
   },
   {
+    "date": "2025/09/29",
+    "day": "月",
+    "artist": "あくあゆい",
+    "title": "『side B → sideA』",
+    "url": "http://www.knave.co.jp/schedule/s_2025_09.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2025/09/29",
+    "day": "月",
+    "artist": "杏月アカリ",
+    "title": "『side B → sideA』",
+    "url": "http://www.knave.co.jp/schedule/s_2025_09.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2025/09/29",
+    "day": "月",
+    "artist": "Mayuka",
+    "title": "『side B → sideA』",
+    "url": "http://www.knave.co.jp/schedule/s_2025_09.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2025/09/29",
+    "day": "月",
+    "artist": "星愛",
+    "title": "『side B → sideA』",
+    "url": "http://www.knave.co.jp/schedule/s_2025_09.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2025/09/29",
+    "day": "月",
+    "artist": "+1act",
+    "title": "『side B → sideA』",
+    "url": "http://www.knave.co.jp/schedule/s_2025_09.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2025/09/29",
+    "day": "月",
+    "artist": "問)knave06-6535-0691",
+    "title": "『side B → sideA』",
+    "url": "http://www.knave.co.jp/schedule/s_2025_09.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2025/09/30",
+    "day": "火",
+    "artist": "メインステージ：",
+    "title": "『繋ぎ紡いでゆく~Special Edition~ 』",
+    "url": "http://www.knave.co.jp/schedule/s_2025_09.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2025/09/30",
+    "day": "火",
+    "artist": "笹岡俊介",
+    "title": "『繋ぎ紡いでゆく~Special Edition~ 』",
+    "url": "http://www.knave.co.jp/schedule/s_2025_09.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2025/09/30",
+    "day": "火",
+    "artist": "福田りん",
+    "title": "『繋ぎ紡いでゆく~Special Edition~ 』",
+    "url": "http://www.knave.co.jp/schedule/s_2025_09.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2025/09/30",
+    "day": "火",
+    "artist": "大江武圭留",
+    "title": "『繋ぎ紡いでゆく~Special Edition~ 』",
+    "url": "http://www.knave.co.jp/schedule/s_2025_09.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2025/09/30",
+    "day": "火",
+    "artist": "村山雅庸",
+    "title": "『繋ぎ紡いでゆく~Special Edition~ 』",
+    "url": "http://www.knave.co.jp/schedule/s_2025_09.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2025/09/30",
+    "day": "火",
+    "artist": "サブステージ：",
+    "title": "『繋ぎ紡いでゆく~Special Edition~ 』",
+    "url": "http://www.knave.co.jp/schedule/s_2025_09.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2025/09/30",
+    "day": "火",
+    "artist": "rino",
+    "title": "『繋ぎ紡いでゆく~Special Edition~ 』",
+    "url": "http://www.knave.co.jp/schedule/s_2025_09.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2025/09/30",
+    "day": "火",
+    "artist": "Goリラ",
+    "title": "『繋ぎ紡いでゆく~Special Edition~ 』",
+    "url": "http://www.knave.co.jp/schedule/s_2025_09.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2025/09/30",
+    "day": "火",
+    "artist": "シャルル・アイアムミー",
+    "title": "『繋ぎ紡いでゆく~Special Edition~ 』",
+    "url": "http://www.knave.co.jp/schedule/s_2025_09.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2025/09/30",
+    "day": "火",
+    "artist": "ラム",
+    "title": "『繋ぎ紡いでゆく~Special Edition~ 』",
+    "url": "http://www.knave.co.jp/schedule/s_2025_09.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2025/09/30",
+    "day": "火",
+    "artist": "橋本仁",
+    "title": "『繋ぎ紡いでゆく~Special Edition~ 』",
+    "url": "http://www.knave.co.jp/schedule/s_2025_09.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2025/09/30",
+    "day": "火",
+    "artist": "問)knave06-6535-0691",
+    "title": "『繋ぎ紡いでゆく~Special Edition~ 』",
+    "url": "http://www.knave.co.jp/schedule/s_2025_09.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
     "date": "2025/10/01",
     "day": "水",
     "artist": "中井優月",
@@ -21936,6 +22476,15 @@
     "date": "2025/10/07",
     "day": "火",
     "artist": "成宮雛",
+    "title": "LoversRock",
+    "url": "http://www.knave.co.jp/schedule/s_2025_10.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2025/10/07",
+    "day": "火",
+    "artist": "ろる",
     "title": "LoversRock",
     "url": "http://www.knave.co.jp/schedule/s_2025_10.html",
     "venue": "knave",
