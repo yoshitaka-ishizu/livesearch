@@ -3179,8 +3179,8 @@
   {
     "date": "2025/09/05",
     "day": "金",
-    "artist": "Mrs.PoohScratchLove",
-    "title": "Mrs.PoohScratchLove / Lone Otter / wait!!!",
+    "artist": "wait!!!",
+    "title": "OPEN 19:00",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -3189,7 +3189,7 @@
     "date": "2025/09/05",
     "day": "金",
     "artist": "Lone Otter",
-    "title": "Mrs.PoohScratchLove / Lone Otter / wait!!!",
+    "title": "OPEN 19:00",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -3197,8 +3197,8 @@
   {
     "date": "2025/09/05",
     "day": "金",
-    "artist": "wait!!!  and more...",
-    "title": "Mrs.PoohScratchLove / Lone Otter / wait!!!",
+    "artist": "Mrs.PoohScratchLove",
+    "title": "OPEN 19:00",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -3207,7 +3207,7 @@
     "date": "2025/09/06",
     "day": "土",
     "artist": "HEすぅすぅすぅ",
-    "title": "HEすぅすぅすぅ / RUST / ONOSPUNGENLOVE / ミズオチアンダスタンディング",
+    "title": "OPEN 18:30",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -3215,8 +3215,8 @@
   {
     "date": "2025/09/06",
     "day": "土",
-    "artist": "RUST",
-    "title": "HEすぅすぅすぅ / RUST / ONOSPUNGENLOVE / ミズオチアンダスタンディング",
+    "artist": "ミズオチアンダスタンディング",
+    "title": "OPEN 18:30",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -3225,7 +3225,7 @@
     "date": "2025/09/06",
     "day": "土",
     "artist": "ONOSPUNGENLOVE",
-    "title": "HEすぅすぅすぅ / RUST / ONOSPUNGENLOVE / ミズオチアンダスタンディング",
+    "title": "OPEN 18:30",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -3233,8 +3233,8 @@
   {
     "date": "2025/09/06",
     "day": "土",
-    "artist": "ミズオチアンダスタンディング and more...",
-    "title": "HEすぅすぅすぅ / RUST / ONOSPUNGENLOVE / ミズオチアンダスタンディング",
+    "artist": "RUST",
+    "title": "OPEN 18:30",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -3350,6 +3350,15 @@
   {
     "date": "2025/09/09",
     "day": "火",
+    "artist": "ティティ",
+    "title": "para-dice企画",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
+    "date": "2025/09/09",
+    "day": "火",
     "artist": "jocojo not solo",
     "title": "para-dice企画",
     "url": "https://para-dice.net/",
@@ -3360,15 +3369,6 @@
     "date": "2025/09/09",
     "day": "火",
     "artist": "いとまとあやこ",
-    "title": "para-dice企画",
-    "url": "https://para-dice.net/",
-    "venue": "扇町para-dice",
-    "note": ""
-  },
-  {
-    "date": "2025/09/09",
-    "day": "火",
-    "artist": "ティティ  and more...",
     "title": "para-dice企画",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
@@ -3422,8 +3422,8 @@
   {
     "date": "2025/09/12",
     "day": "金",
-    "artist": "Luke",
-    "title": "Luke / Shom / wet sweat / Obake-Numa2 ~after the night race~",
+    "artist": "Shom",
+    "title": "OPEN 19:00",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -3431,8 +3431,8 @@
   {
     "date": "2025/09/12",
     "day": "金",
-    "artist": "Shom",
-    "title": "Luke / Shom / wet sweat / Obake-Numa2 ~after the night race~",
+    "artist": "Luke",
+    "title": "OPEN 19:00",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -3441,7 +3441,7 @@
     "date": "2025/09/12",
     "day": "金",
     "artist": "wet sweat",
-    "title": "Luke / Shom / wet sweat / Obake-Numa2 ~after the night race~",
+    "title": "OPEN 19:00",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -3450,7 +3450,7 @@
     "date": "2025/09/12",
     "day": "金",
     "artist": "Obake-Numa2 ~after the night race~",
-    "title": "Luke / Shom / wet sweat / Obake-Numa2 ~after the night race~",
+    "title": "OPEN 19:00",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -3971,8 +3971,26 @@
   {
     "date": "2025/09/26",
     "day": "金",
-    "artist": "サイケデリックハートブラボーズ and more...",
-    "title": "サイケデリックハートブラボーズ",
+    "artist": "サイケデリックハートブラボーズ",
+    "title": "サイケデリックハートブラボーズ / UMMO / 西山昂志(GOLDFISH ADVENTURE)",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
+    "date": "2025/09/26",
+    "day": "金",
+    "artist": "UMMO",
+    "title": "サイケデリックハートブラボーズ / UMMO / 西山昂志(GOLDFISH ADVENTURE)",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
+    "date": "2025/09/26",
+    "day": "金",
+    "artist": "西山昂志  and more...",
+    "title": "サイケデリックハートブラボーズ / UMMO / 西山昂志(GOLDFISH ADVENTURE)",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -4322,8 +4340,26 @@
   {
     "date": "2025/10/08",
     "day": "水",
-    "artist": "TaKeshi and more...",
-    "title": "TaKeshi",
+    "artist": "TaKeshi",
+    "title": "TaKeshi / ベンチウォーマーズ / モリ やすヒロ",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
+    "date": "2025/10/08",
+    "day": "水",
+    "artist": "ベンチウォーマーズ",
+    "title": "TaKeshi / ベンチウォーマーズ / モリ やすヒロ",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
+    "date": "2025/10/08",
+    "day": "水",
+    "artist": "モリ やすヒロ and more...",
+    "title": "TaKeshi / ベンチウォーマーズ / モリ やすヒロ",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -4494,7 +4530,7 @@
     "date": "2025/10/17",
     "day": "金",
     "artist": "そうごじた",
-    "title": "そうごじた / ハロルド / ハヅメ / 久保田和之 / 咲那",
+    "title": "そうごじた / ハロルド / ハヅメ / 久保田和之 / 咲那 / ながおかみお(くつした)",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -4503,7 +4539,7 @@
     "date": "2025/10/17",
     "day": "金",
     "artist": "ハロルド",
-    "title": "そうごじた / ハロルド / ハヅメ / 久保田和之 / 咲那",
+    "title": "そうごじた / ハロルド / ハヅメ / 久保田和之 / 咲那 / ながおかみお(くつした)",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -4512,7 +4548,7 @@
     "date": "2025/10/17",
     "day": "金",
     "artist": "ハヅメ",
-    "title": "そうごじた / ハロルド / ハヅメ / 久保田和之 / 咲那",
+    "title": "そうごじた / ハロルド / ハヅメ / 久保田和之 / 咲那 / ながおかみお(くつした)",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -4521,7 +4557,7 @@
     "date": "2025/10/17",
     "day": "金",
     "artist": "久保田和之",
-    "title": "そうごじた / ハロルド / ハヅメ / 久保田和之 / 咲那",
+    "title": "そうごじた / ハロルド / ハヅメ / 久保田和之 / 咲那 / ながおかみお(くつした)",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -4529,8 +4565,17 @@
   {
     "date": "2025/10/17",
     "day": "金",
-    "artist": "咲那  and more...",
-    "title": "そうごじた / ハロルド / ハヅメ / 久保田和之 / 咲那",
+    "artist": "咲那",
+    "title": "そうごじた / ハロルド / ハヅメ / 久保田和之 / 咲那 / ながおかみお(くつした)",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
+    "date": "2025/10/17",
+    "day": "金",
+    "artist": "ながおかみお",
+    "title": "そうごじた / ハロルド / ハヅメ / 久保田和之 / 咲那 / ながおかみお(くつした)",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -4566,7 +4611,7 @@
     "date": "2025/10/21",
     "day": "火",
     "artist": "天才アンチ",
-    "title": "天才アンチ / 自転車SO業舎",
+    "title": "( ) / 天才アンチ / 自転車SO業舎",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -4575,7 +4620,7 @@
     "date": "2025/10/21",
     "day": "火",
     "artist": "自転車SO業舎  and more...",
-    "title": "天才アンチ / 自転車SO業舎",
+    "title": "( ) / 天才アンチ / 自転車SO業舎",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -4583,8 +4628,26 @@
   {
     "date": "2025/10/22",
     "day": "水",
-    "artist": "ピノキヲ and more...",
-    "title": "ピノキヲ",
+    "artist": "ピノキヲ",
+    "title": "ピノキヲ / The purple parks! / maru",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
+    "date": "2025/10/22",
+    "day": "水",
+    "artist": "The purple parks!",
+    "title": "ピノキヲ / The purple parks! / maru",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
+    "date": "2025/10/22",
+    "day": "水",
+    "artist": "maru and more...",
+    "title": "ピノキヲ / The purple parks! / maru",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -14348,6 +14411,15 @@
   {
     "date": "2025/08/20",
     "day": "水",
+    "artist": "AIMIA",
+    "title": "狐軍奮闘第三段 夏祭り特別編",
+    "url": "https://osaka-varon.jp/schedule/detail/43626",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2025/08/20",
+    "day": "水",
     "artist": "the mishmash",
     "title": "狐軍奮闘第三段 夏祭り特別編",
     "url": "https://osaka-varon.jp/schedule/detail/43626",
@@ -14807,6 +14879,24 @@
   {
     "date": "2025/08/29",
     "day": "金",
+    "artist": "WT☆Egret",
+    "title": "点と線",
+    "url": "https://osaka-varon.jp/schedule/detail/43720",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2025/08/29",
+    "day": "金",
+    "artist": "cleomery",
+    "title": "点と線",
+    "url": "https://osaka-varon.jp/schedule/detail/43720",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2025/08/29",
+    "day": "金",
     "artist": "VOLT",
     "title": "VOLT×DUMBSTRUCK Stay Pure",
     "url": "https://osaka-varon.jp/schedule/detail/42619",
@@ -15116,6 +15206,15 @@
     "artist": "NERDCOREST",
     "title": "ELEVEN P.M x NERDCOREST 2MAN LIVE \"VERSUS\"PARTⅢ",
     "url": "https://osaka-varon.jp/schedule/detail/37299",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2025/09/07",
+    "day": "日",
+    "artist": "TEAR DROP!",
+    "title": "TEAR DROP!弾丸名阪ツアー 『君と見上げた空を.〜大阪編〜』",
+    "url": "https://osaka-varon.jp/schedule/detail/39234",
     "venue": "VARON",
     "note": ""
   },
@@ -15475,7 +15574,7 @@
     "day": "日",
     "artist": "裏切者死罪",
     "title": "心斎橋VARON × 裏切者死罪Pre. “XIII CRIMSON FEAST” -心斎橋VARON13th ANNIVERSARY-",
-    "url": "https://osaka-varon.jp/schedule/detail/40835",
+    "url": "https://osaka-varon.jp/schedule/detail/46840",
     "venue": "VARON",
     "note": ""
   },
@@ -15484,7 +15583,7 @@
     "day": "日",
     "artist": "SUNSHINE DUB",
     "title": "心斎橋VARON × 裏切者死罪Pre. “XIII CRIMSON FEAST” -心斎橋VARON13th ANNIVERSARY-",
-    "url": "https://osaka-varon.jp/schedule/detail/40835",
+    "url": "https://osaka-varon.jp/schedule/detail/46840",
     "venue": "VARON",
     "note": ""
   },
@@ -15493,7 +15592,7 @@
     "day": "日",
     "artist": "HARVEST",
     "title": "心斎橋VARON × 裏切者死罪Pre. “XIII CRIMSON FEAST” -心斎橋VARON13th ANNIVERSARY-",
-    "url": "https://osaka-varon.jp/schedule/detail/40835",
+    "url": "https://osaka-varon.jp/schedule/detail/46840",
     "venue": "VARON",
     "note": ""
   },
@@ -15502,7 +15601,7 @@
     "day": "日",
     "artist": "HOTOKE",
     "title": "心斎橋VARON × 裏切者死罪Pre. “XIII CRIMSON FEAST” -心斎橋VARON13th ANNIVERSARY-",
-    "url": "https://osaka-varon.jp/schedule/detail/40835",
+    "url": "https://osaka-varon.jp/schedule/detail/46840",
     "venue": "VARON",
     "note": ""
   },
@@ -15511,7 +15610,7 @@
     "day": "日",
     "artist": "NEONS.tyo",
     "title": "心斎橋VARON × 裏切者死罪Pre. “XIII CRIMSON FEAST” -心斎橋VARON13th ANNIVERSARY-",
-    "url": "https://osaka-varon.jp/schedule/detail/40835",
+    "url": "https://osaka-varon.jp/schedule/detail/46840",
     "venue": "VARON",
     "note": ""
   },
@@ -15520,7 +15619,7 @@
     "day": "日",
     "artist": "DAM",
     "title": "心斎橋VARON × 裏切者死罪Pre. “XIII CRIMSON FEAST” -心斎橋VARON13th ANNIVERSARY-",
-    "url": "https://osaka-varon.jp/schedule/detail/40835",
+    "url": "https://osaka-varon.jp/schedule/detail/46840",
     "venue": "VARON",
     "note": ""
   },
@@ -15529,7 +15628,7 @@
     "day": "日",
     "artist": "尖club",
     "title": "心斎橋VARON × 裏切者死罪Pre. “XIII CRIMSON FEAST” -心斎橋VARON13th ANNIVERSARY-",
-    "url": "https://osaka-varon.jp/schedule/detail/40835",
+    "url": "https://osaka-varon.jp/schedule/detail/46840",
     "venue": "VARON",
     "note": ""
   },
@@ -15538,7 +15637,43 @@
     "day": "日",
     "artist": "SAPO",
     "title": "心斎橋VARON × 裏切者死罪Pre. “XIII CRIMSON FEAST” -心斎橋VARON13th ANNIVERSARY-",
-    "url": "https://osaka-varon.jp/schedule/detail/40835",
+    "url": "https://osaka-varon.jp/schedule/detail/46840",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2025/09/28",
+    "day": "日",
+    "artist": "Kimists",
+    "title": "心斎橋VARON × 裏切者死罪Pre. “XIII CRIMSON FEAST” -心斎橋VARON13th ANNIVERSARY-",
+    "url": "https://osaka-varon.jp/schedule/detail/46840",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2025/09/28",
+    "day": "日",
+    "artist": "Oi kikuchi",
+    "title": "心斎橋VARON × 裏切者死罪Pre. “XIII CRIMSON FEAST” -心斎橋VARON13th ANNIVERSARY-",
+    "url": "https://osaka-varon.jp/schedule/detail/46840",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2025/09/28",
+    "day": "日",
+    "artist": "蟲BUGG害",
+    "title": "心斎橋VARON × 裏切者死罪Pre. “XIII CRIMSON FEAST” -心斎橋VARON13th ANNIVERSARY-",
+    "url": "https://osaka-varon.jp/schedule/detail/46840",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2025/09/28",
+    "day": "日",
+    "artist": "激ウマ令和ダブル",
+    "title": "心斎橋VARON × 裏切者死罪Pre. “XIII CRIMSON FEAST” -心斎橋VARON13th ANNIVERSARY-",
+    "url": "https://osaka-varon.jp/schedule/detail/46840",
     "venue": "VARON",
     "note": ""
   },
@@ -17444,7 +17579,403 @@
   {
     "date": "2025/09/02",
     "day": "火",
-    "artist": "coming soon...",
+    "artist": "ANDY",
+    "title": "Zeela presents. YAMINABE DEATH MATCH!!",
+    "url": "https://osaka-zeela.jp/schedule/detail/44094",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2025/09/02",
+    "day": "火",
+    "artist": "airlie",
+    "title": "Zeela presents. YAMINABE DEATH MATCH!!",
+    "url": "https://osaka-zeela.jp/schedule/detail/44094",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2025/09/02",
+    "day": "火",
+    "artist": "シコリータ",
+    "title": "Zeela presents. YAMINABE DEATH MATCH!!",
+    "url": "https://osaka-zeela.jp/schedule/detail/44094",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2025/09/02",
+    "day": "火",
+    "artist": "ジャガー西宮",
+    "title": "Zeela presents. YAMINABE DEATH MATCH!!",
+    "url": "https://osaka-zeela.jp/schedule/detail/44094",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2025/09/02",
+    "day": "火",
+    "artist": "103CA",
+    "title": "Zeela presents. YAMINABE DEATH MATCH!!",
+    "url": "https://osaka-zeela.jp/schedule/detail/44094",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2025/09/02",
+    "day": "火",
+    "artist": "neneka",
+    "title": "Zeela presents. YAMINABE DEATH MATCH!!",
+    "url": "https://osaka-zeela.jp/schedule/detail/44094",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2025/09/02",
+    "day": "火",
+    "artist": "MASAKKEY",
+    "title": "Zeela presents. YAMINABE DEATH MATCH!!",
+    "url": "https://osaka-zeela.jp/schedule/detail/44094",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2025/09/02",
+    "day": "火",
+    "artist": "南野義哉",
+    "title": "Zeela presents. YAMINABE DEATH MATCH!!",
+    "url": "https://osaka-zeela.jp/schedule/detail/44094",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2025/09/02",
+    "day": "火",
+    "artist": "みらいさん",
+    "title": "Zeela presents. YAMINABE DEATH MATCH!!",
+    "url": "https://osaka-zeela.jp/schedule/detail/44094",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2025/09/02",
+    "day": "火",
+    "artist": "芽菜",
+    "title": "Zeela presents. YAMINABE DEATH MATCH!!",
+    "url": "https://osaka-zeela.jp/schedule/detail/44094",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2025/09/02",
+    "day": "火",
+    "artist": "ヤスキ",
+    "title": "Zeela presents. YAMINABE DEATH MATCH!!",
+    "url": "https://osaka-zeela.jp/schedule/detail/44094",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2025/09/02",
+    "day": "火",
+    "artist": "アヌスバーん",
+    "title": "Zeela presents. YAMINABE DEATH MATCH!!",
+    "url": "https://osaka-zeela.jp/schedule/detail/44094",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2025/09/02",
+    "day": "火",
+    "artist": "一色隼",
+    "title": "Zeela presents. YAMINABE DEATH MATCH!!",
+    "url": "https://osaka-zeela.jp/schedule/detail/44094",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2025/09/02",
+    "day": "火",
+    "artist": "影山しずか",
+    "title": "Zeela presents. YAMINABE DEATH MATCH!!",
+    "url": "https://osaka-zeela.jp/schedule/detail/44094",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2025/09/02",
+    "day": "火",
+    "artist": "ジュニア",
+    "title": "Zeela presents. YAMINABE DEATH MATCH!!",
+    "url": "https://osaka-zeela.jp/schedule/detail/44094",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2025/09/02",
+    "day": "火",
+    "artist": "ずん",
+    "title": "Zeela presents. YAMINABE DEATH MATCH!!",
+    "url": "https://osaka-zeela.jp/schedule/detail/44094",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2025/09/02",
+    "day": "火",
+    "artist": "響",
+    "title": "Zeela presents. YAMINABE DEATH MATCH!!",
+    "url": "https://osaka-zeela.jp/schedule/detail/44094",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2025/09/02",
+    "day": "火",
+    "artist": "ぶっ飛びかまし太郎",
+    "title": "Zeela presents. YAMINABE DEATH MATCH!!",
+    "url": "https://osaka-zeela.jp/schedule/detail/44094",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2025/09/02",
+    "day": "火",
+    "artist": "星衛一輝",
+    "title": "Zeela presents. YAMINABE DEATH MATCH!!",
+    "url": "https://osaka-zeela.jp/schedule/detail/44094",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2025/09/02",
+    "day": "火",
+    "artist": "前ちゃん",
+    "title": "Zeela presents. YAMINABE DEATH MATCH!!",
+    "url": "https://osaka-zeela.jp/schedule/detail/44094",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2025/09/02",
+    "day": "火",
+    "artist": "msk",
+    "title": "Zeela presents. YAMINABE DEATH MATCH!!",
+    "url": "https://osaka-zeela.jp/schedule/detail/44094",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2025/09/02",
+    "day": "火",
+    "artist": "カズー",
+    "title": "Zeela presents. YAMINABE DEATH MATCH!!",
+    "url": "https://osaka-zeela.jp/schedule/detail/44094",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2025/09/02",
+    "day": "火",
+    "artist": "キショウ",
+    "title": "Zeela presents. YAMINABE DEATH MATCH!!",
+    "url": "https://osaka-zeela.jp/schedule/detail/44094",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2025/09/02",
+    "day": "火",
+    "artist": "ケケ",
+    "title": "Zeela presents. YAMINABE DEATH MATCH!!",
+    "url": "https://osaka-zeela.jp/schedule/detail/44094",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2025/09/02",
+    "day": "火",
+    "artist": "SHAKEKUN",
+    "title": "Zeela presents. YAMINABE DEATH MATCH!!",
+    "url": "https://osaka-zeela.jp/schedule/detail/44094",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2025/09/02",
+    "day": "火",
+    "artist": "ななほ",
+    "title": "Zeela presents. YAMINABE DEATH MATCH!!",
+    "url": "https://osaka-zeela.jp/schedule/detail/44094",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2025/09/02",
+    "day": "火",
+    "artist": "新田万博",
+    "title": "Zeela presents. YAMINABE DEATH MATCH!!",
+    "url": "https://osaka-zeela.jp/schedule/detail/44094",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2025/09/02",
+    "day": "火",
+    "artist": "藤岡慶行",
+    "title": "Zeela presents. YAMINABE DEATH MATCH!!",
+    "url": "https://osaka-zeela.jp/schedule/detail/44094",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2025/09/02",
+    "day": "火",
+    "artist": "村八分",
+    "title": "Zeela presents. YAMINABE DEATH MATCH!!",
+    "url": "https://osaka-zeela.jp/schedule/detail/44094",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2025/09/02",
+    "day": "火",
+    "artist": "MOTTY",
+    "title": "Zeela presents. YAMINABE DEATH MATCH!!",
+    "url": "https://osaka-zeela.jp/schedule/detail/44094",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2025/09/02",
+    "day": "火",
+    "artist": "４９",
+    "title": "Zeela presents. YAMINABE DEATH MATCH!!",
+    "url": "https://osaka-zeela.jp/schedule/detail/44094",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2025/09/02",
+    "day": "火",
+    "artist": "OKN",
+    "title": "Zeela presents. YAMINABE DEATH MATCH!!",
+    "url": "https://osaka-zeela.jp/schedule/detail/44094",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2025/09/02",
+    "day": "火",
+    "artist": "大橋真成",
+    "title": "Zeela presents. YAMINABE DEATH MATCH!!",
+    "url": "https://osaka-zeela.jp/schedule/detail/44094",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2025/09/02",
+    "day": "火",
+    "artist": "こたに",
+    "title": "Zeela presents. YAMINABE DEATH MATCH!!",
+    "url": "https://osaka-zeela.jp/schedule/detail/44094",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2025/09/02",
+    "day": "火",
+    "artist": "にな",
+    "title": "Zeela presents. YAMINABE DEATH MATCH!!",
+    "url": "https://osaka-zeela.jp/schedule/detail/44094",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2025/09/02",
+    "day": "火",
+    "artist": "くわくわのくわ",
+    "title": "Zeela presents. YAMINABE DEATH MATCH!!",
+    "url": "https://osaka-zeela.jp/schedule/detail/44094",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2025/09/02",
+    "day": "火",
+    "artist": "ケイゴ",
+    "title": "Zeela presents. YAMINABE DEATH MATCH!!",
+    "url": "https://osaka-zeela.jp/schedule/detail/44094",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2025/09/02",
+    "day": "火",
+    "artist": "セパ・タクロー",
+    "title": "Zeela presents. YAMINABE DEATH MATCH!!",
+    "url": "https://osaka-zeela.jp/schedule/detail/44094",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2025/09/02",
+    "day": "火",
+    "artist": "ダイチ",
+    "title": "Zeela presents. YAMINABE DEATH MATCH!!",
+    "url": "https://osaka-zeela.jp/schedule/detail/44094",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2025/09/02",
+    "day": "火",
+    "artist": "田中",
+    "title": "Zeela presents. YAMINABE DEATH MATCH!!",
+    "url": "https://osaka-zeela.jp/schedule/detail/44094",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2025/09/02",
+    "day": "火",
+    "artist": "ダンボ",
+    "title": "Zeela presents. YAMINABE DEATH MATCH!!",
+    "url": "https://osaka-zeela.jp/schedule/detail/44094",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2025/09/02",
+    "day": "火",
+    "artist": "盆地ドラマーさっちゃん",
+    "title": "Zeela presents. YAMINABE DEATH MATCH!!",
+    "url": "https://osaka-zeela.jp/schedule/detail/44094",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2025/09/02",
+    "day": "火",
+    "artist": "マリオテニス63",
+    "title": "Zeela presents. YAMINABE DEATH MATCH!!",
+    "url": "https://osaka-zeela.jp/schedule/detail/44094",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2025/09/02",
+    "day": "火",
+    "artist": "るなぴ",
+    "title": "Zeela presents. YAMINABE DEATH MATCH!!",
+    "url": "https://osaka-zeela.jp/schedule/detail/44094",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2025/09/02",
+    "day": "火",
+    "artist": "わたり",
     "title": "Zeela presents. YAMINABE DEATH MATCH!!",
     "url": "https://osaka-zeela.jp/schedule/detail/44094",
     "venue": "Zeela",
@@ -17885,7 +18416,439 @@
   {
     "date": "2025/09/09",
     "day": "火",
-    "artist": "coming soon...",
+    "artist": "あやねぇ。",
+    "title": "Zeela presents. YAMINABE DEATH MATCH!!",
+    "url": "https://osaka-zeela.jp/schedule/detail/44095",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2025/09/09",
+    "day": "火",
+    "artist": "池田美優",
+    "title": "Zeela presents. YAMINABE DEATH MATCH!!",
+    "url": "https://osaka-zeela.jp/schedule/detail/44095",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2025/09/09",
+    "day": "火",
+    "artist": "江藤慧(yoaca.",
+    "title": "Zeela presents. YAMINABE DEATH MATCH!!",
+    "url": "https://osaka-zeela.jp/schedule/detail/44095",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2025/09/09",
+    "day": "火",
+    "artist": "Edna)",
+    "title": "Zeela presents. YAMINABE DEATH MATCH!!",
+    "url": "https://osaka-zeela.jp/schedule/detail/44095",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2025/09/09",
+    "day": "火",
+    "artist": "喝！土根丈",
+    "title": "Zeela presents. YAMINABE DEATH MATCH!!",
+    "url": "https://osaka-zeela.jp/schedule/detail/44095",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2025/09/09",
+    "day": "火",
+    "artist": "木嶋仁美",
+    "title": "Zeela presents. YAMINABE DEATH MATCH!!",
+    "url": "https://osaka-zeela.jp/schedule/detail/44095",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2025/09/09",
+    "day": "火",
+    "artist": "明々後日キララ",
+    "title": "Zeela presents. YAMINABE DEATH MATCH!!",
+    "url": "https://osaka-zeela.jp/schedule/detail/44095",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2025/09/09",
+    "day": "火",
+    "artist": "しっぽ",
+    "title": "Zeela presents. YAMINABE DEATH MATCH!!",
+    "url": "https://osaka-zeela.jp/schedule/detail/44095",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2025/09/09",
+    "day": "火",
+    "artist": "ジャガー西宮",
+    "title": "Zeela presents. YAMINABE DEATH MATCH!!",
+    "url": "https://osaka-zeela.jp/schedule/detail/44095",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2025/09/09",
+    "day": "火",
+    "artist": "闇金！猫嶋くん",
+    "title": "Zeela presents. YAMINABE DEATH MATCH!!",
+    "url": "https://osaka-zeela.jp/schedule/detail/44095",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2025/09/09",
+    "day": "火",
+    "artist": "ゆーあ",
+    "title": "Zeela presents. YAMINABE DEATH MATCH!!",
+    "url": "https://osaka-zeela.jp/schedule/detail/44095",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2025/09/09",
+    "day": "火",
+    "artist": "レオナ",
+    "title": "Zeela presents. YAMINABE DEATH MATCH!!",
+    "url": "https://osaka-zeela.jp/schedule/detail/44095",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2025/09/09",
+    "day": "火",
+    "artist": "アーサー",
+    "title": "Zeela presents. YAMINABE DEATH MATCH!!",
+    "url": "https://osaka-zeela.jp/schedule/detail/44095",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2025/09/09",
+    "day": "火",
+    "artist": "一色隼",
+    "title": "Zeela presents. YAMINABE DEATH MATCH!!",
+    "url": "https://osaka-zeela.jp/schedule/detail/44095",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2025/09/09",
+    "day": "火",
+    "artist": "おーしゃん",
+    "title": "Zeela presents. YAMINABE DEATH MATCH!!",
+    "url": "https://osaka-zeela.jp/schedule/detail/44095",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2025/09/09",
+    "day": "火",
+    "artist": "金岡竜丸(揺らいで凪",
+    "title": "Zeela presents. YAMINABE DEATH MATCH!!",
+    "url": "https://osaka-zeela.jp/schedule/detail/44095",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2025/09/09",
+    "day": "火",
+    "artist": "笑うわフィクション)",
+    "title": "Zeela presents. YAMINABE DEATH MATCH!!",
+    "url": "https://osaka-zeela.jp/schedule/detail/44095",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2025/09/09",
+    "day": "火",
+    "artist": "Shiun",
+    "title": "Zeela presents. YAMINABE DEATH MATCH!!",
+    "url": "https://osaka-zeela.jp/schedule/detail/44095",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2025/09/09",
+    "day": "火",
+    "artist": "田中",
+    "title": "Zeela presents. YAMINABE DEATH MATCH!!",
+    "url": "https://osaka-zeela.jp/schedule/detail/44095",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2025/09/09",
+    "day": "火",
+    "artist": "NaKK",
+    "title": "Zeela presents. YAMINABE DEATH MATCH!!",
+    "url": "https://osaka-zeela.jp/schedule/detail/44095",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2025/09/09",
+    "day": "火",
+    "artist": "ふじむ(KINGSX",
+    "title": "Zeela presents. YAMINABE DEATH MATCH!!",
+    "url": "https://osaka-zeela.jp/schedule/detail/44095",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2025/09/09",
+    "day": "火",
+    "artist": "ソウルフード)",
+    "title": "Zeela presents. YAMINABE DEATH MATCH!!",
+    "url": "https://osaka-zeela.jp/schedule/detail/44095",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2025/09/09",
+    "day": "火",
+    "artist": "msk",
+    "title": "Zeela presents. YAMINABE DEATH MATCH!!",
+    "url": "https://osaka-zeela.jp/schedule/detail/44095",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2025/09/09",
+    "day": "火",
+    "artist": "マーティ・フリードウーマン",
+    "title": "Zeela presents. YAMINABE DEATH MATCH!!",
+    "url": "https://osaka-zeela.jp/schedule/detail/44095",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2025/09/09",
+    "day": "火",
+    "artist": "板野 豊",
+    "title": "Zeela presents. YAMINABE DEATH MATCH!!",
+    "url": "https://osaka-zeela.jp/schedule/detail/44095",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2025/09/09",
+    "day": "火",
+    "artist": "おジャ魔女ミソシ",
+    "title": "Zeela presents. YAMINABE DEATH MATCH!!",
+    "url": "https://osaka-zeela.jp/schedule/detail/44095",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2025/09/09",
+    "day": "火",
+    "artist": "風人",
+    "title": "Zeela presents. YAMINABE DEATH MATCH!!",
+    "url": "https://osaka-zeela.jp/schedule/detail/44095",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2025/09/09",
+    "day": "火",
+    "artist": "こばらとしや",
+    "title": "Zeela presents. YAMINABE DEATH MATCH!!",
+    "url": "https://osaka-zeela.jp/schedule/detail/44095",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2025/09/09",
+    "day": "火",
+    "artist": "CRでかハマグリ",
+    "title": "Zeela presents. YAMINABE DEATH MATCH!!",
+    "url": "https://osaka-zeela.jp/schedule/detail/44095",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2025/09/09",
+    "day": "火",
+    "artist": "白石",
+    "title": "Zeela presents. YAMINABE DEATH MATCH!!",
+    "url": "https://osaka-zeela.jp/schedule/detail/44095",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2025/09/09",
+    "day": "火",
+    "artist": "たくヲ",
+    "title": "Zeela presents. YAMINABE DEATH MATCH!!",
+    "url": "https://osaka-zeela.jp/schedule/detail/44095",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2025/09/09",
+    "day": "火",
+    "artist": "とく",
+    "title": "Zeela presents. YAMINABE DEATH MATCH!!",
+    "url": "https://osaka-zeela.jp/schedule/detail/44095",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2025/09/09",
+    "day": "火",
+    "artist": "你好シュウマイちゃん",
+    "title": "Zeela presents. YAMINABE DEATH MATCH!!",
+    "url": "https://osaka-zeela.jp/schedule/detail/44095",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2025/09/09",
+    "day": "火",
+    "artist": "リストラマン",
+    "title": "Zeela presents. YAMINABE DEATH MATCH!!",
+    "url": "https://osaka-zeela.jp/schedule/detail/44095",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2025/09/09",
+    "day": "火",
+    "artist": "タカダモモ",
+    "title": "Zeela presents. YAMINABE DEATH MATCH!!",
+    "url": "https://osaka-zeela.jp/schedule/detail/44095",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2025/09/09",
+    "day": "火",
+    "artist": "へこC",
+    "title": "Zeela presents. YAMINABE DEATH MATCH!!",
+    "url": "https://osaka-zeela.jp/schedule/detail/44095",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2025/09/09",
+    "day": "火",
+    "artist": "吉川知里",
+    "title": "Zeela presents. YAMINABE DEATH MATCH!!",
+    "url": "https://osaka-zeela.jp/schedule/detail/44095",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2025/09/09",
+    "day": "火",
+    "artist": "赤ちゃん",
+    "title": "Zeela presents. YAMINABE DEATH MATCH!!",
+    "url": "https://osaka-zeela.jp/schedule/detail/44095",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2025/09/09",
+    "day": "火",
+    "artist": "梅林祥英",
+    "title": "Zeela presents. YAMINABE DEATH MATCH!!",
+    "url": "https://osaka-zeela.jp/schedule/detail/44095",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2025/09/09",
+    "day": "火",
+    "artist": "扇風太",
+    "title": "Zeela presents. YAMINABE DEATH MATCH!!",
+    "url": "https://osaka-zeela.jp/schedule/detail/44095",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2025/09/09",
+    "day": "火",
+    "artist": "カミヤショウ",
+    "title": "Zeela presents. YAMINABE DEATH MATCH!!",
+    "url": "https://osaka-zeela.jp/schedule/detail/44095",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2025/09/09",
+    "day": "火",
+    "artist": "神戸悠樹(kasumi",
+    "title": "Zeela presents. YAMINABE DEATH MATCH!!",
+    "url": "https://osaka-zeela.jp/schedule/detail/44095",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2025/09/09",
+    "day": "火",
+    "artist": "YOKALOK)",
+    "title": "Zeela presents. YAMINABE DEATH MATCH!!",
+    "url": "https://osaka-zeela.jp/schedule/detail/44095",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2025/09/09",
+    "day": "火",
+    "artist": "子供達から絶大な人気を誇る劇団肉祭り",
+    "title": "Zeela presents. YAMINABE DEATH MATCH!!",
+    "url": "https://osaka-zeela.jp/schedule/detail/44095",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2025/09/09",
+    "day": "火",
+    "artist": "新名神 翔流",
+    "title": "Zeela presents. YAMINABE DEATH MATCH!!",
+    "url": "https://osaka-zeela.jp/schedule/detail/44095",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2025/09/09",
+    "day": "火",
+    "artist": "チーバくん",
+    "title": "Zeela presents. YAMINABE DEATH MATCH!!",
+    "url": "https://osaka-zeela.jp/schedule/detail/44095",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2025/09/09",
+    "day": "火",
+    "artist": "ののんの",
+    "title": "Zeela presents. YAMINABE DEATH MATCH!!",
+    "url": "https://osaka-zeela.jp/schedule/detail/44095",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2025/09/09",
+    "day": "火",
+    "artist": "ゆうすけ",
+    "title": "Zeela presents. YAMINABE DEATH MATCH!!",
+    "url": "https://osaka-zeela.jp/schedule/detail/44095",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2025/09/09",
+    "day": "火",
+    "artist": "らっきょ",
     "title": "Zeela presents. YAMINABE DEATH MATCH!!",
     "url": "https://osaka-zeela.jp/schedule/detail/44095",
     "venue": "Zeela",
@@ -18882,6 +19845,69 @@
     "note": ""
   },
   {
+    "date": "2025/10/26",
+    "day": "日",
+    "artist": "starlight MISA☆",
+    "title": "淑女の謡 presented by OKAJI",
+    "url": "https://osaka-zeela.jp/schedule/detail/40757",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2025/10/26",
+    "day": "日",
+    "artist": "Étoilechoutes",
+    "title": "淑女の謡 presented by OKAJI",
+    "url": "https://osaka-zeela.jp/schedule/detail/40757",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2025/10/26",
+    "day": "日",
+    "artist": "unknown",
+    "title": "淑女の謡 presented by OKAJI",
+    "url": "https://osaka-zeela.jp/schedule/detail/40757",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2025/10/26",
+    "day": "日",
+    "artist": "うれしい!たのしい!大四喜!",
+    "title": "淑女の謡 presented by OKAJI",
+    "url": "https://osaka-zeela.jp/schedule/detail/40757",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2025/10/26",
+    "day": "日",
+    "artist": "Superdry",
+    "title": "淑女の謡 presented by OKAJI",
+    "url": "https://osaka-zeela.jp/schedule/detail/40757",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2025/10/26",
+    "day": "日",
+    "artist": "せいぶつきょうし",
+    "title": "淑女の謡 presented by OKAJI",
+    "url": "https://osaka-zeela.jp/schedule/detail/40757",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2025/10/26",
+    "day": "日",
+    "artist": "LOVE LIKE MATTSU",
+    "title": "淑女の謡 presented by OKAJI",
+    "url": "https://osaka-zeela.jp/schedule/detail/40757",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
     "date": "2025/10/31",
     "day": "金",
     "artist": "Qaijff",
@@ -18891,11 +19917,137 @@
     "note": ""
   },
   {
+    "date": "2025/11/01",
+    "day": "土",
+    "artist": "BiTE A SHOCK",
+    "title": "BiTE A SHOCK × lyrical school Split Tour〜Neo Junction〜",
+    "url": "https://osaka-zeela.jp/schedule/detail/45291",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2025/11/01",
+    "day": "土",
+    "artist": "lyrical school",
+    "title": "BiTE A SHOCK × lyrical school Split Tour〜Neo Junction〜",
+    "url": "https://osaka-zeela.jp/schedule/detail/45291",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
     "date": "2025/11/02",
     "day": "日",
     "artist": "NICOLAS",
     "title": "NICOLAS ONEMAN「REHALLOWEEN」",
     "url": "https://osaka-zeela.jp/schedule/detail/41395",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2025/11/03",
+    "day": "月",
+    "artist": "Keyco",
+    "title": "とりとうわばみ 彷徨い葦遍",
+    "url": "https://osaka-zeela.jp/schedule/detail/40132",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2025/11/03",
+    "day": "月",
+    "artist": "SUKISHA",
+    "title": "とりとうわばみ 彷徨い葦遍",
+    "url": "https://osaka-zeela.jp/schedule/detail/40132",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2025/11/03",
+    "day": "月",
+    "artist": "DUCK HOUSE",
+    "title": "とりとうわばみ 彷徨い葦遍",
+    "url": "https://osaka-zeela.jp/schedule/detail/40132",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2025/11/03",
+    "day": "月",
+    "artist": "チプルソ",
+    "title": "とりとうわばみ 彷徨い葦遍",
+    "url": "https://osaka-zeela.jp/schedule/detail/40132",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2025/11/03",
+    "day": "月",
+    "artist": "NAGAN SERVER",
+    "title": "とりとうわばみ 彷徨い葦遍",
+    "url": "https://osaka-zeela.jp/schedule/detail/40132",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2025/11/03",
+    "day": "月",
+    "artist": "YOHLU",
+    "title": "とりとうわばみ 彷徨い葦遍",
+    "url": "https://osaka-zeela.jp/schedule/detail/40132",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2025/11/03",
+    "day": "月",
+    "artist": "日本酒みずどり",
+    "title": "とりとうわばみ 彷徨い葦遍",
+    "url": "https://osaka-zeela.jp/schedule/detail/40132",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2025/11/03",
+    "day": "月",
+    "artist": "umbrella RiB",
+    "title": "とりとうわばみ 彷徨い葦遍",
+    "url": "https://osaka-zeela.jp/schedule/detail/40132",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2025/11/03",
+    "day": "月",
+    "artist": "鮨 大吾",
+    "title": "とりとうわばみ 彷徨い葦遍",
+    "url": "https://osaka-zeela.jp/schedule/detail/40132",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2025/11/03",
+    "day": "月",
+    "artist": "御料理 野々原",
+    "title": "とりとうわばみ 彷徨い葦遍",
+    "url": "https://osaka-zeela.jp/schedule/detail/40132",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2025/11/03",
+    "day": "月",
+    "artist": "BAR QUINTA",
+    "title": "とりとうわばみ 彷徨い葦遍",
+    "url": "https://osaka-zeela.jp/schedule/detail/40132",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2025/11/03",
+    "day": "月",
+    "artist": "穀雨  and more …?",
+    "title": "とりとうわばみ 彷徨い葦遍",
+    "url": "https://osaka-zeela.jp/schedule/detail/40132",
     "venue": "Zeela",
     "note": ""
   },
