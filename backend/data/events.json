@@ -3810,7 +3810,7 @@
     "date": "2025/09/21",
     "day": "日",
     "artist": "Gecko Cult Cartel",
-    "title": "Gecko Cult Cartel / the dominant curve / madohi",
+    "title": "Gecko Cult Cartel / the dominant curve / madohi / El Primo",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -3819,7 +3819,7 @@
     "date": "2025/09/21",
     "day": "日",
     "artist": "the dominant curve",
-    "title": "Gecko Cult Cartel / the dominant curve / madohi",
+    "title": "Gecko Cult Cartel / the dominant curve / madohi / El Primo",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -3827,8 +3827,17 @@
   {
     "date": "2025/09/21",
     "day": "日",
-    "artist": "madohi and more...",
-    "title": "Gecko Cult Cartel / the dominant curve / madohi",
+    "artist": "madohi",
+    "title": "Gecko Cult Cartel / the dominant curve / madohi / El Primo",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
+    "date": "2025/09/21",
+    "day": "日",
+    "artist": "El Primo and more...",
+    "title": "Gecko Cult Cartel / the dominant curve / madohi / El Primo",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -4232,6 +4241,15 @@
   {
     "date": "2025/10/03",
     "day": "金",
+    "artist": "para-dice企画",
+    "title": "『 LFO 』",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
+    "date": "2025/10/03",
+    "day": "金",
     "artist": "『 LFO 』",
     "title": "『 LFO 』",
     "url": "https://para-dice.net/",
@@ -4437,10 +4455,118 @@
     "note": ""
   },
   {
+    "date": "2025/10/11",
+    "day": "土",
+    "artist": "bluekeys pre.",
+    "title": "bluekeys pre.",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
+    "date": "2025/10/11",
+    "day": "土",
+    "artist": "「僕らの@扇町Para-dice」",
+    "title": "bluekeys pre.",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
+    "date": "2025/10/11",
+    "day": "土",
+    "artist": "bluekeys",
+    "title": "bluekeys pre.",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
+    "date": "2025/10/11",
+    "day": "土",
+    "artist": "星来",
+    "title": "bluekeys pre.",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
+    "date": "2025/10/11",
+    "day": "土",
+    "artist": "木魚人",
+    "title": "bluekeys pre.",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
+    "date": "2025/10/11",
+    "day": "土",
+    "artist": "SURUME",
+    "title": "bluekeys pre.",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
+    "date": "2025/10/11",
+    "day": "土",
+    "artist": "Skinny Love",
+    "title": "bluekeys pre.",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
+    "date": "2025/10/11",
+    "day": "土",
+    "artist": "Hyuga",
+    "title": "bluekeys pre.",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
+    "date": "2025/10/11",
+    "day": "土",
+    "artist": "and more?",
+    "title": "bluekeys pre.",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
+    "date": "2025/10/11",
+    "day": "土",
+    "artist": "open",
+    "title": "bluekeys pre.",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
+    "date": "2025/10/11",
+    "day": "土",
+    "artist": "start TBA",
+    "title": "bluekeys pre.",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
     "date": "2025/10/13",
     "day": "月祝",
-    "artist": "fuzzy stereo  and more...",
-    "title": "fuzzy stereo",
+    "artist": "fuzzy stereo",
+    "title": "fuzzy stereo / おかわり",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
+    "date": "2025/10/13",
+    "day": "月祝",
+    "artist": "おかわり   and more...",
+    "title": "fuzzy stereo / おかわり",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -12528,6 +12654,114 @@
     "note": ""
   },
   {
+    "date": "2025/09/10",
+    "day": "水",
+    "artist": "AZ-ON",
+    "title": "AFTER DARK FEST",
+    "url": "https://clubdrop.jp/schedule/detail/38483",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2025/09/10",
+    "day": "水",
+    "artist": "AIMIA",
+    "title": "AFTER DARK FEST",
+    "url": "https://clubdrop.jp/schedule/detail/38483",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2025/09/10",
+    "day": "水",
+    "artist": "ENVY PARANOID",
+    "title": "AFTER DARK FEST",
+    "url": "https://clubdrop.jp/schedule/detail/38483",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2025/09/10",
+    "day": "水",
+    "artist": "神薙-時うさぎ-",
+    "title": "AFTER DARK FEST",
+    "url": "https://clubdrop.jp/schedule/detail/38483",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2025/09/10",
+    "day": "水",
+    "artist": "GRiED",
+    "title": "AFTER DARK FEST",
+    "url": "https://clubdrop.jp/schedule/detail/38483",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2025/09/10",
+    "day": "水",
+    "artist": "白黒アリス",
+    "title": "AFTER DARK FEST",
+    "url": "https://clubdrop.jp/schedule/detail/38483",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2025/09/10",
+    "day": "水",
+    "artist": "鳴ル神",
+    "title": "AFTER DARK FEST",
+    "url": "https://clubdrop.jp/schedule/detail/38483",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2025/09/10",
+    "day": "水",
+    "artist": "NiL",
+    "title": "AFTER DARK FEST",
+    "url": "https://clubdrop.jp/schedule/detail/38483",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2025/09/10",
+    "day": "水",
+    "artist": "HIBANA",
+    "title": "AFTER DARK FEST",
+    "url": "https://clubdrop.jp/schedule/detail/38483",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2025/09/10",
+    "day": "水",
+    "artist": "frecia",
+    "title": "AFTER DARK FEST",
+    "url": "https://clubdrop.jp/schedule/detail/38483",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2025/09/10",
+    "day": "水",
+    "artist": ".LiNIXLiNE.",
+    "title": "AFTER DARK FEST",
+    "url": "https://clubdrop.jp/schedule/detail/38483",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2025/09/10",
+    "day": "水",
+    "artist": "LØISLOID",
+    "title": "AFTER DARK FEST",
+    "url": "https://clubdrop.jp/schedule/detail/38483",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
     "date": "2025/09/11",
     "day": "木",
     "artist": "UnpRayable",
@@ -15867,6 +16101,15 @@
     "note": ""
   },
   {
+    "date": "2025/10/25",
+    "day": "土",
+    "artist": "哀と凛人の無所属",
+    "title": "無所属単独営利目的ライヴ 「UNHAPPY HALLOWEEN -大阪編-」",
+    "url": "https://osaka-varon.jp/schedule/detail/41536",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
     "date": "2025/11/08",
     "day": "土",
     "artist": "CIGARS SODA  [ Ba. 戸城憲夫",
@@ -17555,6 +17798,69 @@
     "artist": "coming soon...",
     "title": "HALL RENTAL",
     "url": "https://osaka-zeela.jp/schedule/detail/38460",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2025/08/31",
+    "day": "日",
+    "artist": "人生はダンス",
+    "title": "LIVE SHOWER 2025",
+    "url": "https://osaka-zeela.jp/schedule/detail/39199",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2025/08/31",
+    "day": "日",
+    "artist": "エルレ外伝",
+    "title": "LIVE SHOWER 2025",
+    "url": "https://osaka-zeela.jp/schedule/detail/39199",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2025/08/31",
+    "day": "日",
+    "artist": "THEHERESY",
+    "title": "LIVE SHOWER 2025",
+    "url": "https://osaka-zeela.jp/schedule/detail/39199",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2025/08/31",
+    "day": "日",
+    "artist": "simulu",
+    "title": "LIVE SHOWER 2025",
+    "url": "https://osaka-zeela.jp/schedule/detail/39199",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2025/08/31",
+    "day": "日",
+    "artist": "カラメルパーラー",
+    "title": "LIVE SHOWER 2025",
+    "url": "https://osaka-zeela.jp/schedule/detail/39199",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2025/08/31",
+    "day": "日",
+    "artist": "泡沫Reverie",
+    "title": "LIVE SHOWER 2025",
+    "url": "https://osaka-zeela.jp/schedule/detail/39199",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2025/08/31",
+    "day": "日",
+    "artist": "core mimic",
+    "title": "LIVE SHOWER 2025",
+    "url": "https://osaka-zeela.jp/schedule/detail/39199",
     "venue": "Zeela",
     "note": ""
   },
@@ -22817,6 +23123,15 @@
   {
     "date": "2025/09/16",
     "day": "火",
+    "artist": "莉奈",
+    "title": "LoversRock",
+    "url": "http://www.knave.co.jp/schedule/s_2025_09.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2025/09/16",
+    "day": "火",
     "artist": "※宮崎真穂",
     "title": "LoversRock",
     "url": "http://www.knave.co.jp/schedule/s_2025_09.html",
@@ -24498,6 +24813,105 @@
     "note": ""
   },
   {
+    "date": "2025/10/27",
+    "day": "月",
+    "artist": "“Works 2025”",
+    "title": "KYOSUKE MATSUMOTO",
+    "url": "http://www.knave.co.jp/schedule/s_2025_10.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2025/10/27",
+    "day": "月",
+    "artist": "松本京介",
+    "title": "KYOSUKE MATSUMOTO",
+    "url": "http://www.knave.co.jp/schedule/s_2025_10.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2025/10/27",
+    "day": "月",
+    "artist": "正垣雄治",
+    "title": "KYOSUKE MATSUMOTO",
+    "url": "http://www.knave.co.jp/schedule/s_2025_10.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2025/10/27",
+    "day": "月",
+    "artist": "柳佑樹",
+    "title": "KYOSUKE MATSUMOTO",
+    "url": "http://www.knave.co.jp/schedule/s_2025_10.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2025/10/27",
+    "day": "月",
+    "artist": "Works Guest :",
+    "title": "KYOSUKE MATSUMOTO",
+    "url": "http://www.knave.co.jp/schedule/s_2025_10.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2025/10/27",
+    "day": "月",
+    "artist": "梶有紀子",
+    "title": "KYOSUKE MATSUMOTO",
+    "url": "http://www.knave.co.jp/schedule/s_2025_10.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2025/10/27",
+    "day": "月",
+    "artist": "白井大輔",
+    "title": "KYOSUKE MATSUMOTO",
+    "url": "http://www.knave.co.jp/schedule/s_2025_10.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2025/10/27",
+    "day": "月",
+    "artist": "クラウソラス",
+    "title": "KYOSUKE MATSUMOTO",
+    "url": "http://www.knave.co.jp/schedule/s_2025_10.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2025/10/27",
+    "day": "月",
+    "artist": "一般発売 8",
+    "title": "KYOSUKE MATSUMOTO",
+    "url": "http://www.knave.co.jp/schedule/s_2025_10.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2025/10/27",
+    "day": "月",
+    "artist": "31",
+    "title": "KYOSUKE MATSUMOTO",
+    "url": "http://www.knave.co.jp/schedule/s_2025_10.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2025/10/27",
+    "day": "月",
+    "artist": "問)knave06-6535-0691",
+    "title": "KYOSUKE MATSUMOTO",
+    "url": "http://www.knave.co.jp/schedule/s_2025_10.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
     "date": "2025/10/28",
     "day": "火",
     "artist": "karasuuri",
@@ -24871,6 +25285,78 @@
     "day": "日",
     "artist": "「SNUG.10 -Beige-」＜夜公演＞",
     "title": "近藤晃央 SERIESE LIVE",
+    "url": "http://www.knave.co.jp/schedule/s_2025_11.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2026/01/18",
+    "day": "日",
+    "artist": "Pf&vo:杉野淳子",
+    "title": "杉野淳子Oneman live",
+    "url": "http://www.knave.co.jp/schedule/s_2025_11.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2026/01/18",
+    "day": "日",
+    "artist": "Support member：",
+    "title": "杉野淳子Oneman live",
+    "url": "http://www.knave.co.jp/schedule/s_2025_11.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2026/01/18",
+    "day": "日",
+    "artist": "Drums：KAZU OF THE LEGEND",
+    "title": "杉野淳子Oneman live",
+    "url": "http://www.knave.co.jp/schedule/s_2025_11.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2026/01/18",
+    "day": "日",
+    "artist": "Guitar:井上義嗣",
+    "title": "杉野淳子Oneman live",
+    "url": "http://www.knave.co.jp/schedule/s_2025_11.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2026/01/18",
+    "day": "日",
+    "artist": "Sax：中井マルホイ勇太",
+    "title": "杉野淳子Oneman live",
+    "url": "http://www.knave.co.jp/schedule/s_2025_11.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2026/01/18",
+    "day": "日",
+    "artist": "一般発売 8",
+    "title": "杉野淳子Oneman live",
+    "url": "http://www.knave.co.jp/schedule/s_2025_11.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2026/01/18",
+    "day": "日",
+    "artist": "31",
+    "title": "杉野淳子Oneman live",
+    "url": "http://www.knave.co.jp/schedule/s_2025_11.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2026/01/18",
+    "day": "日",
+    "artist": "問)knave06-6535-0691",
+    "title": "杉野淳子Oneman live",
     "url": "http://www.knave.co.jp/schedule/s_2025_11.html",
     "venue": "knave",
     "note": ""
