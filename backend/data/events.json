@@ -4017,7 +4017,7 @@
     "date": "2025/09/21",
     "day": "日",
     "artist": "Gecko Cult Cartel",
-    "title": "Gecko Cult Cartel / the dominant curve / madohi / El Primo",
+    "title": "Gecko Cult Cartel / the dominant curve / madohi /",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -4026,7 +4026,7 @@
     "date": "2025/09/21",
     "day": "日",
     "artist": "the dominant curve",
-    "title": "Gecko Cult Cartel / the dominant curve / madohi / El Primo",
+    "title": "Gecko Cult Cartel / the dominant curve / madohi /",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -4035,7 +4035,7 @@
     "date": "2025/09/21",
     "day": "日",
     "artist": "madohi",
-    "title": "Gecko Cult Cartel / the dominant curve / madohi / El Primo",
+    "title": "Gecko Cult Cartel / the dominant curve / madohi /",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -4043,8 +4043,8 @@
   {
     "date": "2025/09/21",
     "day": "日",
-    "artist": "El Primo and more...",
-    "title": "Gecko Cult Cartel / the dominant curve / madohi / El Primo",
+    "artist": "and more...",
+    "title": "Gecko Cult Cartel / the dominant curve / madohi /",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -4215,7 +4215,7 @@
     "date": "2025/09/27",
     "day": "土",
     "artist": "TOTOJI",
-    "title": "TOTOJI / マッドショットガン",
+    "title": "TOTOJI / マッドショットガン / HARERU / ゆずサワー",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -4223,8 +4223,26 @@
   {
     "date": "2025/09/27",
     "day": "土",
-    "artist": "マッドショットガン and more...",
-    "title": "TOTOJI / マッドショットガン",
+    "artist": "マッドショットガン",
+    "title": "TOTOJI / マッドショットガン / HARERU / ゆずサワー",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
+    "date": "2025/09/27",
+    "day": "土",
+    "artist": "HARERU",
+    "title": "TOTOJI / マッドショットガン / HARERU / ゆずサワー",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
+    "date": "2025/09/27",
+    "day": "土",
+    "artist": "ゆずサワー and more...",
+    "title": "TOTOJI / マッドショットガン / HARERU / ゆずサワー",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -4566,7 +4584,7 @@
     "date": "2025/10/08",
     "day": "水",
     "artist": "TaKeshi",
-    "title": "TaKeshi / ベンチウォーマーズ / モリ やすヒロ",
+    "title": "TaKeshi / ベンチウォーマーズ / モリ やすヒロ / マッドショットガン",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -4575,7 +4593,7 @@
     "date": "2025/10/08",
     "day": "水",
     "artist": "ベンチウォーマーズ",
-    "title": "TaKeshi / ベンチウォーマーズ / モリ やすヒロ",
+    "title": "TaKeshi / ベンチウォーマーズ / モリ やすヒロ / マッドショットガン",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -4583,8 +4601,17 @@
   {
     "date": "2025/10/08",
     "day": "水",
-    "artist": "モリ やすヒロ and more...",
-    "title": "TaKeshi / ベンチウォーマーズ / モリ やすヒロ",
+    "artist": "モリ やすヒロ",
+    "title": "TaKeshi / ベンチウォーマーズ / モリ やすヒロ / マッドショットガン",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
+    "date": "2025/10/08",
+    "day": "水",
+    "artist": "マッドショットガン  and more...",
+    "title": "TaKeshi / ベンチウォーマーズ / モリ やすヒロ / マッドショットガン",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -4655,7 +4682,16 @@
   {
     "date": "2025/10/10",
     "day": "金",
-    "artist": "教育  and more...",
+    "artist": "教育",
+    "title": "Facemeat / DietGRRRL / 教育",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
+    "date": "2025/10/10",
+    "day": "金",
+    "artist": "minä minä and more...",
     "title": "Facemeat / DietGRRRL / 教育",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
@@ -4781,17 +4817,8 @@
   {
     "date": "2025/10/15",
     "day": "水",
-    "artist": "マッドショットガン",
-    "title": "マッドショットガン / \n                \nn",
-    "url": "https://para-dice.net/",
-    "venue": "扇町para-dice",
-    "note": ""
-  },
-  {
-    "date": "2025/10/15",
-    "day": "水",
     "artist": "netaro51",
-    "title": "マッドショットガン / \n                \nn",
+    "title": "n",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -4800,7 +4827,7 @@
     "date": "2025/10/15",
     "day": "水",
     "artist": "NovaFlash",
-    "title": "マッドショットガン / \n                \nn",
+    "title": "n",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -4808,8 +4835,17 @@
   {
     "date": "2025/10/15",
     "day": "水",
-    "artist": "優午 and more...",
-    "title": "マッドショットガン / \n                \nn",
+    "artist": "優午",
+    "title": "n",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
+    "date": "2025/10/15",
+    "day": "水",
+    "artist": "青い紫陽花 and more...",
+    "title": "n",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -4944,7 +4980,7 @@
     "date": "2025/10/21",
     "day": "火",
     "artist": "天才アンチ",
-    "title": "( ) / 天才アンチ / 自転車SO業舎",
+    "title": "( ) / 天才アンチ / 自転車SO業舎 / BALANCE LOST",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -4952,8 +4988,17 @@
   {
     "date": "2025/10/21",
     "day": "火",
-    "artist": "自転車SO業舎  and more...",
-    "title": "( ) / 天才アンチ / 自転車SO業舎",
+    "artist": "自転車SO業舎",
+    "title": "( ) / 天才アンチ / 自転車SO業舎 / BALANCE LOST",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
+    "date": "2025/10/21",
+    "day": "火",
+    "artist": "BALANCE LOST and more...",
+    "title": "( ) / 天才アンチ / 自転車SO業舎 / BALANCE LOST",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -4962,7 +5007,7 @@
     "date": "2025/10/22",
     "day": "水",
     "artist": "ピノキヲ",
-    "title": "ピノキヲ / The purple parks! / maru",
+    "title": "ピノキヲ / The purple parks! / maru / ラッシュメンタルズ",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -4971,7 +5016,7 @@
     "date": "2025/10/22",
     "day": "水",
     "artist": "The purple parks!",
-    "title": "ピノキヲ / The purple parks! / maru",
+    "title": "ピノキヲ / The purple parks! / maru / ラッシュメンタルズ",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -4979,8 +5024,17 @@
   {
     "date": "2025/10/22",
     "day": "水",
-    "artist": "maru and more...",
-    "title": "ピノキヲ / The purple parks! / maru",
+    "artist": "maru",
+    "title": "ピノキヲ / The purple parks! / maru / ラッシュメンタルズ",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
+    "date": "2025/10/22",
+    "day": "水",
+    "artist": "ラッシュメンタルズ and more...",
+    "title": "ピノキヲ / The purple parks! / maru / ラッシュメンタルズ",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -9378,6 +9432,60 @@
     "note": ""
   },
   {
+    "date": "2025/08/26",
+    "day": "火",
+    "artist": "月華姫",
+    "title": "AMPED UP",
+    "url": "https://bangboo.jp/schedule/detail/43560",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2025/08/26",
+    "day": "火",
+    "artist": "Jam6eat",
+    "title": "AMPED UP",
+    "url": "https://bangboo.jp/schedule/detail/43560",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2025/08/26",
+    "day": "火",
+    "artist": "encolor",
+    "title": "AMPED UP",
+    "url": "https://bangboo.jp/schedule/detail/43560",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2025/08/26",
+    "day": "火",
+    "artist": "Al・kaphrah",
+    "title": "AMPED UP",
+    "url": "https://bangboo.jp/schedule/detail/43560",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2025/08/26",
+    "day": "火",
+    "artist": "SOVL",
+    "title": "AMPED UP",
+    "url": "https://bangboo.jp/schedule/detail/43560",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2025/08/26",
+    "day": "火",
+    "artist": "-了-　※出演予定だった「音パレット」は諸事情により出演キャンセルとなりました",
+    "title": "AMPED UP",
+    "url": "https://bangboo.jp/schedule/detail/43560",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
     "date": "2025/08/27",
     "day": "水",
     "artist": "04 limited Simasons",
@@ -9761,6 +9869,105 @@
     "artist": "ZUMA",
     "title": "ZUMA ONEMANLIVE2025〜クズの⽇〜",
     "url": "https://bangboo.jp/schedule/detail/43517",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2025/09/03",
+    "day": "水",
+    "artist": "ネテルダイヤ",
+    "title": "ネテルダイヤpre.  【Diamond Polishers】",
+    "url": "https://bangboo.jp/schedule/detail/44732",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2025/09/03",
+    "day": "水",
+    "artist": "SKILL of light",
+    "title": "ネテルダイヤpre.  【Diamond Polishers】",
+    "url": "https://bangboo.jp/schedule/detail/44732",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2025/09/03",
+    "day": "水",
+    "artist": "むげんこんぜ",
+    "title": "ネテルダイヤpre.  【Diamond Polishers】",
+    "url": "https://bangboo.jp/schedule/detail/44732",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2025/09/03",
+    "day": "水",
+    "artist": "マイフェアガール",
+    "title": "ネテルダイヤpre.  【Diamond Polishers】",
+    "url": "https://bangboo.jp/schedule/detail/44732",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2025/09/03",
+    "day": "水",
+    "artist": "妖狐繚乱",
+    "title": "ネテルダイヤpre.  【Diamond Polishers】",
+    "url": "https://bangboo.jp/schedule/detail/44732",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2025/09/03",
+    "day": "水",
+    "artist": "naniwairo",
+    "title": "ネテルダイヤpre.  【Diamond Polishers】",
+    "url": "https://bangboo.jp/schedule/detail/44732",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2025/09/03",
+    "day": "水",
+    "artist": "コドモシンカ",
+    "title": "ネテルダイヤpre.  【Diamond Polishers】",
+    "url": "https://bangboo.jp/schedule/detail/44732",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2025/09/03",
+    "day": "水",
+    "artist": "Dear night mare",
+    "title": "ネテルダイヤpre.  【Diamond Polishers】",
+    "url": "https://bangboo.jp/schedule/detail/44732",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2025/09/03",
+    "day": "水",
+    "artist": "lyricalpopparadox",
+    "title": "ネテルダイヤpre.  【Diamond Polishers】",
+    "url": "https://bangboo.jp/schedule/detail/44732",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2025/09/03",
+    "day": "水",
+    "artist": "永遠のセツナ",
+    "title": "ネテルダイヤpre.  【Diamond Polishers】",
+    "url": "https://bangboo.jp/schedule/detail/44732",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2025/09/03",
+    "day": "水",
+    "artist": "&youth!",
+    "title": "ネテルダイヤpre.  【Diamond Polishers】",
+    "url": "https://bangboo.jp/schedule/detail/44732",
     "venue": "梅田BANGBOO",
     "note": ""
   },
@@ -13107,7 +13314,7 @@
     "date": "2025/08/26",
     "day": "火",
     "artist": "UnderCliff",
-    "title": "BRAVER!! Level.37-AMERICAMURA DROP 22th ANNIVERSARY-/千賀岳人",
+    "title": "BRAVER!! Level.37-AMERICAMURA DROP 22th ANNIVERSARY-",
     "url": "https://clubdrop.jp/schedule/detail/44160",
     "venue": "アメリカ村DROP",
     "note": ""
@@ -13116,7 +13323,7 @@
     "date": "2025/08/26",
     "day": "火",
     "artist": "Disappear Sound",
-    "title": "BRAVER!! Level.37-AMERICAMURA DROP 22th ANNIVERSARY-/千賀岳人",
+    "title": "BRAVER!! Level.37-AMERICAMURA DROP 22th ANNIVERSARY-",
     "url": "https://clubdrop.jp/schedule/detail/44160",
     "venue": "アメリカ村DROP",
     "note": ""
@@ -13125,7 +13332,16 @@
     "date": "2025/08/26",
     "day": "火",
     "artist": "infinie sentimeter",
-    "title": "BRAVER!! Level.37-AMERICAMURA DROP 22th ANNIVERSARY-/千賀岳人",
+    "title": "BRAVER!! Level.37-AMERICAMURA DROP 22th ANNIVERSARY-",
+    "url": "https://clubdrop.jp/schedule/detail/44160",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2025/08/26",
+    "day": "火",
+    "artist": "千賀岳人",
+    "title": "BRAVER!! Level.37-AMERICAMURA DROP 22th ANNIVERSARY-",
     "url": "https://clubdrop.jp/schedule/detail/44160",
     "venue": "アメリカ村DROP",
     "note": ""
@@ -13878,6 +14094,24 @@
     "note": ""
   },
   {
+    "date": "2025/09/09",
+    "day": "火",
+    "artist": "鐘ト銃声",
+    "title": "鐘ト銃声VS黑猫「兄弟喧嘩２」〜大阪編〜",
+    "url": "https://clubdrop.jp/schedule/detail/43414",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2025/09/09",
+    "day": "火",
+    "artist": "黑猫",
+    "title": "鐘ト銃声VS黑猫「兄弟喧嘩２」〜大阪編〜",
+    "url": "https://clubdrop.jp/schedule/detail/43414",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
     "date": "2025/09/10",
     "day": "水",
     "artist": "AZ-ON",
@@ -14295,7 +14529,7 @@
     "date": "2025/09/28",
     "day": "日",
     "artist": "SPRISE",
-    "title": "SPRISE 定期公演",
+    "title": "SPRISE 定期公演★★★6th リクエストハッピーアワード★★★幸福界隈",
     "url": "https://clubdrop.jp/schedule/detail/38171",
     "venue": "アメリカ村DROP",
     "note": ""
@@ -14396,6 +14630,105 @@
     "artist": "DEVILOOF",
     "title": "結成十周年記念単独公演 「SPIRITUAL CANOE〜輪廻転生〜」",
     "url": "https://clubdrop.jp/schedule/detail/42949",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2025/10/08",
+    "day": "水",
+    "artist": "CANTOY",
+    "title": "Erich Birthday Anniversary!!2025",
+    "url": "https://clubdrop.jp/schedule/detail/42119",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2025/10/08",
+    "day": "水",
+    "artist": "RIOT JUNCTION",
+    "title": "Erich Birthday Anniversary!!2025",
+    "url": "https://clubdrop.jp/schedule/detail/42119",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2025/10/08",
+    "day": "水",
+    "artist": "UnpRayable",
+    "title": "Erich Birthday Anniversary!!2025",
+    "url": "https://clubdrop.jp/schedule/detail/42119",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2025/10/08",
+    "day": "水",
+    "artist": "KINJI",
+    "title": "Erich Birthday Anniversary!!2025",
+    "url": "https://clubdrop.jp/schedule/detail/42119",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2025/10/08",
+    "day": "水",
+    "artist": "ヨルマチダイス",
+    "title": "Erich Birthday Anniversary!!2025",
+    "url": "https://clubdrop.jp/schedule/detail/42119",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2025/10/08",
+    "day": "水",
+    "artist": "ちんぽーずやまたにえん",
+    "title": "Erich Birthday Anniversary!!2025",
+    "url": "https://clubdrop.jp/schedule/detail/42119",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2025/10/08",
+    "day": "水",
+    "artist": "RiKU",
+    "title": "Erich Birthday Anniversary!!2025",
+    "url": "https://clubdrop.jp/schedule/detail/42119",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2025/10/08",
+    "day": "水",
+    "artist": "一成&いちやす",
+    "title": "Erich Birthday Anniversary!!2025",
+    "url": "https://clubdrop.jp/schedule/detail/42119",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2025/10/08",
+    "day": "水",
+    "artist": "爆裂",
+    "title": "Erich Birthday Anniversary!!2025",
+    "url": "https://clubdrop.jp/schedule/detail/42119",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2025/10/08",
+    "day": "水",
+    "artist": "りんたろう",
+    "title": "Erich Birthday Anniversary!!2025",
+    "url": "https://clubdrop.jp/schedule/detail/42119",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2025/10/08",
+    "day": "水",
+    "artist": "せりな",
+    "title": "Erich Birthday Anniversary!!2025",
+    "url": "https://clubdrop.jp/schedule/detail/42119",
     "venue": "アメリカ村DROP",
     "note": ""
   },
@@ -16686,6 +17019,33 @@
     "note": ""
   },
   {
+    "date": "2025/08/30",
+    "day": "土",
+    "artist": "柚原杏梨",
+    "title": "柚原杏梨単独公演 【推しは推せる時に推せ‼️】",
+    "url": "https://osaka-varon.jp/schedule/detail/47070",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2025/08/30",
+    "day": "土",
+    "artist": "天女神樂",
+    "title": "天女神樂『御伽熊猫生誕祭2025』",
+    "url": "https://osaka-varon.jp/schedule/detail/36786",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2025/08/30",
+    "day": "土",
+    "artist": "AIMIA",
+    "title": "天女神樂『御伽熊猫生誕祭2025』",
+    "url": "https://osaka-varon.jp/schedule/detail/36786",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
     "date": "2025/08/31",
     "day": "日",
     "artist": "あおぞらをキミに",
@@ -17148,7 +17508,7 @@
     "date": "2025/09/04",
     "day": "木",
     "artist": "All I Clacks",
-    "title": "DUMBSTRUCK -TAISEI birthday Party & VARON 13th Anniversary-",
+    "title": "DUMBSTRUCK -TAISEI birthday Party & 心斎橋VARON13th ANNIVERSARY-",
     "url": "https://osaka-varon.jp/schedule/detail/43136",
     "venue": "VARON",
     "note": ""
@@ -17157,7 +17517,7 @@
     "date": "2025/09/04",
     "day": "木",
     "artist": "SATTU CREW",
-    "title": "DUMBSTRUCK -TAISEI birthday Party & VARON 13th Anniversary-",
+    "title": "DUMBSTRUCK -TAISEI birthday Party & 心斎橋VARON13th ANNIVERSARY-",
     "url": "https://osaka-varon.jp/schedule/detail/43136",
     "venue": "VARON",
     "note": ""
@@ -17166,7 +17526,7 @@
     "date": "2025/09/04",
     "day": "木",
     "artist": "よさこいマン",
-    "title": "DUMBSTRUCK -TAISEI birthday Party & VARON 13th Anniversary-",
+    "title": "DUMBSTRUCK -TAISEI birthday Party & 心斎橋VARON13th ANNIVERSARY-",
     "url": "https://osaka-varon.jp/schedule/detail/43136",
     "venue": "VARON",
     "note": ""
@@ -17175,7 +17535,7 @@
     "date": "2025/09/04",
     "day": "木",
     "artist": "CYCLONISTA",
-    "title": "DUMBSTRUCK -TAISEI birthday Party & VARON 13th Anniversary-",
+    "title": "DUMBSTRUCK -TAISEI birthday Party & 心斎橋VARON13th ANNIVERSARY-",
     "url": "https://osaka-varon.jp/schedule/detail/43136",
     "venue": "VARON",
     "note": ""
@@ -17184,7 +17544,7 @@
     "date": "2025/09/04",
     "day": "木",
     "artist": "Muddy Jackets",
-    "title": "DUMBSTRUCK -TAISEI birthday Party & VARON 13th Anniversary-",
+    "title": "DUMBSTRUCK -TAISEI birthday Party & 心斎橋VARON13th ANNIVERSARY-",
     "url": "https://osaka-varon.jp/schedule/detail/43136",
     "venue": "VARON",
     "note": ""
@@ -17193,7 +17553,7 @@
     "date": "2025/09/04",
     "day": "木",
     "artist": "Craps Obscure Life",
-    "title": "DUMBSTRUCK -TAISEI birthday Party & VARON 13th Anniversary-",
+    "title": "DUMBSTRUCK -TAISEI birthday Party & 心斎橋VARON13th ANNIVERSARY-",
     "url": "https://osaka-varon.jp/schedule/detail/43136",
     "venue": "VARON",
     "note": ""
@@ -17202,7 +17562,7 @@
     "date": "2025/09/04",
     "day": "木",
     "artist": "Smokin'After school",
-    "title": "DUMBSTRUCK -TAISEI birthday Party & VARON 13th Anniversary-",
+    "title": "DUMBSTRUCK -TAISEI birthday Party & 心斎橋VARON13th ANNIVERSARY-",
     "url": "https://osaka-varon.jp/schedule/detail/43136",
     "venue": "VARON",
     "note": ""
@@ -17211,7 +17571,7 @@
     "date": "2025/09/04",
     "day": "木",
     "artist": "3Springs",
-    "title": "DUMBSTRUCK -TAISEI birthday Party & VARON 13th Anniversary-",
+    "title": "DUMBSTRUCK -TAISEI birthday Party & 心斎橋VARON13th ANNIVERSARY-",
     "url": "https://osaka-varon.jp/schedule/detail/43136",
     "venue": "VARON",
     "note": ""
@@ -17220,7 +17580,7 @@
     "date": "2025/09/04",
     "day": "木",
     "artist": "NISC",
-    "title": "DUMBSTRUCK -TAISEI birthday Party & VARON 13th Anniversary-",
+    "title": "DUMBSTRUCK -TAISEI birthday Party & 心斎橋VARON13th ANNIVERSARY-",
     "url": "https://osaka-varon.jp/schedule/detail/43136",
     "venue": "VARON",
     "note": ""
@@ -17229,7 +17589,7 @@
     "date": "2025/09/04",
     "day": "木",
     "artist": "Kazukodelonge (Lightsout",
-    "title": "DUMBSTRUCK -TAISEI birthday Party & VARON 13th Anniversary-",
+    "title": "DUMBSTRUCK -TAISEI birthday Party & 心斎橋VARON13th ANNIVERSARY-",
     "url": "https://osaka-varon.jp/schedule/detail/43136",
     "venue": "VARON",
     "note": ""
@@ -17238,7 +17598,7 @@
     "date": "2025/09/04",
     "day": "木",
     "artist": "ex.VARON)",
-    "title": "DUMBSTRUCK -TAISEI birthday Party & VARON 13th Anniversary-",
+    "title": "DUMBSTRUCK -TAISEI birthday Party & 心斎橋VARON13th ANNIVERSARY-",
     "url": "https://osaka-varon.jp/schedule/detail/43136",
     "venue": "VARON",
     "note": ""
@@ -17247,7 +17607,7 @@
     "date": "2025/09/04",
     "day": "木",
     "artist": "Shingo",
-    "title": "DUMBSTRUCK -TAISEI birthday Party & VARON 13th Anniversary-",
+    "title": "DUMBSTRUCK -TAISEI birthday Party & 心斎橋VARON13th ANNIVERSARY-",
     "url": "https://osaka-varon.jp/schedule/detail/43136",
     "venue": "VARON",
     "note": ""
@@ -17256,7 +17616,7 @@
     "date": "2025/09/04",
     "day": "木",
     "artist": "RINTARO",
-    "title": "DUMBSTRUCK -TAISEI birthday Party & VARON 13th Anniversary-",
+    "title": "DUMBSTRUCK -TAISEI birthday Party & 心斎橋VARON13th ANNIVERSARY-",
     "url": "https://osaka-varon.jp/schedule/detail/43136",
     "venue": "VARON",
     "note": ""
@@ -17265,7 +17625,7 @@
     "date": "2025/09/04",
     "day": "木",
     "artist": "KAITO",
-    "title": "DUMBSTRUCK -TAISEI birthday Party & VARON 13th Anniversary-",
+    "title": "DUMBSTRUCK -TAISEI birthday Party & 心斎橋VARON13th ANNIVERSARY-",
     "url": "https://osaka-varon.jp/schedule/detail/43136",
     "venue": "VARON",
     "note": ""
@@ -17274,7 +17634,7 @@
     "date": "2025/09/04",
     "day": "木",
     "artist": "G.U.Y.",
-    "title": "DUMBSTRUCK -TAISEI birthday Party & VARON 13th Anniversary-",
+    "title": "DUMBSTRUCK -TAISEI birthday Party & 心斎橋VARON13th ANNIVERSARY-",
     "url": "https://osaka-varon.jp/schedule/detail/43136",
     "venue": "VARON",
     "note": ""
@@ -17283,7 +17643,7 @@
     "date": "2025/09/04",
     "day": "木",
     "artist": "TAISEI",
-    "title": "DUMBSTRUCK -TAISEI birthday Party & VARON 13th Anniversary-",
+    "title": "DUMBSTRUCK -TAISEI birthday Party & 心斎橋VARON13th ANNIVERSARY-",
     "url": "https://osaka-varon.jp/schedule/detail/43136",
     "venue": "VARON",
     "note": ""
@@ -17292,7 +17652,7 @@
     "date": "2025/09/04",
     "day": "木",
     "artist": "DAIKI",
-    "title": "DUMBSTRUCK -TAISEI birthday Party & VARON 13th Anniversary-",
+    "title": "DUMBSTRUCK -TAISEI birthday Party & 心斎橋VARON13th ANNIVERSARY-",
     "url": "https://osaka-varon.jp/schedule/detail/43136",
     "venue": "VARON",
     "note": ""
@@ -17301,7 +17661,7 @@
     "date": "2025/09/04",
     "day": "木",
     "artist": "Heavenly BURGER",
-    "title": "DUMBSTRUCK -TAISEI birthday Party & VARON 13th Anniversary-",
+    "title": "DUMBSTRUCK -TAISEI birthday Party & 心斎橋VARON13th ANNIVERSARY-",
     "url": "https://osaka-varon.jp/schedule/detail/43136",
     "venue": "VARON",
     "note": ""
@@ -17310,7 +17670,7 @@
     "date": "2025/09/05",
     "day": "金",
     "artist": "すごいバンド名にしたかった。",
-    "title": "すごいバンド名にしたかった。&サディスティック仮面ちゃんPre. 【SSR確定ツアー】",
+    "title": "すごいバンド名にしたかった。&サディスティック仮面ちゃんPre. 【SSR確定ツアー】-心斎橋VARON13th ANNIVERSARY-",
     "url": "https://osaka-varon.jp/schedule/detail/42645",
     "venue": "VARON",
     "note": ""
@@ -17319,7 +17679,7 @@
     "date": "2025/09/05",
     "day": "金",
     "artist": "サディスティック仮面ちゃん",
-    "title": "すごいバンド名にしたかった。&サディスティック仮面ちゃんPre. 【SSR確定ツアー】",
+    "title": "すごいバンド名にしたかった。&サディスティック仮面ちゃんPre. 【SSR確定ツアー】-心斎橋VARON13th ANNIVERSARY-",
     "url": "https://osaka-varon.jp/schedule/detail/42645",
     "venue": "VARON",
     "note": ""
@@ -17328,7 +17688,7 @@
     "date": "2025/09/05",
     "day": "金",
     "artist": "ZIYOLA",
-    "title": "すごいバンド名にしたかった。&サディスティック仮面ちゃんPre. 【SSR確定ツアー】",
+    "title": "すごいバンド名にしたかった。&サディスティック仮面ちゃんPre. 【SSR確定ツアー】-心斎橋VARON13th ANNIVERSARY-",
     "url": "https://osaka-varon.jp/schedule/detail/42645",
     "venue": "VARON",
     "note": ""
@@ -17337,7 +17697,7 @@
     "date": "2025/09/05",
     "day": "金",
     "artist": "XENO CLOWN 他",
-    "title": "すごいバンド名にしたかった。&サディスティック仮面ちゃんPre. 【SSR確定ツアー】",
+    "title": "すごいバンド名にしたかった。&サディスティック仮面ちゃんPre. 【SSR確定ツアー】-心斎橋VARON13th ANNIVERSARY-",
     "url": "https://osaka-varon.jp/schedule/detail/42645",
     "venue": "VARON",
     "note": ""
@@ -27598,6 +27958,60 @@
     "day": "火",
     "artist": "問)knave06-6535-0691",
     "title": "NaturalWoman",
+    "url": "http://www.knave.co.jp/schedule/s_2025_10.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2025/10/23",
+    "day": "木",
+    "artist": "ルイ",
+    "title": "LoversRock",
+    "url": "http://www.knave.co.jp/schedule/s_2025_10.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2025/10/23",
+    "day": "木",
+    "artist": "永恵美遥",
+    "title": "LoversRock",
+    "url": "http://www.knave.co.jp/schedule/s_2025_10.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2025/10/23",
+    "day": "木",
+    "artist": "佐久間丈幸",
+    "title": "LoversRock",
+    "url": "http://www.knave.co.jp/schedule/s_2025_10.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2025/10/23",
+    "day": "木",
+    "artist": "小口拓利",
+    "title": "LoversRock",
+    "url": "http://www.knave.co.jp/schedule/s_2025_10.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2025/10/23",
+    "day": "木",
+    "artist": "杉野淳子",
+    "title": "LoversRock",
+    "url": "http://www.knave.co.jp/schedule/s_2025_10.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2025/10/23",
+    "day": "木",
+    "artist": "問)knave06-6535-0691",
+    "title": "LoversRock",
     "url": "http://www.knave.co.jp/schedule/s_2025_10.html",
     "venue": "knave",
     "note": ""
