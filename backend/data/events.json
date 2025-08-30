@@ -3989,8 +3989,26 @@
   {
     "date": "2025/09/19",
     "day": "金",
+    "artist": "久保田和之",
+    "title": "OPEN 18:30",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
+    "date": "2025/09/19",
+    "day": "金",
+    "artist": "加藤英幸",
+    "title": "OPEN 18:30",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
+    "date": "2025/09/19",
+    "day": "金",
     "artist": "今村モータース",
-    "title": "今村モータース / 村瀬裕子 / サコーンズ / 久保田和之",
+    "title": "OPEN 18:30",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -3999,7 +4017,7 @@
     "date": "2025/09/19",
     "day": "金",
     "artist": "村瀬裕子",
-    "title": "今村モータース / 村瀬裕子 / サコーンズ / 久保田和之",
+    "title": "OPEN 18:30",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -4008,16 +4026,7 @@
     "date": "2025/09/19",
     "day": "金",
     "artist": "サコーンズ",
-    "title": "今村モータース / 村瀬裕子 / サコーンズ / 久保田和之",
-    "url": "https://para-dice.net/",
-    "venue": "扇町para-dice",
-    "note": ""
-  },
-  {
-    "date": "2025/09/19",
-    "day": "金",
-    "artist": "久保田和之 and more...",
-    "title": "今村モータース / 村瀬裕子 / サコーンズ / 久保田和之",
+    "title": "OPEN 18:30",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -4286,17 +4295,8 @@
   {
     "date": "2025/09/27",
     "day": "土",
-    "artist": "TOTOJI",
-    "title": "TOTOJI / マッドショットガン / HARERU / ゆずサワー",
-    "url": "https://para-dice.net/",
-    "venue": "扇町para-dice",
-    "note": ""
-  },
-  {
-    "date": "2025/09/27",
-    "day": "土",
-    "artist": "マッドショットガン",
-    "title": "TOTOJI / マッドショットガン / HARERU / ゆずサワー",
+    "artist": "ゆずサワー",
+    "title": "19:00 〜 19:30 ゆずサワー",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -4305,7 +4305,7 @@
     "date": "2025/09/27",
     "day": "土",
     "artist": "HARERU",
-    "title": "TOTOJI / マッドショットガン / HARERU / ゆずサワー",
+    "title": "19:00 〜 19:30 ゆずサワー",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -4313,8 +4313,17 @@
   {
     "date": "2025/09/27",
     "day": "土",
-    "artist": "ゆずサワー and more...",
-    "title": "TOTOJI / マッドショットガン / HARERU / ゆずサワー",
+    "artist": "TOTOJI",
+    "title": "19:00 〜 19:30 ゆずサワー",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
+    "date": "2025/09/27",
+    "day": "土",
+    "artist": "マッドショットガン",
+    "title": "19:00 〜 19:30 ゆずサワー",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -4493,8 +4502,8 @@
   {
     "date": "2025/10/02",
     "day": "木",
-    "artist": "ベリーバッドアラモード",
-    "title": "ベリーバッドアラモード / shitakuchü / JACKSTRAW / yoake no seirei / こもも",
+    "artist": "yoake no seirei",
+    "title": "OPEN 18:30",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -4502,8 +4511,8 @@
   {
     "date": "2025/10/02",
     "day": "木",
-    "artist": "shitakuchü",
-    "title": "ベリーバッドアラモード / shitakuchü / JACKSTRAW / yoake no seirei / こもも",
+    "artist": "ベリーバッドアラモード",
+    "title": "OPEN 18:30",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -4512,16 +4521,7 @@
     "date": "2025/10/02",
     "day": "木",
     "artist": "JACKSTRAW",
-    "title": "ベリーバッドアラモード / shitakuchü / JACKSTRAW / yoake no seirei / こもも",
-    "url": "https://para-dice.net/",
-    "venue": "扇町para-dice",
-    "note": ""
-  },
-  {
-    "date": "2025/10/02",
-    "day": "木",
-    "artist": "yoake no seirei",
-    "title": "ベリーバッドアラモード / shitakuchü / JACKSTRAW / yoake no seirei / こもも",
+    "title": "OPEN 18:30",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -4530,7 +4530,16 @@
     "date": "2025/10/02",
     "day": "木",
     "artist": "こもも",
-    "title": "ベリーバッドアラモード / shitakuchü / JACKSTRAW / yoake no seirei / こもも",
+    "title": "OPEN 18:30",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
+    "date": "2025/10/02",
+    "day": "木",
+    "artist": "shitakuchü",
+    "title": "OPEN 18:30",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -4601,8 +4610,8 @@
   {
     "date": "2025/10/04",
     "day": "土",
-    "artist": "からし",
-    "title": "からし / rockstain / 爆音シンフォニー(徳島) / VALLEY SIDE (徳島) / NEAREQUAL / spiral chai",
+    "artist": "spiral chai",
+    "title": "OPEN 17:30",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -4611,25 +4620,7 @@
     "date": "2025/10/04",
     "day": "土",
     "artist": "rockstain",
-    "title": "からし / rockstain / 爆音シンフォニー(徳島) / VALLEY SIDE (徳島) / NEAREQUAL / spiral chai",
-    "url": "https://para-dice.net/",
-    "venue": "扇町para-dice",
-    "note": ""
-  },
-  {
-    "date": "2025/10/04",
-    "day": "土",
-    "artist": "爆音シンフォニー",
-    "title": "からし / rockstain / 爆音シンフォニー(徳島) / VALLEY SIDE (徳島) / NEAREQUAL / spiral chai",
-    "url": "https://para-dice.net/",
-    "venue": "扇町para-dice",
-    "note": ""
-  },
-  {
-    "date": "2025/10/04",
-    "day": "土",
-    "artist": "VALLEY SIDE",
-    "title": "からし / rockstain / 爆音シンフォニー(徳島) / VALLEY SIDE (徳島) / NEAREQUAL / spiral chai",
+    "title": "OPEN 17:30",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -4638,7 +4629,7 @@
     "date": "2025/10/04",
     "day": "土",
     "artist": "NEAREQUAL",
-    "title": "からし / rockstain / 爆音シンフォニー(徳島) / VALLEY SIDE (徳島) / NEAREQUAL / spiral chai",
+    "title": "OPEN 17:30",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -4646,8 +4637,26 @@
   {
     "date": "2025/10/04",
     "day": "土",
-    "artist": "spiral chai",
-    "title": "からし / rockstain / 爆音シンフォニー(徳島) / VALLEY SIDE (徳島) / NEAREQUAL / spiral chai",
+    "artist": "VALLEY SIDE",
+    "title": "OPEN 17:30",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
+    "date": "2025/10/04",
+    "day": "土",
+    "artist": "からし",
+    "title": "OPEN 17:30",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
+    "date": "2025/10/04",
+    "day": "土",
+    "artist": "爆音シンフォニー",
+    "title": "OPEN 17:30",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -7121,16 +7130,7 @@
   {
     "date": "2025/09/01",
     "day": "月",
-    "artist": "dore",
-    "title": "二期二会〜遠征SP〜",
-    "url": "https://vijon.jp/schedule/detail/45784",
-    "venue": "北堀江club vijon",
-    "note": ""
-  },
-  {
-    "date": "2025/09/01",
-    "day": "月",
-    "artist": "ろる",
+    "artist": "ろる ※出演予定のdoreですが、諸事情により出演をキャンセルとなりました。",
     "title": "二期二会〜遠征SP〜",
     "url": "https://vijon.jp/schedule/detail/45784",
     "venue": "北堀江club vijon",
@@ -7167,15 +7167,6 @@
     "date": "2025/09/02",
     "day": "火",
     "artist": "松久保竜也",
-    "title": "【YAVAI VIBES】- ヤヴァイヴァイブス - DAY1",
-    "url": "https://vijon.jp/schedule/detail/45529",
-    "venue": "北堀江club vijon",
-    "note": ""
-  },
-  {
-    "date": "2025/09/02",
-    "day": "火",
-    "artist": "and more...",
     "title": "【YAVAI VIBES】- ヤヴァイヴァイブス - DAY1",
     "url": "https://vijon.jp/schedule/detail/45529",
     "venue": "北堀江club vijon",
@@ -7340,6 +7331,15 @@
     "artist": "Mary Ann たけやま三種盛",
     "title": "Mary Ann &こーぷすBirthday Party 【BEATS AND CHEERS!!】",
     "url": "https://vijon.jp/schedule/detail/40615",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2025/09/06",
+    "day": "土",
+    "artist": "YURiKA",
+    "title": "YURiKAのラジオつくってみました。in大阪！ 　(Talk)",
+    "url": "https://vijon.jp/schedule/detail/45617",
     "venue": "北堀江club vijon",
     "note": ""
   },
@@ -8348,6 +8348,42 @@
     "artist": "Raymond",
     "title": "北堀江club vijon × 横浜B.B.street 交換イベント【HAMA × HAN】大阪vijon編",
     "url": "https://vijon.jp/schedule/detail/45552",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2025/10/28",
+    "day": "火",
+    "artist": "komsume",
+    "title": "【komsume 大阪人気者計画】- club vijon 23rd anniversary -",
+    "url": "https://vijon.jp/schedule/detail/43615",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2025/10/28",
+    "day": "火",
+    "artist": "ニアフレンズ",
+    "title": "【komsume 大阪人気者計画】- club vijon 23rd anniversary -",
+    "url": "https://vijon.jp/schedule/detail/43615",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2025/10/28",
+    "day": "火",
+    "artist": "NOIMAGE",
+    "title": "【komsume 大阪人気者計画】- club vijon 23rd anniversary -",
+    "url": "https://vijon.jp/schedule/detail/43615",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2025/10/28",
+    "day": "火",
+    "artist": "サラバヨアケ",
+    "title": "【komsume 大阪人気者計画】- club vijon 23rd anniversary -",
+    "url": "https://vijon.jp/schedule/detail/43615",
     "venue": "北堀江club vijon",
     "note": ""
   },
@@ -11646,6 +11682,33 @@
     "note": ""
   },
   {
+    "date": "2025/11/22",
+    "day": "土",
+    "artist": "それでも尚、未来に媚びる",
+    "title": "それでも尚、未来に媚びる企画「爆竹・梅田場所」",
+    "url": "https://bangboo.jp/schedule/detail/44053",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2025/11/22",
+    "day": "土",
+    "artist": "竹原ピストル",
+    "title": "それでも尚、未来に媚びる企画「爆竹・梅田場所」",
+    "url": "https://bangboo.jp/schedule/detail/44053",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2025/11/22",
+    "day": "土",
+    "artist": "SOUTH BLOW",
+    "title": "それでも尚、未来に媚びる企画「爆竹・梅田場所」",
+    "url": "https://bangboo.jp/schedule/detail/44053",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
     "date": "2025/11/28",
     "day": "金",
     "artist": "PUNK ROCK FACTORY",
@@ -14697,6 +14760,393 @@
     "note": ""
   },
   {
+    "date": "2025/09/07",
+    "day": "日",
+    "artist": "acro-A",
+    "title": "\"IDOORLOVES\" -Special Summer Circuit-",
+    "url": "https://clubdrop.jp/schedule/detail/38239",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2025/09/07",
+    "day": "日",
+    "artist": "AZ-ON",
+    "title": "\"IDOORLOVES\" -Special Summer Circuit-",
+    "url": "https://clubdrop.jp/schedule/detail/38239",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2025/09/07",
+    "day": "日",
+    "artist": "アブソプ",
+    "title": "\"IDOORLOVES\" -Special Summer Circuit-",
+    "url": "https://clubdrop.jp/schedule/detail/38239",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2025/09/07",
+    "day": "日",
+    "artist": "アリビオ",
+    "title": "\"IDOORLOVES\" -Special Summer Circuit-",
+    "url": "https://clubdrop.jp/schedule/detail/38239",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2025/09/07",
+    "day": "日",
+    "artist": "アルカ",
+    "title": "\"IDOORLOVES\" -Special Summer Circuit-",
+    "url": "https://clubdrop.jp/schedule/detail/38239",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2025/09/07",
+    "day": "日",
+    "artist": "WeZ",
+    "title": "\"IDOORLOVES\" -Special Summer Circuit-",
+    "url": "https://clubdrop.jp/schedule/detail/38239",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2025/09/07",
+    "day": "日",
+    "artist": "AIMIA",
+    "title": "\"IDOORLOVES\" -Special Summer Circuit-",
+    "url": "https://clubdrop.jp/schedule/detail/38239",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2025/09/07",
+    "day": "日",
+    "artist": "ExciteOneSelf",
+    "title": "\"IDOORLOVES\" -Special Summer Circuit-",
+    "url": "https://clubdrop.jp/schedule/detail/38239",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2025/09/07",
+    "day": "日",
+    "artist": "éclatcia",
+    "title": "\"IDOORLOVES\" -Special Summer Circuit-",
+    "url": "https://clubdrop.jp/schedule/detail/38239",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2025/09/07",
+    "day": "日",
+    "artist": "ELEVYZ",
+    "title": "\"IDOORLOVES\" -Special Summer Circuit-",
+    "url": "https://clubdrop.jp/schedule/detail/38239",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2025/09/07",
+    "day": "日",
+    "artist": "ENVY PARANOID",
+    "title": "\"IDOORLOVES\" -Special Summer Circuit-",
+    "url": "https://clubdrop.jp/schedule/detail/38239",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2025/09/07",
+    "day": "日",
+    "artist": "KAMuRO",
+    "title": "\"IDOORLOVES\" -Special Summer Circuit-",
+    "url": "https://clubdrop.jp/schedule/detail/38239",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2025/09/07",
+    "day": "日",
+    "artist": "GLIM of GRAND",
+    "title": "\"IDOORLOVES\" -Special Summer Circuit-",
+    "url": "https://clubdrop.jp/schedule/detail/38239",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2025/09/07",
+    "day": "日",
+    "artist": "cleomery",
+    "title": "\"IDOORLOVES\" -Special Summer Circuit-",
+    "url": "https://clubdrop.jp/schedule/detail/38239",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2025/09/07",
+    "day": "日",
+    "artist": "CHEMICAL X",
+    "title": "\"IDOORLOVES\" -Special Summer Circuit-",
+    "url": "https://clubdrop.jp/schedule/detail/38239",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2025/09/07",
+    "day": "日",
+    "artist": "CØCØRIZE",
+    "title": "\"IDOORLOVES\" -Special Summer Circuit-",
+    "url": "https://clubdrop.jp/schedule/detail/38239",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2025/09/07",
+    "day": "日",
+    "artist": "ココロシンドローム",
+    "title": "\"IDOORLOVES\" -Special Summer Circuit-",
+    "url": "https://clubdrop.jp/schedule/detail/38239",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2025/09/07",
+    "day": "日",
+    "artist": "Cosmoslay",
+    "title": "\"IDOORLOVES\" -Special Summer Circuit-",
+    "url": "https://clubdrop.jp/schedule/detail/38239",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2025/09/07",
+    "day": "日",
+    "artist": "CIRCLE CRUSHER",
+    "title": "\"IDOORLOVES\" -Special Summer Circuit-",
+    "url": "https://clubdrop.jp/schedule/detail/38239",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2025/09/07",
+    "day": "日",
+    "artist": "CYCLONISTA",
+    "title": "\"IDOORLOVES\" -Special Summer Circuit-",
+    "url": "https://clubdrop.jp/schedule/detail/38239",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2025/09/07",
+    "day": "日",
+    "artist": "SANUGLOW",
+    "title": "\"IDOORLOVES\" -Special Summer Circuit-",
+    "url": "https://clubdrop.jp/schedule/detail/38239",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2025/09/07",
+    "day": "日",
+    "artist": "SHOWDOWN",
+    "title": "\"IDOORLOVES\" -Special Summer Circuit-",
+    "url": "https://clubdrop.jp/schedule/detail/38239",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2025/09/07",
+    "day": "日",
+    "artist": "白黒アリス",
+    "title": "\"IDOORLOVES\" -Special Summer Circuit-",
+    "url": "https://clubdrop.jp/schedule/detail/38239",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2025/09/07",
+    "day": "日",
+    "artist": "sync-sens",
+    "title": "\"IDOORLOVES\" -Special Summer Circuit-",
+    "url": "https://clubdrop.jp/schedule/detail/38239",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2025/09/07",
+    "day": "日",
+    "artist": "STARRY×NIGHT↗",
+    "title": "\"IDOORLOVES\" -Special Summer Circuit-",
+    "url": "https://clubdrop.jp/schedule/detail/38239",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2025/09/07",
+    "day": "日",
+    "artist": "ぜろから☆すた→と",
+    "title": "\"IDOORLOVES\" -Special Summer Circuit-",
+    "url": "https://clubdrop.jp/schedule/detail/38239",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2025/09/07",
+    "day": "日",
+    "artist": "NiTRO",
+    "title": "\"IDOORLOVES\" -Special Summer Circuit-",
+    "url": "https://clubdrop.jp/schedule/detail/38239",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2025/09/07",
+    "day": "日",
+    "artist": "NiL",
+    "title": "\"IDOORLOVES\" -Special Summer Circuit-",
+    "url": "https://clubdrop.jp/schedule/detail/38239",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2025/09/07",
+    "day": "日",
+    "artist": "ネテルダイヤ",
+    "title": "\"IDOORLOVES\" -Special Summer Circuit-",
+    "url": "https://clubdrop.jp/schedule/detail/38239",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2025/09/07",
+    "day": "日",
+    "artist": "BR!OT",
+    "title": "\"IDOORLOVES\" -Special Summer Circuit-",
+    "url": "https://clubdrop.jp/schedule/detail/38239",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2025/09/07",
+    "day": "日",
+    "artist": "frecia",
+    "title": "\"IDOORLOVES\" -Special Summer Circuit-",
+    "url": "https://clubdrop.jp/schedule/detail/38239",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2025/09/07",
+    "day": "日",
+    "artist": "MAGMAZ",
+    "title": "\"IDOORLOVES\" -Special Summer Circuit-",
+    "url": "https://clubdrop.jp/schedule/detail/38239",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2025/09/07",
+    "day": "日",
+    "artist": "ミラーシュカ",
+    "title": "\"IDOORLOVES\" -Special Summer Circuit-",
+    "url": "https://clubdrop.jp/schedule/detail/38239",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2025/09/07",
+    "day": "日",
+    "artist": "MAZE",
+    "title": "\"IDOORLOVES\" -Special Summer Circuit-",
+    "url": "https://clubdrop.jp/schedule/detail/38239",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2025/09/07",
+    "day": "日",
+    "artist": "めっ！",
+    "title": "\"IDOORLOVES\" -Special Summer Circuit-",
+    "url": "https://clubdrop.jp/schedule/detail/38239",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2025/09/07",
+    "day": "日",
+    "artist": "Merry Mellow",
+    "title": "\"IDOORLOVES\" -Special Summer Circuit-",
+    "url": "https://clubdrop.jp/schedule/detail/38239",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2025/09/07",
+    "day": "日",
+    "artist": "meluQ",
+    "title": "\"IDOORLOVES\" -Special Summer Circuit-",
+    "url": "https://clubdrop.jp/schedule/detail/38239",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2025/09/07",
+    "day": "日",
+    "artist": "YOUR ADVISORY BOARD",
+    "title": "\"IDOORLOVES\" -Special Summer Circuit-",
+    "url": "https://clubdrop.jp/schedule/detail/38239",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2025/09/07",
+    "day": "日",
+    "artist": "妖狐繚乱",
+    "title": "\"IDOORLOVES\" -Special Summer Circuit-",
+    "url": "https://clubdrop.jp/schedule/detail/38239",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2025/09/07",
+    "day": "日",
+    "artist": "LOVE xx BAD",
+    "title": "\"IDOORLOVES\" -Special Summer Circuit-",
+    "url": "https://clubdrop.jp/schedule/detail/38239",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2025/09/07",
+    "day": "日",
+    "artist": "LØISLOID",
+    "title": "\"IDOORLOVES\" -Special Summer Circuit-",
+    "url": "https://clubdrop.jp/schedule/detail/38239",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2025/09/07",
+    "day": "日",
+    "artist": "LΩPARA",
+    "title": "\"IDOORLOVES\" -Special Summer Circuit-",
+    "url": "https://clubdrop.jp/schedule/detail/38239",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2025/09/07",
+    "day": "日",
+    "artist": "lonlium",
+    "title": "\"IDOORLOVES\" -Special Summer Circuit-",
+    "url": "https://clubdrop.jp/schedule/detail/38239",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
     "date": "2025/09/09",
     "day": "火",
     "artist": "鐘ト銃声",
@@ -14852,7 +15302,16 @@
   {
     "date": "2025/09/11",
     "day": "木",
-    "artist": "Parallel Frank andmore!!",
+    "artist": "Parallel Frank",
+    "title": "DROP×UnpRayable pre.BOMB CRASH DROP-ALL I WANT アンチコモンセンス TOUR 2025-アメリカ村 DROP 22th ANNIVERSARY-",
+    "url": "https://clubdrop.jp/schedule/detail/44855",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2025/09/11",
+    "day": "木",
+    "artist": "Ovalcore",
     "title": "DROP×UnpRayable pre.BOMB CRASH DROP-ALL I WANT アンチコモンセンス TOUR 2025-アメリカ村 DROP 22th ANNIVERSARY-",
     "url": "https://clubdrop.jp/schedule/detail/44855",
     "venue": "アメリカ村DROP",
@@ -15159,6 +15618,15 @@
     "date": "2025/09/27",
     "day": "土",
     "artist": "遊絵図時英減衰曲線",
+    "title": "USJ FEST 2025",
+    "url": "https://clubdrop.jp/schedule/detail/39334",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2025/09/27",
+    "day": "土",
+    "artist": "野比い！",
     "title": "USJ FEST 2025",
     "url": "https://clubdrop.jp/schedule/detail/39334",
     "venue": "アメリカ村DROP",
@@ -18470,7 +18938,7 @@
   {
     "date": "2025/09/05",
     "day": "金",
-    "artist": "XENO CLOWN 他",
+    "artist": "XENO CLOWN",
     "title": "すごいバンド名にしたかった。&サディスティック仮面ちゃんPre. 【SSR確定ツアー】-心斎橋VARON13th ANNIVERSARY-",
     "url": "https://osaka-varon.jp/schedule/detail/42645",
     "venue": "VARON",
@@ -18941,6 +19409,51 @@
     "artist": "ELOLEGARDEN",
     "title": "夏バロン",
     "url": "https://osaka-varon.jp/schedule/detail/43137",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2025/09/11",
+    "day": "木",
+    "artist": "Re:sist",
+    "title": "〖one who resists stands to win liberty.〗 -Re:sist 1st Anniversary -",
+    "url": "https://osaka-varon.jp/schedule/detail/43149",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2025/09/12",
+    "day": "金",
+    "artist": "アクアリウム。",
+    "title": "アクアリウム。定期公演vol.11「no name」",
+    "url": "https://osaka-varon.jp/schedule/detail/38375",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2025/09/12",
+    "day": "金",
+    "artist": "あおぞらをキミに",
+    "title": "アクアリウム。定期公演vol.11「no name」",
+    "url": "https://osaka-varon.jp/schedule/detail/38375",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2025/09/12",
+    "day": "金",
+    "artist": "#PANnana",
+    "title": "アクアリウム。定期公演vol.11「no name」",
+    "url": "https://osaka-varon.jp/schedule/detail/38375",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2025/09/12",
+    "day": "金",
+    "artist": "ゼロキョリハーツ",
+    "title": "アクアリウム。定期公演vol.11「no name」",
+    "url": "https://osaka-varon.jp/schedule/detail/38375",
     "venue": "VARON",
     "note": ""
   },
@@ -22340,7 +22853,7 @@
   {
     "date": "2025/09/04",
     "day": "木",
-    "artist": "おかえりなさいご主人様",
+    "artist": "マシンガンエチケット",
     "title": "ゆきね企画",
     "url": "https://osaka-zeela.jp/schedule/detail/41822",
     "venue": "Zeela",
@@ -29324,15 +29837,6 @@
   {
     "date": "2025/10/20",
     "day": "月",
-    "artist": "ニドネハル",
-    "title": "LoversRock",
-    "url": "http://www.knave.co.jp/schedule/s_2025_10.html",
-    "venue": "knave",
-    "note": ""
-  },
-  {
-    "date": "2025/10/20",
-    "day": "月",
     "artist": "KOSSY",
     "title": "LoversRock",
     "url": "http://www.knave.co.jp/schedule/s_2025_10.html",
@@ -29351,6 +29855,15 @@
   {
     "date": "2025/10/20",
     "day": "月",
+    "artist": "RIKKA",
+    "title": "LoversRock",
+    "url": "http://www.knave.co.jp/schedule/s_2025_10.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2025/10/20",
+    "day": "月",
     "artist": "HATSUE[sore'078",
     "title": "LoversRock",
     "url": "http://www.knave.co.jp/schedule/s_2025_10.html",
@@ -29361,6 +29874,24 @@
     "date": "2025/10/20",
     "day": "月",
     "artist": "aslowcotta]",
+    "title": "LoversRock",
+    "url": "http://www.knave.co.jp/schedule/s_2025_10.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2025/10/20",
+    "day": "月",
+    "artist": "※出演を予定しておりましたニドネハルは",
+    "title": "LoversRock",
+    "url": "http://www.knave.co.jp/schedule/s_2025_10.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2025/10/20",
+    "day": "月",
+    "artist": "キャンセルとなりました。",
     "title": "LoversRock",
     "url": "http://www.knave.co.jp/schedule/s_2025_10.html",
     "venue": "knave",
