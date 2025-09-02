@@ -2450,7 +2450,7 @@
   {
     "date": "2025/09/15",
     "day": "月祝",
-    "artist": "Poecity",
+    "artist": "河童のヨーコ",
     "title": "OPEN 17:45",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
@@ -2459,7 +2459,7 @@
   {
     "date": "2025/09/15",
     "day": "月祝",
-    "artist": "河童のヨーコ",
+    "artist": "Poecity",
     "title": "OPEN 17:45",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
@@ -2702,8 +2702,8 @@
   {
     "date": "2025/09/21",
     "day": "日",
-    "artist": "Gecko Cult Cartel",
-    "title": "Gecko Cult Cartel / the dominant curve / 生まれたての鯨 /",
+    "artist": "アニキ",
+    "title": "OPEN 18:00",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -2711,8 +2711,8 @@
   {
     "date": "2025/09/21",
     "day": "日",
-    "artist": "the dominant curve",
-    "title": "Gecko Cult Cartel / the dominant curve / 生まれたての鯨 /",
+    "artist": "Gecko Cult Cartel",
+    "title": "OPEN 18:00",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -2721,7 +2721,7 @@
     "date": "2025/09/21",
     "day": "日",
     "artist": "生まれたての鯨",
-    "title": "Gecko Cult Cartel / the dominant curve / 生まれたての鯨 /",
+    "title": "OPEN 18:00",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -2729,8 +2729,8 @@
   {
     "date": "2025/09/21",
     "day": "日",
-    "artist": "and more...",
-    "title": "Gecko Cult Cartel / the dominant curve / 生まれたての鯨 /",
+    "artist": "the dominant curve",
+    "title": "OPEN 18:00",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -2739,7 +2739,7 @@
     "date": "2025/09/21",
     "day": "日",
     "artist": "※madohiは諸事情により出演キャンセルとなりました",
-    "title": "Gecko Cult Cartel / the dominant curve / 生まれたての鯨 /",
+    "title": "OPEN 18:00",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -3494,25 +3494,7 @@
   {
     "date": "2025/10/11",
     "day": "土",
-    "artist": "and more?",
-    "title": "bluekeys pre.",
-    "url": "https://para-dice.net/",
-    "venue": "扇町para-dice",
-    "note": ""
-  },
-  {
-    "date": "2025/10/11",
-    "day": "土",
-    "artist": "open",
-    "title": "bluekeys pre.",
-    "url": "https://para-dice.net/",
-    "venue": "扇町para-dice",
-    "note": ""
-  },
-  {
-    "date": "2025/10/11",
-    "day": "土",
-    "artist": "start TBA",
+    "artist": "ichiru",
     "title": "bluekeys pre.",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
@@ -3676,6 +3658,60 @@
     "day": "金",
     "artist": "ハロルド",
     "title": "OPEN 18:00",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
+    "date": "2025/10/18",
+    "day": "土",
+    "artist": "白夜プレゼンツ",
+    "title": "白夜プレゼンツ",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
+    "date": "2025/10/18",
+    "day": "土",
+    "artist": "白夜",
+    "title": "白夜プレゼンツ",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
+    "date": "2025/10/18",
+    "day": "土",
+    "artist": "ザズエイラーズ",
+    "title": "白夜プレゼンツ",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
+    "date": "2025/10/18",
+    "day": "土",
+    "artist": "xSxBxRx",
+    "title": "白夜プレゼンツ",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
+    "date": "2025/10/18",
+    "day": "土",
+    "artist": "Rozzo",
+    "title": "白夜プレゼンツ",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
+    "date": "2025/10/18",
+    "day": "土",
+    "artist": "奥村由希",
+    "title": "白夜プレゼンツ",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -4323,7 +4359,7 @@
     "date": "2025/11/07",
     "day": "金",
     "artist": "para-dice企画",
-    "title": "『SPIN!!!』",
+    "title": "『 SPIN!!! 』",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -4331,8 +4367,8 @@
   {
     "date": "2025/11/07",
     "day": "金",
-    "artist": "『SPIN!!!』",
-    "title": "『SPIN!!!』",
+    "artist": "『 SPIN!!! 』",
+    "title": "『 SPIN!!! 』",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -4341,7 +4377,7 @@
     "date": "2025/11/07",
     "day": "金",
     "artist": "かりすの死骸",
-    "title": "『SPIN!!!』",
+    "title": "『 SPIN!!! 』",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -4350,7 +4386,7 @@
     "date": "2025/11/07",
     "day": "金",
     "artist": "ド真ん中ズン",
-    "title": "『SPIN!!!』",
+    "title": "『 SPIN!!! 』",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -4359,7 +4395,7 @@
     "date": "2025/11/07",
     "day": "金",
     "artist": "赤いアフロ",
-    "title": "『SPIN!!!』",
+    "title": "『 SPIN!!! 』",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -4997,16 +5033,7 @@
   {
     "date": "2025/09/02",
     "day": "火",
-    "artist": "是是",
-    "title": "【YAVAI VIBES】- ヤヴァイヴァイブス - DAY1",
-    "url": "https://vijon.jp/schedule/detail/45529",
-    "venue": "北堀江club vijon",
-    "note": ""
-  },
-  {
-    "date": "2025/09/02",
-    "day": "火",
-    "artist": "松久保竜也",
+    "artist": "松久保竜也 ※出演予定でした 是是 が出演キャンセルとなりました。",
     "title": "【YAVAI VIBES】- ヤヴァイヴァイブス - DAY1",
     "url": "https://vijon.jp/schedule/detail/45529",
     "venue": "北堀江club vijon",
@@ -7803,6 +7830,15 @@
     "note": ""
   },
   {
+    "date": "2025/10/13",
+    "day": "月",
+    "artist": "真新宿GR学園",
+    "title": "電音部 カブキエリア 真新宿GR学園 『真新宿天下統一ノ乱』",
+    "url": "https://bangboo.jp/schedule/detail/41815",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
     "date": "2025/10/17",
     "day": "金",
     "artist": "] 音の旅crew",
@@ -8064,6 +8100,15 @@
     "note": ""
   },
   {
+    "date": "2025/11/23",
+    "day": "日",
+    "artist": "可愛いって⾔わないと呪う︕",
+    "title": "「エビ♡プリsingleリリースワンマンTOUR!! supported by WEGO 〜⼤阪編〜」",
+    "url": "https://bangboo.jp/schedule/detail/42630",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
     "date": "2025/11/28",
     "day": "金",
     "artist": "PUNK ROCK FACTORY",
@@ -8303,6 +8348,33 @@
     "artist": "透明な7日目の真実",
     "title": "革命メロイック×ASH FRAST presents  『Go WEST!!』 ～西日本まんぷくツアー～",
     "url": "https://clubdrop.jp/schedule/detail/46352",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2025/09/06",
+    "day": "土",
+    "artist": "ティラミス",
+    "title": "ティラミス単独公演緊急開催vol.2〜早朝パジャマ編〜",
+    "url": "https://clubdrop.jp/schedule/detail/47267",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2025/09/06",
+    "day": "土",
+    "artist": "cleomery",
+    "title": "緊急無銭ツーマンライブ「気になるあの子。」",
+    "url": "https://clubdrop.jp/schedule/detail/47269",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2025/09/06",
+    "day": "土",
+    "artist": "丑03-USHIMITSU-",
+    "title": "緊急無銭ツーマンライブ「気になるあの子。」",
+    "url": "https://clubdrop.jp/schedule/detail/47269",
     "venue": "アメリカ村DROP",
     "note": ""
   },
@@ -12222,6 +12294,33 @@
     "note": ""
   },
   {
+    "date": "2025/10/23",
+    "day": "木",
+    "artist": "husky",
+    "title": "ちくわ・びゃくや・そら　生誕祭　大阪編",
+    "url": "https://osaka-varon.jp/schedule/detail/44280",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2025/10/23",
+    "day": "木",
+    "artist": "sync-sens",
+    "title": "ちくわ・びゃくや・そら　生誕祭　大阪編",
+    "url": "https://osaka-varon.jp/schedule/detail/44280",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2025/10/23",
+    "day": "木",
+    "artist": "ディノゾール",
+    "title": "ちくわ・びゃくや・そら　生誕祭　大阪編",
+    "url": "https://osaka-varon.jp/schedule/detail/44280",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
     "date": "2025/10/24",
     "day": "金",
     "artist": "Drop After Dawn",
@@ -15086,8 +15185,107 @@
   {
     "date": "2025/10/11",
     "day": "土",
-    "artist": "coming soon...",
-    "title": "HALL RENTAL",
+    "artist": "阿部寛",
+    "title": "ばにたすかんべ企画",
+    "url": "https://osaka-zeela.jp/schedule/detail/37964",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2025/10/11",
+    "day": "土",
+    "artist": "union jack みすみ循環器内科クリニック",
+    "title": "ばにたすかんべ企画",
+    "url": "https://osaka-zeela.jp/schedule/detail/37964",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2025/10/11",
+    "day": "土",
+    "artist": "カムバックホーン",
+    "title": "ばにたすかんべ企画",
+    "url": "https://osaka-zeela.jp/schedule/detail/37964",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2025/10/11",
+    "day": "土",
+    "artist": "suchmoth",
+    "title": "ばにたすかんべ企画",
+    "url": "https://osaka-zeela.jp/schedule/detail/37964",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2025/10/11",
+    "day": "土",
+    "artist": "10",
+    "title": "ばにたすかんべ企画",
+    "url": "https://osaka-zeela.jp/schedule/detail/37964",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2025/10/11",
+    "day": "土",
+    "artist": "11mm Parabellum Bullet",
+    "title": "ばにたすかんべ企画",
+    "url": "https://osaka-zeela.jp/schedule/detail/37964",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2025/10/11",
+    "day": "土",
+    "artist": "アルティメットチキン☆ビーガンズ",
+    "title": "ばにたすかんべ企画",
+    "url": "https://osaka-zeela.jp/schedule/detail/37964",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2025/10/11",
+    "day": "土",
+    "artist": "ハリー・ポッター・ケンヤ",
+    "title": "ばにたすかんべ企画",
+    "url": "https://osaka-zeela.jp/schedule/detail/37964",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2025/10/11",
+    "day": "土",
+    "artist": "Bipolar",
+    "title": "ばにたすかんべ企画",
+    "url": "https://osaka-zeela.jp/schedule/detail/37964",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2025/10/11",
+    "day": "土",
+    "artist": "韓国",
+    "title": "ばにたすかんべ企画",
+    "url": "https://osaka-zeela.jp/schedule/detail/37964",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2025/10/11",
+    "day": "土",
+    "artist": "飲み会全員出席しますズ",
+    "title": "ばにたすかんべ企画",
+    "url": "https://osaka-zeela.jp/schedule/detail/37964",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2025/10/11",
+    "day": "土",
+    "artist": "老害しがれっつ",
+    "title": "ばにたすかんべ企画",
     "url": "https://osaka-zeela.jp/schedule/detail/37964",
     "venue": "Zeela",
     "note": ""
@@ -15707,7 +15905,7 @@
   {
     "date": "2025/11/18",
     "day": "火",
-    "artist": "プラットホーム",
+    "artist": "プラットホームSpice house カリーノアトリエ",
     "title": "Otani Koh & szsy presents \"JUNCTION BOX\"",
     "url": "https://osaka-zeela.jp/schedule/detail/43943",
     "venue": "Zeela",
@@ -17964,6 +18162,24 @@
     "note": ""
   },
   {
+    "date": "2025/10/12",
+    "day": "日",
+    "artist": "supabo.",
+    "title": "supabo. one man live tour 2025「blue moment」大阪公演",
+    "url": "http://www.knave.co.jp/schedule/s_2025_10.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2025/10/12",
+    "day": "日",
+    "artist": "問)TIGETお問い合わせフォーム",
+    "title": "supabo. one man live tour 2025「blue moment」大阪公演",
+    "url": "http://www.knave.co.jp/schedule/s_2025_10.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
     "date": "2025/10/13",
     "day": "月",
     "artist": "Collaboration Live",
@@ -18605,16 +18821,7 @@
   {
     "date": "2025/10/26",
     "day": "日",
-    "artist": "一般発売 8",
-    "title": "土屋公平 LIVE TOUR 2025",
-    "url": "http://www.knave.co.jp/schedule/s_2025_10.html",
-    "venue": "knave",
-    "note": ""
-  },
-  {
-    "date": "2025/10/26",
-    "day": "日",
-    "artist": "8",
+    "artist": "SOLDOUT",
     "title": "土屋公平 LIVE TOUR 2025",
     "url": "http://www.knave.co.jp/schedule/s_2025_10.html",
     "venue": "knave",
@@ -19453,6 +19660,96 @@
     "day": "日",
     "artist": "問)knave06-6535-0691",
     "title": "杉野淳子Oneman live",
+    "url": "http://www.knave.co.jp/schedule/s_2025_12.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2026/01/25",
+    "day": "日",
+    "artist": "『ずっとクイーンが好きだった！』",
+    "title": "knave of Hearts Vol. 1",
+    "url": "http://www.knave.co.jp/schedule/s_2025_12.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2026/01/25",
+    "day": "日",
+    "artist": "ROLLY + QUEENESS 神業の一夜",
+    "title": "knave of Hearts Vol. 1",
+    "url": "http://www.knave.co.jp/schedule/s_2025_12.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2026/01/25",
+    "day": "日",
+    "artist": "ROLLY",
+    "title": "knave of Hearts Vol. 1",
+    "url": "http://www.knave.co.jp/schedule/s_2025_12.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2026/01/25",
+    "day": "日",
+    "artist": "QUEENESS",
+    "title": "knave of Hearts Vol. 1",
+    "url": "http://www.knave.co.jp/schedule/s_2025_12.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2026/01/25",
+    "day": "日",
+    "artist": "プレオーダー9",
+    "title": "knave of Hearts Vol. 1",
+    "url": "http://www.knave.co.jp/schedule/s_2025_12.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2026/01/25",
+    "day": "日",
+    "artist": "1410:00〜9",
+    "title": "knave of Hearts Vol. 1",
+    "url": "http://www.knave.co.jp/schedule/s_2025_12.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2026/01/25",
+    "day": "日",
+    "artist": "2023:59",
+    "title": "knave of Hearts Vol. 1",
+    "url": "http://www.knave.co.jp/schedule/s_2025_12.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2026/01/25",
+    "day": "日",
+    "artist": "一般発売 9",
+    "title": "knave of Hearts Vol. 1",
+    "url": "http://www.knave.co.jp/schedule/s_2025_12.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2026/01/25",
+    "day": "日",
+    "artist": "27",
+    "title": "knave of Hearts Vol. 1",
+    "url": "http://www.knave.co.jp/schedule/s_2025_12.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2026/01/25",
+    "day": "日",
+    "artist": "問)knave06-6535-0691",
+    "title": "knave of Hearts Vol. 1",
     "url": "http://www.knave.co.jp/schedule/s_2025_12.html",
     "venue": "knave",
     "note": ""
