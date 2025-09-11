@@ -893,7 +893,7 @@
   {
     "date": "2025/10/06",
     "day": "月",
-    "artist": "日本少",
+    "artist": "日本少女",
     "title": "マイ・ジェネレーション・アンデパンダン",
     "url": "https://fireloop.net/schedule_now.shtml#1006",
     "venue": "寺田町Fireloop",
@@ -920,7 +920,7 @@
   {
     "date": "2025/10/06",
     "day": "月",
-    "artist": "爽風",
+    "artist": "爽風紀",
     "title": "マイ・ジェネレーション・アンデパンダン",
     "url": "https://fireloop.net/schedule_now.shtml#1006",
     "venue": "寺田町Fireloop",
@@ -947,9 +947,99 @@
   {
     "date": "2025/10/06",
     "day": "月",
-    "artist": "and more...!",
+    "artist": "ruggirl",
     "title": "マイ・ジェネレーション・アンデパンダン",
     "url": "https://fireloop.net/schedule_now.shtml#1006",
+    "venue": "寺田町Fireloop",
+    "note": ""
+  },
+  {
+    "date": "2025/10/07",
+    "day": "火",
+    "artist": "Axith",
+    "title": "CQC vol.3",
+    "url": "https://fireloop.net/schedule_now.shtml#1007",
+    "venue": "寺田町Fireloop",
+    "note": ""
+  },
+  {
+    "date": "2025/10/07",
+    "day": "火",
+    "artist": "エダワカレ",
+    "title": "CQC vol.3",
+    "url": "https://fireloop.net/schedule_now.shtml#1007",
+    "venue": "寺田町Fireloop",
+    "note": ""
+  },
+  {
+    "date": "2025/10/07",
+    "day": "火",
+    "artist": "FATEBOX",
+    "title": "CQC vol.3",
+    "url": "https://fireloop.net/schedule_now.shtml#1007",
+    "venue": "寺田町Fireloop",
+    "note": ""
+  },
+  {
+    "date": "2025/10/07",
+    "day": "火",
+    "artist": "Muddy Jackets",
+    "title": "CQC vol.3",
+    "url": "https://fireloop.net/schedule_now.shtml#1007",
+    "venue": "寺田町Fireloop",
+    "note": ""
+  },
+  {
+    "date": "2025/10/07",
+    "day": "火",
+    "artist": "FIVE NO RISK",
+    "title": "CQC vol.3",
+    "url": "https://fireloop.net/schedule_now.shtml#1007",
+    "venue": "寺田町Fireloop",
+    "note": ""
+  },
+  {
+    "date": "2025/10/08",
+    "day": "水",
+    "artist": "CRYK",
+    "title": "overplugged",
+    "url": "https://fireloop.net/schedule_now.shtml#1008",
+    "venue": "寺田町Fireloop",
+    "note": ""
+  },
+  {
+    "date": "2025/10/08",
+    "day": "水",
+    "artist": "クロロカンナ",
+    "title": "overplugged",
+    "url": "https://fireloop.net/schedule_now.shtml#1008",
+    "venue": "寺田町Fireloop",
+    "note": ""
+  },
+  {
+    "date": "2025/10/08",
+    "day": "水",
+    "artist": "shom",
+    "title": "overplugged",
+    "url": "https://fireloop.net/schedule_now.shtml#1008",
+    "venue": "寺田町Fireloop",
+    "note": ""
+  },
+  {
+    "date": "2025/10/08",
+    "day": "水",
+    "artist": "Aqlet",
+    "title": "overplugged",
+    "url": "https://fireloop.net/schedule_now.shtml#1008",
+    "venue": "寺田町Fireloop",
+    "note": ""
+  },
+  {
+    "date": "2025/10/08",
+    "day": "水",
+    "artist": "senju",
+    "title": "overplugged",
+    "url": "https://fireloop.net/schedule_now.shtml#1008",
     "venue": "寺田町Fireloop",
     "note": ""
   },
@@ -1130,6 +1220,51 @@
     "artist": "and more",
     "title": "不完全性定理",
     "url": "https://fireloop.net/schedule_now.shtml#1020",
+    "venue": "寺田町Fireloop",
+    "note": ""
+  },
+  {
+    "date": "2025/10/21",
+    "day": "火",
+    "artist": "Axith",
+    "title": "CQC vol.3",
+    "url": "https://fireloop.net/schedule_now.shtml#1021",
+    "venue": "寺田町Fireloop",
+    "note": ""
+  },
+  {
+    "date": "2025/10/21",
+    "day": "火",
+    "artist": "THYPALM",
+    "title": "CQC vol.3",
+    "url": "https://fireloop.net/schedule_now.shtml#1021",
+    "venue": "寺田町Fireloop",
+    "note": ""
+  },
+  {
+    "date": "2025/10/21",
+    "day": "火",
+    "artist": "MOTHERGOOSE",
+    "title": "CQC vol.3",
+    "url": "https://fireloop.net/schedule_now.shtml#1021",
+    "venue": "寺田町Fireloop",
+    "note": ""
+  },
+  {
+    "date": "2025/10/21",
+    "day": "火",
+    "artist": "ハイグレードピーマンズ",
+    "title": "CQC vol.3",
+    "url": "https://fireloop.net/schedule_now.shtml#1021",
+    "venue": "寺田町Fireloop",
+    "note": ""
+  },
+  {
+    "date": "2025/10/21",
+    "day": "火",
+    "artist": "and more...",
+    "title": "CQC vol.3",
+    "url": "https://fireloop.net/schedule_now.shtml#1021",
     "venue": "寺田町Fireloop",
     "note": ""
   },
@@ -1337,6 +1472,33 @@
     "artist": "misomania",
     "title": "黄色い潜水",
     "url": "https://fireloop.net/schedule_now.shtml#1111",
+    "venue": "寺田町Fireloop",
+    "note": ""
+  },
+  {
+    "date": "2025/11/12",
+    "day": "水",
+    "artist": "よさこいマン",
+    "title": "よさこいマンとバイセーシツアー25'",
+    "url": "https://fireloop.net/schedule_now.shtml#1112",
+    "venue": "寺田町Fireloop",
+    "note": ""
+  },
+  {
+    "date": "2025/11/12",
+    "day": "水",
+    "artist": "バイセーシ",
+    "title": "よさこいマンとバイセーシツアー25'",
+    "url": "https://fireloop.net/schedule_now.shtml#1112",
+    "venue": "寺田町Fireloop",
+    "note": ""
+  },
+  {
+    "date": "2025/11/12",
+    "day": "水",
+    "artist": "and more!",
+    "title": "よさこいマンとバイセーシツアー25'",
+    "url": "https://fireloop.net/schedule_now.shtml#1112",
     "venue": "寺田町Fireloop",
     "note": ""
   },
@@ -3503,8 +3665,8 @@
   {
     "date": "2025/10/21",
     "day": "火",
-    "artist": "天才アンチ",
-    "title": "( ) / 天才アンチ / 自転車SO業舎 / BALANCE LOST",
+    "artist": "BALANCE LOST",
+    "title": "OPEN 18:30",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -3513,7 +3675,7 @@
     "date": "2025/10/21",
     "day": "火",
     "artist": "自転車SO業舎",
-    "title": "( ) / 天才アンチ / 自転車SO業舎 / BALANCE LOST",
+    "title": "OPEN 18:30",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -3521,8 +3683,8 @@
   {
     "date": "2025/10/21",
     "day": "火",
-    "artist": "BALANCE LOST and more...",
-    "title": "( ) / 天才アンチ / 自転車SO業舎 / BALANCE LOST",
+    "artist": "天才アンチ",
+    "title": "OPEN 18:30",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -4635,6 +4797,78 @@
     "note": ""
   },
   {
+    "date": "2025/11/23",
+    "day": "日",
+    "artist": "ANIKI BAND企画",
+    "title": "ANIKI BAND企画",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
+    "date": "2025/11/23",
+    "day": "日",
+    "artist": "「ULTIMATE CUSTOM NIGHT 2025」",
+    "title": "ANIKI BAND企画",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
+    "date": "2025/11/23",
+    "day": "日",
+    "artist": "ANIKI BAND CUSTOM",
+    "title": "ANIKI BAND企画",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
+    "date": "2025/11/23",
+    "day": "日",
+    "artist": "キムラ亮",
+    "title": "ANIKI BAND企画",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
+    "date": "2025/11/23",
+    "day": "日",
+    "artist": "コスメティックラヴァーズ",
+    "title": "ANIKI BAND企画",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
+    "date": "2025/11/23",
+    "day": "日",
+    "artist": "しなのユーキ",
+    "title": "ANIKI BAND企画",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
+    "date": "2025/11/23",
+    "day": "日",
+    "artist": "ハイファイコーヒーズ",
+    "title": "ANIKI BAND企画",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
+    "date": "2025/11/23",
+    "day": "日",
+    "artist": "ANIKI BAND COVERS",
+    "title": "ANIKI BAND企画",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
     "date": "2025/11/24",
     "day": "月祝",
     "artist": "para-dice企画",
@@ -4673,7 +4907,16 @@
   {
     "date": "2025/11/24",
     "day": "月祝",
-    "artist": "小原未樹  and more...",
+    "artist": "小原未樹",
+    "title": "para-dice企画",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
+    "date": "2025/11/24",
+    "day": "月祝",
+    "artist": "レレレ",
     "title": "para-dice企画",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
@@ -4719,7 +4962,7 @@
     "date": "2025/11/27",
     "day": "木",
     "artist": "ラウンドヘッド",
-    "title": "ラウンドヘッド / ストロボ・ライツ(北海道) / 永尾蕗子",
+    "title": "ラウンドヘッド / ストロボ・ライツ(北海道) / 永尾蕗子 / Lone Otter",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -4728,7 +4971,7 @@
     "date": "2025/11/27",
     "day": "木",
     "artist": "ストロボ・ライツ",
-    "title": "ラウンドヘッド / ストロボ・ライツ(北海道) / 永尾蕗子",
+    "title": "ラウンドヘッド / ストロボ・ライツ(北海道) / 永尾蕗子 / Lone Otter",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -4736,8 +4979,17 @@
   {
     "date": "2025/11/27",
     "day": "木",
-    "artist": "永尾蕗子 and more...",
-    "title": "ラウンドヘッド / ストロボ・ライツ(北海道) / 永尾蕗子",
+    "artist": "永尾蕗子",
+    "title": "ラウンドヘッド / ストロボ・ライツ(北海道) / 永尾蕗子 / Lone Otter",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
+    "date": "2025/11/27",
+    "day": "木",
+    "artist": "Lone Otter and more...",
+    "title": "ラウンドヘッド / ストロボ・ライツ(北海道) / 永尾蕗子 / Lone Otter",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -5823,6 +6075,87 @@
     "note": ""
   },
   {
+    "date": "2025/09/14",
+    "day": "日",
+    "artist": "コバラヘル",
+    "title": "PIEN presents 【PassAge Point in OSAKA Vol.13】",
+    "url": "https://vijon.jp/schedule/detail/44235",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2025/09/14",
+    "day": "日",
+    "artist": "XENOCLOWN",
+    "title": "PIEN presents 【PassAge Point in OSAKA Vol.13】",
+    "url": "https://vijon.jp/schedule/detail/44235",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2025/09/14",
+    "day": "日",
+    "artist": "バブロス",
+    "title": "PIEN presents 【PassAge Point in OSAKA Vol.13】",
+    "url": "https://vijon.jp/schedule/detail/44235",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2025/09/14",
+    "day": "日",
+    "artist": "sirokunote",
+    "title": "PIEN presents 【PassAge Point in OSAKA Vol.13】",
+    "url": "https://vijon.jp/schedule/detail/44235",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2025/09/14",
+    "day": "日",
+    "artist": "asano raincoat",
+    "title": "PIEN presents 【PassAge Point in OSAKA Vol.13】",
+    "url": "https://vijon.jp/schedule/detail/44235",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2025/09/14",
+    "day": "日",
+    "artist": "VAR'MILION",
+    "title": "PIEN presents 【PassAge Point in OSAKA Vol.13】",
+    "url": "https://vijon.jp/schedule/detail/44235",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2025/09/14",
+    "day": "日",
+    "artist": "Ovalcore",
+    "title": "PIEN presents 【PassAge Point in OSAKA Vol.13】",
+    "url": "https://vijon.jp/schedule/detail/44235",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2025/09/14",
+    "day": "日",
+    "artist": "Neil DiMC",
+    "title": "PIEN presents 【PassAge Point in OSAKA Vol.13】",
+    "url": "https://vijon.jp/schedule/detail/44235",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2025/09/14",
+    "day": "日",
+    "artist": "SOCIAL×MATCH",
+    "title": "PIEN presents 【PassAge Point in OSAKA Vol.13】",
+    "url": "https://vijon.jp/schedule/detail/44235",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
     "date": "2025/09/15",
     "day": "月",
     "artist": "MAYOHK",
@@ -5927,6 +6260,132 @@
     "artist": "280Allergy",
     "title": "【BRAVE SONGS】vol.6",
     "url": "https://vijon.jp/schedule/detail/46036",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2025/09/18",
+    "day": "木",
+    "artist": "<fighter>イシハラレイ",
+    "title": "【club vijonギターバトル2025 秋予選大会】",
+    "url": "https://vijon.jp/schedule/detail/44842",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2025/09/18",
+    "day": "木",
+    "artist": "ワタナベショウタ",
+    "title": "【club vijonギターバトル2025 秋予選大会】",
+    "url": "https://vijon.jp/schedule/detail/44842",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2025/09/18",
+    "day": "木",
+    "artist": "マグナム寺井",
+    "title": "【club vijonギターバトル2025 秋予選大会】",
+    "url": "https://vijon.jp/schedule/detail/44842",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2025/09/18",
+    "day": "木",
+    "artist": "パカよし",
+    "title": "【club vijonギターバトル2025 秋予選大会】",
+    "url": "https://vijon.jp/schedule/detail/44842",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2025/09/18",
+    "day": "木",
+    "artist": "NAOMI",
+    "title": "【club vijonギターバトル2025 秋予選大会】",
+    "url": "https://vijon.jp/schedule/detail/44842",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2025/09/18",
+    "day": "木",
+    "artist": "syoge",
+    "title": "【club vijonギターバトル2025 秋予選大会】",
+    "url": "https://vijon.jp/schedule/detail/44842",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2025/09/18",
+    "day": "木",
+    "artist": "クロカワ",
+    "title": "【club vijonギターバトル2025 秋予選大会】",
+    "url": "https://vijon.jp/schedule/detail/44842",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2025/09/18",
+    "day": "木",
+    "artist": "ジュニア",
+    "title": "【club vijonギターバトル2025 秋予選大会】",
+    "url": "https://vijon.jp/schedule/detail/44842",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2025/09/18",
+    "day": "木",
+    "artist": "Tanasho",
+    "title": "【club vijonギターバトル2025 秋予選大会】",
+    "url": "https://vijon.jp/schedule/detail/44842",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2025/09/18",
+    "day": "木",
+    "artist": "<審査員>sumida",
+    "title": "【club vijonギターバトル2025 秋予選大会】",
+    "url": "https://vijon.jp/schedule/detail/44842",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2025/09/18",
+    "day": "木",
+    "artist": "<司会>ポール",
+    "title": "【club vijonギターバトル2025 秋予選大会】",
+    "url": "https://vijon.jp/schedule/detail/44842",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2025/09/18",
+    "day": "木",
+    "artist": "<楽器隊>Ba.堂地",
+    "title": "【club vijonギターバトル2025 秋予選大会】",
+    "url": "https://vijon.jp/schedule/detail/44842",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2025/09/18",
+    "day": "木",
+    "artist": "清水凱",
+    "title": "【club vijonギターバトル2025 秋予選大会】",
+    "url": "https://vijon.jp/schedule/detail/44842",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2025/09/18",
+    "day": "木",
+    "artist": "Dr. ...and more",
+    "title": "【club vijonギターバトル2025 秋予選大会】",
+    "url": "https://vijon.jp/schedule/detail/44842",
     "venue": "北堀江club vijon",
     "note": ""
   },
@@ -9369,15 +9828,6 @@
     "note": ""
   },
   {
-    "date": "2025/11/01",
-    "day": "土",
-    "artist": "NICOLAS",
-    "title": "NICOLAS ONEMAN「UNDOING」",
-    "url": "https://bangboo.jp/schedule/detail/41990",
-    "venue": "梅田BANGBOO",
-    "note": ""
-  },
-  {
     "date": "2025/11/02",
     "day": "日",
     "artist": "I SEE STARS",
@@ -11952,6 +12402,69 @@
     "note": ""
   },
   {
+    "date": "2025/09/29",
+    "day": "月",
+    "artist": "ENVY PARANOID",
+    "title": "ENVY PARANOID pre. 燕返し-ツバメガエシ- 弍ノ太刀 DROP 22th anniversary",
+    "url": "https://clubdrop.jp/schedule/detail/44697",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2025/09/29",
+    "day": "月",
+    "artist": "9DayzGlitchClubTokyo",
+    "title": "ENVY PARANOID pre. 燕返し-ツバメガエシ- 弍ノ太刀 DROP 22th anniversary",
+    "url": "https://clubdrop.jp/schedule/detail/44697",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2025/09/29",
+    "day": "月",
+    "artist": "LΩPARA",
+    "title": "ENVY PARANOID pre. 燕返し-ツバメガエシ- 弍ノ太刀 DROP 22th anniversary",
+    "url": "https://clubdrop.jp/schedule/detail/44697",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2025/09/29",
+    "day": "月",
+    "artist": "幽世脅嚇",
+    "title": "ENVY PARANOID pre. 燕返し-ツバメガエシ- 弍ノ太刀 DROP 22th anniversary",
+    "url": "https://clubdrop.jp/schedule/detail/44697",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2025/09/29",
+    "day": "月",
+    "artist": "ArmaElla",
+    "title": "ENVY PARANOID pre. 燕返し-ツバメガエシ- 弍ノ太刀 DROP 22th anniversary",
+    "url": "https://clubdrop.jp/schedule/detail/44697",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2025/09/29",
+    "day": "月",
+    "artist": "TOKYOてふてふ",
+    "title": "ENVY PARANOID pre. 燕返し-ツバメガエシ- 弍ノ太刀 DROP 22th anniversary",
+    "url": "https://clubdrop.jp/schedule/detail/44697",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2025/09/29",
+    "day": "月",
+    "artist": "LEIWAN",
+    "title": "ENVY PARANOID pre. 燕返し-ツバメガエシ- 弍ノ太刀 DROP 22th anniversary",
+    "url": "https://clubdrop.jp/schedule/detail/44697",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
     "date": "2025/10/01",
     "day": "水",
     "artist": "Disconnect Cendrillon",
@@ -12348,11 +12861,515 @@
     "note": ""
   },
   {
+    "date": "2025/10/15",
+    "day": "水",
+    "artist": "VEŁŁY",
+    "title": "Go to the Earth Tour 2025-Osaka edition-",
+    "url": "https://clubdrop.jp/schedule/detail/42259",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2025/10/15",
+    "day": "水",
+    "artist": "CURIOSITY.",
+    "title": "Go to the Earth Tour 2025-Osaka edition-",
+    "url": "https://clubdrop.jp/schedule/detail/42259",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2025/10/15",
+    "day": "水",
+    "artist": "raciku",
+    "title": "Go to the Earth Tour 2025-Osaka edition-",
+    "url": "https://clubdrop.jp/schedule/detail/42259",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2025/10/15",
+    "day": "水",
+    "artist": "おいでんズ。",
+    "title": "Go to the Earth Tour 2025-Osaka edition-",
+    "url": "https://clubdrop.jp/schedule/detail/42259",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2025/10/15",
+    "day": "水",
+    "artist": "Untold Few Seconds",
+    "title": "Go to the Earth Tour 2025-Osaka edition-",
+    "url": "https://clubdrop.jp/schedule/detail/42259",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2025/10/15",
+    "day": "水",
+    "artist": "OLTER CURRENT",
+    "title": "Go to the Earth Tour 2025-Osaka edition-",
+    "url": "https://clubdrop.jp/schedule/detail/42259",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
     "date": "2025/10/17",
     "day": "金",
     "artist": "Suspended 4th",
     "title": "Suspended 4th Advance Tour",
     "url": "https://clubdrop.jp/schedule/detail/44957",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2025/10/25",
+    "day": "土",
+    "artist": "＜LIVE＞アメハロコピバン＜DJ＞DJディズニーランド",
+    "title": "アメ村HALLOWEEN NIGHT",
+    "url": "https://clubdrop.jp/schedule/detail/43519",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2025/10/25",
+    "day": "土",
+    "artist": "爆裂(CRXSH",
+    "title": "アメ村HALLOWEEN NIGHT",
+    "url": "https://clubdrop.jp/schedule/detail/43519",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2025/10/25",
+    "day": "土",
+    "artist": "時の扉)",
+    "title": "アメ村HALLOWEEN NIGHT",
+    "url": "https://clubdrop.jp/schedule/detail/43519",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2025/10/25",
+    "day": "土",
+    "artist": "あんこ（さぶステ",
+    "title": "アメ村HALLOWEEN NIGHT",
+    "url": "https://clubdrop.jp/schedule/detail/43519",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2025/10/25",
+    "day": "土",
+    "artist": "ゲーマーズヘブン）",
+    "title": "アメ村HALLOWEEN NIGHT",
+    "url": "https://clubdrop.jp/schedule/detail/43519",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2025/10/25",
+    "day": "土",
+    "artist": "RAM（ヲタ霊",
+    "title": "アメ村HALLOWEEN NIGHT",
+    "url": "https://clubdrop.jp/schedule/detail/43519",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2025/10/25",
+    "day": "土",
+    "artist": "異臭騒ぎ）",
+    "title": "アメ村HALLOWEEN NIGHT",
+    "url": "https://clubdrop.jp/schedule/detail/43519",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2025/10/25",
+    "day": "土",
+    "artist": "AkkeY(KAGIROI",
+    "title": "アメ村HALLOWEEN NIGHT",
+    "url": "https://clubdrop.jp/schedule/detail/43519",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2025/10/25",
+    "day": "土",
+    "artist": "USAGI Production)",
+    "title": "アメ村HALLOWEEN NIGHT",
+    "url": "https://clubdrop.jp/schedule/detail/43519",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2025/10/25",
+    "day": "土",
+    "artist": "紫音（J-ROCK大作戦",
+    "title": "アメ村HALLOWEEN NIGHT",
+    "url": "https://clubdrop.jp/schedule/detail/43519",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2025/10/25",
+    "day": "土",
+    "artist": "LABAR）",
+    "title": "アメ村HALLOWEEN NIGHT",
+    "url": "https://clubdrop.jp/schedule/detail/43519",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2025/10/25",
+    "day": "土",
+    "artist": "らべーな(イケナイ",
+    "title": "アメ村HALLOWEEN NIGHT",
+    "url": "https://clubdrop.jp/schedule/detail/43519",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2025/10/25",
+    "day": "土",
+    "artist": "YAAAAAS)",
+    "title": "アメ村HALLOWEEN NIGHT",
+    "url": "https://clubdrop.jp/schedule/detail/43519",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2025/10/25",
+    "day": "土",
+    "artist": "一凛（BunGeee⭐️",
+    "title": "アメ村HALLOWEEN NIGHT",
+    "url": "https://clubdrop.jp/schedule/detail/43519",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2025/10/25",
+    "day": "土",
+    "artist": "ヲタ霊）",
+    "title": "アメ村HALLOWEEN NIGHT",
+    "url": "https://clubdrop.jp/schedule/detail/43519",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2025/10/25",
+    "day": "土",
+    "artist": "よねしー（ひみつきち！",
+    "title": "アメ村HALLOWEEN NIGHT",
+    "url": "https://clubdrop.jp/schedule/detail/43519",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2025/10/25",
+    "day": "土",
+    "artist": "untitled）",
+    "title": "アメ村HALLOWEEN NIGHT",
+    "url": "https://clubdrop.jp/schedule/detail/43519",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2025/10/25",
+    "day": "土",
+    "artist": "孤白(ヲタ霊",
+    "title": "アメ村HALLOWEEN NIGHT",
+    "url": "https://clubdrop.jp/schedule/detail/43519",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2025/10/25",
+    "day": "土",
+    "artist": "くろすおーば〜)",
+    "title": "アメ村HALLOWEEN NIGHT",
+    "url": "https://clubdrop.jp/schedule/detail/43519",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2025/10/25",
+    "day": "土",
+    "artist": "T-MO",
+    "title": "アメ村HALLOWEEN NIGHT",
+    "url": "https://clubdrop.jp/schedule/detail/43519",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2025/10/25",
+    "day": "土",
+    "artist": "GELBAN（ANIMELT",
+    "title": "アメ村HALLOWEEN NIGHT",
+    "url": "https://clubdrop.jp/schedule/detail/43519",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2025/10/25",
+    "day": "土",
+    "artist": "OPED）",
+    "title": "アメ村HALLOWEEN NIGHT",
+    "url": "https://clubdrop.jp/schedule/detail/43519",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2025/10/25",
+    "day": "土",
+    "artist": "あまやあめ",
+    "title": "アメ村HALLOWEEN NIGHT",
+    "url": "https://clubdrop.jp/schedule/detail/43519",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2025/10/25",
+    "day": "土",
+    "artist": "リュウa.k.aやんでぃ(EVILCIRCUS",
+    "title": "アメ村HALLOWEEN NIGHT",
+    "url": "https://clubdrop.jp/schedule/detail/43519",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2025/10/25",
+    "day": "土",
+    "artist": "漆黒の音楽会)",
+    "title": "アメ村HALLOWEEN NIGHT",
+    "url": "https://clubdrop.jp/schedule/detail/43519",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2025/10/25",
+    "day": "土",
+    "artist": "なづき",
+    "title": "アメ村HALLOWEEN NIGHT",
+    "url": "https://clubdrop.jp/schedule/detail/43519",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2025/10/25",
+    "day": "土",
+    "artist": "もち",
+    "title": "アメ村HALLOWEEN NIGHT",
+    "url": "https://clubdrop.jp/schedule/detail/43519",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2025/10/25",
+    "day": "土",
+    "artist": "DJ雑炊（HOTLIP",
+    "title": "アメ村HALLOWEEN NIGHT",
+    "url": "https://clubdrop.jp/schedule/detail/43519",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2025/10/25",
+    "day": "土",
+    "artist": "M@STER RAMPAGE）",
+    "title": "アメ村HALLOWEEN NIGHT",
+    "url": "https://clubdrop.jp/schedule/detail/43519",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2025/10/25",
+    "day": "土",
+    "artist": "つばさ(Freja",
+    "title": "アメ村HALLOWEEN NIGHT",
+    "url": "https://clubdrop.jp/schedule/detail/43519",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2025/10/25",
+    "day": "土",
+    "artist": "XOXODAY)",
+    "title": "アメ村HALLOWEEN NIGHT",
+    "url": "https://clubdrop.jp/schedule/detail/43519",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2025/10/25",
+    "day": "土",
+    "artist": "しろし〜＜VJ＞",
+    "title": "アメ村HALLOWEEN NIGHT",
+    "url": "https://clubdrop.jp/schedule/detail/43519",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2025/10/25",
+    "day": "土",
+    "artist": "Batsuichi(Bungeee☆",
+    "title": "アメ村HALLOWEEN NIGHT",
+    "url": "https://clubdrop.jp/schedule/detail/43519",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2025/10/25",
+    "day": "土",
+    "artist": "ラビフロ!!)",
+    "title": "アメ村HALLOWEEN NIGHT",
+    "url": "https://clubdrop.jp/schedule/detail/43519",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2025/10/25",
+    "day": "土",
+    "artist": "クロノ・F・翔太郎",
+    "title": "アメ村HALLOWEEN NIGHT",
+    "url": "https://clubdrop.jp/schedule/detail/43519",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2025/10/25",
+    "day": "土",
+    "artist": "ヒロポン（YAAAAAS!!!!!",
+    "title": "アメ村HALLOWEEN NIGHT",
+    "url": "https://clubdrop.jp/schedule/detail/43519",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2025/10/25",
+    "day": "土",
+    "artist": "キュアカニ）",
+    "title": "アメ村HALLOWEEN NIGHT",
+    "url": "https://clubdrop.jp/schedule/detail/43519",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2025/10/25",
+    "day": "土",
+    "artist": "MUHHAN ＜TEQUILA GIRL＞★Reko★",
+    "title": "アメ村HALLOWEEN NIGHT",
+    "url": "https://clubdrop.jp/schedule/detail/43519",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2025/10/25",
+    "day": "土",
+    "artist": "中野なのか",
+    "title": "アメ村HALLOWEEN NIGHT",
+    "url": "https://clubdrop.jp/schedule/detail/43519",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2025/10/25",
+    "day": "土",
+    "artist": "ゆまち ＜PHOTO＞ばく",
+    "title": "アメ村HALLOWEEN NIGHT",
+    "url": "https://clubdrop.jp/schedule/detail/43519",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2025/10/25",
+    "day": "土",
+    "artist": "ユキ ＜STAFF＞FJコジーナ",
+    "title": "アメ村HALLOWEEN NIGHT",
+    "url": "https://clubdrop.jp/schedule/detail/43519",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2025/10/25",
+    "day": "土",
+    "artist": "アルティメットちぃず",
+    "title": "アメ村HALLOWEEN NIGHT",
+    "url": "https://clubdrop.jp/schedule/detail/43519",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2025/10/25",
+    "day": "土",
+    "artist": "Laira（ほし☆グリ",
+    "title": "アメ村HALLOWEEN NIGHT",
+    "url": "https://clubdrop.jp/schedule/detail/43519",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2025/10/25",
+    "day": "土",
+    "artist": "まいスタ）",
+    "title": "アメ村HALLOWEEN NIGHT",
+    "url": "https://clubdrop.jp/schedule/detail/43519",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2025/10/25",
+    "day": "土",
+    "artist": "YUA(ボカロナイト",
+    "title": "アメ村HALLOWEEN NIGHT",
+    "url": "https://clubdrop.jp/schedule/detail/43519",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2025/10/25",
+    "day": "土",
+    "artist": "みんめしF)",
+    "title": "アメ村HALLOWEEN NIGHT",
+    "url": "https://clubdrop.jp/schedule/detail/43519",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2025/10/25",
+    "day": "土",
+    "artist": "酒雑魚ネキ",
+    "title": "アメ村HALLOWEEN NIGHT",
+    "url": "https://clubdrop.jp/schedule/detail/43519",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2025/10/25",
+    "day": "土",
+    "artist": "たくちん",
+    "title": "アメ村HALLOWEEN NIGHT",
+    "url": "https://clubdrop.jp/schedule/detail/43519",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2025/10/25",
+    "day": "土",
+    "artist": "テクノ",
+    "title": "アメ村HALLOWEEN NIGHT",
+    "url": "https://clubdrop.jp/schedule/detail/43519",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2025/10/25",
+    "day": "土",
+    "artist": "サーモン太郎",
+    "title": "アメ村HALLOWEEN NIGHT",
+    "url": "https://clubdrop.jp/schedule/detail/43519",
     "venue": "アメリカ村DROP",
     "note": ""
   },
@@ -17255,9 +18272,189 @@
   {
     "date": "2025/09/15",
     "day": "月",
-    "artist": "coming soon...",
-    "title": "HALL RENTAL",
+    "artist": "lullllul",
+    "title": "scramble",
     "url": "https://osaka-zeela.jp/schedule/detail/39231",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2025/09/15",
+    "day": "月",
+    "artist": "SANUGLOW",
+    "title": "scramble",
+    "url": "https://osaka-zeela.jp/schedule/detail/39231",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2025/09/15",
+    "day": "月",
+    "artist": "ミラーシュカ",
+    "title": "scramble",
+    "url": "https://osaka-zeela.jp/schedule/detail/39231",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2025/09/15",
+    "day": "月",
+    "artist": "ワッツ◎さーくる",
+    "title": "carol pixie -pink-",
+    "url": "https://osaka-zeela.jp/schedule/detail/47430",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2025/09/15",
+    "day": "月",
+    "artist": "#PANnana",
+    "title": "carol pixie -pink-",
+    "url": "https://osaka-zeela.jp/schedule/detail/47430",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2025/09/15",
+    "day": "月",
+    "artist": "アクアリウム。",
+    "title": "carol pixie -pink-",
+    "url": "https://osaka-zeela.jp/schedule/detail/47430",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2025/09/15",
+    "day": "月",
+    "artist": "husky",
+    "title": "carol pixie -pink-",
+    "url": "https://osaka-zeela.jp/schedule/detail/47430",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2025/09/15",
+    "day": "月",
+    "artist": "むげんこんぜ",
+    "title": "carol pixie -pink-",
+    "url": "https://osaka-zeela.jp/schedule/detail/47430",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2025/09/15",
+    "day": "月",
+    "artist": "sync sens",
+    "title": "carol pixie -pink-",
+    "url": "https://osaka-zeela.jp/schedule/detail/47430",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2025/09/15",
+    "day": "月",
+    "artist": "うぃるめり!",
+    "title": "carol pixie -pink-",
+    "url": "https://osaka-zeela.jp/schedule/detail/47430",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2025/09/15",
+    "day": "月",
+    "artist": "AMO million",
+    "title": "carol pixie -pink-",
+    "url": "https://osaka-zeela.jp/schedule/detail/47430",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2025/09/15",
+    "day": "月",
+    "artist": "ハピネスクラッカー!",
+    "title": "carol pixie -purple-",
+    "url": "https://osaka-zeela.jp/schedule/detail/47432",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2025/09/15",
+    "day": "月",
+    "artist": "Venom Lily",
+    "title": "carol pixie -purple-",
+    "url": "https://osaka-zeela.jp/schedule/detail/47432",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2025/09/15",
+    "day": "月",
+    "artist": "イロハサクラ",
+    "title": "carol pixie -purple-",
+    "url": "https://osaka-zeela.jp/schedule/detail/47432",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2025/09/15",
+    "day": "月",
+    "artist": "Twinkle☆Troupe",
+    "title": "carol pixie -purple-",
+    "url": "https://osaka-zeela.jp/schedule/detail/47432",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2025/09/15",
+    "day": "月",
+    "artist": "サルヴァドールの悪魔",
+    "title": "carol pixie -purple-",
+    "url": "https://osaka-zeela.jp/schedule/detail/47432",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2025/09/15",
+    "day": "月",
+    "artist": "Twilight BlooM.",
+    "title": "carol pixie -purple-",
+    "url": "https://osaka-zeela.jp/schedule/detail/47432",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2025/09/15",
+    "day": "月",
+    "artist": "妄想エデン",
+    "title": "carol pixie -purple-",
+    "url": "https://osaka-zeela.jp/schedule/detail/47432",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2025/09/15",
+    "day": "月",
+    "artist": "無花果とマシンガン",
+    "title": "carol pixie -purple-",
+    "url": "https://osaka-zeela.jp/schedule/detail/47432",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2025/09/15",
+    "day": "月",
+    "artist": "バンピール",
+    "title": "carol pixie -purple-",
+    "url": "https://osaka-zeela.jp/schedule/detail/47432",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2025/09/15",
+    "day": "月",
+    "artist": "柊ゆう",
+    "title": "carol pixie -purple-",
+    "url": "https://osaka-zeela.jp/schedule/detail/47432",
     "venue": "Zeela",
     "note": ""
   },
@@ -17645,6 +18842,15 @@
     "artist": "coming soon...",
     "title": "HALL RENTAL",
     "url": "https://osaka-zeela.jp/schedule/detail/41578",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2025/09/24",
+    "day": "水",
+    "artist": "DESCEND NoVA",
+    "title": "UNI-NOVUS vol.58",
+    "url": "https://osaka-zeela.jp/schedule/detail/45035",
     "venue": "Zeela",
     "note": ""
   },
@@ -18828,6 +20034,15 @@
     "note": ""
   },
   {
+    "date": "2025/10/24",
+    "day": "金",
+    "artist": "中将タカノリ／橋本菜津美／北岡夢子／れいか／ブルー／悠以／三枝雄子 演奏：竹瀬有美とネオブリード フード出店：露依楼囲",
+    "title": "大阪歌謡曲ナイト vol.7",
+    "url": "https://osaka-zeela.jp/schedule/detail/43796",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
     "date": "2025/10/25",
     "day": "土",
     "artist": "For Mimi Nishio",
@@ -19022,15 +20237,6 @@
     "artist": "lyrical school",
     "title": "BiTE A SHOCK × lyrical school Split Tour〜Neo Junction〜",
     "url": "https://osaka-zeela.jp/schedule/detail/45291",
-    "venue": "Zeela",
-    "note": ""
-  },
-  {
-    "date": "2025/11/02",
-    "day": "日",
-    "artist": "NICOLAS",
-    "title": "NICOLAS ONEMAN「REHALLOWEEN」",
-    "url": "https://osaka-zeela.jp/schedule/detail/41395",
     "venue": "Zeela",
     "note": ""
   },
