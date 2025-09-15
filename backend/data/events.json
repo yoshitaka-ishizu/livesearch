@@ -6491,7 +6491,7 @@
   {
     "date": "2025/09/19",
     "day": "金",
-    "artist": "...and more",
+    "artist": "山口建人",
     "title": "vijon pre.【Butterfly Pavilion】",
     "url": "https://vijon.jp/schedule/detail/44699",
     "venue": "北堀江club vijon",
@@ -11097,6 +11097,15 @@
     "note": ""
   },
   {
+    "date": "2026/01/10",
+    "day": "土",
+    "artist": "かわにしなつき",
+    "title": "かわにしなつき ONE MAN LIVE『last piece』",
+    "url": "https://bangboo.jp/schedule/detail/47280",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
     "date": "2025/09/01",
     "day": "月",
     "artist": "No.*Day",
@@ -13124,6 +13133,24 @@
   {
     "date": "2025/09/23",
     "day": "火",
+    "artist": "オカシリゾート",
+    "title": "オカシリゾート×SPRISE 2マン企画『SPRESORT vol.3』",
+    "url": "https://clubdrop.jp/schedule/detail/46657",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2025/09/23",
+    "day": "火",
+    "artist": "SPRISE",
+    "title": "オカシリゾート×SPRISE 2マン企画『SPRESORT vol.3』",
+    "url": "https://clubdrop.jp/schedule/detail/46657",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2025/09/23",
+    "day": "火",
     "artist": "KINJI",
     "title": "結婚式なのにライブ方式でごめんな祭",
     "url": "https://clubdrop.jp/schedule/detail/44178",
@@ -13406,6 +13433,15 @@
     "artist": "Aqua Beads Art'z",
     "title": "USJ FEST 2025",
     "url": "https://clubdrop.jp/schedule/detail/39334",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2025/09/28",
+    "day": "日",
+    "artist": "アブソプ",
+    "title": "アブソプ 定期公演 『永遠之契 -NEONATE-』",
+    "url": "https://clubdrop.jp/schedule/detail/42690",
     "venue": "アメリカ村DROP",
     "note": ""
   },
@@ -14090,6 +14126,51 @@
     "artist": "Suspended 4th",
     "title": "Suspended 4th Advance Tour",
     "url": "https://clubdrop.jp/schedule/detail/44957",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2025/10/18",
+    "day": "土",
+    "artist": "SPRISE",
+    "title": "SAMHAIN",
+    "url": "https://clubdrop.jp/schedule/detail/39253",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2025/10/18",
+    "day": "土",
+    "artist": "アブソプ",
+    "title": "SAMHAIN",
+    "url": "https://clubdrop.jp/schedule/detail/39253",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2025/10/18",
+    "day": "土",
+    "artist": "SANUGLOW",
+    "title": "SAMHAIN",
+    "url": "https://clubdrop.jp/schedule/detail/39253",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2025/10/18",
+    "day": "土",
+    "artist": "lullllul",
+    "title": "SAMHAIN",
+    "url": "https://clubdrop.jp/schedule/detail/39253",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2025/10/18",
+    "day": "土",
+    "artist": "ミラーシュカ",
+    "title": "SAMHAIN",
+    "url": "https://clubdrop.jp/schedule/detail/39253",
     "venue": "アメリカ村DROP",
     "note": ""
   },
@@ -18005,6 +18086,15 @@
     "artist": "HINODE SPICE CURRY",
     "title": "resonate vol.1",
     "url": "https://osaka-varon.jp/schedule/detail/45016",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2025/11/30",
+    "day": "日",
+    "artist": "アーバンギャルド",
+    "title": "アーバンギャルドpresents 少年少女のピカレスクツアー",
+    "url": "https://osaka-varon.jp/schedule/detail/39561",
     "venue": "VARON",
     "note": ""
   },
