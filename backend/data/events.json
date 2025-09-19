@@ -846,6 +846,15 @@
     "note": ""
   },
   {
+    "date": "2025/10/05",
+    "day": "",
+    "artist": "PLUE",
+    "title": "Your Love story",
+    "url": "https://fireloop.net/schedule_now.shtml#1005",
+    "venue": "寺田町Fireloop",
+    "note": ""
+  },
+  {
     "date": "2025/10/06",
     "day": "月",
     "artist": "Comical Fighters",
@@ -1377,6 +1386,42 @@
     "note": ""
   },
   {
+    "date": "2025/10/22",
+    "day": "水",
+    "artist": "PLATFORM",
+    "title": "overplugged",
+    "url": "https://fireloop.net/schedule_now.shtml#1022",
+    "venue": "寺田町Fireloop",
+    "note": ""
+  },
+  {
+    "date": "2025/10/22",
+    "day": "水",
+    "artist": "ガガ・スプート",
+    "title": "overplugged",
+    "url": "https://fireloop.net/schedule_now.shtml#1022",
+    "venue": "寺田町Fireloop",
+    "note": ""
+  },
+  {
+    "date": "2025/10/22",
+    "day": "水",
+    "artist": "egobag",
+    "title": "overplugged",
+    "url": "https://fireloop.net/schedule_now.shtml#1022",
+    "venue": "寺田町Fireloop",
+    "note": ""
+  },
+  {
+    "date": "2025/10/22",
+    "day": "水",
+    "artist": "the glory",
+    "title": "overplugged",
+    "url": "https://fireloop.net/schedule_now.shtml#1022",
+    "venue": "寺田町Fireloop",
+    "note": ""
+  },
+  {
     "date": "2025/10/24",
     "day": "金",
     "artist": "THE HAMIDA SHE'S",
@@ -1409,6 +1454,15 @@
     "artist": "VOLA & THE ORIENTAL MACHINE",
     "title": "ORIENTAL CONCOUR",
     "url": "https://fireloop.net/schedule_now.shtml#1025",
+    "venue": "寺田町Fireloop",
+    "note": ""
+  },
+  {
+    "date": "2025/10/26",
+    "day": "",
+    "artist": "10rippyeee",
+    "title": "『NEW STORY』in OSAKA",
+    "url": "https://fireloop.net/schedule_now.shtml#1026",
     "venue": "寺田町Fireloop",
     "note": ""
   },
@@ -4178,8 +4232,26 @@
   {
     "date": "2025/10/27",
     "day": "月",
-    "artist": "エチュバリア",
-    "title": "エチュバリア / カズロウズ /\n                \nスモーキンデスペラード / 中村天一",
+    "artist": "スモーキンデスペラード",
+    "title": "18:30 〜 19:00 スモーキンデスペラード",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
+    "date": "2025/10/27",
+    "day": "月",
+    "artist": "ヘテロズ",
+    "title": "18:30 〜 19:00 スモーキンデスペラード",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
+    "date": "2025/10/27",
+    "day": "月",
+    "artist": "中村天一",
+    "title": "18:30 〜 19:00 スモーキンデスペラード",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -4188,7 +4260,7 @@
     "date": "2025/10/27",
     "day": "月",
     "artist": "カズロウズ",
-    "title": "エチュバリア / カズロウズ /\n                \nスモーキンデスペラード / 中村天一",
+    "title": "18:30 〜 19:00 スモーキンデスペラード",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -4196,8 +4268,8 @@
   {
     "date": "2025/10/27",
     "day": "月",
-    "artist": "スモーキンデスペラード",
-    "title": "エチュバリア / カズロウズ /\n                \nスモーキンデスペラード / 中村天一",
+    "artist": "mango.",
+    "title": "18:30 〜 19:00 スモーキンデスペラード",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -4205,8 +4277,8 @@
   {
     "date": "2025/10/27",
     "day": "月",
-    "artist": "中村天一 and more...",
-    "title": "エチュバリア / カズロウズ /\n                \nスモーキンデスペラード / 中村天一",
+    "artist": "エチュバリア",
+    "title": "18:30 〜 19:00 スモーキンデスペラード",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -4484,17 +4556,8 @@
   {
     "date": "2025/11/06",
     "day": "木",
-    "artist": "Rie Lee",
-    "title": "Rie Lee / ホンジョウ / 京橋光(f.カリニャンクール) / コノカーン / カリウタ / MCSHIGE Rockingchair",
-    "url": "https://para-dice.net/",
-    "venue": "扇町para-dice",
-    "note": ""
-  },
-  {
-    "date": "2025/11/06",
-    "day": "木",
-    "artist": "ホンジョウ",
-    "title": "Rie Lee / ホンジョウ / 京橋光(f.カリニャンクール) / コノカーン / カリウタ / MCSHIGE Rockingchair",
+    "artist": "MCSHIGE Rockingchair",
+    "title": "OPEN 18:15",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -4503,16 +4566,7 @@
     "date": "2025/11/06",
     "day": "木",
     "artist": "京橋光",
-    "title": "Rie Lee / ホンジョウ / 京橋光(f.カリニャンクール) / コノカーン / カリウタ / MCSHIGE Rockingchair",
-    "url": "https://para-dice.net/",
-    "venue": "扇町para-dice",
-    "note": ""
-  },
-  {
-    "date": "2025/11/06",
-    "day": "木",
-    "artist": "コノカーン",
-    "title": "Rie Lee / ホンジョウ / 京橋光(f.カリニャンクール) / コノカーン / カリウタ / MCSHIGE Rockingchair",
+    "title": "OPEN 18:15",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -4521,7 +4575,7 @@
     "date": "2025/11/06",
     "day": "木",
     "artist": "カリウタ",
-    "title": "Rie Lee / ホンジョウ / 京橋光(f.カリニャンクール) / コノカーン / カリウタ / MCSHIGE Rockingchair",
+    "title": "OPEN 18:15",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -4529,8 +4583,26 @@
   {
     "date": "2025/11/06",
     "day": "木",
-    "artist": "MCSHIGE Rockingchair",
-    "title": "Rie Lee / ホンジョウ / 京橋光(f.カリニャンクール) / コノカーン / カリウタ / MCSHIGE Rockingchair",
+    "artist": "Rie Lee",
+    "title": "OPEN 18:15",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
+    "date": "2025/11/06",
+    "day": "木",
+    "artist": "コノカーン",
+    "title": "OPEN 18:15",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
+    "date": "2025/11/06",
+    "day": "木",
+    "artist": "ホンジョウ",
+    "title": "OPEN 18:15",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -7335,6 +7407,114 @@
     "note": ""
   },
   {
+    "date": "2025/10/04",
+    "day": "土",
+    "artist": "夜しか予定合わん",
+    "title": "しゅん企画 vol.3 - 英華発外とストライド -",
+    "url": "https://vijon.jp/schedule/detail/45056",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2025/10/04",
+    "day": "土",
+    "artist": "ユニゾンのコピーバンド",
+    "title": "しゅん企画 vol.3 - 英華発外とストライド -",
+    "url": "https://vijon.jp/schedule/detail/45056",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2025/10/04",
+    "day": "土",
+    "artist": "ごくふつうの軽音部",
+    "title": "しゅん企画 vol.3 - 英華発外とストライド -",
+    "url": "https://vijon.jp/schedule/detail/45056",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2025/10/04",
+    "day": "土",
+    "artist": "Tipsy Gnu",
+    "title": "しゅん企画 vol.3 - 英華発外とストライド -",
+    "url": "https://vijon.jp/schedule/detail/45056",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2025/10/04",
+    "day": "土",
+    "artist": "北堀江事変",
+    "title": "しゅん企画 vol.3 - 英華発外とストライド -",
+    "url": "https://vijon.jp/schedule/detail/45056",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2025/10/04",
+    "day": "土",
+    "artist": "よにんの世界",
+    "title": "しゅん企画 vol.3 - 英華発外とストライド -",
+    "url": "https://vijon.jp/schedule/detail/45056",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2025/10/04",
+    "day": "土",
+    "artist": "たにたつ",
+    "title": "しゅん企画 vol.3 - 英華発外とストライド -",
+    "url": "https://vijon.jp/schedule/detail/45056",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2025/10/04",
+    "day": "土",
+    "artist": "FuwAmore",
+    "title": "しゅん企画 vol.3 - 英華発外とストライド -",
+    "url": "https://vijon.jp/schedule/detail/45056",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2025/10/04",
+    "day": "土",
+    "artist": "しぇぼん",
+    "title": "しゅん企画 vol.3 - 英華発外とストライド -",
+    "url": "https://vijon.jp/schedule/detail/45056",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2025/10/04",
+    "day": "土",
+    "artist": "PLAYER5",
+    "title": "しゅん企画 vol.3 - 英華発外とストライド -",
+    "url": "https://vijon.jp/schedule/detail/45056",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2025/10/04",
+    "day": "土",
+    "artist": "固濃オーメーズ",
+    "title": "しゅん企画 vol.3 - 英華発外とストライド -",
+    "url": "https://vijon.jp/schedule/detail/45056",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2025/10/04",
+    "day": "土",
+    "artist": "Mr.GREEN APPLEs",
+    "title": "しゅん企画 vol.3 - 英華発外とストライド -",
+    "url": "https://vijon.jp/schedule/detail/45056",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
     "date": "2025/10/05",
     "day": "日",
     "artist": "sp1at",
@@ -9891,6 +10071,51 @@
     "note": ""
   },
   {
+    "date": "2025/09/25",
+    "day": "木",
+    "artist": "ぷち♡きゅありー",
+    "title": "Harmony Link vol.9",
+    "url": "https://bangboo.jp/schedule/detail/46473",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2025/09/25",
+    "day": "木",
+    "artist": "LINK START",
+    "title": "Harmony Link vol.9",
+    "url": "https://bangboo.jp/schedule/detail/46473",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2025/09/25",
+    "day": "木",
+    "artist": "ParaMilia",
+    "title": "Harmony Link vol.9",
+    "url": "https://bangboo.jp/schedule/detail/46473",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2025/09/25",
+    "day": "木",
+    "artist": "イロハサクラ",
+    "title": "Harmony Link vol.9",
+    "url": "https://bangboo.jp/schedule/detail/46473",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2025/09/25",
+    "day": "木",
+    "artist": "ちぎょ",
+    "title": "Harmony Link vol.9",
+    "url": "https://bangboo.jp/schedule/detail/46473",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
     "date": "2025/09/27",
     "day": "土",
     "artist": "ちゃげぽよ。",
@@ -11489,6 +11714,78 @@
     "artist": "SOCIALxMATCH",
     "title": "PIEN presents PassAge Point in OSAKAVol.15",
     "url": "https://bangboo.jp/schedule/detail/47003",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2025/11/20",
+    "day": "木",
+    "artist": "クリトリック・リス",
+    "title": "【続・天下一不毛会】クリトリック・リス vs BANGBOO -スーパースターズ編-",
+    "url": "https://bangboo.jp/schedule/detail/46047",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2025/11/20",
+    "day": "木",
+    "artist": "蟲籠",
+    "title": "【続・天下一不毛会】クリトリック・リス vs BANGBOO -スーパースターズ編-",
+    "url": "https://bangboo.jp/schedule/detail/46047",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2025/11/20",
+    "day": "木",
+    "artist": "TIGER&DRAGON",
+    "title": "【続・天下一不毛会】クリトリック・リス vs BANGBOO -スーパースターズ編-",
+    "url": "https://bangboo.jp/schedule/detail/46047",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2025/11/20",
+    "day": "木",
+    "artist": "バク",
+    "title": "【続・天下一不毛会】クリトリック・リス vs BANGBOO -スーパースターズ編-",
+    "url": "https://bangboo.jp/schedule/detail/46047",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2025/11/20",
+    "day": "木",
+    "artist": "ITO→たのし",
+    "title": "【続・天下一不毛会】クリトリック・リス vs BANGBOO -スーパースターズ編-",
+    "url": "https://bangboo.jp/schedule/detail/46047",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2025/11/20",
+    "day": "木",
+    "artist": "THE BAMBOO SPIRITS CLUB",
+    "title": "【続・天下一不毛会】クリトリック・リス vs BANGBOO -スーパースターズ編-",
+    "url": "https://bangboo.jp/schedule/detail/46047",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2025/11/20",
+    "day": "木",
+    "artist": "シャンデリヤ",
+    "title": "【続・天下一不毛会】クリトリック・リス vs BANGBOO -スーパースターズ編-",
+    "url": "https://bangboo.jp/schedule/detail/46047",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2025/11/20",
+    "day": "木",
+    "artist": "さばちゃん",
+    "title": "【続・天下一不毛会】クリトリック・リス vs BANGBOO -スーパースターズ編-",
+    "url": "https://bangboo.jp/schedule/detail/46047",
     "venue": "梅田BANGBOO",
     "note": ""
   },
@@ -13529,6 +13826,24 @@
   {
     "date": "2025/09/20",
     "day": "土",
+    "artist": "ボクセカ",
+    "title": "ボクセカ 新メンバーお披露目公演",
+    "url": "https://clubdrop.jp/schedule/detail/40913",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2025/09/20",
+    "day": "土",
+    "artist": "CRYZ",
+    "title": "ボクセカ 新メンバーお披露目公演",
+    "url": "https://clubdrop.jp/schedule/detail/40913",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2025/09/20",
+    "day": "土",
     "artist": "戦国アニマル極楽浄土",
     "title": "EXEEEEED-OSAKA-",
     "url": "https://clubdrop.jp/schedule/detail/39835",
@@ -13602,15 +13917,6 @@
     "date": "2025/09/20",
     "day": "土",
     "artist": "ELEVYZ",
-    "title": "EXEEEEED-OSAKA-",
-    "url": "https://clubdrop.jp/schedule/detail/39835",
-    "venue": "アメリカ村DROP",
-    "note": ""
-  },
-  {
-    "date": "2025/09/20",
-    "day": "土",
-    "artist": "CRYZ",
     "title": "EXEEEEED-OSAKA-",
     "url": "https://clubdrop.jp/schedule/detail/39835",
     "venue": "アメリカ村DROP",
@@ -18527,6 +18833,51 @@
     "artist": "minamiwheel.jp",
     "title": "FM802 MINAMI WHEEL 2025",
     "url": "https://osaka-varon.jp/schedule/detail/35850",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2025/10/15",
+    "day": "水",
+    "artist": "OneOnceOver",
+    "title": "心斎橋VARON present's Day Dreamer -10th night- MINAMI WHEEL EDITION",
+    "url": "https://osaka-varon.jp/schedule/detail/45608",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2025/10/15",
+    "day": "水",
+    "artist": "4lme",
+    "title": "心斎橋VARON present's Day Dreamer -10th night- MINAMI WHEEL EDITION",
+    "url": "https://osaka-varon.jp/schedule/detail/45608",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2025/10/15",
+    "day": "水",
+    "artist": "新章 大阪☆春夏秋冬",
+    "title": "心斎橋VARON present's Day Dreamer -10th night- MINAMI WHEEL EDITION",
+    "url": "https://osaka-varon.jp/schedule/detail/45608",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2025/10/15",
+    "day": "水",
+    "artist": "Dee-prive",
+    "title": "心斎橋VARON present's Day Dreamer -10th night- MINAMI WHEEL EDITION",
+    "url": "https://osaka-varon.jp/schedule/detail/45608",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2025/10/15",
+    "day": "水",
+    "artist": "ろる",
+    "title": "心斎橋VARON present's Day Dreamer -10th night- MINAMI WHEEL EDITION",
+    "url": "https://osaka-varon.jp/schedule/detail/45608",
     "venue": "VARON",
     "note": ""
   },
@@ -28453,6 +28804,78 @@
     "day": "日",
     "artist": "「SNUG.10 -Beige-」＜夜公演＞",
     "title": "近藤晃央 SERIESE LIVE",
+    "url": "http://www.knave.co.jp/schedule/s_2025_12.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2025/12/14",
+    "day": "日",
+    "artist": "少し気が早い",
+    "title": "上田雅利 Martinton 2025",
+    "url": "http://www.knave.co.jp/schedule/s_2025_12.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2025/12/14",
+    "day": "日",
+    "artist": "Christmas Party Live☆",
+    "title": "上田雅利 Martinton 2025",
+    "url": "http://www.knave.co.jp/schedule/s_2025_12.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2025/12/14",
+    "day": "日",
+    "artist": "上田雅利",
+    "title": "上田雅利 Martinton 2025",
+    "url": "http://www.knave.co.jp/schedule/s_2025_12.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2025/12/14",
+    "day": "日",
+    "artist": "小泉信彦",
+    "title": "上田雅利 Martinton 2025",
+    "url": "http://www.knave.co.jp/schedule/s_2025_12.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2025/12/14",
+    "day": "日",
+    "artist": "佐藤 晃",
+    "title": "上田雅利 Martinton 2025",
+    "url": "http://www.knave.co.jp/schedule/s_2025_12.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2025/12/14",
+    "day": "日",
+    "artist": "一般発売 10",
+    "title": "上田雅利 Martinton 2025",
+    "url": "http://www.knave.co.jp/schedule/s_2025_12.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2025/12/14",
+    "day": "日",
+    "artist": "18",
+    "title": "上田雅利 Martinton 2025",
+    "url": "http://www.knave.co.jp/schedule/s_2025_12.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2025/12/14",
+    "day": "日",
+    "artist": "問)knave06-6535-0691",
+    "title": "上田雅利 Martinton 2025",
     "url": "http://www.knave.co.jp/schedule/s_2025_12.html",
     "venue": "knave",
     "note": ""
