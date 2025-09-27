@@ -3926,8 +3926,8 @@
   {
     "date": "2025/10/13",
     "day": "月祝",
-    "artist": "fuzzy stereo",
-    "title": "fuzzy stereo / おかわり / pLoom   / CURIOUS",
+    "artist": "おかわり",
+    "title": "OPEN 17:00",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -3935,8 +3935,8 @@
   {
     "date": "2025/10/13",
     "day": "月祝",
-    "artist": "おかわり",
-    "title": "fuzzy stereo / おかわり / pLoom   / CURIOUS",
+    "artist": "CURIOUS",
+    "title": "OPEN 17:00",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -3945,7 +3945,7 @@
     "date": "2025/10/13",
     "day": "月祝",
     "artist": "pLoom",
-    "title": "fuzzy stereo / おかわり / pLoom   / CURIOUS",
+    "title": "OPEN 17:00",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -3953,8 +3953,8 @@
   {
     "date": "2025/10/13",
     "day": "月祝",
-    "artist": "CURIOUS and more...",
-    "title": "fuzzy stereo / おかわり / pLoom   / CURIOUS",
+    "artist": "fuzzy stereo",
+    "title": "OPEN 17:00",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -4854,7 +4854,7 @@
     "date": "2025/11/03",
     "day": "月祝",
     "artist": "para-dice企画",
-    "title": "Comedownthere / the PARTYS / ネアック テアック / ヨツドメノディ",
+    "title": "『 JAWBREAKER 』",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -4862,8 +4862,8 @@
   {
     "date": "2025/11/03",
     "day": "月祝",
-    "artist": "Comedownthere",
-    "title": "Comedownthere / the PARTYS / ネアック テアック / ヨツドメノディ",
+    "artist": "『 JAWBREAKER 』",
+    "title": "『 JAWBREAKER 』",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -4871,8 +4871,8 @@
   {
     "date": "2025/11/03",
     "day": "月祝",
-    "artist": "the PARTYS",
-    "title": "Comedownthere / the PARTYS / ネアック テアック / ヨツドメノディ",
+    "artist": "ヨツドメノディ",
+    "title": "『 JAWBREAKER 』",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -4881,7 +4881,7 @@
     "date": "2025/11/03",
     "day": "月祝",
     "artist": "ネアック テアック",
-    "title": "Comedownthere / the PARTYS / ネアック テアック / ヨツドメノディ",
+    "title": "『 JAWBREAKER 』",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -4889,8 +4889,17 @@
   {
     "date": "2025/11/03",
     "day": "月祝",
-    "artist": "ヨツドメノディ and more...",
-    "title": "Comedownthere / the PARTYS / ネアック テアック / ヨツドメノディ",
+    "artist": "the PARTYS",
+    "title": "『 JAWBREAKER 』",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
+    "date": "2025/11/03",
+    "day": "月祝",
+    "artist": "Comedownthere",
+    "title": "『 JAWBREAKER 』",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -5610,7 +5619,7 @@
     "date": "2025/11/27",
     "day": "木",
     "artist": "ラウンドヘッド",
-    "title": "ラウンドヘッド / ストロボ・ライツ(北海道) / 永尾蕗子 / Lone Otter / 村瀬裕子",
+    "title": "ラウンドヘッド / ストロボ・ライツ(北海道) / 永尾蕗子 / Lone Otter / 村瀬裕子 / Run away!!",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -5619,7 +5628,7 @@
     "date": "2025/11/27",
     "day": "木",
     "artist": "ストロボ・ライツ",
-    "title": "ラウンドヘッド / ストロボ・ライツ(北海道) / 永尾蕗子 / Lone Otter / 村瀬裕子",
+    "title": "ラウンドヘッド / ストロボ・ライツ(北海道) / 永尾蕗子 / Lone Otter / 村瀬裕子 / Run away!!",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -5628,7 +5637,7 @@
     "date": "2025/11/27",
     "day": "木",
     "artist": "永尾蕗子",
-    "title": "ラウンドヘッド / ストロボ・ライツ(北海道) / 永尾蕗子 / Lone Otter / 村瀬裕子",
+    "title": "ラウンドヘッド / ストロボ・ライツ(北海道) / 永尾蕗子 / Lone Otter / 村瀬裕子 / Run away!!",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -5637,7 +5646,7 @@
     "date": "2025/11/27",
     "day": "木",
     "artist": "Lone Otter",
-    "title": "ラウンドヘッド / ストロボ・ライツ(北海道) / 永尾蕗子 / Lone Otter / 村瀬裕子",
+    "title": "ラウンドヘッド / ストロボ・ライツ(北海道) / 永尾蕗子 / Lone Otter / 村瀬裕子 / Run away!!",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -5645,8 +5654,17 @@
   {
     "date": "2025/11/27",
     "day": "木",
-    "artist": "村瀬裕子 and more...",
-    "title": "ラウンドヘッド / ストロボ・ライツ(北海道) / 永尾蕗子 / Lone Otter / 村瀬裕子",
+    "artist": "村瀬裕子",
+    "title": "ラウンドヘッド / ストロボ・ライツ(北海道) / 永尾蕗子 / Lone Otter / 村瀬裕子 / Run away!!",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
+    "date": "2025/11/27",
+    "day": "木",
+    "artist": "Run away!!",
+    "title": "ラウンドヘッド / ストロボ・ライツ(北海道) / 永尾蕗子 / Lone Otter / 村瀬裕子 / Run away!!",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -11091,7 +11109,7 @@
     "date": "2025/09/28",
     "day": "日",
     "artist": "グットクルー",
-    "title": "BATAKE! IDOL!! Vol.19",
+    "title": "HABATAKE! IDOL!! Vol.19",
     "url": "https://bangboo.jp/schedule/detail/46188",
     "venue": "梅田BANGBOO",
     "note": ""
@@ -11100,7 +11118,7 @@
     "date": "2025/09/28",
     "day": "日",
     "artist": "すーぱーぷーばぁー!!",
-    "title": "BATAKE! IDOL!! Vol.19",
+    "title": "HABATAKE! IDOL!! Vol.19",
     "url": "https://bangboo.jp/schedule/detail/46188",
     "venue": "梅田BANGBOO",
     "note": ""
@@ -11109,7 +11127,7 @@
     "date": "2025/09/28",
     "day": "日",
     "artist": "Qu♡Aly",
-    "title": "BATAKE! IDOL!! Vol.19",
+    "title": "HABATAKE! IDOL!! Vol.19",
     "url": "https://bangboo.jp/schedule/detail/46188",
     "venue": "梅田BANGBOO",
     "note": ""
@@ -11118,7 +11136,7 @@
     "date": "2025/09/28",
     "day": "日",
     "artist": "ティラミス",
-    "title": "BATAKE! IDOL!! Vol.19",
+    "title": "HABATAKE! IDOL!! Vol.19",
     "url": "https://bangboo.jp/schedule/detail/46188",
     "venue": "梅田BANGBOO",
     "note": ""
@@ -11127,7 +11145,7 @@
     "date": "2025/09/28",
     "day": "日",
     "artist": "あおぞらをキミに",
-    "title": "BATAKE! IDOL!! Vol.19",
+    "title": "HABATAKE! IDOL!! Vol.19",
     "url": "https://bangboo.jp/schedule/detail/46188",
     "venue": "梅田BANGBOO",
     "note": ""
@@ -11234,7 +11252,7 @@
   {
     "date": "2025/10/01",
     "day": "水",
-    "artist": "Glowing Paradise",
+    "artist": "ParaMilia",
     "title": "《Glowing Paradise~Half Anniversary LIVE~》",
     "url": "https://bangboo.jp/schedule/detail/45480",
     "venue": "梅田BANGBOO",
@@ -13018,7 +13036,16 @@
     "day": "金",
     "artist": "PUNK ROCK FACTORY",
     "title": "THE MOTAL WOMBAT 2025 TOUR",
-    "url": "https://bangboo.jp/schedule/detail/43995",
+    "url": "https://bangboo.jp/schedule/detail/47867",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2025/11/28",
+    "day": "金",
+    "artist": "KNOCK OUT MONKEY",
+    "title": "THE MOTAL WOMBAT 2025 TOUR",
+    "url": "https://bangboo.jp/schedule/detail/47867",
     "venue": "梅田BANGBOO",
     "note": ""
   },
@@ -15725,6 +15752,42 @@
   {
     "date": "2025/09/28",
     "day": "日",
+    "artist": "caprice",
+    "title": "アイドル好きで何がわるい",
+    "url": "https://clubdrop.jp/schedule/detail/42691",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2025/09/28",
+    "day": "日",
+    "artist": "SANUGLOW",
+    "title": "アイドル好きで何がわるい",
+    "url": "https://clubdrop.jp/schedule/detail/42691",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2025/09/28",
+    "day": "日",
+    "artist": "ミラーシュカ",
+    "title": "アイドル好きで何がわるい",
+    "url": "https://clubdrop.jp/schedule/detail/42691",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2025/09/28",
+    "day": "日",
+    "artist": "lullllul",
+    "title": "アイドル好きで何がわるい",
+    "url": "https://clubdrop.jp/schedule/detail/42691",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2025/09/28",
+    "day": "日",
     "artist": "Fille mimi",
     "title": "Fille mimi 東名阪福ツアー NATSU！絶対ふぃーみ宣言♡大阪編",
     "url": "https://clubdrop.jp/schedule/detail/47851",
@@ -15980,6 +16043,60 @@
     "artist": "KINJI",
     "title": "UZMK presents. Break go!! 4～ブレイコウ 4〜",
     "url": "https://clubdrop.jp/schedule/detail/47513",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2025/10/04",
+    "day": "土",
+    "artist": "ワッツ◎さーくる",
+    "title": "AGE FES mini in OSAKA",
+    "url": "https://clubdrop.jp/schedule/detail/39252",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2025/10/04",
+    "day": "土",
+    "artist": "SPRISE",
+    "title": "AGE FES mini in OSAKA",
+    "url": "https://clubdrop.jp/schedule/detail/39252",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2025/10/04",
+    "day": "土",
+    "artist": "MyDresscode",
+    "title": "AGE FES mini in OSAKA",
+    "url": "https://clubdrop.jp/schedule/detail/39252",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2025/10/04",
+    "day": "土",
+    "artist": "BUNGEE GUM.",
+    "title": "AGE FES mini in OSAKA",
+    "url": "https://clubdrop.jp/schedule/detail/39252",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2025/10/04",
+    "day": "土",
+    "artist": "すべての瞬間は君だった。",
+    "title": "AGE FES mini in OSAKA",
+    "url": "https://clubdrop.jp/schedule/detail/39252",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2025/10/04",
+    "day": "土",
+    "artist": "他",
+    "title": "AGE FES mini in OSAKA",
+    "url": "https://clubdrop.jp/schedule/detail/39252",
     "venue": "アメリカ村DROP",
     "note": ""
   },
@@ -25907,6 +26024,33 @@
     "artist": "LOVE LIKE MATTSU",
     "title": "淑女の謡 presented by OKAJI",
     "url": "https://osaka-zeela.jp/schedule/detail/40757",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2025/10/27",
+    "day": "月",
+    "artist": "ヨイズ",
+    "title": "maru de heaven vol.4",
+    "url": "https://osaka-zeela.jp/schedule/detail/45474",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2025/10/27",
+    "day": "月",
+    "artist": "Wash My Friday",
+    "title": "maru de heaven vol.4",
+    "url": "https://osaka-zeela.jp/schedule/detail/45474",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2025/10/27",
+    "day": "月",
+    "artist": "RIP DISHONOR",
+    "title": "maru de heaven vol.4",
+    "url": "https://osaka-zeela.jp/schedule/detail/45474",
     "venue": "Zeela",
     "note": ""
   },
