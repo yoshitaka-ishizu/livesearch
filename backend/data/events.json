@@ -1469,7 +1469,34 @@
   {
     "date": "2025/10/20",
     "day": "月",
-    "artist": "and more",
+    "artist": "grating hunny",
+    "title": "不完全性定理",
+    "url": "https://fireloop.net/schedule_now.shtml#1020",
+    "venue": "寺田町Fireloop",
+    "note": ""
+  },
+  {
+    "date": "2025/10/20",
+    "day": "月",
+    "artist": "赤気",
+    "title": "不完全性定理",
+    "url": "https://fireloop.net/schedule_now.shtml#1020",
+    "venue": "寺田町Fireloop",
+    "note": ""
+  },
+  {
+    "date": "2025/10/20",
+    "day": "月",
+    "artist": "スパノヴァ特急",
+    "title": "不完全性定理",
+    "url": "https://fireloop.net/schedule_now.shtml#1020",
+    "venue": "寺田町Fireloop",
+    "note": ""
+  },
+  {
+    "date": "2025/10/20",
+    "day": "月",
+    "artist": "BIG MOUSE GLORY",
     "title": "不完全性定理",
     "url": "https://fireloop.net/schedule_now.shtml#1020",
     "venue": "寺田町Fireloop",
@@ -5105,7 +5132,7 @@
   {
     "date": "2025/11/08",
     "day": "土",
-    "artist": "ANTI-JINX",
+    "artist": "オオハシ",
     "title": "オオハシ企画\"歌鳥宴 -2025-\"",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
@@ -5123,7 +5150,7 @@
   {
     "date": "2025/11/08",
     "day": "土",
-    "artist": "オオハシ",
+    "artist": "ANTI-JINX",
     "title": "オオハシ企画\"歌鳥宴 -2025-\"",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
@@ -5708,8 +5735,8 @@
   {
     "date": "2025/11/27",
     "day": "木",
-    "artist": "ラウンドヘッド",
-    "title": "ラウンドヘッド / ストロボ・ライツ(北海道) / 永尾蕗子 / Lone Otter / 村瀬裕子 / Run away!!",
+    "artist": "村瀬裕子",
+    "title": "OPEN 18:00",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -5717,8 +5744,8 @@
   {
     "date": "2025/11/27",
     "day": "木",
-    "artist": "ストロボ・ライツ",
-    "title": "ラウンドヘッド / ストロボ・ライツ(北海道) / 永尾蕗子 / Lone Otter / 村瀬裕子 / Run away!!",
+    "artist": "ラウンドヘッド",
+    "title": "OPEN 18:00",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -5727,7 +5754,7 @@
     "date": "2025/11/27",
     "day": "木",
     "artist": "永尾蕗子",
-    "title": "ラウンドヘッド / ストロボ・ライツ(北海道) / 永尾蕗子 / Lone Otter / 村瀬裕子 / Run away!!",
+    "title": "OPEN 18:00",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -5735,17 +5762,8 @@
   {
     "date": "2025/11/27",
     "day": "木",
-    "artist": "Lone Otter",
-    "title": "ラウンドヘッド / ストロボ・ライツ(北海道) / 永尾蕗子 / Lone Otter / 村瀬裕子 / Run away!!",
-    "url": "https://para-dice.net/",
-    "venue": "扇町para-dice",
-    "note": ""
-  },
-  {
-    "date": "2025/11/27",
-    "day": "木",
-    "artist": "村瀬裕子",
-    "title": "ラウンドヘッド / ストロボ・ライツ(北海道) / 永尾蕗子 / Lone Otter / 村瀬裕子 / Run away!!",
+    "artist": "ストロボ・ライツ",
+    "title": "OPEN 18:00",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -5754,7 +5772,16 @@
     "date": "2025/11/27",
     "day": "木",
     "artist": "Run away!!",
-    "title": "ラウンドヘッド / ストロボ・ライツ(北海道) / 永尾蕗子 / Lone Otter / 村瀬裕子 / Run away!!",
+    "title": "OPEN 18:00",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
+    "date": "2025/11/27",
+    "day": "木",
+    "artist": "Lone Otter",
+    "title": "OPEN 18:00",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -8519,6 +8546,33 @@
     "artist": "<第一弾発表>",
     "title": "FM802 MINAMI WHEEL 2025",
     "url": "https://vijon.jp/schedule/detail/45502",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2025/10/13",
+    "day": "月",
+    "artist": "いろかにほへと",
+    "title": "vijon pre.【SAIGO WHEEL 2025】",
+    "url": "https://vijon.jp/schedule/detail/47237",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2025/10/13",
+    "day": "月",
+    "artist": "Blue Veil",
+    "title": "vijon pre.【SAIGO WHEEL 2025】",
+    "url": "https://vijon.jp/schedule/detail/47237",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2025/10/13",
+    "day": "月",
+    "artist": "kasane",
+    "title": "vijon pre.【SAIGO WHEEL 2025】",
+    "url": "https://vijon.jp/schedule/detail/47237",
     "venue": "北堀江club vijon",
     "note": ""
   },
@@ -12686,6 +12740,69 @@
     "artist": "nurié",
     "title": "umbrella presents 「レヴ」Release event 【アマヤドリ〜革命〜】",
     "url": "https://bangboo.jp/schedule/detail/46113",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2025/10/29",
+    "day": "水",
+    "artist": "Umnoise",
+    "title": "HAPPY1STANNIVERSARY「これからもよろしくお願いします」",
+    "url": "https://bangboo.jp/schedule/detail/46900",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2025/10/29",
+    "day": "水",
+    "artist": "Swallow Friends",
+    "title": "HAPPY1STANNIVERSARY「これからもよろしくお願いします」",
+    "url": "https://bangboo.jp/schedule/detail/46900",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2025/10/29",
+    "day": "水",
+    "artist": "Noizy",
+    "title": "HAPPY1STANNIVERSARY「これからもよろしくお願いします」",
+    "url": "https://bangboo.jp/schedule/detail/46900",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2025/10/29",
+    "day": "水",
+    "artist": "asano raincoat",
+    "title": "HAPPY1STANNIVERSARY「これからもよろしくお願いします」",
+    "url": "https://bangboo.jp/schedule/detail/46900",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2025/10/29",
+    "day": "水",
+    "artist": "aomidoro",
+    "title": "HAPPY1STANNIVERSARY「これからもよろしくお願いします」",
+    "url": "https://bangboo.jp/schedule/detail/46900",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2025/10/29",
+    "day": "水",
+    "artist": "Vierror",
+    "title": "HAPPY1STANNIVERSARY「これからもよろしくお願いします」",
+    "url": "https://bangboo.jp/schedule/detail/46900",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2025/10/29",
+    "day": "水",
+    "artist": "FOOLISH BOYZ",
+    "title": "HAPPY1STANNIVERSARY「これからもよろしくお願いします」",
+    "url": "https://bangboo.jp/schedule/detail/46900",
     "venue": "梅田BANGBOO",
     "note": ""
   },
@@ -17816,6 +17933,15 @@
     "artist": "No.*Day",
     "title": "No.*Day 現体制 Last Oneman Live - CROSS ROAD",
     "url": "https://clubdrop.jp/schedule/detail/47272",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2025/11/24",
+    "day": "月",
+    "artist": "IRabBits 他",
+    "title": "TOBU FES 2025",
+    "url": "https://clubdrop.jp/schedule/detail/40501",
     "venue": "アメリカ村DROP",
     "note": ""
   },
