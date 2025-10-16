@@ -639,15 +639,6 @@
     "note": ""
   },
   {
-    "date": "2025/10/18",
-    "day": "",
-    "artist": "Blume popo",
-    "title": "pool kicking #3",
-    "url": "https://fireloop.net/schedule_now.shtml#1018",
-    "venue": "寺田町Fireloop",
-    "note": ""
-  },
-  {
     "date": "2025/10/19",
     "day": "",
     "artist": "ウツシヨ",
@@ -1350,6 +1341,51 @@
     "note": ""
   },
   {
+    "date": "2025/11/14",
+    "day": "金",
+    "artist": "cleomery",
+    "title": "24/7",
+    "url": "https://fireloop.net/schedule_now.shtml#1114",
+    "venue": "寺田町Fireloop",
+    "note": ""
+  },
+  {
+    "date": "2025/11/14",
+    "day": "金",
+    "artist": "ELEVYZ",
+    "title": "24/7",
+    "url": "https://fireloop.net/schedule_now.shtml#1114",
+    "venue": "寺田町Fireloop",
+    "note": ""
+  },
+  {
+    "date": "2025/11/14",
+    "day": "金",
+    "artist": "セツナフロート",
+    "title": "24/7",
+    "url": "https://fireloop.net/schedule_now.shtml#1114",
+    "venue": "寺田町Fireloop",
+    "note": ""
+  },
+  {
+    "date": "2025/11/14",
+    "day": "金",
+    "artist": "Merocley",
+    "title": "24/7",
+    "url": "https://fireloop.net/schedule_now.shtml#1114",
+    "venue": "寺田町Fireloop",
+    "note": ""
+  },
+  {
+    "date": "2025/11/14",
+    "day": "金",
+    "artist": "special guest",
+    "title": "24/7",
+    "url": "https://fireloop.net/schedule_now.shtml#1114",
+    "venue": "寺田町Fireloop",
+    "note": ""
+  },
+  {
     "date": "2025/11/16",
     "day": "",
     "artist": "GREEN MILK FROM THE PLANET ORANGE",
@@ -1460,8 +1496,8 @@
   {
     "date": "2025/11/24",
     "day": "",
-    "artist": "SULLIVAN’s FUN CLUB",
-    "title": "Pure True Tour’25",
+    "artist": "nayuta",
+    "title": "FLOWER PIERO SHOW",
     "url": "https://fireloop.net/schedule_now.shtml#1124",
     "venue": "寺田町Fireloop",
     "note": ""
@@ -1469,8 +1505,8 @@
   {
     "date": "2025/11/24",
     "day": "",
-    "artist": "FATE BOX",
-    "title": "Pure True Tour’25",
+    "artist": "NewtN",
+    "title": "FLOWER PIERO SHOW",
     "url": "https://fireloop.net/schedule_now.shtml#1124",
     "venue": "寺田町Fireloop",
     "note": ""
@@ -1478,17 +1514,8 @@
   {
     "date": "2025/11/24",
     "day": "",
-    "artist": "THE PERRY",
-    "title": "Pure True Tour’25",
-    "url": "https://fireloop.net/schedule_now.shtml#1124",
-    "venue": "寺田町Fireloop",
-    "note": ""
-  },
-  {
-    "date": "2025/11/24",
-    "day": "",
-    "artist": "THE HAMIDA SHE’S",
-    "title": "Pure True Tour’25",
+    "artist": "the circus",
+    "title": "FLOWER PIERO SHOW",
     "url": "https://fireloop.net/schedule_now.shtml#1124",
     "venue": "寺田町Fireloop",
     "note": ""
@@ -8444,7 +8471,7 @@
   {
     "date": "2025/10/31",
     "day": "金",
-    "artist": "...and more <審査員> 新田万博",
+    "artist": "ごま油師匠 <審査員> 新田万博",
     "title": "club vijon 23rd Anniversary【VIJON ICHIBAN】 ギターバトルチャンピオンシップ　×　ドラムバトル2025 autumn　×　第3回 BISTRO VIJON",
     "url": "https://vijon.jp/schedule/detail/47959",
     "venue": "北堀江club vijon",
@@ -8825,6 +8852,15 @@
     "artist": "爽風紀",
     "title": "SAVAFES × club vijon 【SAV(Ai)jon】",
     "url": "https://vijon.jp/schedule/detail/45725",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2025/11/15",
+    "day": "土",
+    "artist": "Wiz_nicc band one-man",
+    "title": "Wiz_nicc 5th anniversaru live 水槽遊泳",
+    "url": "https://vijon.jp/schedule/detail/46205",
     "venue": "北堀江club vijon",
     "note": ""
   },
@@ -10706,6 +10742,15 @@
     "artist": "yooheyLane boy)",
     "title": "One last dance(For)Lane boy pre. -Full Album 【If You Are Living While Embracing Suffering】 Release Party!!!!-",
     "url": "https://bangboo.jp/schedule/detail/43102",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2025/11/08",
+    "day": "土",
+    "artist": "空想ロマンス",
+    "title": "空想ロマンス 東名阪ワンマンツアー「 隠されたロマンス 」大阪公演",
+    "url": "https://bangboo.jp/schedule/detail/45878",
     "venue": "梅田BANGBOO",
     "note": ""
   },
@@ -13034,7 +13079,16 @@
   {
     "date": "2025/10/17",
     "day": "金",
-    "artist": "じゅんち andmore... RAM（ヲタ霊",
+    "artist": "じゅんち",
+    "title": "懐メロ学園第33章-月見て！酒飲んで！屁こいて！寝よ！-編！",
+    "url": "https://clubdrop.jp/schedule/detail/46901",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2025/10/17",
+    "day": "金",
+    "artist": "エリチショックパーティー RAM（ヲタ霊",
     "title": "懐メロ学園第33章-月見て！酒飲んで！屁こいて！寝よ！-編！",
     "url": "https://clubdrop.jp/schedule/detail/46901",
     "venue": "アメリカ村DROP",
@@ -13097,7 +13151,7 @@
   {
     "date": "2025/10/18",
     "day": "土",
-    "artist": "わんだふる×ぱにっく",
+    "artist": "世ノ果テデ人形ハ唯哂フ。",
     "title": "DaDaDa",
     "url": "https://clubdrop.jp/schedule/detail/47560",
     "venue": "アメリカ村DROP",
@@ -13142,7 +13196,16 @@
   {
     "date": "2025/10/18",
     "day": "土",
-    "artist": "世ノ果テデ人形ハ唯哂フ。",
+    "artist": "ストボログリッター",
+    "title": "SPRISE pre.『NUMBER NEO』",
+    "url": "https://clubdrop.jp/schedule/detail/48185",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2025/10/18",
+    "day": "土",
+    "artist": "ティラミス",
     "title": "SPRISE pre.『NUMBER NEO』",
     "url": "https://clubdrop.jp/schedule/detail/48185",
     "venue": "アメリカ村DROP",
@@ -13214,7 +13277,7 @@
   {
     "date": "2025/10/21",
     "day": "火",
-    "artist": "MAGMAZ",
+    "artist": "LΩPARA",
     "title": "PANIC in the PARTY-無規制33min×4-",
     "url": "https://clubdrop.jp/schedule/detail/44884",
     "venue": "アメリカ村DROP",
@@ -14060,6 +14123,87 @@
   {
     "date": "2025/11/02",
     "day": "日",
+    "artist": "#PANnana",
+    "title": "NINE LIVES",
+    "url": "https://clubdrop.jp/schedule/detail/48286",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2025/11/02",
+    "day": "日",
+    "artist": "うぃるめり!",
+    "title": "NINE LIVES",
+    "url": "https://clubdrop.jp/schedule/detail/48286",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2025/11/02",
+    "day": "日",
+    "artist": "SANUGLOW",
+    "title": "NINE LIVES",
+    "url": "https://clubdrop.jp/schedule/detail/48286",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2025/11/02",
+    "day": "日",
+    "artist": "lullllul",
+    "title": "NINE LIVES",
+    "url": "https://clubdrop.jp/schedule/detail/48286",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2025/11/02",
+    "day": "日",
+    "artist": "ミラーシュカ",
+    "title": "NINE LIVES",
+    "url": "https://clubdrop.jp/schedule/detail/48286",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2025/11/02",
+    "day": "日",
+    "artist": "CRYZ",
+    "title": "NINE LIVES",
+    "url": "https://clubdrop.jp/schedule/detail/48286",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2025/11/02",
+    "day": "日",
+    "artist": "Fotuness",
+    "title": "NINE LIVES",
+    "url": "https://clubdrop.jp/schedule/detail/48286",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2025/11/02",
+    "day": "日",
+    "artist": "ハピネスクラッカー",
+    "title": "NINE LIVES",
+    "url": "https://clubdrop.jp/schedule/detail/48286",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2025/11/02",
+    "day": "日",
+    "artist": "うとゆに",
+    "title": "NINE LIVES",
+    "url": "https://clubdrop.jp/schedule/detail/48286",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2025/11/02",
+    "day": "日",
     "artist": "闇雲／UNBS／カミサマパレード／ココロシンドローム／AZ-ON／AIMIA",
     "title": "闇雲 presents 「CHAOS DOGMA」in OSAKA",
     "url": "https://clubdrop.jp/schedule/detail/47518",
@@ -14540,6 +14684,15 @@
     "artist": "蜃気楼",
     "title": "CURIOSITY. TOUR 2025-2026 ｢三叉路へ向かって｣",
     "url": "https://clubdrop.jp/schedule/detail/44498",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/03/07",
+    "day": "土",
+    "artist": "DOOM",
+    "title": "DOOM New Album \"APOCALYPSE\" Release Ｔour 2026",
+    "url": "https://clubdrop.jp/schedule/detail/42497",
     "venue": "アメリカ村DROP",
     "note": ""
   },
@@ -15642,6 +15795,69 @@
     "note": ""
   },
   {
+    "date": "2025/10/28",
+    "day": "火",
+    "artist": "妖狐繚乱",
+    "title": "紅炎ノ誓〜妖狐繚乱 紅葉まろ生誕祭〜",
+    "url": "https://osaka-varon.jp/schedule/detail/44049",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2025/10/28",
+    "day": "火",
+    "artist": "SWDN",
+    "title": "紅炎ノ誓〜妖狐繚乱 紅葉まろ生誕祭〜",
+    "url": "https://osaka-varon.jp/schedule/detail/44049",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2025/10/28",
+    "day": "火",
+    "artist": "husky",
+    "title": "紅炎ノ誓〜妖狐繚乱 紅葉まろ生誕祭〜",
+    "url": "https://osaka-varon.jp/schedule/detail/44049",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2025/10/28",
+    "day": "火",
+    "artist": "the mishmash",
+    "title": "紅炎ノ誓〜妖狐繚乱 紅葉まろ生誕祭〜",
+    "url": "https://osaka-varon.jp/schedule/detail/44049",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2025/10/28",
+    "day": "火",
+    "artist": "ネテルダイヤ",
+    "title": "紅炎ノ誓〜妖狐繚乱 紅葉まろ生誕祭〜",
+    "url": "https://osaka-varon.jp/schedule/detail/44049",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2025/10/28",
+    "day": "火",
+    "artist": "GLIM of GLAND",
+    "title": "紅炎ノ誓〜妖狐繚乱 紅葉まろ生誕祭〜",
+    "url": "https://osaka-varon.jp/schedule/detail/44049",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2025/10/28",
+    "day": "火",
+    "artist": "LØISLOID",
+    "title": "紅炎ノ誓〜妖狐繚乱 紅葉まろ生誕祭〜",
+    "url": "https://osaka-varon.jp/schedule/detail/44049",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
     "date": "2025/10/31",
     "day": "金",
     "artist": "THE SUSTAiiiiN",
@@ -15728,6 +15944,105 @@
     "artist": "ヤミテラ",
     "title": "ヤミテラ ONEMAN TOUR 2025 【再改革】-闇の凶典-",
     "url": "https://osaka-varon.jp/schedule/detail/45545",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2025/11/06",
+    "day": "木",
+    "artist": "husky",
+    "title": "chemical reaction Vol.56",
+    "url": "https://osaka-varon.jp/schedule/detail/44281",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2025/11/06",
+    "day": "木",
+    "artist": "sync sens",
+    "title": "chemical reaction Vol.56",
+    "url": "https://osaka-varon.jp/schedule/detail/44281",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2025/11/06",
+    "day": "木",
+    "artist": "ディノゾール",
+    "title": "chemical reaction Vol.56",
+    "url": "https://osaka-varon.jp/schedule/detail/44281",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2025/11/06",
+    "day": "木",
+    "artist": "LyricalPopParadox",
+    "title": "chemical reaction Vol.56",
+    "url": "https://osaka-varon.jp/schedule/detail/44281",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2025/11/06",
+    "day": "木",
+    "artist": "妖狐繚乱",
+    "title": "chemical reaction Vol.56",
+    "url": "https://osaka-varon.jp/schedule/detail/44281",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2025/11/06",
+    "day": "木",
+    "artist": "Krown Krown",
+    "title": "chemical reaction Vol.56",
+    "url": "https://osaka-varon.jp/schedule/detail/44281",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2025/11/06",
+    "day": "木",
+    "artist": "MeltGem",
+    "title": "chemical reaction Vol.56",
+    "url": "https://osaka-varon.jp/schedule/detail/44281",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2025/11/06",
+    "day": "木",
+    "artist": "無花果とマシンガン",
+    "title": "chemical reaction Vol.56",
+    "url": "https://osaka-varon.jp/schedule/detail/44281",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2025/11/06",
+    "day": "木",
+    "artist": "Fortuness",
+    "title": "chemical reaction Vol.56",
+    "url": "https://osaka-varon.jp/schedule/detail/44281",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2025/11/06",
+    "day": "木",
+    "artist": "CRYZ",
+    "title": "chemical reaction Vol.56",
+    "url": "https://osaka-varon.jp/schedule/detail/44281",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2025/11/06",
+    "day": "木",
+    "artist": "SOCIAL×MATCH",
+    "title": "chemical reaction Vol.56",
+    "url": "https://osaka-varon.jp/schedule/detail/44281",
     "venue": "VARON",
     "note": ""
   },
