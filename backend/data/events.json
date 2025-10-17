@@ -4008,7 +4008,7 @@
     "date": "2025/11/20",
     "day": "木",
     "artist": "砂街ケースケ",
-    "title": "OPEN 18:00",
+    "title": "OPEN 18:30",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -4017,7 +4017,7 @@
     "date": "2025/11/20",
     "day": "木",
     "artist": "ツネ。",
-    "title": "OPEN 18:00",
+    "title": "OPEN 18:30",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -4026,16 +4026,7 @@
     "date": "2025/11/20",
     "day": "木",
     "artist": "ヨギ サネキ",
-    "title": "OPEN 18:00",
-    "url": "https://para-dice.net/",
-    "venue": "扇町para-dice",
-    "note": ""
-  },
-  {
-    "date": "2025/11/20",
-    "day": "木",
-    "artist": "たかぎしゆか",
-    "title": "OPEN 18:00",
+    "title": "OPEN 18:30",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -4044,7 +4035,7 @@
     "date": "2025/11/20",
     "day": "木",
     "artist": "ほりけはづき",
-    "title": "OPEN 18:00",
+    "title": "OPEN 18:30",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -4052,44 +4043,17 @@
   {
     "date": "2025/11/20",
     "day": "木",
-    "artist": "ミカコ・ハサウェイ",
-    "title": "OPEN 18:00",
+    "artist": "たかぎしゆか",
+    "title": "OPEN 18:30",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
   },
   {
-    "date": "2025/11/21",
-    "day": "金",
-    "artist": "Qu",
-    "title": "Qu / aida / モリ やすヒロ / サコーンズ / 終ノ住処",
-    "url": "https://para-dice.net/",
-    "venue": "扇町para-dice",
-    "note": ""
-  },
-  {
-    "date": "2025/11/21",
-    "day": "金",
-    "artist": "aida",
-    "title": "Qu / aida / モリ やすヒロ / サコーンズ / 終ノ住処",
-    "url": "https://para-dice.net/",
-    "venue": "扇町para-dice",
-    "note": ""
-  },
-  {
-    "date": "2025/11/21",
-    "day": "金",
-    "artist": "モリ やすヒロ",
-    "title": "Qu / aida / モリ やすヒロ / サコーンズ / 終ノ住処",
-    "url": "https://para-dice.net/",
-    "venue": "扇町para-dice",
-    "note": ""
-  },
-  {
-    "date": "2025/11/21",
-    "day": "金",
-    "artist": "サコーンズ",
-    "title": "Qu / aida / モリ やすヒロ / サコーンズ / 終ノ住処",
+    "date": "2025/11/20",
+    "day": "木",
+    "artist": "※ミカコ・ハサウェイが諸事情でキャンセルとなりタイムテーブルを変更しています、ご了承ください。",
+    "title": "OPEN 18:30",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -4098,7 +4062,43 @@
     "date": "2025/11/21",
     "day": "金",
     "artist": "終ノ住処",
-    "title": "Qu / aida / モリ やすヒロ / サコーンズ / 終ノ住処",
+    "title": "OPEN 18:30",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
+    "date": "2025/11/21",
+    "day": "金",
+    "artist": "モリ やすヒロ",
+    "title": "OPEN 18:30",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
+    "date": "2025/11/21",
+    "day": "金",
+    "artist": "サコーンズ",
+    "title": "OPEN 18:30",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
+    "date": "2025/11/21",
+    "day": "金",
+    "artist": "Qu",
+    "title": "OPEN 18:30",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
+    "date": "2025/11/21",
+    "day": "金",
+    "artist": "aida",
+    "title": "OPEN 18:30",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -11799,6 +11799,33 @@
     "note": ""
   },
   {
+    "date": "2025/12/31",
+    "day": "水",
+    "artist": "Runway",
+    "title": "#UMEDACOUNTDOWN",
+    "url": "https://bangboo.jp/schedule/detail/48139",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2025/12/31",
+    "day": "水",
+    "artist": "ぴょん",
+    "title": "#UMEDACOUNTDOWN",
+    "url": "https://bangboo.jp/schedule/detail/48139",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2025/12/31",
+    "day": "水",
+    "artist": "and more",
+    "title": "#UMEDACOUNTDOWN",
+    "url": "https://bangboo.jp/schedule/detail/48139",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
     "date": "2026/01/10",
     "day": "土",
     "artist": "かわにしなつき",
@@ -13212,6 +13239,51 @@
     "note": ""
   },
   {
+    "date": "2025/10/19",
+    "day": "日",
+    "artist": "SS／AW",
+    "title": "喧嘩祭～串カツ大阪編～",
+    "url": "https://clubdrop.jp/schedule/detail/39612",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2025/10/19",
+    "day": "日",
+    "artist": "UN WHITE",
+    "title": "喧嘩祭～串カツ大阪編～",
+    "url": "https://clubdrop.jp/schedule/detail/39612",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2025/10/19",
+    "day": "日",
+    "artist": "Diamond-QueeN",
+    "title": "喧嘩祭～串カツ大阪編～",
+    "url": "https://clubdrop.jp/schedule/detail/39612",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2025/10/19",
+    "day": "日",
+    "artist": "MISTIC DOLL",
+    "title": "喧嘩祭～串カツ大阪編～",
+    "url": "https://clubdrop.jp/schedule/detail/39612",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2025/10/19",
+    "day": "日",
+    "artist": "RoiAm",
+    "title": "喧嘩祭～串カツ大阪編～",
+    "url": "https://clubdrop.jp/schedule/detail/39612",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
     "date": "2025/10/20",
     "day": "月",
     "artist": "Neil DiMC",
@@ -14582,7 +14654,88 @@
   {
     "date": "2025/11/24",
     "day": "月",
-    "artist": "IRabBits 他",
+    "artist": "IRabBits",
+    "title": "TOBU FES 2025",
+    "url": "https://clubdrop.jp/schedule/detail/40501",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2025/11/24",
+    "day": "月",
+    "artist": "Self-Portrait",
+    "title": "TOBU FES 2025",
+    "url": "https://clubdrop.jp/schedule/detail/40501",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2025/11/24",
+    "day": "月",
+    "artist": "MAD JAMIE",
+    "title": "TOBU FES 2025",
+    "url": "https://clubdrop.jp/schedule/detail/40501",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2025/11/24",
+    "day": "月",
+    "artist": "Monday Dirty Jokes",
+    "title": "TOBU FES 2025",
+    "url": "https://clubdrop.jp/schedule/detail/40501",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2025/11/24",
+    "day": "月",
+    "artist": "82回目の終身刑",
+    "title": "TOBU FES 2025",
+    "url": "https://clubdrop.jp/schedule/detail/40501",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2025/11/24",
+    "day": "月",
+    "artist": "ケミカル⇄リアクション",
+    "title": "TOBU FES 2025",
+    "url": "https://clubdrop.jp/schedule/detail/40501",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2025/11/24",
+    "day": "月",
+    "artist": "ROA",
+    "title": "TOBU FES 2025",
+    "url": "https://clubdrop.jp/schedule/detail/40501",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2025/11/24",
+    "day": "月",
+    "artist": "Lailah",
+    "title": "TOBU FES 2025",
+    "url": "https://clubdrop.jp/schedule/detail/40501",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2025/11/24",
+    "day": "月",
+    "artist": "Days,near LAND",
+    "title": "TOBU FES 2025",
+    "url": "https://clubdrop.jp/schedule/detail/40501",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2025/11/24",
+    "day": "月",
+    "artist": "and more",
     "title": "TOBU FES 2025",
     "url": "https://clubdrop.jp/schedule/detail/40501",
     "venue": "アメリカ村DROP",
@@ -15858,6 +16011,78 @@
     "note": ""
   },
   {
+    "date": "2025/10/30",
+    "day": "木",
+    "artist": "# YO",
+    "title": "-# YO//1 presents-“DOKIDOKI vol.3”",
+    "url": "https://osaka-varon.jp/schedule/detail/41154",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2025/10/30",
+    "day": "木",
+    "artist": "1",
+    "title": "-# YO//1 presents-“DOKIDOKI vol.3”",
+    "url": "https://osaka-varon.jp/schedule/detail/41154",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2025/10/30",
+    "day": "木",
+    "artist": "下北姫菜",
+    "title": "-# YO//1 presents-“DOKIDOKI vol.3”",
+    "url": "https://osaka-varon.jp/schedule/detail/41154",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2025/10/30",
+    "day": "木",
+    "artist": "FleuR",
+    "title": "-# YO//1 presents-“DOKIDOKI vol.3”",
+    "url": "https://osaka-varon.jp/schedule/detail/41154",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2025/10/30",
+    "day": "木",
+    "artist": "神井花音",
+    "title": "-# YO//1 presents-“DOKIDOKI vol.3”",
+    "url": "https://osaka-varon.jp/schedule/detail/41154",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2025/10/30",
+    "day": "木",
+    "artist": "Pure Soldier",
+    "title": "-# YO//1 presents-“DOKIDOKI vol.3”",
+    "url": "https://osaka-varon.jp/schedule/detail/41154",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2025/10/30",
+    "day": "木",
+    "artist": "bae<3",
+    "title": "-# YO//1 presents-“DOKIDOKI vol.3”",
+    "url": "https://osaka-varon.jp/schedule/detail/41154",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2025/10/30",
+    "day": "木",
+    "artist": "iMOON",
+    "title": "-# YO//1 presents-“DOKIDOKI vol.3”",
+    "url": "https://osaka-varon.jp/schedule/detail/41154",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
     "date": "2025/10/31",
     "day": "金",
     "artist": "THE SUSTAiiiiN",
@@ -15887,7 +16112,7 @@
   {
     "date": "2025/10/31",
     "day": "金",
-    "artist": "バックミーズ and more…",
+    "artist": "バックミーズ",
     "title": "Keep Shouting！Vol.4 -HALLOWEEN PARTY-",
     "url": "https://osaka-varon.jp/schedule/detail/46016",
     "venue": "VARON",
@@ -16538,6 +16763,15 @@
     "artist": "+1BAND",
     "title": "VARON×BASSONTOP OSAKI pre.俺の見たいバンド集めました vol.61 asano raincoat『midnight motion』 mini album Release SHINSAIBASHI VARON",
     "url": "https://osaka-varon.jp/schedule/detail/46459",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2026/01/16",
+    "day": "金",
+    "artist": "KAKUMAY",
+    "title": "KAKUMAY ONEMAN TOUR「New Age 」",
+    "url": "https://osaka-varon.jp/schedule/detail/46647",
     "venue": "VARON",
     "note": ""
   },
@@ -23224,6 +23458,51 @@
     "day": "日",
     "artist": "「SNUG.10 -Beige-」＜夜公演＞",
     "title": "近藤晃央 SERIESE LIVE",
+    "url": "http://www.knave.co.jp/schedule/s_2025_12.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2025/12/08",
+    "day": "月",
+    "artist": "IMMIGRANT",
+    "title": "Beat Goes On.",
+    "url": "http://www.knave.co.jp/schedule/s_2025_12.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2025/12/08",
+    "day": "月",
+    "artist": "なよなよボーイズ",
+    "title": "Beat Goes On.",
+    "url": "http://www.knave.co.jp/schedule/s_2025_12.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2025/12/08",
+    "day": "月",
+    "artist": "Trail",
+    "title": "Beat Goes On.",
+    "url": "http://www.knave.co.jp/schedule/s_2025_12.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2025/12/08",
+    "day": "月",
+    "artist": "Lambiris",
+    "title": "Beat Goes On.",
+    "url": "http://www.knave.co.jp/schedule/s_2025_12.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2025/12/08",
+    "day": "月",
+    "artist": "問)knave06-6535-0691",
+    "title": "Beat Goes On.",
     "url": "http://www.knave.co.jp/schedule/s_2025_12.html",
     "venue": "knave",
     "note": ""
