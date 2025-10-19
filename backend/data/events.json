@@ -1532,7 +1532,25 @@
   {
     "date": "2025/11/25",
     "day": "火",
-    "artist": "with GUEST",
+    "artist": "オートコード",
+    "title": "\"Sparkle pop\" リリースツアー",
+    "url": "https://fireloop.net/schedule_now.shtml#1125",
+    "venue": "寺田町Fireloop",
+    "note": ""
+  },
+  {
+    "date": "2025/11/25",
+    "day": "火",
+    "artist": "hananashi",
+    "title": "\"Sparkle pop\" リリースツアー",
+    "url": "https://fireloop.net/schedule_now.shtml#1125",
+    "venue": "寺田町Fireloop",
+    "note": ""
+  },
+  {
+    "date": "2025/11/25",
+    "day": "火",
+    "artist": "飛行楽園",
     "title": "\"Sparkle pop\" リリースツアー",
     "url": "https://fireloop.net/schedule_now.shtml#1125",
     "venue": "寺田町Fireloop",
@@ -7598,16 +7616,7 @@
   {
     "date": "2025/10/20",
     "day": "月",
-    "artist": "ｉｖｕｊｅ",
-    "title": "club vijon 23rd Anniversary【ALTENATIVIJON 2025】",
-    "url": "https://vijon.jp/schedule/detail/45756",
-    "venue": "北堀江club vijon",
-    "note": ""
-  },
-  {
-    "date": "2025/10/20",
-    "day": "月",
-    "artist": "ナクステッド",
+    "artist": "ｉｖｕｊｅ ※出演を予定しておりました、ナクステッドは諸事情により出演がキャンセルとなりました。",
     "title": "club vijon 23rd Anniversary【ALTENATIVIJON 2025】",
     "url": "https://vijon.jp/schedule/detail/45756",
     "venue": "北堀江club vijon",
@@ -10775,7 +10784,7 @@
   {
     "date": "2025/10/20",
     "day": "月",
-    "artist": "i3oo",
+    "artist": "文章乞食 ※出演予定でしたi3ooは諸事情によりキャンセルとなりました。それに伴いOPEN",
     "title": "【 i n u t e r o 】~vol.3",
     "url": "https://bangboo.jp/schedule/detail/43990",
     "venue": "梅田BANGBOO",
@@ -10784,7 +10793,7 @@
   {
     "date": "2025/10/20",
     "day": "月",
-    "artist": "文章乞食",
+    "artist": "STARTが変更になっております。",
     "title": "【 i n u t e r o 】~vol.3",
     "url": "https://bangboo.jp/schedule/detail/43990",
     "venue": "梅田BANGBOO",
@@ -10838,6 +10847,42 @@
   {
     "date": "2025/10/26",
     "day": "日",
+    "artist": "すべての瞬間は君だった。",
+    "title": "IDOL GATE in BANGBOO",
+    "url": "https://bangboo.jp/schedule/detail/48352",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2025/10/26",
+    "day": "日",
+    "artist": "感情線は時をこえて",
+    "title": "IDOL GATE in BANGBOO",
+    "url": "https://bangboo.jp/schedule/detail/48352",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2025/10/26",
+    "day": "日",
+    "artist": "あおぞらをキミに",
+    "title": "IDOL GATE in BANGBOO",
+    "url": "https://bangboo.jp/schedule/detail/48352",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2025/10/26",
+    "day": "日",
+    "artist": "Merry Mellow",
+    "title": "IDOL GATE in BANGBOO",
+    "url": "https://bangboo.jp/schedule/detail/48352",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2025/10/26",
+    "day": "日",
     "artist": "白黒アリス",
     "title": "白黒アリス 銃痕リリス生誕祭",
     "url": "https://bangboo.jp/schedule/detail/43241",
@@ -10848,15 +10893,6 @@
     "date": "2025/10/26",
     "day": "日",
     "artist": "ゲスト：カミサマパレード",
-    "title": "白黒アリス 銃痕リリス生誕祭",
-    "url": "https://bangboo.jp/schedule/detail/43241",
-    "venue": "梅田BANGBOO",
-    "note": ""
-  },
-  {
-    "date": "2025/10/26",
-    "day": "日",
-    "artist": "感情線は時をこえて",
     "title": "白黒アリス 銃痕リリス生誕祭",
     "url": "https://bangboo.jp/schedule/detail/43241",
     "venue": "梅田BANGBOO",
@@ -14913,6 +14949,150 @@
     "note": ""
   },
   {
+    "date": "2025/11/08",
+    "day": "土",
+    "artist": "#PANnana",
+    "title": "HAPPYHOLIDAYS",
+    "url": "https://clubdrop.jp/schedule/detail/40206",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2025/11/08",
+    "day": "土",
+    "artist": "SANUGLOW",
+    "title": "HAPPYHOLIDAYS",
+    "url": "https://clubdrop.jp/schedule/detail/40206",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2025/11/08",
+    "day": "土",
+    "artist": "ミラーシュカ",
+    "title": "HAPPYHOLIDAYS",
+    "url": "https://clubdrop.jp/schedule/detail/40206",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2025/11/08",
+    "day": "土",
+    "artist": "リリシック学園",
+    "title": "HAPPYHOLIDAYS",
+    "url": "https://clubdrop.jp/schedule/detail/40206",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2025/11/08",
+    "day": "土",
+    "artist": "lullllul",
+    "title": "HAPPYHOLIDAYS",
+    "url": "https://clubdrop.jp/schedule/detail/40206",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2025/11/08",
+    "day": "土",
+    "artist": "HIGH SPY DOLL",
+    "title": "HAPPYHOLIDAYS",
+    "url": "https://clubdrop.jp/schedule/detail/40206",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2025/11/08",
+    "day": "土",
+    "artist": "ちぎょ",
+    "title": "HAPPYHOLIDAYS",
+    "url": "https://clubdrop.jp/schedule/detail/40206",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2025/11/08",
+    "day": "土",
+    "artist": "ParaMilia",
+    "title": "HAPPYHOLIDAYS",
+    "url": "https://clubdrop.jp/schedule/detail/40206",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2025/11/08",
+    "day": "土",
+    "artist": "Chance Movement",
+    "title": "HAPPYHOLIDAYS",
+    "url": "https://clubdrop.jp/schedule/detail/40206",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2025/11/08",
+    "day": "土",
+    "artist": "Fotuness",
+    "title": "HAPPYHOLIDAYS",
+    "url": "https://clubdrop.jp/schedule/detail/40206",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2025/11/08",
+    "day": "土",
+    "artist": "ゼロキョリハーツ",
+    "title": "HAPPYHOLIDAYS",
+    "url": "https://clubdrop.jp/schedule/detail/40206",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2025/11/08",
+    "day": "土",
+    "artist": "パイナップルクラブ",
+    "title": "HAPPYHOLIDAYS",
+    "url": "https://clubdrop.jp/schedule/detail/40206",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2025/11/08",
+    "day": "土",
+    "artist": "むげんこんぜ",
+    "title": "HAPPYHOLIDAYS",
+    "url": "https://clubdrop.jp/schedule/detail/40206",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2025/11/08",
+    "day": "土",
+    "artist": "イロハサクラ",
+    "title": "HAPPYHOLIDAYS",
+    "url": "https://clubdrop.jp/schedule/detail/40206",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2025/11/08",
+    "day": "土",
+    "artist": "柊ゆう",
+    "title": "HAPPYHOLIDAYS",
+    "url": "https://clubdrop.jp/schedule/detail/40206",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2025/11/08",
+    "day": "土",
+    "artist": "SKiLL of light",
+    "title": "HAPPYHOLIDAYS",
+    "url": "https://clubdrop.jp/schedule/detail/40206",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
     "date": "2025/11/14",
     "day": "金",
     "artist": "LUMiRiSE",
@@ -14927,6 +15107,15 @@
     "artist": "トラケミスト andmore!!",
     "title": "LUMiRiSE × トラケミスト 東名阪スプリット\"龍虎乱舞\"",
     "url": "https://clubdrop.jp/schedule/detail/45050",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2025/11/15",
+    "day": "土",
+    "artist": "びっくえんじぇる",
+    "title": "びっくえんじぇる9都市全国ツアー〜Zepp Shinjukuをまんぷくにしちゃうぞ☆〜",
+    "url": "https://clubdrop.jp/schedule/detail/44423",
     "venue": "アメリカ村DROP",
     "note": ""
   },
@@ -16058,6 +16247,15 @@
   {
     "date": "2025/10/19",
     "day": "日",
+    "artist": "neOen",
+    "title": "FOR ALL IDOLOVERS 'HALLOWEEN' #アイラバ",
+    "url": "https://osaka-varon.jp/schedule/detail/47655",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2025/10/19",
+    "day": "日",
     "artist": "ネテルダイヤ",
     "title": "FOR ALL IDOLOVERS 'HALLOWEEN' #アイラバ",
     "url": "https://osaka-varon.jp/schedule/detail/47655",
@@ -16898,6 +17096,78 @@
     "artist": "極・赤いアフロ3G~令和益荒男浪漫譚~",
     "title": "天女神樂 桜木谷妃里生誕祭2025",
     "url": "https://osaka-varon.jp/schedule/detail/40182",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2025/11/19",
+    "day": "水",
+    "artist": "husky",
+    "title": "Synchro Sensation Vol.13",
+    "url": "https://osaka-varon.jp/schedule/detail/44283",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2025/11/19",
+    "day": "水",
+    "artist": "sync sens",
+    "title": "Synchro Sensation Vol.13",
+    "url": "https://osaka-varon.jp/schedule/detail/44283",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2025/11/19",
+    "day": "水",
+    "artist": "ディノゾール",
+    "title": "Synchro Sensation Vol.13",
+    "url": "https://osaka-varon.jp/schedule/detail/44283",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2025/11/19",
+    "day": "水",
+    "artist": "RIZZ",
+    "title": "Synchro Sensation Vol.13",
+    "url": "https://osaka-varon.jp/schedule/detail/44283",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2025/11/19",
+    "day": "水",
+    "artist": "LyricalPopParadox",
+    "title": "Synchro Sensation Vol.13",
+    "url": "https://osaka-varon.jp/schedule/detail/44283",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2025/11/19",
+    "day": "水",
+    "artist": "妖狐繚乱",
+    "title": "Synchro Sensation Vol.13",
+    "url": "https://osaka-varon.jp/schedule/detail/44283",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2025/11/19",
+    "day": "水",
+    "artist": "無花果とマシンガン",
+    "title": "Synchro Sensation Vol.13",
+    "url": "https://osaka-varon.jp/schedule/detail/44283",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2025/11/19",
+    "day": "水",
+    "artist": "Fortuness",
+    "title": "Synchro Sensation Vol.13",
+    "url": "https://osaka-varon.jp/schedule/detail/44283",
     "venue": "VARON",
     "note": ""
   },
@@ -23357,8 +23627,44 @@
   {
     "date": "2025/11/19",
     "day": "水",
+    "artist": "荒井澪",
+    "title": "まるここpresents-冬になる前に-",
+    "url": "http://www.knave.co.jp/schedule/s_2025_11.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2025/11/19",
+    "day": "水",
+    "artist": "洸",
+    "title": "まるここpresents-冬になる前に-",
+    "url": "http://www.knave.co.jp/schedule/s_2025_11.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2025/11/19",
+    "day": "水",
+    "artist": "ラム",
+    "title": "まるここpresents-冬になる前に-",
+    "url": "http://www.knave.co.jp/schedule/s_2025_11.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2025/11/19",
+    "day": "水",
+    "artist": "RAPT LA PLACE",
+    "title": "まるここpresents-冬になる前に-",
+    "url": "http://www.knave.co.jp/schedule/s_2025_11.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2025/11/19",
+    "day": "水",
     "artist": "問)knave06-6535-0691",
-    "title": "荒井澪/洸/ラム/RAPT LA PLACE",
+    "title": "まるここpresents-冬になる前に-",
     "url": "http://www.knave.co.jp/schedule/s_2025_11.html",
     "venue": "knave",
     "note": ""
@@ -23521,6 +23827,96 @@
     "day": "土",
     "artist": "問)スターミュージック・エンタテインメント",
     "title": "手がクリームパン Tour 2025",
+    "url": "http://www.knave.co.jp/schedule/s_2025_11.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2025/11/23",
+    "day": "日",
+    "artist": "OFFICIAL FANCLUB",
+    "title": "FEST VAINQUEUR",
+    "url": "http://www.knave.co.jp/schedule/s_2025_11.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2025/11/23",
+    "day": "日",
+    "artist": "EVENT『LIONHEART-6-』",
+    "title": "FEST VAINQUEUR",
+    "url": "http://www.knave.co.jp/schedule/s_2025_11.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2025/11/23",
+    "day": "日",
+    "artist": "FEST VAINQUEUR",
+    "title": "FEST VAINQUEUR",
+    "url": "http://www.knave.co.jp/schedule/s_2025_11.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2025/11/23",
+    "day": "日",
+    "artist": "『LIONHEART』会員のみ購入可能",
+    "title": "FEST VAINQUEUR",
+    "url": "http://www.knave.co.jp/schedule/s_2025_11.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2025/11/23",
+    "day": "日",
+    "artist": "問)knave06-6535-0691",
+    "title": "FEST VAINQUEUR",
+    "url": "http://www.knave.co.jp/schedule/s_2025_11.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2025/11/24",
+    "day": "月",
+    "artist": "『Christmas Present』",
+    "title": "FEST VAINQUEUR 2025 Acoustic Live",
+    "url": "http://www.knave.co.jp/schedule/s_2025_11.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2025/11/24",
+    "day": "月",
+    "artist": "FEST VAINQUEUR",
+    "title": "FEST VAINQUEUR 2025 Acoustic Live",
+    "url": "http://www.knave.co.jp/schedule/s_2025_11.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2025/11/24",
+    "day": "月",
+    "artist": "一般発売 11",
+    "title": "FEST VAINQUEUR 2025 Acoustic Live",
+    "url": "http://www.knave.co.jp/schedule/s_2025_11.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2025/11/24",
+    "day": "月",
+    "artist": "1212:00",
+    "title": "FEST VAINQUEUR 2025 Acoustic Live",
+    "url": "http://www.knave.co.jp/schedule/s_2025_11.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2025/11/24",
+    "day": "月",
+    "artist": "問)knave06-6535-0691",
+    "title": "FEST VAINQUEUR 2025 Acoustic Live",
     "url": "http://www.knave.co.jp/schedule/s_2025_11.html",
     "venue": "knave",
     "note": ""
@@ -23715,6 +24111,42 @@
     "note": ""
   },
   {
+    "date": "2025/11/29",
+    "day": "土",
+    "artist": "〜ギャルバン全国大会〜",
+    "title": "アカスピEXTRA2025",
+    "url": "http://www.knave.co.jp/schedule/s_2025_11.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2025/11/29",
+    "day": "土",
+    "artist": "問)A cappella Spirits",
+    "title": "アカスピEXTRA2025",
+    "url": "http://www.knave.co.jp/schedule/s_2025_11.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2025/11/29",
+    "day": "土",
+    "artist": "平成電波",
+    "title": "アカスピEXTRA2025",
+    "url": "http://www.knave.co.jp/schedule/s_2025_11.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2025/11/29",
+    "day": "土",
+    "artist": "〜３年生全国大会〜",
+    "title": "アカスピEXTRA2025",
+    "url": "http://www.knave.co.jp/schedule/s_2025_11.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
     "date": "2025/11/30",
     "day": "日",
     "artist": "Schwarz Stein",
@@ -23817,6 +24249,15 @@
     "date": "2025/12/02",
     "day": "火",
     "artist": "asano raincort",
+    "title": "asano raincoat『midnight motion』",
+    "url": "http://www.knave.co.jp/schedule/s_2025_12.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2025/12/02",
+    "day": "火",
+    "artist": "余生",
     "title": "asano raincoat『midnight motion』",
     "url": "http://www.knave.co.jp/schedule/s_2025_12.html",
     "venue": "knave",
