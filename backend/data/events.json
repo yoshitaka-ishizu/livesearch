@@ -4034,7 +4034,25 @@
   {
     "date": "2025/11/19",
     "day": "水",
+    "artist": "『 Sanguisorba 』",
+    "title": "para-dice企画",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
+    "date": "2025/11/19",
+    "day": "水",
     "artist": "絶妙なアンバランズ",
+    "title": "para-dice企画",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
+    "date": "2025/11/19",
+    "day": "水",
+    "artist": "松延慎吾",
     "title": "para-dice企画",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
@@ -4052,15 +4070,6 @@
   {
     "date": "2025/11/19",
     "day": "水",
-    "artist": "チェ・アリサ",
-    "title": "para-dice企画",
-    "url": "https://para-dice.net/",
-    "venue": "扇町para-dice",
-    "note": ""
-  },
-  {
-    "date": "2025/11/19",
-    "day": "水",
     "artist": "LASER ORCHESTRA",
     "title": "para-dice企画",
     "url": "https://para-dice.net/",
@@ -4070,7 +4079,7 @@
   {
     "date": "2025/11/19",
     "day": "水",
-    "artist": "松延慎吾",
+    "artist": "チェ・アリサ",
     "title": "para-dice企画",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
@@ -4583,8 +4592,17 @@
   {
     "date": "2025/11/30",
     "day": "日",
+    "artist": "the dominant curve",
+    "title": "OPEN 17:00",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
+    "date": "2025/11/30",
+    "day": "日",
     "artist": "女の子のマーチ",
-    "title": "女の子のマーチ / とおぼえ / the dominant curve /\n                \n                Hammersmark / madohi",
+    "title": "OPEN 17:00",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -4593,7 +4611,7 @@
     "date": "2025/11/30",
     "day": "日",
     "artist": "とおぼえ",
-    "title": "女の子のマーチ / とおぼえ / the dominant curve /\n                \n                Hammersmark / madohi",
+    "title": "OPEN 17:00",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -4601,8 +4619,8 @@
   {
     "date": "2025/11/30",
     "day": "日",
-    "artist": "the dominant curve",
-    "title": "女の子のマーチ / とおぼえ / the dominant curve /\n                \n                Hammersmark / madohi",
+    "artist": "madohi",
+    "title": "OPEN 17:00",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -4611,16 +4629,7 @@
     "date": "2025/11/30",
     "day": "日",
     "artist": "Hammersmark",
-    "title": "女の子のマーチ / とおぼえ / the dominant curve /\n                \n                Hammersmark / madohi",
-    "url": "https://para-dice.net/",
-    "venue": "扇町para-dice",
-    "note": ""
-  },
-  {
-    "date": "2025/11/30",
-    "day": "日",
-    "artist": "madohi and more...",
-    "title": "女の子のマーチ / とおぼえ / the dominant curve /\n                \n                Hammersmark / madohi",
+    "title": "OPEN 17:00",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -4665,7 +4674,7 @@
     "date": "2025/12/03",
     "day": "水",
     "artist": "para-dice企画",
-    "title": "カナデ",
+    "title": "カナデ / Amsterdamned",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -4673,8 +4682,17 @@
   {
     "date": "2025/12/03",
     "day": "水",
-    "artist": "カナデ  and more...",
-    "title": "カナデ",
+    "artist": "カナデ",
+    "title": "カナデ / Amsterdamned",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
+    "date": "2025/12/03",
+    "day": "水",
+    "artist": "Amsterdamned  and more...",
+    "title": "カナデ / Amsterdamned",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -4745,7 +4763,7 @@
   {
     "date": "2025/12/05",
     "day": "金",
-    "artist": "教育 and more...",
+    "artist": "教育",
     "title": "CURIOUS / わをん(Rukka) / Obake-Numa2 ~after the night race~ / ズルムケ直樹 / 教育",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
@@ -4907,8 +4925,35 @@
   {
     "date": "2025/12/09",
     "day": "火",
+    "artist": "京橋光",
+    "title": "",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
+    "date": "2025/12/09",
+    "day": "火",
     "artist": "けーずや。",
-    "title": "けーずや。/ エレベーターズ / 京橋光(f.カリニャンクール) / ろる",
+    "title": "",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
+    "date": "2025/12/09",
+    "day": "火",
+    "artist": "ろる",
+    "title": "",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
+    "date": "2025/12/09",
+    "day": "火",
+    "artist": "吾妻光記",
+    "title": "",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -4917,34 +4962,7 @@
     "date": "2025/12/09",
     "day": "火",
     "artist": "エレベーターズ",
-    "title": "けーずや。/ エレベーターズ / 京橋光(f.カリニャンクール) / ろる",
-    "url": "https://para-dice.net/",
-    "venue": "扇町para-dice",
-    "note": ""
-  },
-  {
-    "date": "2025/12/09",
-    "day": "火",
-    "artist": "京橋光",
-    "title": "けーずや。/ エレベーターズ / 京橋光(f.カリニャンクール) / ろる",
-    "url": "https://para-dice.net/",
-    "venue": "扇町para-dice",
-    "note": ""
-  },
-  {
-    "date": "2025/12/09",
-    "day": "火",
-    "artist": "ろる and more...",
-    "title": "けーずや。/ エレベーターズ / 京橋光(f.カリニャンクール) / ろる",
-    "url": "https://para-dice.net/",
-    "venue": "扇町para-dice",
-    "note": ""
-  },
-  {
-    "date": "2025/12/11",
-    "day": "木",
-    "artist": "SSS feat Yumi Kojima",
-    "title": "SSS feat Yumi Kojima / SUGIYAMA / リリス / 歪みの国のチェルシー / BEATALONE",
+    "title": "",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -4953,7 +4971,16 @@
     "date": "2025/12/11",
     "day": "木",
     "artist": "SUGIYAMA",
-    "title": "SSS feat Yumi Kojima / SUGIYAMA / リリス / 歪みの国のチェルシー / BEATALONE",
+    "title": "OPEN 18:30",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
+    "date": "2025/12/11",
+    "day": "木",
+    "artist": "BEATALONE",
+    "title": "OPEN 18:30",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -4962,7 +4989,16 @@
     "date": "2025/12/11",
     "day": "木",
     "artist": "リリス",
-    "title": "SSS feat Yumi Kojima / SUGIYAMA / リリス / 歪みの国のチェルシー / BEATALONE",
+    "title": "OPEN 18:30",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
+    "date": "2025/12/11",
+    "day": "木",
+    "artist": "SSS feat Yumi Kojima",
+    "title": "OPEN 18:30",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -4971,16 +5007,7 @@
     "date": "2025/12/11",
     "day": "木",
     "artist": "歪みの国のチェルシー",
-    "title": "SSS feat Yumi Kojima / SUGIYAMA / リリス / 歪みの国のチェルシー / BEATALONE",
-    "url": "https://para-dice.net/",
-    "venue": "扇町para-dice",
-    "note": ""
-  },
-  {
-    "date": "2025/12/11",
-    "day": "木",
-    "artist": "BEATALONE  and more...",
-    "title": "SSS feat Yumi Kojima / SUGIYAMA / リリス / 歪みの国のチェルシー / BEATALONE",
+    "title": "OPEN 18:30",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -5286,25 +5313,7 @@
     "date": "2025/12/18",
     "day": "木",
     "artist": "ザ・チェーンソーズ",
-    "title": "ザ・チェーンソーズ / エチュバリア / 奥村由希/ 松延慎吾 / 瀬川浩平a.k.aしっぱいまん",
-    "url": "https://para-dice.net/",
-    "venue": "扇町para-dice",
-    "note": ""
-  },
-  {
-    "date": "2025/12/18",
-    "day": "木",
-    "artist": "エチュバリア",
-    "title": "ザ・チェーンソーズ / エチュバリア / 奥村由希/ 松延慎吾 / 瀬川浩平a.k.aしっぱいまん",
-    "url": "https://para-dice.net/",
-    "venue": "扇町para-dice",
-    "note": ""
-  },
-  {
-    "date": "2025/12/18",
-    "day": "木",
-    "artist": "奥村由希",
-    "title": "ザ・チェーンソーズ / エチュバリア / 奥村由希/ 松延慎吾 / 瀬川浩平a.k.aしっぱいまん",
+    "title": "OPEN 18:30",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -5313,7 +5322,7 @@
     "date": "2025/12/18",
     "day": "木",
     "artist": "松延慎吾",
-    "title": "ザ・チェーンソーズ / エチュバリア / 奥村由希/ 松延慎吾 / 瀬川浩平a.k.aしっぱいまん",
+    "title": "OPEN 18:30",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -5322,7 +5331,25 @@
     "date": "2025/12/18",
     "day": "木",
     "artist": "瀬川浩平a.k.aしっぱいまん",
-    "title": "ザ・チェーンソーズ / エチュバリア / 奥村由希/ 松延慎吾 / 瀬川浩平a.k.aしっぱいまん",
+    "title": "OPEN 18:30",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
+    "date": "2025/12/18",
+    "day": "木",
+    "artist": "エチュバリア",
+    "title": "OPEN 18:30",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
+    "date": "2025/12/18",
+    "day": "木",
+    "artist": "奥村由希",
+    "title": "OPEN 18:30",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -11891,15 +11918,6 @@
   {
     "date": "2025/11/13",
     "day": "木",
-    "artist": "ちゃす",
-    "title": "世史久祭り大阪編vol.27「2025秋のドドスコベイベーナイト」",
-    "url": "https://bangboo.jp/schedule/detail/46236",
-    "venue": "梅田BANGBOO",
-    "note": ""
-  },
-  {
-    "date": "2025/11/13",
-    "day": "木",
     "artist": "神聖フレラモ",
     "title": "世史久祭り大阪編vol.27「2025秋のドドスコベイベーナイト」",
     "url": "https://bangboo.jp/schedule/detail/46236",
@@ -12578,6 +12596,42 @@
     "artist": "SERRA",
     "title": "SERRA ワンマンライブ – 1st Album 『Dawn Light』 Release Tour",
     "url": "https://bangboo.jp/schedule/detail/46220",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2025/12/13",
+    "day": "土",
+    "artist": "Smiley 高木 &FPF",
+    "title": "LLKING マーキー★古希記念LIVE【ABUNO・AID 2025】",
+    "url": "https://bangboo.jp/schedule/detail/42676",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2025/12/13",
+    "day": "土",
+    "artist": "ホシ★ミッツ",
+    "title": "LLKING マーキー★古希記念LIVE【ABUNO・AID 2025】",
+    "url": "https://bangboo.jp/schedule/detail/42676",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2025/12/13",
+    "day": "土",
+    "artist": "ユキポン＆極楽ブギー",
+    "title": "LLKING マーキー★古希記念LIVE【ABUNO・AID 2025】",
+    "url": "https://bangboo.jp/schedule/detail/42676",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2025/12/13",
+    "day": "土",
+    "artist": "MusicPlant",
+    "title": "LLKING マーキー★古希記念LIVE【ABUNO・AID 2025】",
+    "url": "https://bangboo.jp/schedule/detail/42676",
     "venue": "梅田BANGBOO",
     "note": ""
   },
@@ -16047,6 +16101,24 @@
     "note": ""
   },
   {
+    "date": "2025/12/18",
+    "day": "木",
+    "artist": "UZMK andmore!!",
+    "title": "USED2TheCORE TOUR 大阪SERIES DAY.1",
+    "url": "https://clubdrop.jp/schedule/detail/43029",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2025/12/21",
+    "day": "日",
+    "artist": "UZMK andmore!!",
+    "title": "USED2TheCORE TOUR 大阪SERIES DAY.2",
+    "url": "https://clubdrop.jp/schedule/detail/40527",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
     "date": "2025/12/24",
     "day": "水",
     "artist": "THA BLUE HERB",
@@ -17672,6 +17744,15 @@
     "artist": "ヤミテラ",
     "title": "ヤミテラ ONEMAN TOUR 2025 【再改革】-闇の凶典-",
     "url": "https://osaka-varon.jp/schedule/detail/45545",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2025/11/05",
+    "day": "水",
+    "artist": "LuvHz",
+    "title": "LuvHz 3rd Month Oneman Live \" Wonderland Dream :|| \"",
+    "url": "https://osaka-varon.jp/schedule/detail/46034",
     "venue": "VARON",
     "note": ""
   },
@@ -21854,8 +21935,80 @@
   {
     "date": "2025/12/20",
     "day": "土",
-    "artist": "coming soon...",
-    "title": "HALL RENTAL",
+    "artist": "りたりん!",
+    "title": "ダメ御殿～寒昴の乱～",
+    "url": "https://osaka-zeela.jp/schedule/detail/41086",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2025/12/20",
+    "day": "土",
+    "artist": "迷羊仔",
+    "title": "ダメ御殿～寒昴の乱～",
+    "url": "https://osaka-zeela.jp/schedule/detail/41086",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2025/12/20",
+    "day": "土",
+    "artist": "AIMIYY",
+    "title": "ダメ御殿～寒昴の乱～",
+    "url": "https://osaka-zeela.jp/schedule/detail/41086",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2025/12/20",
+    "day": "土",
+    "artist": "Bocchi Malone Re:",
+    "title": "ダメ御殿～寒昴の乱～",
+    "url": "https://osaka-zeela.jp/schedule/detail/41086",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2025/12/20",
+    "day": "土",
+    "artist": "RAISE ROSE PARTY",
+    "title": "ダメ御殿～寒昴の乱～",
+    "url": "https://osaka-zeela.jp/schedule/detail/41086",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2025/12/20",
+    "day": "土",
+    "artist": "SKULL Show Time!!",
+    "title": "ダメ御殿～寒昴の乱～",
+    "url": "https://osaka-zeela.jp/schedule/detail/41086",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2025/12/20",
+    "day": "土",
+    "artist": "でぃーおーでぃーだん!ライブ支部",
+    "title": "ダメ御殿～寒昴の乱～",
+    "url": "https://osaka-zeela.jp/schedule/detail/41086",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2025/12/20",
+    "day": "土",
+    "artist": "10年以上前のアニソンやるバンド",
+    "title": "ダメ御殿～寒昴の乱～",
+    "url": "https://osaka-zeela.jp/schedule/detail/41086",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2025/12/20",
+    "day": "土",
+    "artist": "魔法少女リカちゃん with S",
+    "title": "ダメ御殿～寒昴の乱～",
     "url": "https://osaka-zeela.jp/schedule/detail/41086",
     "venue": "Zeela",
     "note": ""
@@ -25591,6 +25744,78 @@
     "day": "木",
     "artist": "問)knave06-6535-0691",
     "title": "瑚雪presents 『Bravely_』",
+    "url": "http://www.knave.co.jp/schedule/s_2025_12.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2025/12/05",
+    "day": "金",
+    "artist": "Tiiy",
+    "title": "【Tiiyと素敵なAcoustic Xmas Partiiy】",
+    "url": "http://www.knave.co.jp/schedule/s_2025_12.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2025/12/05",
+    "day": "金",
+    "artist": "ミライト",
+    "title": "【Tiiyと素敵なAcoustic Xmas Partiiy】",
+    "url": "http://www.knave.co.jp/schedule/s_2025_12.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2025/12/05",
+    "day": "金",
+    "artist": "でぃすこね！",
+    "title": "【Tiiyと素敵なAcoustic Xmas Partiiy】",
+    "url": "http://www.knave.co.jp/schedule/s_2025_12.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2025/12/05",
+    "day": "金",
+    "artist": "葉月",
+    "title": "【Tiiyと素敵なAcoustic Xmas Partiiy】",
+    "url": "http://www.knave.co.jp/schedule/s_2025_12.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2025/12/05",
+    "day": "金",
+    "artist": "愛沢絢夏",
+    "title": "【Tiiyと素敵なAcoustic Xmas Partiiy】",
+    "url": "http://www.knave.co.jp/schedule/s_2025_12.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2025/12/05",
+    "day": "金",
+    "artist": "TIGETにて10",
+    "title": "【Tiiyと素敵なAcoustic Xmas Partiiy】",
+    "url": "http://www.knave.co.jp/schedule/s_2025_12.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2025/12/05",
+    "day": "金",
+    "artist": "2521:00〜発売開始",
+    "title": "【Tiiyと素敵なAcoustic Xmas Partiiy】",
+    "url": "http://www.knave.co.jp/schedule/s_2025_12.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2025/12/05",
+    "day": "金",
+    "artist": "問)knave06-6535-0691",
+    "title": "【Tiiyと素敵なAcoustic Xmas Partiiy】",
     "url": "http://www.knave.co.jp/schedule/s_2025_12.html",
     "venue": "knave",
     "note": ""
