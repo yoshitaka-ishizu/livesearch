@@ -8586,6 +8586,15 @@
     "note": ""
   },
   {
+    "date": "2025/11/01",
+    "day": "土",
+    "artist": "松岡英明",
+    "title": "【昼公演】デビュー39周年記念《The Lion's Eyes（百獣の王の瞳）》東名阪ツアー",
+    "url": "https://vijon.jp/schedule/detail/47535",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
     "date": "2025/11/02",
     "day": "日",
     "artist": "Squall Line",
@@ -12602,8 +12611,8 @@
   {
     "date": "2025/12/13",
     "day": "土",
-    "artist": "Smiley 高木 &FPF",
-    "title": "LLKING マーキー★古希記念LIVE【ABUNO・AID 2025】",
+    "artist": "Smiley高木&Funky Friends Forever",
+    "title": "LLKING マーキー 古希記念LIVE ABUNOAID2025",
     "url": "https://bangboo.jp/schedule/detail/42676",
     "venue": "梅田BANGBOO",
     "note": ""
@@ -12611,8 +12620,8 @@
   {
     "date": "2025/12/13",
     "day": "土",
-    "artist": "ホシ★ミッツ",
-    "title": "LLKING マーキー★古希記念LIVE【ABUNO・AID 2025】",
+    "artist": "ホシミッツ",
+    "title": "LLKING マーキー 古希記念LIVE ABUNOAID2025",
     "url": "https://bangboo.jp/schedule/detail/42676",
     "venue": "梅田BANGBOO",
     "note": ""
@@ -12621,7 +12630,7 @@
     "date": "2025/12/13",
     "day": "土",
     "artist": "ユキポン＆極楽ブギー",
-    "title": "LLKING マーキー★古希記念LIVE【ABUNO・AID 2025】",
+    "title": "LLKING マーキー 古希記念LIVE ABUNOAID2025",
     "url": "https://bangboo.jp/schedule/detail/42676",
     "venue": "梅田BANGBOO",
     "note": ""
@@ -12630,7 +12639,7 @@
     "date": "2025/12/13",
     "day": "土",
     "artist": "MusicPlant",
-    "title": "LLKING マーキー★古希記念LIVE【ABUNO・AID 2025】",
+    "title": "LLKING マーキー 古希記念LIVE ABUNOAID2025",
     "url": "https://bangboo.jp/schedule/detail/42676",
     "venue": "梅田BANGBOO",
     "note": ""
@@ -15516,15 +15525,6 @@
     "note": ""
   },
   {
-    "date": "2025/11/06",
-    "day": "木",
-    "artist": "and more!!",
-    "title": "Hello,the Music#1",
-    "url": "https://clubdrop.jp/schedule/detail/46249",
-    "venue": "アメリカ村DROP",
-    "note": ""
-  },
-  {
     "date": "2025/11/07",
     "day": "金",
     "artist": "Aloud",
@@ -15772,7 +15772,7 @@
     "day": "金",
     "artist": "LUMiRiSE",
     "title": "LUMiRiSE×トラケミストpresents SPLIT TOUR2025\"龍虎乱舞\"",
-    "url": "https://clubdrop.jp/schedule/detail/45050",
+    "url": "https://clubdrop.jp/schedule/detail/48490",
     "venue": "アメリカ村DROP",
     "note": ""
   },
@@ -15781,16 +15781,25 @@
     "day": "金",
     "artist": "トラケミスト",
     "title": "LUMiRiSE×トラケミストpresents SPLIT TOUR2025\"龍虎乱舞\"",
-    "url": "https://clubdrop.jp/schedule/detail/45050",
+    "url": "https://clubdrop.jp/schedule/detail/48490",
     "venue": "アメリカ村DROP",
     "note": ""
   },
   {
     "date": "2025/11/14",
     "day": "金",
-    "artist": "Parallel Frank andmore!!",
+    "artist": "Parallel Frank",
     "title": "LUMiRiSE×トラケミストpresents SPLIT TOUR2025\"龍虎乱舞\"",
-    "url": "https://clubdrop.jp/schedule/detail/45050",
+    "url": "https://clubdrop.jp/schedule/detail/48490",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2025/11/14",
+    "day": "金",
+    "artist": "SWDN",
+    "title": "LUMiRiSE×トラケミストpresents SPLIT TOUR2025\"龍虎乱舞\"",
+    "url": "https://clubdrop.jp/schedule/detail/48490",
     "venue": "アメリカ村DROP",
     "note": ""
   },
@@ -15935,6 +15944,33 @@
     "artist": "INEBRIATE",
     "title": "漆黒の音楽会-第十七章",
     "url": "https://clubdrop.jp/schedule/detail/46350",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2025/11/19",
+    "day": "水",
+    "artist": "DIVIBE",
+    "title": "Drunk on Love -NaKK 34th Birthday edition 3MAN SHOW-",
+    "url": "https://clubdrop.jp/schedule/detail/46817",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2025/11/19",
+    "day": "水",
+    "artist": "ANYDOUBT",
+    "title": "Drunk on Love -NaKK 34th Birthday edition 3MAN SHOW-",
+    "url": "https://clubdrop.jp/schedule/detail/46817",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2025/11/19",
+    "day": "水",
+    "artist": "Ovalcore",
+    "title": "Drunk on Love -NaKK 34th Birthday edition 3MAN SHOW-",
+    "url": "https://clubdrop.jp/schedule/detail/46817",
     "venue": "アメリカ村DROP",
     "note": ""
   },
@@ -20894,6 +20930,15 @@
     "artist": "穀雨  and more …?",
     "title": "とりとうわばみ 彷徨い葦遍",
     "url": "https://osaka-zeela.jp/schedule/detail/40132",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2025/11/04",
+    "day": "火",
+    "artist": "ParaMilia",
+    "title": "キミのパラダイス♡ #02",
+    "url": "https://osaka-zeela.jp/schedule/detail/47664",
     "venue": "Zeela",
     "note": ""
   },
