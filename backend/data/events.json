@@ -1010,15 +1010,6 @@
   {
     "date": "2025/11/02",
     "day": "日",
-    "artist": "Kohei Okutani",
-    "title": "『(０,０)』",
-    "url": "https://para-dice.net/",
-    "venue": "扇町para-dice",
-    "note": ""
-  },
-  {
-    "date": "2025/11/02",
-    "day": "日",
     "artist": "Selkie",
     "title": "『(０,０)』",
     "url": "https://para-dice.net/",
@@ -1056,6 +1047,33 @@
     "date": "2025/11/02",
     "day": "日",
     "artist": "VJ:今﨑ソラ",
+    "title": "『(０,０)』",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
+    "date": "2025/11/02",
+    "day": "日",
+    "artist": "※出演予定のKohei Okutaniが諸事情でキャンセルとなりました。",
+    "title": "『(０,０)』",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
+    "date": "2025/11/02",
+    "day": "日",
+    "artist": "それに伴いオープン",
+    "title": "『(０,０)』",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
+    "date": "2025/11/02",
+    "day": "日",
+    "artist": "スタートの時間を上記に変更しております、ご了承ください！",
     "title": "『(０,０)』",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
@@ -4410,15 +4428,6 @@
     "note": ""
   },
   {
-    "date": "2025/11/06",
-    "day": "木",
-    "artist": "...and more",
-    "title": "club vijon × ウドー音楽事務所 pre.【Youth Gone Wild 2025】Load to 2026",
-    "url": "https://vijon.jp/schedule/detail/45686",
-    "venue": "北堀江club vijon",
-    "note": ""
-  },
-  {
     "date": "2025/11/07",
     "day": "金",
     "artist": "カレラ ONEMAN LIVE",
@@ -4971,6 +4980,24 @@
     "date": "2025/11/20",
     "day": "木",
     "artist": "ヌーディーブランク",
+    "title": "ヌーディーブランクpre.【光の方へ】",
+    "url": "https://vijon.jp/schedule/detail/46589",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2025/11/20",
+    "day": "木",
+    "artist": "Peacock",
+    "title": "ヌーディーブランクpre.【光の方へ】",
+    "url": "https://vijon.jp/schedule/detail/46589",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2025/11/20",
+    "day": "木",
+    "artist": "瞬間最大風速",
     "title": "ヌーディーブランクpre.【光の方へ】",
     "url": "https://vijon.jp/schedule/detail/46589",
     "venue": "北堀江club vijon",
@@ -7661,8 +7688,8 @@
   {
     "date": "2025/11/03",
     "day": "月",
-    "artist": "狐青メリィ",
-    "title": "狐青メリィ presents. 百鬼夜紅 -其の弐-",
+    "artist": "狐宵メリィ",
+    "title": "狐宵メリィ presents. 百鬼夜紅 -其の弐-",
     "url": "https://clubdrop.jp/schedule/detail/45437",
     "venue": "アメリカ村DROP",
     "note": ""
@@ -7671,7 +7698,7 @@
     "date": "2025/11/03",
     "day": "月",
     "artist": "AZ-ON",
-    "title": "狐青メリィ presents. 百鬼夜紅 -其の弐-",
+    "title": "狐宵メリィ presents. 百鬼夜紅 -其の弐-",
     "url": "https://clubdrop.jp/schedule/detail/45437",
     "venue": "アメリカ村DROP",
     "note": ""
@@ -7680,7 +7707,7 @@
     "date": "2025/11/03",
     "day": "月",
     "artist": "DIAVEL",
-    "title": "狐青メリィ presents. 百鬼夜紅 -其の弐-",
+    "title": "狐宵メリィ presents. 百鬼夜紅 -其の弐-",
     "url": "https://clubdrop.jp/schedule/detail/45437",
     "venue": "アメリカ村DROP",
     "note": ""
@@ -7689,7 +7716,7 @@
     "date": "2025/11/03",
     "day": "月",
     "artist": "YAABURNEE",
-    "title": "狐青メリィ presents. 百鬼夜紅 -其の弐-",
+    "title": "狐宵メリィ presents. 百鬼夜紅 -其の弐-",
     "url": "https://clubdrop.jp/schedule/detail/45437",
     "venue": "アメリカ村DROP",
     "note": ""
@@ -8714,7 +8741,7 @@
   {
     "date": "2025/11/22",
     "day": "土",
-    "artist": "and more!!MERRY",
+    "artist": "RomansquallMERRY",
     "title": "NaKK Birthday Fest 2025-Girls,Girls,Girls, Edition-",
     "url": "https://clubdrop.jp/schedule/detail/42836",
     "venue": "アメリカ村DROP",
@@ -8933,6 +8960,105 @@
     "artist": "THA BLUE HERB",
     "title": "THA BLUE HERB YEAR END LIVE 2025",
     "url": "https://clubdrop.jp/schedule/detail/44182",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2025/12/30",
+    "day": "火",
+    "artist": "Free Aqua Butterfly",
+    "title": "PIEN PRESENTS PASSAGE POINT IN OSAKA VOL.16",
+    "url": "https://clubdrop.jp/schedule/detail/47460",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2025/12/30",
+    "day": "火",
+    "artist": "Neil DiMC",
+    "title": "PIEN PRESENTS PASSAGE POINT IN OSAKA VOL.16",
+    "url": "https://clubdrop.jp/schedule/detail/47460",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2025/12/30",
+    "day": "火",
+    "artist": "WONT",
+    "title": "PIEN PRESENTS PASSAGE POINT IN OSAKA VOL.16",
+    "url": "https://clubdrop.jp/schedule/detail/47460",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2025/12/30",
+    "day": "火",
+    "artist": "IGNIS",
+    "title": "PIEN PRESENTS PASSAGE POINT IN OSAKA VOL.16",
+    "url": "https://clubdrop.jp/schedule/detail/47460",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2025/12/30",
+    "day": "火",
+    "artist": "husky",
+    "title": "PIEN PRESENTS PASSAGE POINT IN OSAKA VOL.16",
+    "url": "https://clubdrop.jp/schedule/detail/47460",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2025/12/30",
+    "day": "火",
+    "artist": "妖狐繚乱",
+    "title": "PIEN PRESENTS PASSAGE POINT IN OSAKA VOL.16",
+    "url": "https://clubdrop.jp/schedule/detail/47460",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2025/12/30",
+    "day": "火",
+    "artist": "SOCIAL×MATCH",
+    "title": "PIEN PRESENTS PASSAGE POINT IN OSAKA VOL.16",
+    "url": "https://clubdrop.jp/schedule/detail/47460",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2025/12/30",
+    "day": "火",
+    "artist": "AIMIA",
+    "title": "PIEN PRESENTS PASSAGE POINT IN OSAKA VOL.16",
+    "url": "https://clubdrop.jp/schedule/detail/47460",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2025/12/30",
+    "day": "火",
+    "artist": "SWDN",
+    "title": "PIEN PRESENTS PASSAGE POINT IN OSAKA VOL.16",
+    "url": "https://clubdrop.jp/schedule/detail/47460",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2025/12/30",
+    "day": "火",
+    "artist": "東京mist",
+    "title": "PIEN PRESENTS PASSAGE POINT IN OSAKA VOL.16",
+    "url": "https://clubdrop.jp/schedule/detail/47460",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2025/12/30",
+    "day": "火",
+    "artist": "sync-sens",
+    "title": "PIEN PRESENTS PASSAGE POINT IN OSAKA VOL.16",
+    "url": "https://clubdrop.jp/schedule/detail/47460",
     "venue": "アメリカ村DROP",
     "note": ""
   },
@@ -10539,6 +10665,24 @@
     "note": ""
   },
   {
+    "date": "2025/11/06",
+    "day": "木",
+    "artist": "Lumi7's",
+    "title": "『Cendrillon-vol.63-』",
+    "url": "https://osaka-zeela.jp/schedule/detail/47465",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2025/11/06",
+    "day": "木",
+    "artist": "NeoAster",
+    "title": "『Cendrillon-vol.63-』",
+    "url": "https://osaka-zeela.jp/schedule/detail/47465",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
     "date": "2025/11/07",
     "day": "金",
     "artist": "窓際ぼっち倶楽部",
@@ -11702,8 +11846,71 @@
   {
     "date": "2025/12/28",
     "day": "日",
-    "artist": "coming soon...",
-    "title": "HALL RENTAL",
+    "artist": "Osaka Rendez-Vous",
+    "title": "貴紳の宴 presented by OKAJI",
+    "url": "https://osaka-zeela.jp/schedule/detail/40758",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2025/12/28",
+    "day": "日",
+    "artist": "粗髪天",
+    "title": "貴紳の宴 presented by OKAJI",
+    "url": "https://osaka-zeela.jp/schedule/detail/40758",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2025/12/28",
+    "day": "日",
+    "artist": "TAMI ROCK DA",
+    "title": "貴紳の宴 presented by OKAJI",
+    "url": "https://osaka-zeela.jp/schedule/detail/40758",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2025/12/28",
+    "day": "日",
+    "artist": "酒袋",
+    "title": "貴紳の宴 presented by OKAJI",
+    "url": "https://osaka-zeela.jp/schedule/detail/40758",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2025/12/28",
+    "day": "日",
+    "artist": "コーヒーフロート",
+    "title": "貴紳の宴 presented by OKAJI",
+    "url": "https://osaka-zeela.jp/schedule/detail/40758",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2025/12/28",
+    "day": "日",
+    "artist": "フィッシュライフ",
+    "title": "貴紳の宴 presented by OKAJI",
+    "url": "https://osaka-zeela.jp/schedule/detail/40758",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2025/12/28",
+    "day": "日",
+    "artist": "酒井雨",
+    "title": "貴紳の宴 presented by OKAJI",
+    "url": "https://osaka-zeela.jp/schedule/detail/40758",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2025/12/28",
+    "day": "日",
+    "artist": "TATTSU",
+    "title": "貴紳の宴 presented by OKAJI",
     "url": "https://osaka-zeela.jp/schedule/detail/40758",
     "venue": "Zeela",
     "note": ""
