@@ -2549,8 +2549,26 @@
   {
     "date": "2025/12/02",
     "day": "火",
+    "artist": "para-dice企画",
+    "title": "『 LFO 』",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
+    "date": "2025/12/02",
+    "day": "火",
+    "artist": "『 LFO 』",
+    "title": "『 LFO 』",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
+    "date": "2025/12/02",
+    "day": "火",
     "artist": "Jiro Matatabi",
-    "title": "",
+    "title": "『 LFO 』",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -2559,7 +2577,16 @@
     "date": "2025/12/02",
     "day": "火",
     "artist": "Papa make yeti",
-    "title": "",
+    "title": "『 LFO 』",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
+    "date": "2025/12/02",
+    "day": "火",
+    "artist": "tomohiro takemoto",
+    "title": "『 LFO 』",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -2568,7 +2595,7 @@
     "date": "2025/12/02",
     "day": "火",
     "artist": "につりい",
-    "title": "",
+    "title": "『 LFO 』",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -2577,16 +2604,7 @@
     "date": "2025/12/02",
     "day": "火",
     "artist": "能勢遊神",
-    "title": "",
-    "url": "https://para-dice.net/",
-    "venue": "扇町para-dice",
-    "note": ""
-  },
-  {
-    "date": "2025/12/02",
-    "day": "火",
-    "artist": "tomohiro takemoto and more...",
-    "title": "",
+    "title": "『 LFO 』",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -2639,8 +2657,44 @@
   {
     "date": "2025/12/04",
     "day": "木",
+    "artist": "para-dice企画",
+    "title": "『 GOLD EXPERIENCE 』",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
+    "date": "2025/12/04",
+    "day": "木",
+    "artist": "『 GOLD EXPERIENCE 』",
+    "title": "『 GOLD EXPERIENCE 』",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
+    "date": "2025/12/04",
+    "day": "木",
+    "artist": "hiko fukuda",
+    "title": "『 GOLD EXPERIENCE 』",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
+    "date": "2025/12/04",
+    "day": "木",
     "artist": "Swim in May",
-    "title": "Swim in May / Seisuke / 田口智章(Muscle of the Soul)",
+    "title": "『 GOLD EXPERIENCE 』",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
+    "date": "2025/12/04",
+    "day": "木",
+    "artist": "田口智章",
+    "title": "『 GOLD EXPERIENCE 』",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -2649,16 +2703,7 @@
     "date": "2025/12/04",
     "day": "木",
     "artist": "Seisuke",
-    "title": "Swim in May / Seisuke / 田口智章(Muscle of the Soul)",
-    "url": "https://para-dice.net/",
-    "venue": "扇町para-dice",
-    "note": ""
-  },
-  {
-    "date": "2025/12/04",
-    "day": "木",
-    "artist": "田口智章 and more...",
-    "title": "Swim in May / Seisuke / 田口智章(Muscle of the Soul)",
+    "title": "『 GOLD EXPERIENCE 』",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -3170,26 +3215,17 @@
   {
     "date": "2025/12/16",
     "day": "火",
-    "artist": "Kohei Okutani",
-    "title": "Kohei Okutani / べーしょー / Mo’ Mango / 高岳銘 / 西山昂志(GOLDFISH ADVENTURE)",
-    "url": "https://para-dice.net/",
-    "venue": "扇町para-dice",
-    "note": ""
-  },
-  {
-    "date": "2025/12/16",
-    "day": "火",
-    "artist": "べーしょー",
-    "title": "Kohei Okutani / べーしょー / Mo’ Mango / 高岳銘 / 西山昂志(GOLDFISH ADVENTURE)",
-    "url": "https://para-dice.net/",
-    "venue": "扇町para-dice",
-    "note": ""
-  },
-  {
-    "date": "2025/12/16",
-    "day": "火",
     "artist": "Mo’ Mango",
-    "title": "Kohei Okutani / べーしょー / Mo’ Mango / 高岳銘 / 西山昂志(GOLDFISH ADVENTURE)",
+    "title": "OPEN 18:30",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
+    "date": "2025/12/16",
+    "day": "火",
+    "artist": "Kohei Okutani",
+    "title": "OPEN 18:30",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -3198,7 +3234,16 @@
     "date": "2025/12/16",
     "day": "火",
     "artist": "高岳銘",
-    "title": "Kohei Okutani / べーしょー / Mo’ Mango / 高岳銘 / 西山昂志(GOLDFISH ADVENTURE)",
+    "title": "OPEN 18:30",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
+    "date": "2025/12/16",
+    "day": "火",
+    "artist": "べーしょー",
+    "title": "OPEN 18:30",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -3207,34 +3252,7 @@
     "date": "2025/12/16",
     "day": "火",
     "artist": "西山昂志",
-    "title": "Kohei Okutani / べーしょー / Mo’ Mango / 高岳銘 / 西山昂志(GOLDFISH ADVENTURE)",
-    "url": "https://para-dice.net/",
-    "venue": "扇町para-dice",
-    "note": ""
-  },
-  {
-    "date": "2025/12/17",
-    "day": "水",
-    "artist": "イタミトクニン+箱+柾",
-    "title": "イタミトクニン+箱+柾 / カミーユ・カミーユ / シュムシュムグミラスティクム / KAJO / 新實幸太朗",
-    "url": "https://para-dice.net/",
-    "venue": "扇町para-dice",
-    "note": ""
-  },
-  {
-    "date": "2025/12/17",
-    "day": "水",
-    "artist": "カミーユ・カミーユ",
-    "title": "イタミトクニン+箱+柾 / カミーユ・カミーユ / シュムシュムグミラスティクム / KAJO / 新實幸太朗",
-    "url": "https://para-dice.net/",
-    "venue": "扇町para-dice",
-    "note": ""
-  },
-  {
-    "date": "2025/12/17",
-    "day": "水",
-    "artist": "シュムシュムグミラスティクム",
-    "title": "イタミトクニン+箱+柾 / カミーユ・カミーユ / シュムシュムグミラスティクム / KAJO / 新實幸太朗",
+    "title": "OPEN 18:30",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -3243,7 +3261,7 @@
     "date": "2025/12/17",
     "day": "水",
     "artist": "KAJO",
-    "title": "イタミトクニン+箱+柾 / カミーユ・カミーユ / シュムシュムグミラスティクム / KAJO / 新實幸太朗",
+    "title": "",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -3252,7 +3270,34 @@
     "date": "2025/12/17",
     "day": "水",
     "artist": "新實幸太朗",
-    "title": "イタミトクニン+箱+柾 / カミーユ・カミーユ / シュムシュムグミラスティクム / KAJO / 新實幸太朗",
+    "title": "",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
+    "date": "2025/12/17",
+    "day": "水",
+    "artist": "イタミトクニン+箱+柾",
+    "title": "",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
+    "date": "2025/12/17",
+    "day": "水",
+    "artist": "シュムシュムグミラスティクム",
+    "title": "",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
+    "date": "2025/12/17",
+    "day": "水",
+    "artist": "カミーユ・カミーユ",
+    "title": "",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -8190,6 +8235,15 @@
     "note": ""
   },
   {
+    "date": "2026/02/08",
+    "day": "日",
+    "artist": "ハヤシライフ",
+    "title": "有頂天-2026-",
+    "url": "https://bangboo.jp/schedule/detail/44737",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
     "date": "2026/02/11",
     "day": "水",
     "artist": "yukimi",
@@ -10305,6 +10359,51 @@
     "note": ""
   },
   {
+    "date": "2025/12/12",
+    "day": "金",
+    "artist": "サディスティック仮面ちゃん",
+    "title": "【サディスティック遊宴会~其ノ弐　クリスマス編~】",
+    "url": "https://clubdrop.jp/schedule/detail/45017",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2025/12/12",
+    "day": "金",
+    "artist": "すごいバンド名にしたかった。",
+    "title": "【サディスティック遊宴会~其ノ弐　クリスマス編~】",
+    "url": "https://clubdrop.jp/schedule/detail/45017",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2025/12/12",
+    "day": "金",
+    "artist": "てのひらえる",
+    "title": "【サディスティック遊宴会~其ノ弐　クリスマス編~】",
+    "url": "https://clubdrop.jp/schedule/detail/45017",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2025/12/12",
+    "day": "金",
+    "artist": "MAGMAZ",
+    "title": "【サディスティック遊宴会~其ノ弐　クリスマス編~】",
+    "url": "https://clubdrop.jp/schedule/detail/45017",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2025/12/12",
+    "day": "金",
+    "artist": "ENVY PARANOID and more...",
+    "title": "【サディスティック遊宴会~其ノ弐　クリスマス編~】",
+    "url": "https://clubdrop.jp/schedule/detail/45017",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
     "date": "2025/12/15",
     "day": "月",
     "artist": "ZeL'",
@@ -11421,6 +11520,15 @@
     "note": ""
   },
   {
+    "date": "2025/11/11",
+    "day": "火",
+    "artist": "krown krown",
+    "title": "設定６革命　ソロ目の日",
+    "url": "https://osaka-varon.jp/schedule/detail/44282",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
     "date": "2025/11/13",
     "day": "木",
     "artist": "MAHALINGA",
@@ -12290,6 +12398,69 @@
     "artist": "And more....",
     "title": "DUMBSTRUCK Vol.14",
     "url": "https://osaka-varon.jp/schedule/detail/46391",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2026/01/10",
+    "day": "土",
+    "artist": "SPROCKETs",
+    "title": "SPROCKETs &サンシキスミレ＆Green HiLL presents「あっぱれnight!!」",
+    "url": "https://osaka-varon.jp/schedule/detail/45546",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2026/01/10",
+    "day": "土",
+    "artist": "サンシキスミレ",
+    "title": "SPROCKETs &サンシキスミレ＆Green HiLL presents「あっぱれnight!!」",
+    "url": "https://osaka-varon.jp/schedule/detail/45546",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2026/01/10",
+    "day": "土",
+    "artist": "Green HiLL",
+    "title": "SPROCKETs &サンシキスミレ＆Green HiLL presents「あっぱれnight!!」",
+    "url": "https://osaka-varon.jp/schedule/detail/45546",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2026/01/10",
+    "day": "土",
+    "artist": "SMASH YOUTH",
+    "title": "SPROCKETs &サンシキスミレ＆Green HiLL presents「あっぱれnight!!」",
+    "url": "https://osaka-varon.jp/schedule/detail/45546",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2026/01/10",
+    "day": "土",
+    "artist": "THE SPIRALS",
+    "title": "SPROCKETs &サンシキスミレ＆Green HiLL presents「あっぱれnight!!」",
+    "url": "https://osaka-varon.jp/schedule/detail/45546",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2026/01/10",
+    "day": "土",
+    "artist": "Kenny's",
+    "title": "SPROCKETs &サンシキスミレ＆Green HiLL presents「あっぱれnight!!」",
+    "url": "https://osaka-varon.jp/schedule/detail/45546",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2026/01/10",
+    "day": "土",
+    "artist": "this kratz",
+    "title": "SPROCKETs &サンシキスミレ＆Green HiLL presents「あっぱれnight!!」",
+    "url": "https://osaka-varon.jp/schedule/detail/45546",
     "venue": "VARON",
     "note": ""
   },
@@ -13770,6 +13941,15 @@
     "note": ""
   },
   {
+    "date": "2025/12/29",
+    "day": "月",
+    "artist": "coming soon...",
+    "title": "HALL RENTAL",
+    "url": "https://osaka-zeela.jp/schedule/detail/41630",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
     "date": "2025/12/30",
     "day": "火",
     "artist": "aivolic",
@@ -13955,6 +14135,15 @@
     "artist": "YUTORI-SEDAI",
     "title": "YUTORI-SEDAI oneman live \"Order made\"",
     "url": "https://osaka-zeela.jp/schedule/detail/44442",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2026/01/25",
+    "day": "日",
+    "artist": "coming soon...",
+    "title": "HALL RENTAL",
+    "url": "https://osaka-zeela.jp/schedule/detail/43249",
     "venue": "Zeela",
     "note": ""
   },
@@ -17001,6 +17190,87 @@
     "note": ""
   },
   {
+    "date": "2026/01/04",
+    "day": "日",
+    "artist": "共同主催",
+    "title": "南堀江knave EUPHOBIA OPHELIA",
+    "url": "http://www.knave.co.jp/schedule/s_2026_01.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2026/01/04",
+    "day": "日",
+    "artist": "煩悩爆音大祭",
+    "title": "南堀江knave EUPHOBIA OPHELIA",
+    "url": "http://www.knave.co.jp/schedule/s_2026_01.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2026/01/04",
+    "day": "日",
+    "artist": "EUPHOBIA",
+    "title": "南堀江knave EUPHOBIA OPHELIA",
+    "url": "http://www.knave.co.jp/schedule/s_2026_01.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2026/01/04",
+    "day": "日",
+    "artist": "OPHELIA",
+    "title": "南堀江knave EUPHOBIA OPHELIA",
+    "url": "http://www.knave.co.jp/schedule/s_2026_01.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2026/01/04",
+    "day": "日",
+    "artist": "SAWAGI～騒乱～",
+    "title": "南堀江knave EUPHOBIA OPHELIA",
+    "url": "http://www.knave.co.jp/schedule/s_2026_01.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2026/01/04",
+    "day": "日",
+    "artist": "懺鉄",
+    "title": "南堀江knave EUPHOBIA OPHELIA",
+    "url": "http://www.knave.co.jp/schedule/s_2026_01.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2026/01/04",
+    "day": "日",
+    "artist": "一般発売11",
+    "title": "南堀江knave EUPHOBIA OPHELIA",
+    "url": "http://www.knave.co.jp/schedule/s_2026_01.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2026/01/04",
+    "day": "日",
+    "artist": "15",
+    "title": "南堀江knave EUPHOBIA OPHELIA",
+    "url": "http://www.knave.co.jp/schedule/s_2026_01.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2026/01/04",
+    "day": "日",
+    "artist": "問)knave06-6535-0691",
+    "title": "南堀江knave EUPHOBIA OPHELIA",
+    "url": "http://www.knave.co.jp/schedule/s_2026_01.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
     "date": "2026/01/05",
     "day": "月",
     "artist": "tami",
@@ -18246,6 +18516,15 @@
     "date": "2026/01/26",
     "day": "月",
     "artist": "KAZALIAH",
+    "title": "FUSE!",
+    "url": "http://www.knave.co.jp/schedule/s_2026_01.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2026/01/26",
+    "day": "月",
+    "artist": "Re squall",
     "title": "FUSE!",
     "url": "http://www.knave.co.jp/schedule/s_2026_01.html",
     "venue": "knave",
