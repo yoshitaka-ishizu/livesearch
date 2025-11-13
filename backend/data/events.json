@@ -1757,17 +1757,8 @@
   {
     "date": "2025/11/14",
     "day": "金",
-    "artist": "Refflucks",
-    "title": "OPEN 18:30",
-    "url": "https://para-dice.net/",
-    "venue": "扇町para-dice",
-    "note": ""
-  },
-  {
-    "date": "2025/11/14",
-    "day": "金",
     "artist": "カリニャンクール",
-    "title": "OPEN 18:30",
+    "title": "OPEN 19:00",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -1776,7 +1767,7 @@
     "date": "2025/11/14",
     "day": "金",
     "artist": "愛犬課",
-    "title": "OPEN 18:30",
+    "title": "OPEN 19:00",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -1785,7 +1776,7 @@
     "date": "2025/11/14",
     "day": "金",
     "artist": "naonari ueda",
-    "title": "OPEN 18:30",
+    "title": "OPEN 19:00",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -1794,7 +1785,16 @@
     "date": "2025/11/14",
     "day": "金",
     "artist": "THE CHOPPMAN",
-    "title": "OPEN 18:30",
+    "title": "OPEN 19:00",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
+    "date": "2025/11/14",
+    "day": "金",
+    "artist": "※Refflucksは諸事情によりキャンセルとなりました。",
+    "title": "OPEN 19:00",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -5060,7 +5060,7 @@
   {
     "date": "2025/11/12",
     "day": "水",
-    "artist": "NoiZy",
+    "artist": "凱",
     "title": "【BRAVE SONGS】vol.7",
     "url": "https://vijon.jp/schedule/detail/46128",
     "venue": "北堀江club vijon",
@@ -5096,7 +5096,7 @@
   {
     "date": "2025/11/12",
     "day": "水",
-    "artist": "AiconiC",
+    "artist": "春介",
     "title": "【BRAVE SONGS】vol.7",
     "url": "https://vijon.jp/schedule/detail/46128",
     "venue": "北堀江club vijon",
@@ -5105,7 +5105,7 @@
   {
     "date": "2025/11/12",
     "day": "水",
-    "artist": "Chao's Mall",
+    "artist": "Chao's Mall ※出演予定でした NoiZy,AiconiCは メンバー体調不良のため 弾き語りに変更となっております。",
     "title": "【BRAVE SONGS】vol.7",
     "url": "https://vijon.jp/schedule/detail/46128",
     "venue": "北堀江club vijon",
@@ -5430,15 +5430,6 @@
     "date": "2025/11/20",
     "day": "木",
     "artist": "瞬間最大風速",
-    "title": "ヌーディーブランクpre.【光の方へ】",
-    "url": "https://vijon.jp/schedule/detail/46589",
-    "venue": "北堀江club vijon",
-    "note": ""
-  },
-  {
-    "date": "2025/11/20",
-    "day": "木",
-    "artist": "and more...",
     "title": "ヌーディーブランクpre.【光の方へ】",
     "url": "https://vijon.jp/schedule/detail/46589",
     "venue": "北堀江club vijon",
@@ -5805,6 +5796,60 @@
     "note": ""
   },
   {
+    "date": "2025/12/02",
+    "day": "火",
+    "artist": "NON BRAINER",
+    "title": "【北堀江的師走ノススメ】",
+    "url": "https://vijon.jp/schedule/detail/46992",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2025/12/02",
+    "day": "火",
+    "artist": "Running Home Run",
+    "title": "【北堀江的師走ノススメ】",
+    "url": "https://vijon.jp/schedule/detail/46992",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2025/12/02",
+    "day": "火",
+    "artist": "カラメルパーラー",
+    "title": "【北堀江的師走ノススメ】",
+    "url": "https://vijon.jp/schedule/detail/46992",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2025/12/02",
+    "day": "火",
+    "artist": "THE MESS IN MY MIND",
+    "title": "【北堀江的師走ノススメ】",
+    "url": "https://vijon.jp/schedule/detail/46992",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2025/12/02",
+    "day": "火",
+    "artist": "UPSET",
+    "title": "【北堀江的師走ノススメ】",
+    "url": "https://vijon.jp/schedule/detail/46992",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2025/12/02",
+    "day": "火",
+    "artist": "草の根から慈善活動",
+    "title": "【北堀江的師走ノススメ】",
+    "url": "https://vijon.jp/schedule/detail/46992",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
     "date": "2025/12/03",
     "day": "水",
     "artist": "Gum-9",
@@ -5936,6 +5981,60 @@
     "artist": "oyobi",
     "title": "バンドスタジオ ベースオントップアメ村店presents 「アメ☆スピ〜AMEMURA SPIRIT〜Vol.13」",
     "url": "https://vijon.jp/schedule/detail/44753",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2025/12/09",
+    "day": "火",
+    "artist": "レイドバック",
+    "title": "レイドバック「Human or Android tour side”Android”」",
+    "url": "https://vijon.jp/schedule/detail/46759",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2025/12/09",
+    "day": "火",
+    "artist": "THE BLOODY WEEKEND",
+    "title": "レイドバック「Human or Android tour side”Android”」",
+    "url": "https://vijon.jp/schedule/detail/46759",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2025/12/09",
+    "day": "火",
+    "artist": "NEAREQUAL",
+    "title": "レイドバック「Human or Android tour side”Android”」",
+    "url": "https://vijon.jp/schedule/detail/46759",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2025/12/09",
+    "day": "火",
+    "artist": "NIHIL",
+    "title": "レイドバック「Human or Android tour side”Android”」",
+    "url": "https://vijon.jp/schedule/detail/46759",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2025/12/09",
+    "day": "火",
+    "artist": "Suck Noise",
+    "title": "レイドバック「Human or Android tour side”Android”」",
+    "url": "https://vijon.jp/schedule/detail/46759",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2025/12/09",
+    "day": "火",
+    "artist": "GEAR BLUES",
+    "title": "レイドバック「Human or Android tour side”Android”」",
+    "url": "https://vijon.jp/schedule/detail/46759",
     "venue": "北堀江club vijon",
     "note": ""
   },
@@ -7547,6 +7646,123 @@
     "artist": "ギガギガフンフンガガガSP",
     "title": "けーと企画",
     "url": "https://bangboo.jp/schedule/detail/42634",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2025/12/01",
+    "day": "月",
+    "artist": "H@ng_oveR",
+    "title": "ForeProduction TOUR - INVATION -",
+    "url": "https://bangboo.jp/schedule/detail/43920",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2025/12/01",
+    "day": "月",
+    "artist": "ペトリコール",
+    "title": "ForeProduction TOUR - INVATION -",
+    "url": "https://bangboo.jp/schedule/detail/43920",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2025/12/01",
+    "day": "月",
+    "artist": "WAAARZ",
+    "title": "ForeProduction TOUR - INVATION -",
+    "url": "https://bangboo.jp/schedule/detail/43920",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2025/12/01",
+    "day": "月",
+    "artist": "てぃあとれ",
+    "title": "ForeProduction TOUR - INVATION -",
+    "url": "https://bangboo.jp/schedule/detail/43920",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2025/12/01",
+    "day": "月",
+    "artist": "First Fl∞r",
+    "title": "ForeProduction TOUR - INVATION -",
+    "url": "https://bangboo.jp/schedule/detail/43920",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2025/12/01",
+    "day": "月",
+    "artist": "STRAY DOGs",
+    "title": "ForeProduction TOUR - INVATION -",
+    "url": "https://bangboo.jp/schedule/detail/43920",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2025/12/01",
+    "day": "月",
+    "artist": "キミトソラ",
+    "title": "ForeProduction TOUR - INVATION -",
+    "url": "https://bangboo.jp/schedule/detail/43920",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2025/12/01",
+    "day": "月",
+    "artist": "幽獄パレード",
+    "title": "ForeProduction TOUR - INVATION -",
+    "url": "https://bangboo.jp/schedule/detail/43920",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2025/12/02",
+    "day": "火",
+    "artist": "てぃあとれ",
+    "title": "MUGEN∞Fes",
+    "url": "https://bangboo.jp/schedule/detail/43921",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2025/12/02",
+    "day": "火",
+    "artist": "First Fl∞r",
+    "title": "MUGEN∞Fes",
+    "url": "https://bangboo.jp/schedule/detail/43921",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2025/12/02",
+    "day": "火",
+    "artist": "STRAY DOGs",
+    "title": "MUGEN∞Fes",
+    "url": "https://bangboo.jp/schedule/detail/43921",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2025/12/02",
+    "day": "火",
+    "artist": "キミトソラ",
+    "title": "MUGEN∞Fes",
+    "url": "https://bangboo.jp/schedule/detail/43921",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2025/12/02",
+    "day": "火",
+    "artist": "幽獄パレード",
+    "title": "MUGEN∞Fes",
+    "url": "https://bangboo.jp/schedule/detail/43921",
     "venue": "梅田BANGBOO",
     "note": ""
   },
@@ -12573,6 +12789,15 @@
     "note": ""
   },
   {
+    "date": "2025/11/16",
+    "day": "日",
+    "artist": "リボンのないぷれぜんと",
+    "title": "FOR ALL IDOLOVERS #アイラバ",
+    "url": "https://osaka-varon.jp/schedule/detail/48680",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
     "date": "2025/11/18",
     "day": "火",
     "artist": "すーぱーぷーばぁー!!",
@@ -14526,6 +14751,78 @@
     "note": ""
   },
   {
+    "date": "2025/12/08",
+    "day": "月",
+    "artist": "mvsvki",
+    "title": "VIVA LA OTONA Ⅲ",
+    "url": "https://osaka-zeela.jp/schedule/detail/42965",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2025/12/08",
+    "day": "月",
+    "artist": "Nobu",
+    "title": "VIVA LA OTONA Ⅲ",
+    "url": "https://osaka-zeela.jp/schedule/detail/42965",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2025/12/08",
+    "day": "月",
+    "artist": "FASE",
+    "title": "VIVA LA OTONA Ⅲ",
+    "url": "https://osaka-zeela.jp/schedule/detail/42965",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2025/12/08",
+    "day": "月",
+    "artist": "ISATO",
+    "title": "VIVA LA OTONA Ⅲ",
+    "url": "https://osaka-zeela.jp/schedule/detail/42965",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2025/12/08",
+    "day": "月",
+    "artist": "Daiki",
+    "title": "VIVA LA OTONA Ⅲ",
+    "url": "https://osaka-zeela.jp/schedule/detail/42965",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2025/12/08",
+    "day": "月",
+    "artist": "KZK",
+    "title": "VIVA LA OTONA Ⅲ",
+    "url": "https://osaka-zeela.jp/schedule/detail/42965",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2025/12/08",
+    "day": "月",
+    "artist": "シモダトキノリ",
+    "title": "VIVA LA OTONA Ⅲ",
+    "url": "https://osaka-zeela.jp/schedule/detail/42965",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2025/12/08",
+    "day": "月",
+    "artist": "and more.....?????",
+    "title": "VIVA LA OTONA Ⅲ",
+    "url": "https://osaka-zeela.jp/schedule/detail/42965",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
     "date": "2025/12/10",
     "day": "水",
     "artist": "SEASIDE CIRCUIT",
@@ -15174,6 +15471,42 @@
     "note": ""
   },
   {
+    "date": "2026/01/20",
+    "day": "火",
+    "artist": "君がそうなら僕はこう",
+    "title": "放送芸術学院専門学校 卒業制作 〜夢見ホーダイ〜 supported by 見放題",
+    "url": "https://osaka-zeela.jp/schedule/detail/41920",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2026/01/20",
+    "day": "火",
+    "artist": "PURPLE BUBBLE",
+    "title": "放送芸術学院専門学校 卒業制作 〜夢見ホーダイ〜 supported by 見放題",
+    "url": "https://osaka-zeela.jp/schedule/detail/41920",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2026/01/20",
+    "day": "火",
+    "artist": "メルトタイマー",
+    "title": "放送芸術学院専門学校 卒業制作 〜夢見ホーダイ〜 supported by 見放題",
+    "url": "https://osaka-zeela.jp/schedule/detail/41920",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2026/01/20",
+    "day": "火",
+    "artist": "らくガキ",
+    "title": "放送芸術学院専門学校 卒業制作 〜夢見ホーダイ〜 supported by 見放題",
+    "url": "https://osaka-zeela.jp/schedule/detail/41920",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
     "date": "2026/01/21",
     "day": "水",
     "artist": "LOCAL CONNECT",
@@ -15215,6 +15548,15 @@
     "artist": "和装侍系音楽集団MYST.",
     "title": "大坂の陣2026春",
     "url": "https://osaka-zeela.jp/schedule/detail/43248",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2026/04/28",
+    "day": "火",
+    "artist": "cadode",
+    "title": "cadode「SLICE OF SEKAI  ROUTE 1 」",
+    "url": "https://osaka-zeela.jp/schedule/detail/47868",
     "venue": "Zeela",
     "note": ""
   },
