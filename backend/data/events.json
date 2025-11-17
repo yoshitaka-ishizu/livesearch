@@ -2027,6 +2027,15 @@
   {
     "date": "2025/11/17",
     "day": "月",
+    "artist": "jocojo",
+    "title": "para-dice企画",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
+    "date": "2025/11/17",
+    "day": "月",
     "artist": "久保田和之",
     "title": "para-dice企画",
     "url": "https://para-dice.net/",
@@ -2045,7 +2054,7 @@
   {
     "date": "2025/11/17",
     "day": "月",
-    "artist": "オガサワラヒロユキ",
+    "artist": "ロベルト司",
     "title": "para-dice企画",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
@@ -2054,7 +2063,7 @@
   {
     "date": "2025/11/17",
     "day": "月",
-    "artist": "ロベルト司",
+    "artist": "※オガサワラヒロユキが諸事情でキャンセルとなりタイムテーブルを変更しています、ご了承ください",
     "title": "para-dice企画",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
@@ -6813,6 +6822,51 @@
     "note": ""
   },
   {
+    "date": "2025/12/26",
+    "day": "金",
+    "artist": "DOG☆STAR",
+    "title": "DOG☆STAR × club vijon pre.【sumida生誕祭 Lv.55】",
+    "url": "https://vijon.jp/schedule/detail/48096",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2025/12/26",
+    "day": "金",
+    "artist": "rale one stance",
+    "title": "DOG☆STAR × club vijon pre.【sumida生誕祭 Lv.55】",
+    "url": "https://vijon.jp/schedule/detail/48096",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2025/12/26",
+    "day": "金",
+    "artist": "グルーヴ先生",
+    "title": "DOG☆STAR × club vijon pre.【sumida生誕祭 Lv.55】",
+    "url": "https://vijon.jp/schedule/detail/48096",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2025/12/26",
+    "day": "金",
+    "artist": "WHO WONDER WHO",
+    "title": "DOG☆STAR × club vijon pre.【sumida生誕祭 Lv.55】",
+    "url": "https://vijon.jp/schedule/detail/48096",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2025/12/26",
+    "day": "金",
+    "artist": "...and more",
+    "title": "DOG☆STAR × club vijon pre.【sumida生誕祭 Lv.55】",
+    "url": "https://vijon.jp/schedule/detail/48096",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
     "date": "2025/12/28",
     "day": "日",
     "artist": "HELLDUMP",
@@ -6872,6 +6926,15 @@
     "artist": "coming soon...",
     "title": "CHARMER × Charmy〜bigaku〜",
     "url": "https://vijon.jp/schedule/detail/46057",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2026/01/22",
+    "day": "木",
+    "artist": "THE GEARSOOOOOMA※対バンは後日解禁",
+    "title": "ギヤソーマ、バンド組みます。　THE GEARSOOOOOMA 始動初ライブ",
+    "url": "https://vijon.jp/schedule/detail/48044",
     "venue": "北堀江club vijon",
     "note": ""
   },
@@ -9117,6 +9180,51 @@
     "note": ""
   },
   {
+    "date": "2026/01/17",
+    "day": "土",
+    "artist": "aoru",
+    "title": "【1st】REBEL -Daybreak-",
+    "url": "https://bangboo.jp/schedule/detail/48817",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2026/01/17",
+    "day": "土",
+    "artist": "xea",
+    "title": "【1st】REBEL -Daybreak-",
+    "url": "https://bangboo.jp/schedule/detail/48817",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2026/01/17",
+    "day": "土",
+    "artist": "ふぉるて",
+    "title": "【1st】REBEL -Daybreak-",
+    "url": "https://bangboo.jp/schedule/detail/48817",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2026/01/17",
+    "day": "土",
+    "artist": "水篠瀀",
+    "title": "【1st】REBEL -Daybreak-",
+    "url": "https://bangboo.jp/schedule/detail/48817",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2026/01/17",
+    "day": "土",
+    "artist": "りをん",
+    "title": "【1st】REBEL -Daybreak-",
+    "url": "https://bangboo.jp/schedule/detail/48817",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
     "date": "2026/01/20",
     "day": "火",
     "artist": "SCYTHEWRACK SYSTEM",
@@ -11223,6 +11331,60 @@
     "note": ""
   },
   {
+    "date": "2025/11/17",
+    "day": "月",
+    "artist": "SANUGLOW",
+    "title": "アイドル好きで何がわるい",
+    "url": "https://clubdrop.jp/schedule/detail/46470",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2025/11/17",
+    "day": "月",
+    "artist": "ミラーシュカ",
+    "title": "アイドル好きで何がわるい",
+    "url": "https://clubdrop.jp/schedule/detail/46470",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2025/11/17",
+    "day": "月",
+    "artist": "lullllul",
+    "title": "アイドル好きで何がわるい",
+    "url": "https://clubdrop.jp/schedule/detail/46470",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2025/11/17",
+    "day": "月",
+    "artist": "ハピネスクラッカー!",
+    "title": "アイドル好きで何がわるい",
+    "url": "https://clubdrop.jp/schedule/detail/46470",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2025/11/17",
+    "day": "月",
+    "artist": "LOTUS MARRY",
+    "title": "アイドル好きで何がわるい",
+    "url": "https://clubdrop.jp/schedule/detail/46470",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2025/11/17",
+    "day": "月",
+    "artist": "CRYZ",
+    "title": "アイドル好きで何がわるい",
+    "url": "https://clubdrop.jp/schedule/detail/46470",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
     "date": "2025/11/18",
     "day": "火",
     "artist": "革命ソーセージ",
@@ -12308,6 +12470,96 @@
     "artist": "「いつかのネバーランド」※サンタ衣装にて全グループ出演",
     "title": "AWESOME WEDNESDAY クリスマスツアー大阪編",
     "url": "https://clubdrop.jp/schedule/detail/38651",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2025/12/10",
+    "day": "水",
+    "artist": "世史久",
+    "title": "大阪DROPベイベーNight vol.29 -今年もありがとう!! 2025忘年会ver-",
+    "url": "https://clubdrop.jp/schedule/detail/46956",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2025/12/10",
+    "day": "水",
+    "artist": "T-face",
+    "title": "大阪DROPベイベーNight vol.29 -今年もありがとう!! 2025忘年会ver-",
+    "url": "https://clubdrop.jp/schedule/detail/46956",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2025/12/10",
+    "day": "水",
+    "artist": "MASSCO",
+    "title": "大阪DROPベイベーNight vol.29 -今年もありがとう!! 2025忘年会ver-",
+    "url": "https://clubdrop.jp/schedule/detail/46956",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2025/12/10",
+    "day": "水",
+    "artist": "CUBE",
+    "title": "大阪DROPベイベーNight vol.29 -今年もありがとう!! 2025忘年会ver-",
+    "url": "https://clubdrop.jp/schedule/detail/46956",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2025/12/10",
+    "day": "水",
+    "artist": "Mr.FullBocko",
+    "title": "大阪DROPベイベーNight vol.29 -今年もありがとう!! 2025忘年会ver-",
+    "url": "https://clubdrop.jp/schedule/detail/46956",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2025/12/10",
+    "day": "水",
+    "artist": "dull cløver",
+    "title": "大阪DROPベイベーNight vol.29 -今年もありがとう!! 2025忘年会ver-",
+    "url": "https://clubdrop.jp/schedule/detail/46956",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2025/12/10",
+    "day": "水",
+    "artist": "レオナ",
+    "title": "大阪DROPベイベーNight vol.29 -今年もありがとう!! 2025忘年会ver-",
+    "url": "https://clubdrop.jp/schedule/detail/46956",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2025/12/10",
+    "day": "水",
+    "artist": "あいみん。",
+    "title": "大阪DROPベイベーNight vol.29 -今年もありがとう!! 2025忘年会ver-",
+    "url": "https://clubdrop.jp/schedule/detail/46956",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2025/12/10",
+    "day": "水",
+    "artist": "HEVEN11",
+    "title": "大阪DROPベイベーNight vol.29 -今年もありがとう!! 2025忘年会ver-",
+    "url": "https://clubdrop.jp/schedule/detail/46956",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2025/12/10",
+    "day": "水",
+    "artist": "ペクちん andmore!!",
+    "title": "大阪DROPベイベーNight vol.29 -今年もありがとう!! 2025忘年会ver-",
+    "url": "https://clubdrop.jp/schedule/detail/46956",
     "venue": "アメリカ村DROP",
     "note": ""
   },
@@ -14052,15 +14304,6 @@
     "date": "2025/11/16",
     "day": "日",
     "artist": "依存性えんじぇる",
-    "title": "FOR ALL IDOLOVERS #アイラバ",
-    "url": "https://osaka-varon.jp/schedule/detail/48680",
-    "venue": "VARON",
-    "note": ""
-  },
-  {
-    "date": "2025/11/16",
-    "day": "日",
-    "artist": "KiMiNiAiTAi",
     "title": "FOR ALL IDOLOVERS #アイラバ",
     "url": "https://osaka-varon.jp/schedule/detail/48680",
     "venue": "VARON",
