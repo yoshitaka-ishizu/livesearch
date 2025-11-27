@@ -3719,8 +3719,8 @@
   {
     "date": "2025/12/19",
     "day": "金}",
-    "artist": "ナカノノナカノナカノ",
-    "title": "ナカノノナカノナカノ / Yeah-One / タイラキタ / ワタリガラス",
+    "artist": "タイラキタ",
+    "title": "OPEN 18:00",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -3729,7 +3729,7 @@
     "date": "2025/12/19",
     "day": "金}",
     "artist": "Yeah-One",
-    "title": "ナカノノナカノナカノ / Yeah-One / タイラキタ / ワタリガラス",
+    "title": "OPEN 18:00",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -3737,8 +3737,8 @@
   {
     "date": "2025/12/19",
     "day": "金}",
-    "artist": "タイラキタ",
-    "title": "ナカノノナカノナカノ / Yeah-One / タイラキタ / ワタリガラス",
+    "artist": "ワタリガラス",
+    "title": "OPEN 18:00",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -3746,8 +3746,26 @@
   {
     "date": "2025/12/19",
     "day": "金}",
-    "artist": "ワタリガラス  and more...",
-    "title": "ナカノノナカノナカノ / Yeah-One / タイラキタ / ワタリガラス",
+    "artist": "イマイカリクニヒコ",
+    "title": "OPEN 18:00",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
+    "date": "2025/12/19",
+    "day": "金}",
+    "artist": "pechica",
+    "title": "OPEN 18:00",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
+    "date": "2025/12/19",
+    "day": "金}",
+    "artist": "ナカノノナカノナカノ",
+    "title": "OPEN 18:00",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -4187,44 +4205,8 @@
   {
     "date": "2026/01/07",
     "day": "水",
-    "artist": "ベンチウォーマーズ",
-    "title": "ベンチウォーマーズ / The purple parks! / Brooooo!!!! / NovaFlash / CURIOUS / スモーキンデスペラード",
-    "url": "https://para-dice.net/",
-    "venue": "扇町para-dice",
-    "note": ""
-  },
-  {
-    "date": "2026/01/07",
-    "day": "水",
-    "artist": "The purple parks!",
-    "title": "ベンチウォーマーズ / The purple parks! / Brooooo!!!! / NovaFlash / CURIOUS / スモーキンデスペラード",
-    "url": "https://para-dice.net/",
-    "venue": "扇町para-dice",
-    "note": ""
-  },
-  {
-    "date": "2026/01/07",
-    "day": "水",
-    "artist": "Brooooo!!!!",
-    "title": "ベンチウォーマーズ / The purple parks! / Brooooo!!!! / NovaFlash / CURIOUS / スモーキンデスペラード",
-    "url": "https://para-dice.net/",
-    "venue": "扇町para-dice",
-    "note": ""
-  },
-  {
-    "date": "2026/01/07",
-    "day": "水",
-    "artist": "NovaFlash",
-    "title": "ベンチウォーマーズ / The purple parks! / Brooooo!!!! / NovaFlash / CURIOUS / スモーキンデスペラード",
-    "url": "https://para-dice.net/",
-    "venue": "扇町para-dice",
-    "note": ""
-  },
-  {
-    "date": "2026/01/07",
-    "day": "水",
     "artist": "CURIOUS",
-    "title": "ベンチウォーマーズ / The purple parks! / Brooooo!!!! / NovaFlash / CURIOUS / スモーキンデスペラード",
+    "title": "OPEN 18:00",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -4233,7 +4215,43 @@
     "date": "2026/01/07",
     "day": "水",
     "artist": "スモーキンデスペラード",
-    "title": "ベンチウォーマーズ / The purple parks! / Brooooo!!!! / NovaFlash / CURIOUS / スモーキンデスペラード",
+    "title": "OPEN 18:00",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
+    "date": "2026/01/07",
+    "day": "水",
+    "artist": "ベンチウォーマーズ",
+    "title": "OPEN 18:00",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
+    "date": "2026/01/07",
+    "day": "水",
+    "artist": "Brooooo!!!!",
+    "title": "OPEN 18:00",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
+    "date": "2026/01/07",
+    "day": "水",
+    "artist": "NovaFlash",
+    "title": "OPEN 18:00",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
+    "date": "2026/01/07",
+    "day": "水",
+    "artist": "The purple parks!",
+    "title": "OPEN 18:00",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -4458,7 +4476,7 @@
     "date": "2026/01/16",
     "day": "金",
     "artist": "NEAREQUAL",
-    "title": "NEAREQUAL / フジモト アキツグ / サイケデリックハートブラボーズ",
+    "title": "OPEN 18:30",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -4467,7 +4485,7 @@
     "date": "2026/01/16",
     "day": "金",
     "artist": "フジモト アキツグ",
-    "title": "NEAREQUAL / フジモト アキツグ / サイケデリックハートブラボーズ",
+    "title": "OPEN 18:30",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -4475,8 +4493,26 @@
   {
     "date": "2026/01/16",
     "day": "金",
-    "artist": "サイケデリックハートブラボーズ and more...",
-    "title": "NEAREQUAL / フジモト アキツグ / サイケデリックハートブラボーズ",
+    "artist": "サイケデリックハートブラボーズ",
+    "title": "OPEN 18:30",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
+    "date": "2026/01/16",
+    "day": "金",
+    "artist": "青い紫陽花",
+    "title": "OPEN 18:30",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
+    "date": "2026/01/16",
+    "day": "金",
+    "artist": "The Folking Poors",
+    "title": "OPEN 18:30",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -4484,17 +4520,8 @@
   {
     "date": "2026/01/17",
     "day": "土",
-    "artist": "unDEADQ",
-    "title": "unDEADQ / Gecko Cult Cartel / fuzzy stereo / 立てる",
-    "url": "https://para-dice.net/",
-    "venue": "扇町para-dice",
-    "note": ""
-  },
-  {
-    "date": "2026/01/17",
-    "day": "土",
-    "artist": "Gecko Cult Cartel",
-    "title": "unDEADQ / Gecko Cult Cartel / fuzzy stereo / 立てる",
+    "artist": "Lazy Noisy Stroll",
+    "title": "OPEN 17:30",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -4503,7 +4530,7 @@
     "date": "2026/01/17",
     "day": "土",
     "artist": "fuzzy stereo",
-    "title": "unDEADQ / Gecko Cult Cartel / fuzzy stereo / 立てる",
+    "title": "OPEN 17:30",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -4511,8 +4538,35 @@
   {
     "date": "2026/01/17",
     "day": "土",
-    "artist": "立てる and more...",
-    "title": "unDEADQ / Gecko Cult Cartel / fuzzy stereo / 立てる",
+    "artist": "立てる",
+    "title": "OPEN 17:30",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
+    "date": "2026/01/17",
+    "day": "土",
+    "artist": "unDEADQ",
+    "title": "OPEN 17:30",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
+    "date": "2026/01/17",
+    "day": "土",
+    "artist": "Poecity",
+    "title": "OPEN 17:30",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
+    "date": "2026/01/17",
+    "day": "土",
+    "artist": "Gecko Cult Cartel",
+    "title": "OPEN 17:30",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -4781,8 +4835,8 @@
   {
     "date": "2026/01/29",
     "day": "木",
-    "artist": "arbor on the ridgeway",
-    "title": "arbor on the ridgeway / minä minä / 満月 / 異",
+    "artist": "異",
+    "title": "OPEN 18:30",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -4790,8 +4844,17 @@
   {
     "date": "2026/01/29",
     "day": "木",
-    "artist": "minä minä",
-    "title": "arbor on the ridgeway / minä minä / 満月 / 異",
+    "artist": "岡﨑コウユウ",
+    "title": "OPEN 18:30",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
+    "date": "2026/01/29",
+    "day": "木",
+    "artist": "arbor on the ridgeway",
+    "title": "OPEN 18:30",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -4800,7 +4863,7 @@
     "date": "2026/01/29",
     "day": "木",
     "artist": "満月",
-    "title": "arbor on the ridgeway / minä minä / 満月 / 異",
+    "title": "OPEN 18:30",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -4808,8 +4871,8 @@
   {
     "date": "2026/01/29",
     "day": "木",
-    "artist": "異",
-    "title": "arbor on the ridgeway / minä minä / 満月 / 異",
+    "artist": "minä minä",
+    "title": "OPEN 18:30",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -8127,6 +8190,87 @@
     "note": ""
   },
   {
+    "date": "2025/12/24",
+    "day": "水",
+    "artist": "Swag Dust human",
+    "title": "～府内某所 \"和音\" 現地集合～ at.世界一熱い冬の前夜祭",
+    "url": "https://vijon.jp/schedule/detail/47912",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2025/12/24",
+    "day": "水",
+    "artist": "Traveler's Radio",
+    "title": "～府内某所 \"和音\" 現地集合～ at.世界一熱い冬の前夜祭",
+    "url": "https://vijon.jp/schedule/detail/47912",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2025/12/24",
+    "day": "水",
+    "artist": "TaS",
+    "title": "～府内某所 \"和音\" 現地集合～ at.世界一熱い冬の前夜祭",
+    "url": "https://vijon.jp/schedule/detail/47912",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2025/12/24",
+    "day": "水",
+    "artist": "droplet'",
+    "title": "～府内某所 \"和音\" 現地集合～ at.世界一熱い冬の前夜祭",
+    "url": "https://vijon.jp/schedule/detail/47912",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2025/12/24",
+    "day": "水",
+    "artist": "Bloom in Zero",
+    "title": "～府内某所 \"和音\" 現地集合～ at.世界一熱い冬の前夜祭",
+    "url": "https://vijon.jp/schedule/detail/47912",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2025/12/24",
+    "day": "水",
+    "artist": "Leo pole",
+    "title": "～府内某所 \"和音\" 現地集合～ at.世界一熱い冬の前夜祭",
+    "url": "https://vijon.jp/schedule/detail/47912",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2025/12/24",
+    "day": "水",
+    "artist": "Mei",
+    "title": "～府内某所 \"和音\" 現地集合～ at.世界一熱い冬の前夜祭",
+    "url": "https://vijon.jp/schedule/detail/47912",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2025/12/24",
+    "day": "水",
+    "artist": "ラ・ブランシュ",
+    "title": "～府内某所 \"和音\" 現地集合～ at.世界一熱い冬の前夜祭",
+    "url": "https://vijon.jp/schedule/detail/47912",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2025/12/24",
+    "day": "水",
+    "artist": "あまねこ",
+    "title": "～府内某所 \"和音\" 現地集合～ at.世界一熱い冬の前夜祭",
+    "url": "https://vijon.jp/schedule/detail/47912",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
     "date": "2025/12/26",
     "day": "金",
     "artist": "DOG☆STAR",
@@ -8325,6 +8469,114 @@
     "note": ""
   },
   {
+    "date": "2026/01/26",
+    "day": "月",
+    "artist": "グルーヴ先生",
+    "title": "vijon × グルーヴ先生 pre.【なかまつれてきたで！ vol.3】",
+    "url": "https://vijon.jp/schedule/detail/48327",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2026/01/26",
+    "day": "月",
+    "artist": "アベカワズ",
+    "title": "vijon × グルーヴ先生 pre.【なかまつれてきたで！ vol.3】",
+    "url": "https://vijon.jp/schedule/detail/48327",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2026/01/26",
+    "day": "月",
+    "artist": "密会と耳鳴り",
+    "title": "vijon × グルーヴ先生 pre.【なかまつれてきたで！ vol.3】",
+    "url": "https://vijon.jp/schedule/detail/48327",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2026/01/26",
+    "day": "月",
+    "artist": "カリニャンクール",
+    "title": "vijon × グルーヴ先生 pre.【なかまつれてきたで！ vol.3】",
+    "url": "https://vijon.jp/schedule/detail/48327",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2026/01/26",
+    "day": "月",
+    "artist": "Yusuke Terauchi",
+    "title": "vijon × グルーヴ先生 pre.【なかまつれてきたで！ vol.3】",
+    "url": "https://vijon.jp/schedule/detail/48327",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2026/01/26",
+    "day": "月",
+    "artist": "...and more",
+    "title": "vijon × グルーヴ先生 pre.【なかまつれてきたで！ vol.3】",
+    "url": "https://vijon.jp/schedule/detail/48327",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2026/02/05",
+    "day": "木",
+    "artist": "moja",
+    "title": "vijon pre.【2 PIECE de W-PIECE 2026】",
+    "url": "https://vijon.jp/schedule/detail/47824",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2026/02/05",
+    "day": "木",
+    "artist": "MAKOTONI",
+    "title": "vijon pre.【2 PIECE de W-PIECE 2026】",
+    "url": "https://vijon.jp/schedule/detail/47824",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2026/02/05",
+    "day": "木",
+    "artist": "V;error",
+    "title": "vijon pre.【2 PIECE de W-PIECE 2026】",
+    "url": "https://vijon.jp/schedule/detail/47824",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2026/02/05",
+    "day": "木",
+    "artist": "グルーヴ先生",
+    "title": "vijon pre.【2 PIECE de W-PIECE 2026】",
+    "url": "https://vijon.jp/schedule/detail/47824",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2026/02/05",
+    "day": "木",
+    "artist": "Hooper Pooper Looper",
+    "title": "vijon pre.【2 PIECE de W-PIECE 2026】",
+    "url": "https://vijon.jp/schedule/detail/47824",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2026/02/05",
+    "day": "木",
+    "artist": "...and more",
+    "title": "vijon pre.【2 PIECE de W-PIECE 2026】",
+    "url": "https://vijon.jp/schedule/detail/47824",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
     "date": "2026/02/11",
     "day": "水",
     "artist": "Daizy ONE-MAN SHOW",
@@ -8375,6 +8627,24 @@
     "artist": "樋口素之助]",
     "title": "松永天馬ツアー2026「黒一点」",
     "url": "https://vijon.jp/schedule/detail/48265",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2026/02/15",
+    "day": "日",
+    "artist": "マツタケワークス",
+    "title": "マツタケワークス vs まみれた 東名阪2マンツアー 「あたまおかしい」大阪編",
+    "url": "https://vijon.jp/schedule/detail/46749",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2026/02/15",
+    "day": "日",
+    "artist": "まみれた",
+    "title": "マツタケワークス vs まみれた 東名阪2マンツアー 「あたまおかしい」大阪編",
+    "url": "https://vijon.jp/schedule/detail/46749",
     "venue": "北堀江club vijon",
     "note": ""
   },
@@ -10832,6 +11102,15 @@
     "artist": "and more",
     "title": "#UMEDACOUNTDOWN",
     "url": "https://bangboo.jp/schedule/detail/48139",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2026/01/04",
+    "day": "日",
+    "artist": "Sucré･Box!／幽獄パレード／キミトソラ",
+    "title": "Sucré･Box!主催対バン 「Sucre Party! #4〜新春SP〜｣",
+    "url": "https://bangboo.jp/schedule/detail/48754",
     "venue": "梅田BANGBOO",
     "note": ""
   },
@@ -14994,6 +15273,105 @@
     "note": ""
   },
   {
+    "date": "2025/12/05",
+    "day": "金",
+    "artist": "Tanki∞machi DJオニオン yua are the END   ダブルボギー上田",
+    "title": "懐メロ☆学園 第34章 〜鹿は夜更け過ぎに 酒へと変わるだろう 編！〜",
+    "url": "https://clubdrop.jp/schedule/detail/47427",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2025/12/05",
+    "day": "金",
+    "artist": "せりな。",
+    "title": "懐メロ☆学園 第34章 〜鹿は夜更け過ぎに 酒へと変わるだろう 編！〜",
+    "url": "https://clubdrop.jp/schedule/detail/47427",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2025/12/05",
+    "day": "金",
+    "artist": "爆裂",
+    "title": "懐メロ☆学園 第34章 〜鹿は夜更け過ぎに 酒へと変わるだろう 編！〜",
+    "url": "https://clubdrop.jp/schedule/detail/47427",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2025/12/05",
+    "day": "金",
+    "artist": "ごま油師匠",
+    "title": "懐メロ☆学園 第34章 〜鹿は夜更け過ぎに 酒へと変わるだろう 編！〜",
+    "url": "https://clubdrop.jp/schedule/detail/47427",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2025/12/05",
+    "day": "金",
+    "artist": "Shingo",
+    "title": "懐メロ☆学園 第34章 〜鹿は夜更け過ぎに 酒へと変わるだろう 編！〜",
+    "url": "https://clubdrop.jp/schedule/detail/47427",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2025/12/05",
+    "day": "金",
+    "artist": "チャンナツ",
+    "title": "懐メロ☆学園 第34章 〜鹿は夜更け過ぎに 酒へと変わるだろう 編！〜",
+    "url": "https://clubdrop.jp/schedule/detail/47427",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2025/12/05",
+    "day": "金",
+    "artist": "チソチソでか男",
+    "title": "懐メロ☆学園 第34章 〜鹿は夜更け過ぎに 酒へと変わるだろう 編！〜",
+    "url": "https://clubdrop.jp/schedule/detail/47427",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2025/12/05",
+    "day": "金",
+    "artist": "まやちん",
+    "title": "懐メロ☆学園 第34章 〜鹿は夜更け過ぎに 酒へと変わるだろう 編！〜",
+    "url": "https://clubdrop.jp/schedule/detail/47427",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2025/12/05",
+    "day": "金",
+    "artist": "34",
+    "title": "懐メロ☆学園 第34章 〜鹿は夜更け過ぎに 酒へと変わるだろう 編！〜",
+    "url": "https://clubdrop.jp/schedule/detail/47427",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2025/12/05",
+    "day": "金",
+    "artist": "344 RAM（ヲタ霊",
+    "title": "懐メロ☆学園 第34章 〜鹿は夜更け過ぎに 酒へと変わるだろう 編！〜",
+    "url": "https://clubdrop.jp/schedule/detail/47427",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2025/12/05",
+    "day": "金",
+    "artist": "異臭騒ぎ)ごま油師匠",
+    "title": "懐メロ☆学園 第34章 〜鹿は夜更け過ぎに 酒へと変わるだろう 編！〜",
+    "url": "https://clubdrop.jp/schedule/detail/47427",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
     "date": "2025/12/06",
     "day": "土",
     "artist": "SANUGLOW",
@@ -18201,15 +18579,6 @@
     "date": "2025/11/27",
     "day": "木",
     "artist": "LΩPARA",
-    "title": "ハッピーアワー酒場生誕祭編〜この日はとりあえずしゅかで〜",
-    "url": "https://osaka-varon.jp/schedule/detail/44284",
-    "venue": "VARON",
-    "note": ""
-  },
-  {
-    "date": "2025/11/27",
-    "day": "木",
-    "artist": "依存性えんじぇる",
     "title": "ハッピーアワー酒場生誕祭編〜この日はとりあえずしゅかで〜",
     "url": "https://osaka-varon.jp/schedule/detail/44284",
     "venue": "VARON",
@@ -21944,8 +22313,98 @@
   {
     "date": "2026/01/03",
     "day": "土",
-    "artist": "coming soon...",
-    "title": "HALL RENTAL",
+    "artist": "肴はトリキのごま油キャベツ",
+    "title": "よっしー × はらたく企画",
+    "url": "https://osaka-zeela.jp/schedule/detail/43290",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2026/01/03",
+    "day": "土",
+    "artist": "ブサイク",
+    "title": "よっしー × はらたく企画",
+    "url": "https://osaka-zeela.jp/schedule/detail/43290",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2026/01/03",
+    "day": "土",
+    "artist": "美食屋",
+    "title": "よっしー × はらたく企画",
+    "url": "https://osaka-zeela.jp/schedule/detail/43290",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2026/01/03",
+    "day": "土",
+    "artist": "国宝",
+    "title": "よっしー × はらたく企画",
+    "url": "https://osaka-zeela.jp/schedule/detail/43290",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2026/01/03",
+    "day": "土",
+    "artist": "お正月は愛について",
+    "title": "よっしー × はらたく企画",
+    "url": "https://osaka-zeela.jp/schedule/detail/43290",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2026/01/03",
+    "day": "土",
+    "artist": "BACHI BACHI",
+    "title": "よっしー × はらたく企画",
+    "url": "https://osaka-zeela.jp/schedule/detail/43290",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2026/01/03",
+    "day": "土",
+    "artist": "ボボボーボ",
+    "title": "よっしー × はらたく企画",
+    "url": "https://osaka-zeela.jp/schedule/detail/43290",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2026/01/03",
+    "day": "土",
+    "artist": "GOING SHINZY",
+    "title": "よっしー × はらたく企画",
+    "url": "https://osaka-zeela.jp/schedule/detail/43290",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2026/01/03",
+    "day": "土",
+    "artist": "小さな珍子の小夜曲",
+    "title": "よっしー × はらたく企画",
+    "url": "https://osaka-zeela.jp/schedule/detail/43290",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2026/01/03",
+    "day": "土",
+    "artist": "Cö Shu Tak",
+    "title": "よっしー × はらたく企画",
+    "url": "https://osaka-zeela.jp/schedule/detail/43290",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2026/01/03",
+    "day": "土",
+    "artist": "カネナシサケアリ",
+    "title": "よっしー × はらたく企画",
     "url": "https://osaka-zeela.jp/schedule/detail/43290",
     "venue": "Zeela",
     "note": ""
@@ -25571,6 +26030,33 @@
   {
     "date": "2025/12/31",
     "day": "水",
+    "artist": "※学生証提示で1",
+    "title": "南壽あさ子”年納めリクエストライブ”",
+    "url": "http://www.knave.co.jp/schedule/s_2025_12.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2025/12/31",
+    "day": "水",
+    "artist": "000円キャッシュバック",
+    "title": "南壽あさ子”年納めリクエストライブ”",
+    "url": "http://www.knave.co.jp/schedule/s_2025_12.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2025/12/31",
+    "day": "水",
+    "artist": "※小学生以下無料",
+    "title": "南壽あさ子”年納めリクエストライブ”",
+    "url": "http://www.knave.co.jp/schedule/s_2025_12.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2025/12/31",
+    "day": "水",
     "artist": "問・チケット) OFFICIAL SITE",
     "title": "南壽あさ子”年納めリクエストライブ”",
     "url": "http://www.knave.co.jp/schedule/s_2025_12.html",
@@ -26174,7 +26660,7 @@
   {
     "date": "2026/01/15",
     "day": "木",
-    "artist": "and more...",
+    "artist": "キミモノガタリ",
     "title": "ROAR BEAT",
     "url": "http://www.knave.co.jp/schedule/s_2026_01.html",
     "venue": "knave",
@@ -26535,7 +27021,7 @@
     "date": "2026/01/20",
     "day": "火",
     "artist": "トレパノ",
-    "title": "Pick It Up!",
+    "title": "Spark Out",
     "url": "http://www.knave.co.jp/schedule/s_2026_01.html",
     "venue": "knave",
     "note": ""
@@ -26544,7 +27030,7 @@
     "date": "2026/01/20",
     "day": "火",
     "artist": "リリイズ=レプシー",
-    "title": "Pick It Up!",
+    "title": "Spark Out",
     "url": "http://www.knave.co.jp/schedule/s_2026_01.html",
     "venue": "knave",
     "note": ""
@@ -26553,7 +27039,7 @@
     "date": "2026/01/20",
     "day": "火",
     "artist": "凛黎",
-    "title": "Pick It Up!",
+    "title": "Spark Out",
     "url": "http://www.knave.co.jp/schedule/s_2026_01.html",
     "venue": "knave",
     "note": ""
@@ -26561,8 +27047,8 @@
   {
     "date": "2026/01/20",
     "day": "火",
-    "artist": "and more...",
-    "title": "Pick It Up!",
+    "artist": "EMILY",
+    "title": "Spark Out",
     "url": "http://www.knave.co.jp/schedule/s_2026_01.html",
     "venue": "knave",
     "note": ""
@@ -26571,7 +27057,7 @@
     "date": "2026/01/20",
     "day": "火",
     "artist": "問)knave06-6535-0691",
-    "title": "Pick It Up!",
+    "title": "Spark Out",
     "url": "http://www.knave.co.jp/schedule/s_2026_01.html",
     "venue": "knave",
     "note": ""
@@ -27139,6 +27625,69 @@
     "day": "金",
     "artist": "問)knave06-6535-0691",
     "title": "有近朋恵 1stワンマンライブ",
+    "url": "http://www.knave.co.jp/schedule/s_2026_01.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2026/01/31",
+    "day": "土",
+    "artist": "「涅槃寂静」大阪公演",
+    "title": "生生世世二周年記念主催",
+    "url": "http://www.knave.co.jp/schedule/s_2026_01.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2026/01/31",
+    "day": "土",
+    "artist": "生生世世",
+    "title": "生生世世二周年記念主催",
+    "url": "http://www.knave.co.jp/schedule/s_2026_01.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2026/01/31",
+    "day": "土",
+    "artist": "deva:ed",
+    "title": "生生世世二周年記念主催",
+    "url": "http://www.knave.co.jp/schedule/s_2026_01.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2026/01/31",
+    "day": "土",
+    "artist": "妖-Ayakashi-",
+    "title": "生生世世二周年記念主催",
+    "url": "http://www.knave.co.jp/schedule/s_2026_01.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2026/01/31",
+    "day": "土",
+    "artist": "一般発売12",
+    "title": "生生世世二周年記念主催",
+    "url": "http://www.knave.co.jp/schedule/s_2026_01.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2026/01/31",
+    "day": "土",
+    "artist": "1820:00",
+    "title": "生生世世二周年記念主催",
+    "url": "http://www.knave.co.jp/schedule/s_2026_01.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2026/01/31",
+    "day": "土",
+    "artist": "問)knave06-6535-0691",
+    "title": "生生世世二周年記念主催",
     "url": "http://www.knave.co.jp/schedule/s_2026_01.html",
     "venue": "knave",
     "note": ""
