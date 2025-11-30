@@ -4511,8 +4511,8 @@
   {
     "date": "2026/01/12",
     "day": "月祝",
-    "artist": "BOMBJACK",
-    "title": "BOMBJACK / RUST / THE 王様クジラ / おかわり / ymkh",
+    "artist": "RUST",
+    "title": "OPEN 17:30",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -4520,8 +4520,8 @@
   {
     "date": "2026/01/12",
     "day": "月祝",
-    "artist": "RUST",
-    "title": "BOMBJACK / RUST / THE 王様クジラ / おかわり / ymkh",
+    "artist": "ymkh",
+    "title": "OPEN 17:30",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -4530,7 +4530,7 @@
     "date": "2026/01/12",
     "day": "月祝",
     "artist": "THE 王様クジラ",
-    "title": "BOMBJACK / RUST / THE 王様クジラ / おかわり / ymkh",
+    "title": "OPEN 17:30",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -4539,7 +4539,7 @@
     "date": "2026/01/12",
     "day": "月祝",
     "artist": "おかわり",
-    "title": "BOMBJACK / RUST / THE 王様クジラ / おかわり / ymkh",
+    "title": "OPEN 17:30",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -4547,8 +4547,8 @@
   {
     "date": "2026/01/12",
     "day": "月祝",
-    "artist": "ymkh and more...",
-    "title": "BOMBJACK / RUST / THE 王様クジラ / おかわり / ymkh",
+    "artist": "BOMBJACK",
+    "title": "OPEN 17:30",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -5008,6 +5008,69 @@
     "day": "木",
     "artist": "minä minä",
     "title": "OPEN 18:30",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
+    "date": "2026/01/30",
+    "day": "金",
+    "artist": "扇町para-dice",
+    "title": "扇町para-dice",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
+    "date": "2026/01/30",
+    "day": "金",
+    "artist": "『 LFO 』",
+    "title": "扇町para-dice",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
+    "date": "2026/01/30",
+    "day": "金",
+    "artist": "ピーター大工原",
+    "title": "扇町para-dice",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
+    "date": "2026/01/30",
+    "day": "金",
+    "artist": "ネオクマグス",
+    "title": "扇町para-dice",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
+    "date": "2026/01/30",
+    "day": "金",
+    "artist": "白石ヨシュア",
+    "title": "扇町para-dice",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
+    "date": "2026/01/30",
+    "day": "金",
+    "artist": "Naotaka Nishio",
+    "title": "扇町para-dice",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
+    "date": "2026/01/30",
+    "day": "金",
+    "artist": "VAALBARA",
+    "title": "扇町para-dice",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -19755,6 +19818,42 @@
     "note": ""
   },
   {
+    "date": "2025/12/10",
+    "day": "水",
+    "artist": "sync-sens",
+    "title": "猫生誕祭",
+    "url": "https://osaka-varon.jp/schedule/detail/44287",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2025/12/10",
+    "day": "水",
+    "artist": "husky",
+    "title": "猫生誕祭",
+    "url": "https://osaka-varon.jp/schedule/detail/44287",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2025/12/10",
+    "day": "水",
+    "artist": "ディノゾール",
+    "title": "猫生誕祭",
+    "url": "https://osaka-varon.jp/schedule/detail/44287",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2025/12/10",
+    "day": "水",
+    "artist": "ミラーシュカ",
+    "title": "猫生誕祭",
+    "url": "https://osaka-varon.jp/schedule/detail/44287",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
     "date": "2025/12/11",
     "day": "木",
     "artist": "Bray me",
@@ -20369,7 +20468,16 @@
   {
     "date": "2026/01/06",
     "day": "火",
-    "artist": "Turtle Frog and more...",
+    "artist": "Turtle Frog",
+    "title": "MUSIC BOTTLE vol.14 -TOP GEAR~",
+    "url": "https://osaka-varon.jp/schedule/detail/46695",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2026/01/06",
+    "day": "火",
+    "artist": "Pura.Dell",
     "title": "MUSIC BOTTLE vol.14 -TOP GEAR~",
     "url": "https://osaka-varon.jp/schedule/detail/46695",
     "venue": "VARON",
