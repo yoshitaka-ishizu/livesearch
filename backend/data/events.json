@@ -146,7 +146,7 @@
   {
     "date": "2025/12/09",
     "day": "火",
-    "artist": "halh years ROM",
+    "artist": "half years ROM",
     "title": "Things",
     "url": "https://fireloop.net/schedule_now.shtml#1209",
     "venue": "寺田町Fireloop",
@@ -4178,7 +4178,16 @@
   {
     "date": "2025/12/05",
     "day": "金",
-    "artist": "PSYKERA!!)  RAM(ヲタ霊",
+    "artist": "PSYKERA!!)",
+    "title": "VIJONの『V』はVISUALの『V』vol.3",
+    "url": "https://vijon.jp/schedule/detail/49217",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2025/12/05",
+    "day": "金",
+    "artist": "やまたにえん  RAM(ヲタ霊",
     "title": "VIJONの『V』はVISUALの『V』vol.3",
     "url": "https://vijon.jp/schedule/detail/49217",
     "venue": "北堀江club vijon",
@@ -5112,15 +5121,6 @@
     "note": ""
   },
   {
-    "date": "2025/12/17",
-    "day": "水",
-    "artist": "and more...",
-    "title": "【BOW!NEN!VIBES!】DAY1",
-    "url": "https://vijon.jp/schedule/detail/47138",
-    "venue": "北堀江club vijon",
-    "note": ""
-  },
-  {
     "date": "2025/12/18",
     "day": "木",
     "artist": "さよなら人工衛星",
@@ -5169,15 +5169,6 @@
     "date": "2025/12/18",
     "day": "木",
     "artist": "Ororin",
-    "title": "【BOW!NEN!VIBES!】DAY2",
-    "url": "https://vijon.jp/schedule/detail/47356",
-    "venue": "北堀江club vijon",
-    "note": ""
-  },
-  {
-    "date": "2025/12/18",
-    "day": "木",
-    "artist": "and more...",
     "title": "【BOW!NEN!VIBES!】DAY2",
     "url": "https://vijon.jp/schedule/detail/47356",
     "venue": "北堀江club vijon",
@@ -5241,15 +5232,6 @@
     "date": "2025/12/19",
     "day": "金",
     "artist": "AcroBox",
-    "title": "【BOW!NEN!VIBES!】DAY3",
-    "url": "https://vijon.jp/schedule/detail/48049",
-    "venue": "北堀江club vijon",
-    "note": ""
-  },
-  {
-    "date": "2025/12/19",
-    "day": "金",
-    "artist": "and more...",
     "title": "【BOW!NEN!VIBES!】DAY3",
     "url": "https://vijon.jp/schedule/detail/48049",
     "venue": "北堀江club vijon",
@@ -5430,15 +5412,6 @@
     "date": "2025/12/22",
     "day": "月",
     "artist": "Turtle Frog",
-    "title": "【BOW!NEN!VIBES!】DAY4",
-    "url": "https://vijon.jp/schedule/detail/47409",
-    "venue": "北堀江club vijon",
-    "note": ""
-  },
-  {
-    "date": "2025/12/22",
-    "day": "月",
-    "artist": "and more...",
     "title": "【BOW!NEN!VIBES!】DAY4",
     "url": "https://vijon.jp/schedule/detail/47409",
     "venue": "北堀江club vijon",
@@ -8003,7 +7976,7 @@
   {
     "date": "2026/01/19",
     "day": "月",
-    "artist": "and mroe",
+    "artist": "ろんれのん",
     "title": "浅野毅&BANGBOO pre.【即RAKUEN】vol.5",
     "url": "https://bangboo.jp/schedule/detail/48124",
     "venue": "梅田BANGBOO",
@@ -8150,6 +8123,60 @@
     "artist": "VOØGE",
     "title": "【続・天下一不毛会】クリトリック・リス vs BANGBOO -臥薪嘗胆編-",
     "url": "https://bangboo.jp/schedule/detail/47341",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2026/01/28",
+    "day": "水",
+    "artist": "THYPALM",
+    "title": "THYPALM&BANGBOO pre. 「Brianstorm Vol.2」",
+    "url": "https://bangboo.jp/schedule/detail/47523",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2026/01/28",
+    "day": "水",
+    "artist": "いろかにほへと",
+    "title": "THYPALM&BANGBOO pre. 「Brianstorm Vol.2」",
+    "url": "https://bangboo.jp/schedule/detail/47523",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2026/01/28",
+    "day": "水",
+    "artist": "PLATFORM",
+    "title": "THYPALM&BANGBOO pre. 「Brianstorm Vol.2」",
+    "url": "https://bangboo.jp/schedule/detail/47523",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2026/01/28",
+    "day": "水",
+    "artist": "sazanami",
+    "title": "THYPALM&BANGBOO pre. 「Brianstorm Vol.2」",
+    "url": "https://bangboo.jp/schedule/detail/47523",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2026/01/28",
+    "day": "水",
+    "artist": "NEAD",
+    "title": "THYPALM&BANGBOO pre. 「Brianstorm Vol.2」",
+    "url": "https://bangboo.jp/schedule/detail/47523",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2026/01/28",
+    "day": "水",
+    "artist": "and more",
+    "title": "THYPALM&BANGBOO pre. 「Brianstorm Vol.2」",
+    "url": "https://bangboo.jp/schedule/detail/47523",
     "venue": "梅田BANGBOO",
     "note": ""
   },
@@ -8363,7 +8390,7 @@
   {
     "date": "2026/03/13",
     "day": "金",
-    "artist": "全箇所対バン、O.A.有り",
+    "artist": "yonige",
     "title": "Hello ailly!! 1st Tour 2026",
     "url": "https://bangboo.jp/schedule/detail/46835",
     "venue": "梅田BANGBOO",
@@ -9504,6 +9531,24 @@
     "note": ""
   },
   {
+    "date": "2025/12/25",
+    "day": "木",
+    "artist": "Sucré･Box!",
+    "title": "Sucré X’mas Box! 〜DAY2〜",
+    "url": "https://clubdrop.jp/schedule/detail/47303",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2025/12/25",
+    "day": "木",
+    "artist": "ゲスト：ELVA",
+    "title": "Sucré X’mas Box! 〜DAY2〜",
+    "url": "https://clubdrop.jp/schedule/detail/47303",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
     "date": "2025/12/29",
     "day": "月",
     "artist": "ラディカルズ",
@@ -10404,6 +10449,24 @@
     "note": ""
   },
   {
+    "date": "2025/12/07",
+    "day": "日",
+    "artist": "ハピネスクラッカー！",
+    "title": "『ハピネスクラッカー！half anniversary!!!!』",
+    "url": "https://osaka-varon.jp/schedule/detail/38886",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2025/12/07",
+    "day": "日",
+    "artist": "鳴ル神",
+    "title": "百鬼雷光EPリリースパーティー in VARON",
+    "url": "https://osaka-varon.jp/schedule/detail/49415",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
     "date": "2025/12/08",
     "day": "月",
     "artist": "JINKS",
@@ -11093,6 +11156,15 @@
     "artist": "CØCØRIZE",
     "title": "Synchro Sensation Vol.14",
     "url": "https://osaka-varon.jp/schedule/detail/43576",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2025/12/27",
+    "day": "土",
+    "artist": "アブソプ",
+    "title": "アブソプ定期公演 『永遠之契』",
+    "url": "https://osaka-varon.jp/schedule/detail/49423",
     "venue": "VARON",
     "note": ""
   },
@@ -13016,8 +13088,116 @@
   {
     "date": "2025/12/29",
     "day": "月",
-    "artist": "coming soon...",
-    "title": "HALL RENTAL",
+    "artist": "Waki",
+    "title": "かつまた企画",
+    "url": "https://osaka-zeela.jp/schedule/detail/41630",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2025/12/29",
+    "day": "月",
+    "artist": "ちんぽ",
+    "title": "かつまた企画",
+    "url": "https://osaka-zeela.jp/schedule/detail/41630",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2025/12/29",
+    "day": "月",
+    "artist": "じだかん",
+    "title": "かつまた企画",
+    "url": "https://osaka-zeela.jp/schedule/detail/41630",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2025/12/29",
+    "day": "月",
+    "artist": "勝・マタ・タバコ吸わない",
+    "title": "かつまた企画",
+    "url": "https://osaka-zeela.jp/schedule/detail/41630",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2025/12/29",
+    "day": "月",
+    "artist": "AGE PAN FACTORY",
+    "title": "かつまた企画",
+    "url": "https://osaka-zeela.jp/schedule/detail/41630",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2025/12/29",
+    "day": "月",
+    "artist": "たいせいいずまいん",
+    "title": "かつまた企画",
+    "url": "https://osaka-zeela.jp/schedule/detail/41630",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2025/12/29",
+    "day": "月",
+    "artist": "バニラアイス",
+    "title": "かつまた企画",
+    "url": "https://osaka-zeela.jp/schedule/detail/41630",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2025/12/29",
+    "day": "月",
+    "artist": "既婚者のコピー",
+    "title": "かつまた企画",
+    "url": "https://osaka-zeela.jp/schedule/detail/41630",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2025/12/29",
+    "day": "月",
+    "artist": "勝又にスキャンダルはありますか？",
+    "title": "かつまた企画",
+    "url": "https://osaka-zeela.jp/schedule/detail/41630",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2025/12/29",
+    "day": "月",
+    "artist": "シメイ　イカレッツ",
+    "title": "かつまた企画",
+    "url": "https://osaka-zeela.jp/schedule/detail/41630",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2025/12/29",
+    "day": "月",
+    "artist": "勝又不死変",
+    "title": "かつまた企画",
+    "url": "https://osaka-zeela.jp/schedule/detail/41630",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2025/12/29",
+    "day": "月",
+    "artist": "半勃起ッダーズ",
+    "title": "かつまた企画",
+    "url": "https://osaka-zeela.jp/schedule/detail/41630",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2025/12/29",
+    "day": "月",
+    "artist": "イャンクック",
+    "title": "かつまた企画",
     "url": "https://osaka-zeela.jp/schedule/detail/41630",
     "venue": "Zeela",
     "note": ""
@@ -17840,6 +18020,33 @@
   {
     "date": "2026/03/29",
     "day": "日",
+    "artist": "「君子万年」",
+    "title": "高校卒業＆誕生日記念公演",
+    "url": "http://www.knave.co.jp/schedule/s_2026_02.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2026/03/29",
+    "day": "日",
+    "artist": "岩内幸乃",
+    "title": "高校卒業＆誕生日記念公演",
+    "url": "http://www.knave.co.jp/schedule/s_2026_02.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2026/03/29",
+    "day": "日",
+    "artist": "問)knave06-6535-0691",
+    "title": "高校卒業＆誕生日記念公演",
+    "url": "http://www.knave.co.jp/schedule/s_2026_02.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2026/03/29",
+    "day": "日",
     "artist": "曾我泰久",
     "title": "曾我泰久 music life live 2026 in  大阪",
     "url": "http://www.knave.co.jp/schedule/s_2026_02.html",
@@ -17868,15 +18075,6 @@
     "date": "2026/03/29",
     "day": "日",
     "artist": "1010:00〜",
-    "title": "曾我泰久 music life live 2026 in  大阪",
-    "url": "http://www.knave.co.jp/schedule/s_2026_02.html",
-    "venue": "knave",
-    "note": ""
-  },
-  {
-    "date": "2026/03/29",
-    "day": "日",
-    "artist": "問)knave06-6535-0691",
     "title": "曾我泰久 music life live 2026 in  大阪",
     "url": "http://www.knave.co.jp/schedule/s_2026_02.html",
     "venue": "knave",
