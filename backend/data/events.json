@@ -5634,6 +5634,24 @@
     "note": ""
   },
   {
+    "date": "2025/12/21",
+    "day": "日",
+    "artist": "SPRISE",
+    "title": "scramble",
+    "url": "https://vijon.jp/schedule/detail/49633",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2025/12/21",
+    "day": "日",
+    "artist": "アブソプ",
+    "title": "scramble",
+    "url": "https://vijon.jp/schedule/detail/49633",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
     "date": "2025/12/22",
     "day": "月",
     "artist": "純度100%勢い",
@@ -6311,9 +6329,54 @@
   {
     "date": "2026/01/22",
     "day": "木",
-    "artist": "THE GEARSOOOOOMA※対バンは後日解禁",
-    "title": "ギヤソーマ、バンド組みます。　THE GEARSOOOOOMA 始動初ライブ",
-    "url": "https://vijon.jp/schedule/detail/48044",
+    "artist": "THE GEARSOOOOOMA",
+    "title": "THE GEARSOOOOOMA始動ライブ 【 MERAZOOOOOMA 】",
+    "url": "https://vijon.jp/schedule/detail/49605",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2026/01/22",
+    "day": "木",
+    "artist": "グルーヴ先生",
+    "title": "THE GEARSOOOOOMA始動ライブ 【 MERAZOOOOOMA 】",
+    "url": "https://vijon.jp/schedule/detail/49605",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2026/01/22",
+    "day": "木",
+    "artist": "musiz",
+    "title": "THE GEARSOOOOOMA始動ライブ 【 MERAZOOOOOMA 】",
+    "url": "https://vijon.jp/schedule/detail/49605",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2026/01/22",
+    "day": "木",
+    "artist": "NoiZy",
+    "title": "THE GEARSOOOOOMA始動ライブ 【 MERAZOOOOOMA 】",
+    "url": "https://vijon.jp/schedule/detail/49605",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2026/01/22",
+    "day": "木",
+    "artist": "キミモノガタリ",
+    "title": "THE GEARSOOOOOMA始動ライブ 【 MERAZOOOOOMA 】",
+    "url": "https://vijon.jp/schedule/detail/49605",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2026/01/22",
+    "day": "木",
+    "artist": "No more G's",
+    "title": "THE GEARSOOOOOMA始動ライブ 【 MERAZOOOOOMA 】",
+    "url": "https://vijon.jp/schedule/detail/49605",
     "venue": "北堀江club vijon",
     "note": ""
   },
@@ -7605,6 +7668,15 @@
     "note": ""
   },
   {
+    "date": "2025/12/17",
+    "day": "水",
+    "artist": "ネテルダイヤ、SKILL of light、 KiMiNiAiTAi、ミケネコガールズ、EVERYTHING IS WONDER、柊ゆう、むげんこんぜ、ParaMilia、REBELREBEL、コドモシンカ",
+    "title": "ネテルダイヤpre. 【Diamond Polishers】",
+    "url": "https://bangboo.jp/schedule/detail/47149",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
     "date": "2025/12/18",
     "day": "木",
     "artist": "カナザワマナブ",
@@ -8834,6 +8906,60 @@
     "artist": "VOØGE",
     "title": "【続・天下一不毛会】クリトリック・リス vs BANGBOO -臥薪嘗胆編-",
     "url": "https://bangboo.jp/schedule/detail/47341",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2026/01/23",
+    "day": "金",
+    "artist": "花咲りの",
+    "title": "花咲りの 生誕祭2026~いちご農家大収穫祭~",
+    "url": "https://bangboo.jp/schedule/detail/45877",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2026/01/23",
+    "day": "金",
+    "artist": "No.*Day",
+    "title": "花咲りの 生誕祭2026~いちご農家大収穫祭~",
+    "url": "https://bangboo.jp/schedule/detail/45877",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2026/01/23",
+    "day": "金",
+    "artist": "NiL",
+    "title": "花咲りの 生誕祭2026~いちご農家大収穫祭~",
+    "url": "https://bangboo.jp/schedule/detail/45877",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2026/01/23",
+    "day": "金",
+    "artist": "リボンのないぷれぜんと",
+    "title": "花咲りの 生誕祭2026~いちご農家大収穫祭~",
+    "url": "https://bangboo.jp/schedule/detail/45877",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2026/01/23",
+    "day": "金",
+    "artist": "ネテルダイヤ",
+    "title": "花咲りの 生誕祭2026~いちご農家大収穫祭~",
+    "url": "https://bangboo.jp/schedule/detail/45877",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2026/01/23",
+    "day": "金",
+    "artist": "ParaMilia",
+    "title": "花咲りの 生誕祭2026~いちご農家大収穫祭~",
+    "url": "https://bangboo.jp/schedule/detail/45877",
     "venue": "梅田BANGBOO",
     "note": ""
   },
@@ -10904,6 +11030,42 @@
     "artist": "AZ-ON",
     "title": "OSAKA PIXEL TOWER -2階層 DROP DISTRICT-",
     "url": "https://clubdrop.jp/schedule/detail/44004",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/02/13",
+    "day": "金",
+    "artist": "ill.",
+    "title": "ill. 2nd Album \"Day-2 Behind The Knowledge\" Release Party -Fal into the Abyss-",
+    "url": "https://clubdrop.jp/schedule/detail/47624",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/02/13",
+    "day": "金",
+    "artist": "Little Tramp",
+    "title": "ill. 2nd Album \"Day-2 Behind The Knowledge\" Release Party -Fal into the Abyss-",
+    "url": "https://clubdrop.jp/schedule/detail/47624",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/02/13",
+    "day": "金",
+    "artist": "Lounge around as much as possible",
+    "title": "ill. 2nd Album \"Day-2 Behind The Knowledge\" Release Party -Fal into the Abyss-",
+    "url": "https://clubdrop.jp/schedule/detail/47624",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/02/13",
+    "day": "金",
+    "artist": "Qynemalens",
+    "title": "ill. 2nd Album \"Day-2 Behind The Knowledge\" Release Party -Fal into the Abyss-",
+    "url": "https://clubdrop.jp/schedule/detail/47624",
     "venue": "アメリカ村DROP",
     "note": ""
   },
@@ -13563,6 +13725,60 @@
     "note": ""
   },
   {
+    "date": "2026/02/20",
+    "day": "金",
+    "artist": "Dragon BAND",
+    "title": "DRAGON FESTIVAL",
+    "url": "https://osaka-varon.jp/schedule/detail/46247",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2026/02/20",
+    "day": "金",
+    "artist": "白夜の契",
+    "title": "DRAGON FESTIVAL",
+    "url": "https://osaka-varon.jp/schedule/detail/46247",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2026/02/20",
+    "day": "金",
+    "artist": "BRISH",
+    "title": "DRAGON FESTIVAL",
+    "url": "https://osaka-varon.jp/schedule/detail/46247",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2026/02/20",
+    "day": "金",
+    "artist": "Rock bar in Abyss BAND　希繋",
+    "title": "DRAGON FESTIVAL",
+    "url": "https://osaka-varon.jp/schedule/detail/46247",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2026/02/20",
+    "day": "金",
+    "artist": "立ち呑みのす",
+    "title": "DRAGON FESTIVAL",
+    "url": "https://osaka-varon.jp/schedule/detail/46247",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2026/02/20",
+    "day": "金",
+    "artist": "BAR千鶴　でかでかパイパイズ:桃",
+    "title": "DRAGON FESTIVAL",
+    "url": "https://osaka-varon.jp/schedule/detail/46247",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
     "date": "2026/04/04",
     "day": "土",
     "artist": "DAIDA LAIDA",
@@ -15203,7 +15419,7 @@
   {
     "date": "2025/12/30",
     "day": "火",
-    "artist": "眞鍋 総一郎",
+    "artist": "眞鍋 総一郎&田中勇ニ郎",
     "title": "Zeela 大忘年会LIVE 2025 -12周年だよ全員集合-",
     "url": "https://osaka-zeela.jp/schedule/detail/45038",
     "venue": "Zeela",
@@ -15546,6 +15762,15 @@
     "date": "2025/12/31",
     "day": "水",
     "artist": "HiRo",
+    "title": "Zeela presents. YAMINABE DEATH MATCH!!  ～YAMINABE COUNT DOWN 2025-2026～",
+    "url": "https://osaka-zeela.jp/schedule/detail/45039",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2025/12/31",
+    "day": "水",
+    "artist": "ロック",
     "title": "Zeela presents. YAMINABE DEATH MATCH!!  ～YAMINABE COUNT DOWN 2025-2026～",
     "url": "https://osaka-zeela.jp/schedule/detail/45039",
     "venue": "Zeela",
@@ -20036,15 +20261,6 @@
   {
     "date": "2026/02/04",
     "day": "水",
-    "artist": "BIOLANTE",
-    "title": "P.O.P",
-    "url": "http://www.knave.co.jp/schedule/s_2026_02.html",
-    "venue": "knave",
-    "note": ""
-  },
-  {
-    "date": "2026/02/04",
-    "day": "水",
     "artist": "MAKOTONI",
     "title": "P.O.P",
     "url": "http://www.knave.co.jp/schedule/s_2026_02.html",
@@ -20072,6 +20288,15 @@
   {
     "date": "2026/02/04",
     "day": "水",
+    "artist": "and more...",
+    "title": "P.O.P",
+    "url": "http://www.knave.co.jp/schedule/s_2026_02.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2026/02/04",
+    "day": "水",
     "artist": "問)knave06-6535-0691",
     "title": "P.O.P",
     "url": "http://www.knave.co.jp/schedule/s_2026_02.html",
@@ -20081,7 +20306,7 @@
   {
     "date": "2026/02/05",
     "day": "木",
-    "artist": "Nosuits",
+    "artist": "NOsuits",
     "title": "エクスペリエンス！",
     "url": "http://www.knave.co.jp/schedule/s_2026_02.html",
     "venue": "knave",
