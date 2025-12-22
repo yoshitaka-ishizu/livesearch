@@ -2360,8 +2360,8 @@
   {
     "date": "2025/12/26",
     "day": "金",
-    "artist": "マッドショットガン",
-    "title": "マッドショットガン / カタメツムリ / SwagClown / Akane",
+    "artist": "para-dice企画",
+    "title": "『 The final rampage 』",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -2369,8 +2369,17 @@
   {
     "date": "2025/12/26",
     "day": "金",
-    "artist": "カタメツムリ",
-    "title": "マッドショットガン / カタメツムリ / SwagClown / Akane",
+    "artist": "『 The final rampage 』",
+    "title": "『 The final rampage 』",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
+    "date": "2025/12/26",
+    "day": "金",
+    "artist": "18:30〜  19:00 Urushite",
+    "title": "『 The final rampage 』",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -2379,7 +2388,7 @@
     "date": "2025/12/26",
     "day": "金",
     "artist": "SwagClown",
-    "title": "マッドショットガン / カタメツムリ / SwagClown / Akane",
+    "title": "『 The final rampage 』",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -2387,8 +2396,26 @@
   {
     "date": "2025/12/26",
     "day": "金",
-    "artist": "Akane and more...",
-    "title": "マッドショットガン / カタメツムリ / SwagClown / Akane",
+    "artist": "プランクトン's",
+    "title": "『 The final rampage 』",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
+    "date": "2025/12/26",
+    "day": "金",
+    "artist": "Akane",
+    "title": "『 The final rampage 』",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
+    "date": "2025/12/26",
+    "day": "金",
+    "artist": "マッドショットガン",
+    "title": "『 The final rampage 』",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -4161,7 +4188,7 @@
     "date": "2026/02/14",
     "day": "土",
     "artist": "para-dice 企画",
-    "title": "LOOLOWNINGEN&THE FAR EAST IDIOTS / FNCTR / hiko fukuda",
+    "title": "LOOLOWNINGEN&THE FAR EAST IDIOTS / FNCTR / hiko fukuda / mineo kawasaki",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -4170,7 +4197,7 @@
     "date": "2026/02/14",
     "day": "土",
     "artist": "LOOLOWNINGEN&THE FAR EAST IDIOTS",
-    "title": "LOOLOWNINGEN&THE FAR EAST IDIOTS / FNCTR / hiko fukuda",
+    "title": "LOOLOWNINGEN&THE FAR EAST IDIOTS / FNCTR / hiko fukuda / mineo kawasaki",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -4179,7 +4206,7 @@
     "date": "2026/02/14",
     "day": "土",
     "artist": "FNCTR",
-    "title": "LOOLOWNINGEN&THE FAR EAST IDIOTS / FNCTR / hiko fukuda",
+    "title": "LOOLOWNINGEN&THE FAR EAST IDIOTS / FNCTR / hiko fukuda / mineo kawasaki",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -4187,8 +4214,17 @@
   {
     "date": "2026/02/14",
     "day": "土",
-    "artist": "hiko fukuda and more...",
-    "title": "LOOLOWNINGEN&THE FAR EAST IDIOTS / FNCTR / hiko fukuda",
+    "artist": "hiko fukuda",
+    "title": "LOOLOWNINGEN&THE FAR EAST IDIOTS / FNCTR / hiko fukuda / mineo kawasaki",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
+    "date": "2026/02/14",
+    "day": "土",
+    "artist": "mineo kawasaki",
+    "title": "LOOLOWNINGEN&THE FAR EAST IDIOTS / FNCTR / hiko fukuda / mineo kawasaki",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -4656,7 +4692,7 @@
     "date": "2026/02/27",
     "day": "金",
     "artist": "the booing battle of bounds",
-    "title": "the booing battle of bounds / CRYK / shitakuchü / ネル",
+    "title": "the booing battle of bounds / ( ) / CRYK / shitakuchü / ネル",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -4665,7 +4701,7 @@
     "date": "2026/02/27",
     "day": "金",
     "artist": "CRYK",
-    "title": "the booing battle of bounds / CRYK / shitakuchü / ネル",
+    "title": "the booing battle of bounds / ( ) / CRYK / shitakuchü / ネル",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -4674,7 +4710,7 @@
     "date": "2026/02/27",
     "day": "金",
     "artist": "shitakuchü",
-    "title": "the booing battle of bounds / CRYK / shitakuchü / ネル",
+    "title": "the booing battle of bounds / ( ) / CRYK / shitakuchü / ネル",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -4682,8 +4718,8 @@
   {
     "date": "2026/02/27",
     "day": "金",
-    "artist": "ネル  and more...",
-    "title": "the booing battle of bounds / CRYK / shitakuchü / ネル",
+    "artist": "ネル",
+    "title": "the booing battle of bounds / ( ) / CRYK / shitakuchü / ネル",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -4692,7 +4728,16 @@
     "date": "2026/02/28",
     "day": "土",
     "artist": "para-dice 企画",
-    "title": "ZOOZ",
+    "title": "追い風、朝 / ZOOZ",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
+    "date": "2026/02/28",
+    "day": "土",
+    "artist": "追い風、朝",
+    "title": "追い風、朝 / ZOOZ",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -4701,7 +4746,7 @@
     "date": "2026/02/28",
     "day": "土",
     "artist": "ZOOZ and more...",
-    "title": "ZOOZ",
+    "title": "追い風、朝 / ZOOZ",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -6588,6 +6633,15 @@
     "note": ""
   },
   {
+    "date": "2025/12/25",
+    "day": "木",
+    "artist": "感情線は時をこえて",
+    "title": "感情線Ha時をこえて Xmas LIVE -それは世紀末のクリスマス-",
+    "url": "https://vijon.jp/schedule/detail/48113",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
     "date": "2025/12/26",
     "day": "金",
     "artist": "DOG☆STAR",
@@ -7101,6 +7155,123 @@
     "note": ""
   },
   {
+    "date": "2026/01/04",
+    "day": "日",
+    "artist": "鈴川愛依",
+    "title": "Wagamama Records主催『新春ライブ！』",
+    "url": "https://vijon.jp/schedule/detail/49225",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2026/01/04",
+    "day": "日",
+    "artist": "柴山ゆち",
+    "title": "Wagamama Records主催『新春ライブ！』",
+    "url": "https://vijon.jp/schedule/detail/49225",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2026/01/04",
+    "day": "日",
+    "artist": "兎咲とうか",
+    "title": "Wagamama Records主催『新春ライブ！』",
+    "url": "https://vijon.jp/schedule/detail/49225",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2026/01/04",
+    "day": "日",
+    "artist": "卯月ひなみ",
+    "title": "Wagamama Records主催『新春ライブ！』",
+    "url": "https://vijon.jp/schedule/detail/49225",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2026/01/04",
+    "day": "日",
+    "artist": "木元のぞみ",
+    "title": "Wagamama Records主催『新春ライブ！』",
+    "url": "https://vijon.jp/schedule/detail/49225",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2026/01/04",
+    "day": "日",
+    "artist": "あくる",
+    "title": "Wagamama Records主催『新春ライブ！』",
+    "url": "https://vijon.jp/schedule/detail/49225",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2026/01/04",
+    "day": "日",
+    "artist": "佐倉こうめ",
+    "title": "Wagamama Records主催『新春ライブ！』",
+    "url": "https://vijon.jp/schedule/detail/49225",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2026/01/04",
+    "day": "日",
+    "artist": "言葉ことね",
+    "title": "Wagamama Records主催『新春ライブ！』",
+    "url": "https://vijon.jp/schedule/detail/49225",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2026/01/04",
+    "day": "日",
+    "artist": "Noblesse Oblige†",
+    "title": "Wagamama Records主催『新春ライブ！』",
+    "url": "https://vijon.jp/schedule/detail/49225",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2026/01/04",
+    "day": "日",
+    "artist": "ひまわりまい",
+    "title": "Wagamama Records主催『新春ライブ！』",
+    "url": "https://vijon.jp/schedule/detail/49225",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2026/01/04",
+    "day": "日",
+    "artist": "役満ちりん",
+    "title": "Wagamama Records主催『新春ライブ！』",
+    "url": "https://vijon.jp/schedule/detail/49225",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2026/01/04",
+    "day": "日",
+    "artist": "ごんぬ",
+    "title": "Wagamama Records主催『新春ライブ！』",
+    "url": "https://vijon.jp/schedule/detail/49225",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2026/01/04",
+    "day": "日",
+    "artist": "朱璃晶絵",
+    "title": "Wagamama Records主催『新春ライブ！』",
+    "url": "https://vijon.jp/schedule/detail/49225",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
     "date": "2026/01/06",
     "day": "火",
     "artist": "Dufferin",
@@ -7131,15 +7302,6 @@
     "date": "2026/01/06",
     "day": "火",
     "artist": "STAY YOUTH",
-    "title": "三期三会　〜新春!!一富士二鷹三ピースSP〜",
-    "url": "https://vijon.jp/schedule/detail/48780",
-    "venue": "北堀江club vijon",
-    "note": ""
-  },
-  {
-    "date": "2026/01/06",
-    "day": "火",
-    "artist": "...and more",
     "title": "三期三会　〜新春!!一富士二鷹三ピースSP〜",
     "url": "https://vijon.jp/schedule/detail/48780",
     "venue": "北堀江club vijon",
@@ -7434,6 +7596,69 @@
     "note": ""
   },
   {
+    "date": "2026/01/27",
+    "day": "火",
+    "artist": "Re:sist",
+    "title": "\"LOVE&JOY EXTREME PiCNiC Vol.2\"",
+    "url": "https://vijon.jp/schedule/detail/48464",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2026/01/27",
+    "day": "火",
+    "artist": "ちぃたん☆",
+    "title": "\"LOVE&JOY EXTREME PiCNiC Vol.2\"",
+    "url": "https://vijon.jp/schedule/detail/48464",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2026/01/27",
+    "day": "火",
+    "artist": "ちぃたんボンバーズ",
+    "title": "\"LOVE&JOY EXTREME PiCNiC Vol.2\"",
+    "url": "https://vijon.jp/schedule/detail/48464",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2026/01/27",
+    "day": "火",
+    "artist": "Break The Limit",
+    "title": "\"LOVE&JOY EXTREME PiCNiC Vol.2\"",
+    "url": "https://vijon.jp/schedule/detail/48464",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2026/01/27",
+    "day": "火",
+    "artist": "dull cløver",
+    "title": "\"LOVE&JOY EXTREME PiCNiC Vol.2\"",
+    "url": "https://vijon.jp/schedule/detail/48464",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2026/01/27",
+    "day": "火",
+    "artist": "Noblesse Oblige†",
+    "title": "\"LOVE&JOY EXTREME PiCNiC Vol.2\"",
+    "url": "https://vijon.jp/schedule/detail/48464",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2026/01/27",
+    "day": "火",
+    "artist": "cute❤aggression",
+    "title": "\"LOVE&JOY EXTREME PiCNiC Vol.2\"",
+    "url": "https://vijon.jp/schedule/detail/48464",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
     "date": "2026/02/03",
     "day": "火",
     "artist": "アシガルユース",
@@ -7491,6 +7716,15 @@
     "date": "2026/02/05",
     "day": "木",
     "artist": "MAKOTONI",
+    "title": "vijon pre.【2 PIECE de W-PIECE 2026】",
+    "url": "https://vijon.jp/schedule/detail/47824",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2026/02/05",
+    "day": "木",
+    "artist": "ピウムジカ",
     "title": "vijon pre.【2 PIECE de W-PIECE 2026】",
     "url": "https://vijon.jp/schedule/detail/47824",
     "venue": "北堀江club vijon",
@@ -13320,6 +13554,42 @@
     "note": ""
   },
   {
+    "date": "2026/01/14",
+    "day": "水",
+    "artist": "meluQ",
+    "title": "DREAMBEAT",
+    "url": "https://clubdrop.jp/schedule/detail/48011",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/01/14",
+    "day": "水",
+    "artist": "抜けてるくらいがちょうどいい",
+    "title": "DREAMBEAT",
+    "url": "https://clubdrop.jp/schedule/detail/48011",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/01/14",
+    "day": "水",
+    "artist": "感情線は時をこえて",
+    "title": "DREAMBEAT",
+    "url": "https://clubdrop.jp/schedule/detail/48011",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/01/14",
+    "day": "水",
+    "artist": "ChanceMovement",
+    "title": "DREAMBEAT",
+    "url": "https://clubdrop.jp/schedule/detail/48011",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
     "date": "2026/01/15",
     "day": "木",
     "artist": "CURIOSITY.",
@@ -15773,6 +16043,69 @@
     "artist": "CØCØRIZE",
     "title": "Synchro Sensation Vol.14",
     "url": "https://osaka-varon.jp/schedule/detail/43576",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2025/12/26",
+    "day": "金",
+    "artist": "ワッツ◎さーくる",
+    "title": "Sawage！2025 Last -たぶん仲良い。知らんけどFES.-",
+    "url": "https://osaka-varon.jp/schedule/detail/38379",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2025/12/26",
+    "day": "金",
+    "artist": "みらくらんど",
+    "title": "Sawage！2025 Last -たぶん仲良い。知らんけどFES.-",
+    "url": "https://osaka-varon.jp/schedule/detail/38379",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2025/12/26",
+    "day": "金",
+    "artist": "SANUGLOW",
+    "title": "Sawage！2025 Last -たぶん仲良い。知らんけどFES.-",
+    "url": "https://osaka-varon.jp/schedule/detail/38379",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2025/12/26",
+    "day": "金",
+    "artist": "#PANnana",
+    "title": "Sawage！2025 Last -たぶん仲良い。知らんけどFES.-",
+    "url": "https://osaka-varon.jp/schedule/detail/38379",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2025/12/26",
+    "day": "金",
+    "artist": "caprice",
+    "title": "Sawage！2025 Last -たぶん仲良い。知らんけどFES.-",
+    "url": "https://osaka-varon.jp/schedule/detail/38379",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2025/12/26",
+    "day": "金",
+    "artist": "うぃるめり！",
+    "title": "Sawage！2025 Last -たぶん仲良い。知らんけどFES.-",
+    "url": "https://osaka-varon.jp/schedule/detail/38379",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2025/12/26",
+    "day": "金",
+    "artist": "Krown Krown",
+    "title": "Sawage！2025 Last -たぶん仲良い。知らんけどFES.-",
+    "url": "https://osaka-varon.jp/schedule/detail/38379",
     "venue": "VARON",
     "note": ""
   },
