@@ -2216,16 +2216,7 @@
   {
     "date": "2026/02/06",
     "day": "金",
-    "artist": "バイセーシ",
-    "title": "『 クロメちゃんだよ！メタリックK.O. 』",
-    "url": "https://para-dice.net/",
-    "venue": "扇町para-dice",
-    "note": ""
-  },
-  {
-    "date": "2026/02/06",
-    "day": "金",
-    "artist": "クロメ",
+    "artist": "Qu",
     "title": "『 クロメちゃんだよ！メタリックK.O. 』",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
@@ -2243,7 +2234,16 @@
   {
     "date": "2026/02/06",
     "day": "金",
-    "artist": "Qu",
+    "artist": "クロメ",
+    "title": "『 クロメちゃんだよ！メタリックK.O. 』",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
+    "date": "2026/02/06",
+    "day": "金",
+    "artist": "バイセーシ",
     "title": "『 クロメちゃんだよ！メタリックK.O. 』",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
@@ -2387,17 +2387,8 @@
   {
     "date": "2026/02/10",
     "day": "火",
-    "artist": "こもも",
-    "title": "こもも / ヨギ サネキ / 鴨しんご / 木村ただし(ハニカムズ) / ワタリガラス\n              \n              / 中村天一",
-    "url": "https://para-dice.net/",
-    "venue": "扇町para-dice",
-    "note": ""
-  },
-  {
-    "date": "2026/02/10",
-    "day": "火",
-    "artist": "ヨギ サネキ",
-    "title": "こもも / ヨギ サネキ / 鴨しんご / 木村ただし(ハニカムズ) / ワタリガラス\n              \n              / 中村天一",
+    "artist": "ワタリガラス",
+    "title": "OPEN 18:00",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -2406,25 +2397,7 @@
     "date": "2026/02/10",
     "day": "火",
     "artist": "鴨しんご",
-    "title": "こもも / ヨギ サネキ / 鴨しんご / 木村ただし(ハニカムズ) / ワタリガラス\n              \n              / 中村天一",
-    "url": "https://para-dice.net/",
-    "venue": "扇町para-dice",
-    "note": ""
-  },
-  {
-    "date": "2026/02/10",
-    "day": "火",
-    "artist": "木村ただし",
-    "title": "こもも / ヨギ サネキ / 鴨しんご / 木村ただし(ハニカムズ) / ワタリガラス\n              \n              / 中村天一",
-    "url": "https://para-dice.net/",
-    "venue": "扇町para-dice",
-    "note": ""
-  },
-  {
-    "date": "2026/02/10",
-    "day": "火",
-    "artist": "ワタリガラス",
-    "title": "こもも / ヨギ サネキ / 鴨しんご / 木村ただし(ハニカムズ) / ワタリガラス\n              \n              / 中村天一",
+    "title": "OPEN 18:00",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -2433,7 +2406,34 @@
     "date": "2026/02/10",
     "day": "火",
     "artist": "中村天一",
-    "title": "こもも / ヨギ サネキ / 鴨しんご / 木村ただし(ハニカムズ) / ワタリガラス\n              \n              / 中村天一",
+    "title": "OPEN 18:00",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
+    "date": "2026/02/10",
+    "day": "火",
+    "artist": "こもも",
+    "title": "OPEN 18:00",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
+    "date": "2026/02/10",
+    "day": "火",
+    "artist": "木村ただし",
+    "title": "OPEN 18:00",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
+    "date": "2026/02/10",
+    "day": "火",
+    "artist": "ヨギ サネキ",
+    "title": "OPEN 18:00",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -2594,26 +2594,17 @@
   {
     "date": "2026/02/15",
     "day": "日",
-    "artist": "THE CLOCKWISE",
-    "title": "THE CLOCKWISE / リバプールズ / 昂大(火星同盟) /\n                \n松延慎吾 / 白夜",
-    "url": "https://para-dice.net/",
-    "venue": "扇町para-dice",
-    "note": ""
-  },
-  {
-    "date": "2026/02/15",
-    "day": "日",
-    "artist": "リバプールズ",
-    "title": "THE CLOCKWISE / リバプールズ / 昂大(火星同盟) /\n                \n松延慎吾 / 白夜",
-    "url": "https://para-dice.net/",
-    "venue": "扇町para-dice",
-    "note": ""
-  },
-  {
-    "date": "2026/02/15",
-    "day": "日",
     "artist": "昂大",
-    "title": "THE CLOCKWISE / リバプールズ / 昂大(火星同盟) /\n                \n松延慎吾 / 白夜",
+    "title": "OPEN 17:00",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
+    "date": "2026/02/15",
+    "day": "日",
+    "artist": "THE CLOCKWISE",
+    "title": "OPEN 17:00",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -2622,7 +2613,7 @@
     "date": "2026/02/15",
     "day": "日",
     "artist": "松延慎吾",
-    "title": "THE CLOCKWISE / リバプールズ / 昂大(火星同盟) /\n                \n松延慎吾 / 白夜",
+    "title": "OPEN 17:00",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -2630,8 +2621,17 @@
   {
     "date": "2026/02/15",
     "day": "日",
-    "artist": "白夜 and more...",
-    "title": "THE CLOCKWISE / リバプールズ / 昂大(火星同盟) /\n                \n松延慎吾 / 白夜",
+    "artist": "リバプールズ",
+    "title": "OPEN 17:00",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
+    "date": "2026/02/15",
+    "day": "日",
+    "artist": "白夜",
+    "title": "OPEN 17:00",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -2729,26 +2729,8 @@
   {
     "date": "2026/02/19",
     "day": "木",
-    "artist": "梅本卓馬",
-    "title": "梅本卓馬 / おだゆき /\n                \nジェットTAMURA / SUGIYAMA / 社領遥樹",
-    "url": "https://para-dice.net/",
-    "venue": "扇町para-dice",
-    "note": ""
-  },
-  {
-    "date": "2026/02/19",
-    "day": "木",
-    "artist": "おだゆき",
-    "title": "梅本卓馬 / おだゆき /\n                \nジェットTAMURA / SUGIYAMA / 社領遥樹",
-    "url": "https://para-dice.net/",
-    "venue": "扇町para-dice",
-    "note": ""
-  },
-  {
-    "date": "2026/02/19",
-    "day": "木",
-    "artist": "ジェットTAMURA",
-    "title": "梅本卓馬 / おだゆき /\n                \nジェットTAMURA / SUGIYAMA / 社領遥樹",
+    "artist": "社領遥樹",
+    "title": "OPEN 18:30",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -2757,7 +2739,7 @@
     "date": "2026/02/19",
     "day": "木",
     "artist": "SUGIYAMA",
-    "title": "梅本卓馬 / おだゆき /\n                \nジェットTAMURA / SUGIYAMA / 社領遥樹",
+    "title": "OPEN 18:30",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -2765,8 +2747,26 @@
   {
     "date": "2026/02/19",
     "day": "木",
-    "artist": "社領遥樹  and more...",
-    "title": "梅本卓馬 / おだゆき /\n                \nジェットTAMURA / SUGIYAMA / 社領遥樹",
+    "artist": "ジェットTAMURA",
+    "title": "OPEN 18:30",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
+    "date": "2026/02/19",
+    "day": "木",
+    "artist": "おだゆき",
+    "title": "OPEN 18:30",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
+    "date": "2026/02/19",
+    "day": "木",
+    "artist": "梅本卓馬",
+    "title": "OPEN 18:30",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -2979,19 +2979,37 @@
     "note": ""
   },
   {
-    "date": "2026/02/25",
-    "day": "水",
-    "artist": "Rie Lee",
-    "title": "Rie Lee / ごま / Kohei Okutani / pechica / Rentaro",
+    "date": "2026/02/24",
+    "day": "火",
+    "artist": "soratobiwo&らくだのこぶX ２マン企画",
+    "title": "soratobiwo&らくだのこぶX ２マン企画",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
   },
   {
-    "date": "2026/02/25",
-    "day": "水",
-    "artist": "ごま",
-    "title": "Rie Lee / ごま / Kohei Okutani / pechica / Rentaro",
+    "date": "2026/02/24",
+    "day": "火",
+    "artist": "『 STAND BY ME 』",
+    "title": "soratobiwo&らくだのこぶX ２マン企画",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
+    "date": "2026/02/24",
+    "day": "火",
+    "artist": "soratobiwo",
+    "title": "soratobiwo&らくだのこぶX ２マン企画",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
+    "date": "2026/02/24",
+    "day": "火",
+    "artist": "らくだのこぶX",
+    "title": "soratobiwo&らくだのこぶX ２マン企画",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -3000,7 +3018,7 @@
     "date": "2026/02/25",
     "day": "水",
     "artist": "Kohei Okutani",
-    "title": "Rie Lee / ごま / Kohei Okutani / pechica / Rentaro",
+    "title": "OPEN 18:30",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -3008,8 +3026,17 @@
   {
     "date": "2026/02/25",
     "day": "水",
-    "artist": "pechica",
-    "title": "Rie Lee / ごま / Kohei Okutani / pechica / Rentaro",
+    "artist": "ごま",
+    "title": "OPEN 18:30",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
+    "date": "2026/02/25",
+    "day": "水",
+    "artist": "Rie Lee",
+    "title": "OPEN 18:30",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -3018,7 +3045,16 @@
     "date": "2026/02/25",
     "day": "水",
     "artist": "Rentaro",
-    "title": "Rie Lee / ごま / Kohei Okutani / pechica / Rentaro",
+    "title": "OPEN 18:30",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
+    "date": "2026/02/25",
+    "day": "水",
+    "artist": "pechica",
+    "title": "OPEN 18:30",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -3071,8 +3107,8 @@
   {
     "date": "2026/02/27",
     "day": "金",
-    "artist": "the booing battle of bounds",
-    "title": "the booing battle of bounds / ( ) / CRYK / shitakuchü / ネル",
+    "artist": "para-dice 企画",
+    "title": "『 Powerslave 』",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -3080,17 +3116,8 @@
   {
     "date": "2026/02/27",
     "day": "金",
-    "artist": "CRYK",
-    "title": "the booing battle of bounds / ( ) / CRYK / shitakuchü / ネル",
-    "url": "https://para-dice.net/",
-    "venue": "扇町para-dice",
-    "note": ""
-  },
-  {
-    "date": "2026/02/27",
-    "day": "金",
-    "artist": "shitakuchü",
-    "title": "the booing battle of bounds / ( ) / CRYK / shitakuchü / ネル",
+    "artist": "『 Powerslave 』",
+    "title": "『 Powerslave 』",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -3099,7 +3126,34 @@
     "date": "2026/02/27",
     "day": "金",
     "artist": "ネル",
-    "title": "the booing battle of bounds / ( ) / CRYK / shitakuchü / ネル",
+    "title": "『 Powerslave 』",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
+    "date": "2026/02/27",
+    "day": "金",
+    "artist": "shitakuchü",
+    "title": "『 Powerslave 』",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
+    "date": "2026/02/27",
+    "day": "金",
+    "artist": "CRYK",
+    "title": "『 Powerslave 』",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
+    "date": "2026/02/27",
+    "day": "金",
+    "artist": "the booing battle of bounds",
+    "title": "『 Powerslave 』",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -3108,7 +3162,7 @@
     "date": "2026/02/28",
     "day": "土",
     "artist": "para-dice 企画",
-    "title": "霜降り猫 / UNDER THE KLOUD / She Side Ship / 追い風、朝 / ZOOZ",
+    "title": "『 Frame By Frame 』",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -3116,8 +3170,17 @@
   {
     "date": "2026/02/28",
     "day": "土",
-    "artist": "霜降り猫",
-    "title": "霜降り猫 / UNDER THE KLOUD / She Side Ship / 追い風、朝 / ZOOZ",
+    "artist": "『 Frame By Frame 』",
+    "title": "『 Frame By Frame 』",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
+    "date": "2026/02/28",
+    "day": "土",
+    "artist": "Shom",
+    "title": "『 Frame By Frame 』",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -3126,16 +3189,7 @@
     "date": "2026/02/28",
     "day": "土",
     "artist": "UNDER THE KLOUD",
-    "title": "霜降り猫 / UNDER THE KLOUD / She Side Ship / 追い風、朝 / ZOOZ",
-    "url": "https://para-dice.net/",
-    "venue": "扇町para-dice",
-    "note": ""
-  },
-  {
-    "date": "2026/02/28",
-    "day": "土",
-    "artist": "She Side Ship",
-    "title": "霜降り猫 / UNDER THE KLOUD / She Side Ship / 追い風、朝 / ZOOZ",
+    "title": "『 Frame By Frame 』",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -3144,7 +3198,7 @@
     "date": "2026/02/28",
     "day": "土",
     "artist": "追い風、朝",
-    "title": "霜降り猫 / UNDER THE KLOUD / She Side Ship / 追い風、朝 / ZOOZ",
+    "title": "『 Frame By Frame 』",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -3152,8 +3206,26 @@
   {
     "date": "2026/02/28",
     "day": "土",
-    "artist": "ZOOZ and more...",
-    "title": "霜降り猫 / UNDER THE KLOUD / She Side Ship / 追い風、朝 / ZOOZ",
+    "artist": "霜降り猫",
+    "title": "『 Frame By Frame 』",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
+    "date": "2026/02/28",
+    "day": "土",
+    "artist": "She Side Ship",
+    "title": "『 Frame By Frame 』",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
+    "date": "2026/02/28",
+    "day": "土",
+    "artist": "ZOOZ",
+    "title": "『 Frame By Frame 』",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -3217,6 +3289,69 @@
     "day": "金祝",
     "artist": "MOTHER GOOSE and more...",
     "title": "BASEBALL PITCHER / Comedownthere / SEMENTOS / MOTHER GOOSE",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
+    "date": "2026/03/21",
+    "day": "土",
+    "artist": "NOI企画",
+    "title": "NOI企画",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
+    "date": "2026/03/21",
+    "day": "土",
+    "artist": "『 2025年度 扇町総決算遊戯 』",
+    "title": "NOI企画",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
+    "date": "2026/03/21",
+    "day": "土",
+    "artist": "NOI",
+    "title": "NOI企画",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
+    "date": "2026/03/21",
+    "day": "土",
+    "artist": "ポップスタンダード",
+    "title": "NOI企画",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
+    "date": "2026/03/21",
+    "day": "土",
+    "artist": "Lightning Swells Forever",
+    "title": "NOI企画",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
+    "date": "2026/03/21",
+    "day": "土",
+    "artist": "メトロロ",
+    "title": "NOI企画",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
+    "date": "2026/03/21",
+    "day": "土",
+    "artist": "Green Milk From The Planet Orange",
+    "title": "NOI企画",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -3289,6 +3424,60 @@
     "day": "日",
     "artist": "Plugman and more...",
     "title": "Hello11D3 / nego / Hitotonari / Plugman",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
+    "date": "2026/03/31",
+    "day": "火",
+    "artist": "para-dice17周年前夜祭  松延慎吾バンドワンマンライブ",
+    "title": "出演: 松延慎吾",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
+    "date": "2026/03/31",
+    "day": "火",
+    "artist": "出演: 松延慎吾",
+    "title": "出演: 松延慎吾",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
+    "date": "2026/03/31",
+    "day": "火",
+    "artist": "『サポート』",
+    "title": "出演: 松延慎吾",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
+    "date": "2026/03/31",
+    "day": "火",
+    "artist": "絶妙なアンバランズ",
+    "title": "出演: 松延慎吾",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
+    "date": "2026/03/31",
+    "day": "火",
+    "artist": "Cecilia REI",
+    "title": "出演: 松延慎吾",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
+    "date": "2026/03/31",
+    "day": "火",
+    "artist": "豊田梵",
+    "title": "出演: 松延慎吾",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -3596,6 +3785,24 @@
     "artist": "the WORST",
     "title": "Let's Enjoy! vol.5",
     "url": "https://vijon.jp/schedule/detail/44063",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2026/01/12",
+    "day": "月",
+    "artist": "赤飯紫?",
+    "title": "赤飯TOUR「THE SHOW -唱-」大阪公演",
+    "url": "https://vijon.jp/schedule/detail/47337",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2026/01/12",
+    "day": "月",
+    "artist": "XMAS EILEEN",
+    "title": "赤飯TOUR「THE SHOW -唱-」大阪公演",
+    "url": "https://vijon.jp/schedule/detail/47337",
     "venue": "北堀江club vijon",
     "note": ""
   },
@@ -4097,7 +4304,7 @@
   {
     "date": "2026/01/29",
     "day": "木",
-    "artist": "...and more",
+    "artist": "けーずや。",
     "title": "【宇宙一不毛会】クリトリック・リス vs club vijon～2026年決戦編～",
     "url": "https://vijon.jp/schedule/detail/47335",
     "venue": "北堀江club vijon",
@@ -7074,6 +7281,15 @@
     "note": ""
   },
   {
+    "date": "2026/03/29",
+    "day": "日",
+    "artist": "棘-おどろ-",
+    "title": "棘-おどろ-東阪one-man Live『NEAR FUTURE↔FIRST』",
+    "url": "https://bangboo.jp/schedule/detail/45992",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
     "date": "2026/03/31",
     "day": "火",
     "artist": "バンドマンの底辺×高さ÷2",
@@ -8082,6 +8298,24 @@
     "note": ""
   },
   {
+    "date": "2026/01/24",
+    "day": "土",
+    "artist": "抜けてるくらいがちょうどいい",
+    "title": "抜けがちとあそぼ",
+    "url": "https://clubdrop.jp/schedule/detail/50114",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/01/24",
+    "day": "土",
+    "artist": "すべての瞬間は君だった。",
+    "title": "立華有珠生誕祭2026",
+    "url": "https://clubdrop.jp/schedule/detail/43704",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
     "date": "2026/01/25",
     "day": "日",
     "artist": "AZ-ON",
@@ -8753,6 +8987,42 @@
     "artist": "海凪きぬ",
     "title": "『ハイジナカムラpresents 楽曲争奪祭』",
     "url": "https://osaka-varon.jp/schedule/detail/49904",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2026/01/05",
+    "day": "月",
+    "artist": "# YO",
+    "title": "-# YO//1&bae<3 TALK&LiVE-“BACK 2 SKOOL”",
+    "url": "https://osaka-varon.jp/schedule/detail/47186",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2026/01/05",
+    "day": "月",
+    "artist": "1",
+    "title": "-# YO//1&bae<3 TALK&LiVE-“BACK 2 SKOOL”",
+    "url": "https://osaka-varon.jp/schedule/detail/47186",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2026/01/05",
+    "day": "月",
+    "artist": "bae<3",
+    "title": "-# YO//1&bae<3 TALK&LiVE-“BACK 2 SKOOL”",
+    "url": "https://osaka-varon.jp/schedule/detail/47186",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2026/01/05",
+    "day": "月",
+    "artist": "ぐみ",
+    "title": "-# YO//1&bae<3 TALK&LiVE-“BACK 2 SKOOL”",
+    "url": "https://osaka-varon.jp/schedule/detail/47186",
     "venue": "VARON",
     "note": ""
   },
@@ -9495,6 +9765,60 @@
     "note": ""
   },
   {
+    "date": "2026/02/04",
+    "day": "水",
+    "artist": "JunkUnit",
+    "title": "Junky Labo",
+    "url": "https://osaka-varon.jp/schedule/detail/48220",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2026/02/04",
+    "day": "水",
+    "artist": "Self-Portrait",
+    "title": "Junky Labo",
+    "url": "https://osaka-varon.jp/schedule/detail/48220",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2026/02/04",
+    "day": "水",
+    "artist": "tenoto",
+    "title": "Junky Labo",
+    "url": "https://osaka-varon.jp/schedule/detail/48220",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2026/02/04",
+    "day": "水",
+    "artist": "asano raincoat",
+    "title": "Junky Labo",
+    "url": "https://osaka-varon.jp/schedule/detail/48220",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2026/02/04",
+    "day": "水",
+    "artist": "ハヤシライフ",
+    "title": "Junky Labo",
+    "url": "https://osaka-varon.jp/schedule/detail/48220",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2026/02/04",
+    "day": "水",
+    "artist": "ワンダー久道",
+    "title": "Junky Labo",
+    "url": "https://osaka-varon.jp/schedule/detail/48220",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
     "date": "2026/02/08",
     "day": "日",
     "artist": "NOCTURNAL BLOODLUST",
@@ -9599,6 +9923,123 @@
     "artist": "Voyage",
     "title": "Relief From Despair白夜 和白ゆり生誕祭",
     "url": "https://osaka-varon.jp/schedule/detail/46674",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2026/02/18",
+    "day": "水",
+    "artist": "ポムの樹",
+    "title": "BASSONTOP pre. We are Live project vol.63 2005 GEN.",
+    "url": "https://osaka-varon.jp/schedule/detail/46902",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2026/02/18",
+    "day": "水",
+    "artist": "まいたけ帝国",
+    "title": "BASSONTOP pre. We are Live project vol.63 2005 GEN.",
+    "url": "https://osaka-varon.jp/schedule/detail/46902",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2026/02/18",
+    "day": "水",
+    "artist": "下久保事変",
+    "title": "BASSONTOP pre. We are Live project vol.63 2005 GEN.",
+    "url": "https://osaka-varon.jp/schedule/detail/46902",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2026/02/18",
+    "day": "水",
+    "artist": "ハチノワ",
+    "title": "BASSONTOP pre. We are Live project vol.63 2005 GEN.",
+    "url": "https://osaka-varon.jp/schedule/detail/46902",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2026/02/18",
+    "day": "水",
+    "artist": "おみおみバンド",
+    "title": "BASSONTOP pre. We are Live project vol.63 2005 GEN.",
+    "url": "https://osaka-varon.jp/schedule/detail/46902",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2026/02/18",
+    "day": "水",
+    "artist": "商大最強編成",
+    "title": "BASSONTOP pre. We are Live project vol.63 2005 GEN.",
+    "url": "https://osaka-varon.jp/schedule/detail/46902",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2026/02/18",
+    "day": "水",
+    "artist": "ジャングリア堺",
+    "title": "BASSONTOP pre. We are Live project vol.63 2005 GEN.",
+    "url": "https://osaka-varon.jp/schedule/detail/46902",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2026/02/18",
+    "day": "水",
+    "artist": "mumei.",
+    "title": "BASSONTOP pre. We are Live project vol.63 2005 GEN.",
+    "url": "https://osaka-varon.jp/schedule/detail/46902",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2026/02/18",
+    "day": "水",
+    "artist": "麦野白子",
+    "title": "BASSONTOP pre. We are Live project vol.63 2005 GEN.",
+    "url": "https://osaka-varon.jp/schedule/detail/46902",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2026/02/18",
+    "day": "水",
+    "artist": "まきしまむ ざ つじもん",
+    "title": "BASSONTOP pre. We are Live project vol.63 2005 GEN.",
+    "url": "https://osaka-varon.jp/schedule/detail/46902",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2026/02/18",
+    "day": "水",
+    "artist": "オちんこ's",
+    "title": "BASSONTOP pre. We are Live project vol.63 2005 GEN.",
+    "url": "https://osaka-varon.jp/schedule/detail/46902",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2026/02/18",
+    "day": "水",
+    "artist": "Gesu Re:乙女。",
+    "title": "BASSONTOP pre. We are Live project vol.63 2005 GEN.",
+    "url": "https://osaka-varon.jp/schedule/detail/46902",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2026/02/18",
+    "day": "水",
+    "artist": "るんるんすきゃんだるん",
+    "title": "BASSONTOP pre. We are Live project vol.63 2005 GEN.",
+    "url": "https://osaka-varon.jp/schedule/detail/46902",
     "venue": "VARON",
     "note": ""
   },
@@ -12728,15 +13169,6 @@
   {
     "date": "2026/01/04",
     "day": "日",
-    "artist": "SAWAGI～騒乱～",
-    "title": "南堀江knave EUPHOBIA OPHELIA",
-    "url": "http://www.knave.co.jp/schedule/s_2026_01.html",
-    "venue": "knave",
-    "note": ""
-  },
-  {
-    "date": "2026/01/04",
-    "day": "日",
     "artist": "懺鉄",
     "title": "南堀江knave EUPHOBIA OPHELIA",
     "url": "http://www.knave.co.jp/schedule/s_2026_01.html",
@@ -12747,6 +13179,51 @@
     "date": "2026/01/04",
     "day": "日",
     "artist": "Guest : L-MEME-",
+    "title": "南堀江knave EUPHOBIA OPHELIA",
+    "url": "http://www.knave.co.jp/schedule/s_2026_01.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2026/01/04",
+    "day": "日",
+    "artist": "※SAWAGI～騒乱～はメンバーの体調不要により急遽出演キャンセルとなりました。",
+    "title": "南堀江knave EUPHOBIA OPHELIA",
+    "url": "http://www.knave.co.jp/schedule/s_2026_01.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2026/01/04",
+    "day": "日",
+    "artist": "それにより開演時間が変更となります。18:00",
+    "title": "南堀江knave EUPHOBIA OPHELIA",
+    "url": "http://www.knave.co.jp/schedule/s_2026_01.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2026/01/04",
+    "day": "日",
+    "artist": "18:30→18:00",
+    "title": "南堀江knave EUPHOBIA OPHELIA",
+    "url": "http://www.knave.co.jp/schedule/s_2026_01.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2026/01/04",
+    "day": "日",
+    "artist": "19:00",
+    "title": "南堀江knave EUPHOBIA OPHELIA",
+    "url": "http://www.knave.co.jp/schedule/s_2026_01.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2026/01/04",
+    "day": "日",
+    "artist": "直前のお知らせとなり申し訳ありませんがご了承くださいませ。",
     "title": "南堀江knave EUPHOBIA OPHELIA",
     "url": "http://www.knave.co.jp/schedule/s_2026_01.html",
     "venue": "knave",
@@ -15934,6 +16411,240 @@
     "day": "金",
     "artist": "問)knave06-6535-0691",
     "title": "山口華穂",
+    "url": "http://www.knave.co.jp/schedule/s_2026_03.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2026/05/05",
+    "day": "火",
+    "artist": "ゆっくり生きよう",
+    "title": "宮城伸一郎 Solo Live Tour 2026",
+    "url": "http://www.knave.co.jp/schedule/s_2026_03.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2026/05/05",
+    "day": "火",
+    "artist": "宮城伸一郎",
+    "title": "宮城伸一郎 Solo Live Tour 2026",
+    "url": "http://www.knave.co.jp/schedule/s_2026_03.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2026/05/05",
+    "day": "火",
+    "artist": "Guest：佐藤 晃",
+    "title": "宮城伸一郎 Solo Live Tour 2026",
+    "url": "http://www.knave.co.jp/schedule/s_2026_03.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2026/05/05",
+    "day": "火",
+    "artist": "1",
+    "title": "宮城伸一郎 Solo Live Tour 2026",
+    "url": "http://www.knave.co.jp/schedule/s_2026_03.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2026/05/05",
+    "day": "火",
+    "artist": "2512:00〜",
+    "title": "宮城伸一郎 Solo Live Tour 2026",
+    "url": "http://www.knave.co.jp/schedule/s_2026_03.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2026/05/05",
+    "day": "火",
+    "artist": "問)宮城伸一郎公式アカウント",
+    "title": "宮城伸一郎 Solo Live Tour 2026",
+    "url": "http://www.knave.co.jp/schedule/s_2026_03.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2026/05/18",
+    "day": "月",
+    "artist": "solo acoustic tour 2026",
+    "title": "古市コータロー (THE COLLECTORS)",
+    "url": "http://www.knave.co.jp/schedule/s_2026_03.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2026/05/18",
+    "day": "月",
+    "artist": "『Gemini Never Stop』",
+    "title": "古市コータロー (THE COLLECTORS)",
+    "url": "http://www.knave.co.jp/schedule/s_2026_03.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2026/05/18",
+    "day": "月",
+    "artist": "古市コータロー",
+    "title": "古市コータロー (THE COLLECTORS)",
+    "url": "http://www.knave.co.jp/schedule/s_2026_03.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2026/05/18",
+    "day": "月",
+    "artist": "2",
+    "title": "古市コータロー (THE COLLECTORS)",
+    "url": "http://www.knave.co.jp/schedule/s_2026_03.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2026/05/18",
+    "day": "月",
+    "artist": "19:00よりメール予約開始",
+    "title": "古市コータロー (THE COLLECTORS)",
+    "url": "http://www.knave.co.jp/schedule/s_2026_03.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2026/05/18",
+    "day": "月",
+    "artist": "※ご予約の際は、公演名と日時・各会場名・枚数・お名前・郵便番号・住所・電話番号を明記の上、お申し込みください。",
+    "title": "古市コータロー (THE COLLECTORS)",
+    "url": "http://www.knave.co.jp/schedule/s_2026_03.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2026/05/18",
+    "day": "月",
+    "artist": "問)groovecouncil@gmail.com「古市2026」係",
+    "title": "古市コータロー (THE COLLECTORS)",
+    "url": "http://www.knave.co.jp/schedule/s_2026_03.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2026/07/21",
+    "day": "火",
+    "artist": "- deadline - 大阪公演",
+    "title": "平畑徹也 Band Set Live Tour 2026",
+    "url": "http://www.knave.co.jp/schedule/s_2026_03.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2026/07/21",
+    "day": "火",
+    "artist": "平畑徹也",
+    "title": "平畑徹也 Band Set Live Tour 2026",
+    "url": "http://www.knave.co.jp/schedule/s_2026_03.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2026/07/21",
+    "day": "火",
+    "artist": "Guitar 秋好佑紀",
+    "title": "平畑徹也 Band Set Live Tour 2026",
+    "url": "http://www.knave.co.jp/schedule/s_2026_03.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2026/07/21",
+    "day": "火",
+    "artist": "Bass 高間有一",
+    "title": "平畑徹也 Band Set Live Tour 2026",
+    "url": "http://www.knave.co.jp/schedule/s_2026_03.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2026/07/21",
+    "day": "火",
+    "artist": "Drums 柏倉隆史",
+    "title": "平畑徹也 Band Set Live Tour 2026",
+    "url": "http://www.knave.co.jp/schedule/s_2026_03.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2026/07/21",
+    "day": "火",
+    "artist": "問・チケット予約) 平畑徹也公式 Xにて",
+    "title": "平畑徹也 Band Set Live Tour 2026",
+    "url": "http://www.knave.co.jp/schedule/s_2026_03.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2026/09/27",
+    "day": "日",
+    "artist": "バースデーワンマンライブツア",
+    "title": "小野亜里沙",
+    "url": "http://www.knave.co.jp/schedule/s_2026_03.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2026/09/27",
+    "day": "日",
+    "artist": "ー 2026大阪公演",
+    "title": "小野亜里沙",
+    "url": "http://www.knave.co.jp/schedule/s_2026_03.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2026/09/27",
+    "day": "日",
+    "artist": "世界〜誰かの希望になりたくて〜",
+    "title": "小野亜里沙",
+    "url": "http://www.knave.co.jp/schedule/s_2026_03.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2026/09/27",
+    "day": "日",
+    "artist": "小野亜里沙",
+    "title": "小野亜里沙",
+    "url": "http://www.knave.co.jp/schedule/s_2026_03.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2026/09/27",
+    "day": "日",
+    "artist": "一般発売1",
+    "title": "小野亜里沙",
+    "url": "http://www.knave.co.jp/schedule/s_2026_03.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2026/09/27",
+    "day": "日",
+    "artist": "29",
+    "title": "小野亜里沙",
+    "url": "http://www.knave.co.jp/schedule/s_2026_03.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2026/09/27",
+    "day": "日",
+    "artist": "問)knave06-6535-0691",
+    "title": "小野亜里沙",
     "url": "http://www.knave.co.jp/schedule/s_2026_03.html",
     "venue": "knave",
     "note": ""
