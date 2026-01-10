@@ -2280,7 +2280,7 @@
     "date": "2026/02/04",
     "day": "水",
     "artist": "さんぼんせん",
-    "title": "OPEN 18:30",
+    "title": "OPEN 18:10",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -2289,7 +2289,7 @@
     "date": "2026/02/04",
     "day": "水",
     "artist": "BALANCE LOST",
-    "title": "OPEN 18:30",
+    "title": "OPEN 18:10",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -2298,7 +2298,7 @@
     "date": "2026/02/04",
     "day": "水",
     "artist": "ズルムケ直樹",
-    "title": "OPEN 18:30",
+    "title": "OPEN 18:10",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -2307,7 +2307,7 @@
     "date": "2026/02/04",
     "day": "水",
     "artist": "Paparazzi Panic",
-    "title": "OPEN 18:30",
+    "title": "OPEN 18:10",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -2316,7 +2316,16 @@
     "date": "2026/02/04",
     "day": "水",
     "artist": "テルルス",
-    "title": "OPEN 18:30",
+    "title": "OPEN 18:10",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
+    "date": "2026/02/04",
+    "day": "水",
+    "artist": "mypilotis",
+    "title": "OPEN 18:10",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -3440,8 +3449,17 @@
   {
     "date": "2026/03/02",
     "day": "月",
+    "artist": "中村タカユキ",
+    "title": "中村タカユキ / MIKI / Mo’ Mango",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
+    "date": "2026/03/02",
+    "day": "月",
     "artist": "MIKI",
-    "title": "MIKI / Mo’ Mango",
+    "title": "中村タカユキ / MIKI / Mo’ Mango",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -3450,7 +3468,7 @@
     "date": "2026/03/02",
     "day": "月",
     "artist": "Mo’ Mango and more...",
-    "title": "MIKI / Mo’ Mango",
+    "title": "中村タカユキ / MIKI / Mo’ Mango",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -3621,7 +3639,7 @@
     "date": "2026/03/12",
     "day": "木",
     "artist": "カリウタ",
-    "title": "カリウタ / BEATALONE / 亜偉瑠 / 受け止めマン",
+    "title": "カリウタ / BEATALONE / 亜偉瑠 / 受け止めマン / netaro51",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -3630,7 +3648,7 @@
     "date": "2026/03/12",
     "day": "木",
     "artist": "BEATALONE",
-    "title": "カリウタ / BEATALONE / 亜偉瑠 / 受け止めマン",
+    "title": "カリウタ / BEATALONE / 亜偉瑠 / 受け止めマン / netaro51",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -3639,7 +3657,7 @@
     "date": "2026/03/12",
     "day": "木",
     "artist": "亜偉瑠",
-    "title": "カリウタ / BEATALONE / 亜偉瑠 / 受け止めマン",
+    "title": "カリウタ / BEATALONE / 亜偉瑠 / 受け止めマン / netaro51",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -3647,8 +3665,17 @@
   {
     "date": "2026/03/12",
     "day": "木",
-    "artist": "受け止めマン  and more...",
-    "title": "カリウタ / BEATALONE / 亜偉瑠 / 受け止めマン",
+    "artist": "受け止めマン",
+    "title": "カリウタ / BEATALONE / 亜偉瑠 / 受け止めマン / netaro51",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
+    "date": "2026/03/12",
+    "day": "木",
+    "artist": "netaro51  and more...",
+    "title": "カリウタ / BEATALONE / 亜偉瑠 / 受け止めマン / netaro51",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -3674,8 +3701,17 @@
   {
     "date": "2026/03/17",
     "day": "火",
+    "artist": "スモーキンデスペラード",
+    "title": "スモーキンデスペラード / 歪みの国のチェルシー / 西山昂志(GOLDFISH ADVENTURE) / 奥村由希",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
+    "date": "2026/03/17",
+    "day": "火",
     "artist": "歪みの国のチェルシー",
-    "title": "歪みの国のチェルシー / 西山昂志(GOLDFISH ADVENTURE) / 奥村由希",
+    "title": "スモーキンデスペラード / 歪みの国のチェルシー / 西山昂志(GOLDFISH ADVENTURE) / 奥村由希",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -3684,7 +3720,7 @@
     "date": "2026/03/17",
     "day": "火",
     "artist": "西山昂志",
-    "title": "歪みの国のチェルシー / 西山昂志(GOLDFISH ADVENTURE) / 奥村由希",
+    "title": "スモーキンデスペラード / 歪みの国のチェルシー / 西山昂志(GOLDFISH ADVENTURE) / 奥村由希",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -3693,7 +3729,7 @@
     "date": "2026/03/17",
     "day": "火",
     "artist": "奥村由希 and more...",
-    "title": "歪みの国のチェルシー / 西山昂志(GOLDFISH ADVENTURE) / 奥村由希",
+    "title": "スモーキンデスペラード / 歪みの国のチェルシー / 西山昂志(GOLDFISH ADVENTURE) / 奥村由希",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -3702,7 +3738,7 @@
     "date": "2026/03/18",
     "day": "水",
     "artist": "para-dice 企画",
-    "title": "イワクニマユ",
+    "title": "イワクニマユ / 久保田和之",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -3710,8 +3746,17 @@
   {
     "date": "2026/03/18",
     "day": "水",
-    "artist": "イワクニマユ and more...",
-    "title": "イワクニマユ",
+    "artist": "イワクニマユ",
+    "title": "イワクニマユ / 久保田和之",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
+    "date": "2026/03/18",
+    "day": "水",
+    "artist": "久保田和之 and more...",
+    "title": "イワクニマユ / 久保田和之",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -3720,7 +3765,7 @@
     "date": "2026/03/19",
     "day": "木",
     "artist": "TSUKAMARO",
-    "title": "TSUKAMARO / moodress",
+    "title": "TSUKAMARO / moodress / The purple parks!",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -3728,8 +3773,17 @@
   {
     "date": "2026/03/19",
     "day": "木",
-    "artist": "moodress and more...",
-    "title": "TSUKAMARO / moodress",
+    "artist": "moodress",
+    "title": "TSUKAMARO / moodress / The purple parks!",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
+    "date": "2026/03/19",
+    "day": "木",
+    "artist": "The purple parks! and more...",
+    "title": "TSUKAMARO / moodress / The purple parks!",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -3890,8 +3944,26 @@
   {
     "date": "2026/03/26",
     "day": "木",
-    "artist": "べーしょー and more...",
-    "title": "べーしょー",
+    "artist": "べーしょー",
+    "title": "べーしょー / 新實幸太朗 / 若槻素直",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
+    "date": "2026/03/26",
+    "day": "木",
+    "artist": "新實幸太朗",
+    "title": "べーしょー / 新實幸太朗 / 若槻素直",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
+    "date": "2026/03/26",
+    "day": "木",
+    "artist": "若槻素直 and more...",
+    "title": "べーしょー / 新實幸太朗 / 若槻素直",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -3900,7 +3972,7 @@
     "date": "2026/03/27",
     "day": "金",
     "artist": "para-dice 企画",
-    "title": "NA/DA",
+    "title": "NA/DA / 田口智章(Muscle of the Soul)",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -3909,7 +3981,7 @@
     "date": "2026/03/27",
     "day": "金",
     "artist": "NA",
-    "title": "NA/DA",
+    "title": "NA/DA / 田口智章(Muscle of the Soul)",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -3917,8 +3989,17 @@
   {
     "date": "2026/03/27",
     "day": "金",
-    "artist": "DA and more...",
-    "title": "NA/DA",
+    "artist": "DA",
+    "title": "NA/DA / 田口智章(Muscle of the Soul)",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
+    "date": "2026/03/27",
+    "day": "金",
+    "artist": "田口智章 and more...",
+    "title": "NA/DA / 田口智章(Muscle of the Soul)",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -4284,6 +4365,15 @@
     "note": ""
   },
   {
+    "date": "2026/01/10",
+    "day": "土",
+    "artist": "vlidge",
+    "title": "vlidge Birthday LIVE TOUR 2026",
+    "url": "https://vijon.jp/schedule/detail/47665",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
     "date": "2026/01/11",
     "day": "日",
     "artist": "THE J.P Band",
@@ -4403,7 +4493,7 @@
   {
     "date": "2026/01/12",
     "day": "月",
-    "artist": "赤飯紫?",
+    "artist": "赤飯",
     "title": "赤飯TOUR「THE SHOW -唱-」大阪公演",
     "url": "https://vijon.jp/schedule/detail/47337",
     "venue": "北堀江club vijon",
@@ -4415,6 +4505,15 @@
     "artist": "XMAS EILEEN",
     "title": "赤飯TOUR「THE SHOW -唱-」大阪公演",
     "url": "https://vijon.jp/schedule/detail/47337",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2026/01/13",
+    "day": "火",
+    "artist": "NeoAster",
+    "title": "ネオスタ武者修行",
+    "url": "https://vijon.jp/schedule/detail/49709",
     "venue": "北堀江club vijon",
     "note": ""
   },
@@ -4592,7 +4691,7 @@
   {
     "date": "2026/01/22",
     "day": "木",
-    "artist": "NoiZy",
+    "artist": "赤猿",
     "title": "THE GEARSOOOOOMA始動ライブ 【 MERAZOOOOOMA 】",
     "url": "https://vijon.jp/schedule/detail/49605",
     "venue": "北堀江club vijon",
@@ -4658,6 +4757,114 @@
     "artist": "Manpa",
     "title": "HEP BURN×club vijon Pre. 【Muddy Kitahorie】",
     "url": "https://vijon.jp/schedule/detail/47762",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2026/01/24",
+    "day": "土",
+    "artist": "ポテサラ",
+    "title": "みわ企画",
+    "url": "https://vijon.jp/schedule/detail/47939",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2026/01/24",
+    "day": "土",
+    "artist": "オロカモモ",
+    "title": "みわ企画",
+    "url": "https://vijon.jp/schedule/detail/47939",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2026/01/24",
+    "day": "土",
+    "artist": "MENHERA IS ''GOD''",
+    "title": "みわ企画",
+    "url": "https://vijon.jp/schedule/detail/47939",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2026/01/24",
+    "day": "土",
+    "artist": "Noisy Noisy",
+    "title": "みわ企画",
+    "url": "https://vijon.jp/schedule/detail/47939",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2026/01/24",
+    "day": "土",
+    "artist": "107号室",
+    "title": "みわ企画",
+    "url": "https://vijon.jp/schedule/detail/47939",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2026/01/24",
+    "day": "土",
+    "artist": "朝の健康体操",
+    "title": "みわ企画",
+    "url": "https://vijon.jp/schedule/detail/47939",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2026/01/24",
+    "day": "土",
+    "artist": "YA-BOON",
+    "title": "みわ企画",
+    "url": "https://vijon.jp/schedule/detail/47939",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2026/01/24",
+    "day": "土",
+    "artist": "makopus makopus",
+    "title": "みわ企画",
+    "url": "https://vijon.jp/schedule/detail/47939",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2026/01/24",
+    "day": "土",
+    "artist": "YMR歌謡祭2026",
+    "title": "みわ企画",
+    "url": "https://vijon.jp/schedule/detail/47939",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2026/01/24",
+    "day": "土",
+    "artist": "MALFOY",
+    "title": "みわ企画",
+    "url": "https://vijon.jp/schedule/detail/47939",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2026/01/24",
+    "day": "土",
+    "artist": "TANIMA",
+    "title": "みわ企画",
+    "url": "https://vijon.jp/schedule/detail/47939",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2026/01/24",
+    "day": "土",
+    "artist": "背脂",
+    "title": "みわ企画",
+    "url": "https://vijon.jp/schedule/detail/47939",
     "venue": "北堀江club vijon",
     "note": ""
   },
@@ -4901,6 +5108,51 @@
     "artist": "cute❤aggression",
     "title": "\"LOVE&JOY EXTREME PiCNiC Vol.2\"",
     "url": "https://vijon.jp/schedule/detail/48464",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2026/01/28",
+    "day": "水",
+    "artist": "ネテルダイヤ",
+    "title": "【Cutback jam Vol.6】",
+    "url": "https://vijon.jp/schedule/detail/48960",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2026/01/28",
+    "day": "水",
+    "artist": "マイフェアガ→ル",
+    "title": "【Cutback jam Vol.6】",
+    "url": "https://vijon.jp/schedule/detail/48960",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2026/01/28",
+    "day": "水",
+    "artist": "にゃんにゃん倶楽部",
+    "title": "【Cutback jam Vol.6】",
+    "url": "https://vijon.jp/schedule/detail/48960",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2026/01/28",
+    "day": "水",
+    "artist": "Blow the instability",
+    "title": "【Cutback jam Vol.6】",
+    "url": "https://vijon.jp/schedule/detail/48960",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2026/01/28",
+    "day": "水",
+    "artist": "木嶋 仁美",
+    "title": "【Cutback jam Vol.6】",
+    "url": "https://vijon.jp/schedule/detail/48960",
     "venue": "北堀江club vijon",
     "note": ""
   },
@@ -5288,6 +5540,114 @@
     "artist": "超☆社会的サンダル",
     "title": "超☆社会的サンダルFC限定ライブ「歯恋汰陰♡彡 楽園、此処二有リ。」",
     "url": "https://vijon.jp/schedule/detail/49741",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2026/02/19",
+    "day": "木",
+    "artist": "マスターピース",
+    "title": "ますみゆ企画",
+    "url": "https://vijon.jp/schedule/detail/50086",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2026/02/19",
+    "day": "木",
+    "artist": "じょびじょび事変",
+    "title": "ますみゆ企画",
+    "url": "https://vijon.jp/schedule/detail/50086",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2026/02/19",
+    "day": "木",
+    "artist": "アルハラ〜アルコールが足りない〜",
+    "title": "ますみゆ企画",
+    "url": "https://vijon.jp/schedule/detail/50086",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2026/02/19",
+    "day": "木",
+    "artist": "おじさん構文ジェネレーター",
+    "title": "ますみゆ企画",
+    "url": "https://vijon.jp/schedule/detail/50086",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2026/02/19",
+    "day": "木",
+    "artist": "商大の屁",
+    "title": "ますみゆ企画",
+    "url": "https://vijon.jp/schedule/detail/50086",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2026/02/19",
+    "day": "木",
+    "artist": "じゃんぬだあく",
+    "title": "ますみゆ企画",
+    "url": "https://vijon.jp/schedule/detail/50086",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2026/02/19",
+    "day": "木",
+    "artist": "ぱいぱい",
+    "title": "ますみゆ企画",
+    "url": "https://vijon.jp/schedule/detail/50086",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2026/02/19",
+    "day": "木",
+    "artist": "ぐんにぐる",
+    "title": "ますみゆ企画",
+    "url": "https://vijon.jp/schedule/detail/50086",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2026/02/19",
+    "day": "木",
+    "artist": "無音と恋",
+    "title": "ますみゆ企画",
+    "url": "https://vijon.jp/schedule/detail/50086",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2026/02/19",
+    "day": "木",
+    "artist": "二チャリ",
+    "title": "ますみゆ企画",
+    "url": "https://vijon.jp/schedule/detail/50086",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2026/02/19",
+    "day": "木",
+    "artist": "安部颯良衝動的女装part",
+    "title": "ますみゆ企画",
+    "url": "https://vijon.jp/schedule/detail/50086",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2026/02/21",
+    "day": "土",
+    "artist": "The Marriage Sky Blues",
+    "title": "club vijon × The Marriage Sky Blues pre.【＃びじょぶる】vol.1",
+    "url": "https://vijon.jp/schedule/detail/48784",
     "venue": "北堀江club vijon",
     "note": ""
   },
@@ -8793,6 +9153,96 @@
     "note": ""
   },
   {
+    "date": "2026/01/10",
+    "day": "土",
+    "artist": "albin",
+    "title": "あにくら中学校～20歳からの義務教育～",
+    "url": "https://clubdrop.jp/schedule/detail/50153",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/01/10",
+    "day": "土",
+    "artist": "YUA",
+    "title": "あにくら中学校～20歳からの義務教育～",
+    "url": "https://clubdrop.jp/schedule/detail/50153",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/01/10",
+    "day": "土",
+    "artist": "たくみ",
+    "title": "あにくら中学校～20歳からの義務教育～",
+    "url": "https://clubdrop.jp/schedule/detail/50153",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/01/10",
+    "day": "土",
+    "artist": "ふぁる茶",
+    "title": "あにくら中学校～20歳からの義務教育～",
+    "url": "https://clubdrop.jp/schedule/detail/50153",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/01/10",
+    "day": "土",
+    "artist": "シロ",
+    "title": "あにくら中学校～20歳からの義務教育～",
+    "url": "https://clubdrop.jp/schedule/detail/50153",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/01/10",
+    "day": "土",
+    "artist": "石手川龍之介  4Nno-SK  校長",
+    "title": "あにくら中学校～20歳からの義務教育～",
+    "url": "https://clubdrop.jp/schedule/detail/50153",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/01/10",
+    "day": "土",
+    "artist": "ジャリboy",
+    "title": "あにくら中学校～20歳からの義務教育～",
+    "url": "https://clubdrop.jp/schedule/detail/50153",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/01/10",
+    "day": "土",
+    "artist": "すな",
+    "title": "あにくら中学校～20歳からの義務教育～",
+    "url": "https://clubdrop.jp/schedule/detail/50153",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/01/10",
+    "day": "土",
+    "artist": "ЯETEЦ",
+    "title": "あにくら中学校～20歳からの義務教育～",
+    "url": "https://clubdrop.jp/schedule/detail/50153",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/01/10",
+    "day": "土",
+    "artist": "猫宮まる  ゴン",
+    "title": "あにくら中学校～20歳からの義務教育～",
+    "url": "https://clubdrop.jp/schedule/detail/50153",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
     "date": "2026/01/11",
     "day": "日",
     "artist": "依存性えんじぇる",
@@ -8805,6 +9255,15 @@
     "date": "2026/01/11",
     "day": "日",
     "artist": "イロハサクラ",
+    "title": "超！Lovely W @DROP & BEYOND",
+    "url": "https://clubdrop.jp/schedule/detail/50222",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/01/11",
+    "day": "日",
+    "artist": "うぃるめり！",
     "title": "超！Lovely W @DROP & BEYOND",
     "url": "https://clubdrop.jp/schedule/detail/50222",
     "venue": "アメリカ村DROP",
@@ -8841,6 +9300,15 @@
     "date": "2026/01/11",
     "day": "日",
     "artist": "KiMiNiAiTAi",
+    "title": "超！Lovely W @DROP & BEYOND",
+    "url": "https://clubdrop.jp/schedule/detail/50222",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/01/11",
+    "day": "日",
+    "artist": "Qu♡Aly",
     "title": "超！Lovely W @DROP & BEYOND",
     "url": "https://clubdrop.jp/schedule/detail/50222",
     "venue": "アメリカ村DROP",
@@ -8886,6 +9354,15 @@
     "date": "2026/01/11",
     "day": "日",
     "artist": "Squall Line",
+    "title": "超！Lovely W @DROP & BEYOND",
+    "url": "https://clubdrop.jp/schedule/detail/50222",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/01/11",
+    "day": "日",
+    "artist": "Cent Heaven",
     "title": "超！Lovely W @DROP & BEYOND",
     "url": "https://clubdrop.jp/schedule/detail/50222",
     "venue": "アメリカ村DROP",
@@ -9092,7 +9569,25 @@
   {
     "date": "2026/01/11",
     "day": "日",
+    "artist": "流星★プレリュード",
+    "title": "超！Lovely W @DROP & BEYOND",
+    "url": "https://clubdrop.jp/schedule/detail/50222",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/01/11",
+    "day": "日",
     "artist": "LyricalPopParadox",
+    "title": "超！Lovely W @DROP & BEYOND",
+    "url": "https://clubdrop.jp/schedule/detail/50222",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/01/11",
+    "day": "日",
+    "artist": "LOTUS MARRY",
     "title": "超！Lovely W @DROP & BEYOND",
     "url": "https://clubdrop.jp/schedule/detail/50222",
     "venue": "アメリカ村DROP",
@@ -9104,6 +9599,51 @@
     "artist": "わんみゅーず！",
     "title": "超！Lovely W @DROP & BEYOND",
     "url": "https://clubdrop.jp/schedule/detail/50222",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/01/12",
+    "day": "月",
+    "artist": "少年秘密倶楽部",
+    "title": "GIRLS TALK",
+    "url": "https://clubdrop.jp/schedule/detail/43958",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/01/12",
+    "day": "月",
+    "artist": "みらくらんど",
+    "title": "GIRLS TALK",
+    "url": "https://clubdrop.jp/schedule/detail/43958",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/01/12",
+    "day": "月",
+    "artist": "SITRA.",
+    "title": "GIRLS TALK",
+    "url": "https://clubdrop.jp/schedule/detail/43958",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/01/12",
+    "day": "月",
+    "artist": "caprice",
+    "title": "GIRLS TALK",
+    "url": "https://clubdrop.jp/schedule/detail/43958",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/01/12",
+    "day": "月",
+    "artist": "anemoreel",
+    "title": "GIRLS TALK",
+    "url": "https://clubdrop.jp/schedule/detail/43958",
     "venue": "アメリカ村DROP",
     "note": ""
   },
@@ -10487,7 +11027,7 @@
   {
     "date": "2026/01/09",
     "day": "金",
-    "artist": "Kunp 9th",
+    "artist": "Knup 9th",
     "title": "DUMBSTRUCK Vol.15",
     "url": "https://osaka-varon.jp/schedule/detail/47857",
     "venue": "VARON",
@@ -13961,7 +14501,16 @@
   {
     "date": "2026/02/03",
     "day": "火",
-    "artist": "Unvivid 他",
+    "artist": "Unvivid",
+    "title": "MIZUGAME-ZA NIGHT -MOTTY , aquvi , TETSUYA BIRTHDAY-",
+    "url": "https://osaka-zeela.jp/schedule/detail/47259",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2026/02/03",
+    "day": "火",
+    "artist": "THE POR",
     "title": "MIZUGAME-ZA NIGHT -MOTTY , aquvi , TETSUYA BIRTHDAY-",
     "url": "https://osaka-zeela.jp/schedule/detail/47259",
     "venue": "Zeela",
@@ -13979,7 +14528,16 @@
   {
     "date": "2026/02/03",
     "day": "火",
-    "artist": "robe 他",
+    "artist": "robe",
+    "title": "MIZUGAME-ZA NIGHT -MOTTY , aquvi , TETSUYA BIRTHDAY-",
+    "url": "https://osaka-zeela.jp/schedule/detail/47259",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2026/02/03",
+    "day": "火",
+    "artist": "Kimists",
     "title": "MIZUGAME-ZA NIGHT -MOTTY , aquvi , TETSUYA BIRTHDAY-",
     "url": "https://osaka-zeela.jp/schedule/detail/47259",
     "venue": "Zeela",
@@ -19651,6 +20209,60 @@
     "day": "月",
     "artist": "問)groovecouncil@gmail.com「古市2026」係",
     "title": "古市コータロー (THE COLLECTORS)",
+    "url": "http://www.knave.co.jp/schedule/s_2026_03.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2026/06/26",
+    "day": "金",
+    "artist": "ケシカルカッコoneman live",
+    "title": "knave 24th Anniversary  supported by KIRIN",
+    "url": "http://www.knave.co.jp/schedule/s_2026_03.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2026/06/26",
+    "day": "金",
+    "artist": "「当たって砕けルカッコ」",
+    "title": "knave 24th Anniversary  supported by KIRIN",
+    "url": "http://www.knave.co.jp/schedule/s_2026_03.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2026/06/26",
+    "day": "金",
+    "artist": "ケシカルカッコ",
+    "title": "knave 24th Anniversary  supported by KIRIN",
+    "url": "http://www.knave.co.jp/schedule/s_2026_03.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2026/06/26",
+    "day": "金",
+    "artist": "ツイキャスライブ視聴購入ページ",
+    "title": "knave 24th Anniversary  supported by KIRIN",
+    "url": "http://www.knave.co.jp/schedule/s_2026_03.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2026/06/26",
+    "day": "金",
+    "artist": "https:",
+    "title": "knave 24th Anniversary  supported by KIRIN",
+    "url": "http://www.knave.co.jp/schedule/s_2026_03.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2026/06/26",
+    "day": "金",
+    "artist": "twitcasting.tv",
+    "title": "knave 24th Anniversary  supported by KIRIN",
     "url": "http://www.knave.co.jp/schedule/s_2026_03.html",
     "venue": "knave",
     "note": ""
