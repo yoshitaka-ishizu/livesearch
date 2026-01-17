@@ -216,15 +216,6 @@
     "note": ""
   },
   {
-    "date": "2026/01/16",
-    "day": "金",
-    "artist": "and more...",
-    "title": "\"Find the Core\"",
-    "url": "https://fireloop.net/schedule_now.shtml#0116",
-    "venue": "寺田町Fireloop",
-    "note": ""
-  },
-  {
     "date": "2026/01/21",
     "day": "水",
     "artist": "ネコノカオデ",
@@ -302,6 +293,33 @@
     "artist": "Dead By Inches",
     "title": "FACTOTUM",
     "url": "https://fireloop.net/schedule_now.shtml#0125",
+    "venue": "寺田町Fireloop",
+    "note": ""
+  },
+  {
+    "date": "2026/01/27",
+    "day": "火",
+    "artist": "森良太",
+    "title": "new moon",
+    "url": "https://fireloop.net/schedule_now.shtml#0127",
+    "venue": "寺田町Fireloop",
+    "note": ""
+  },
+  {
+    "date": "2026/01/27",
+    "day": "火",
+    "artist": "戎 雄大",
+    "title": "new moon",
+    "url": "https://fireloop.net/schedule_now.shtml#0127",
+    "venue": "寺田町Fireloop",
+    "note": ""
+  },
+  {
+    "date": "2026/01/27",
+    "day": "火",
+    "artist": "奥野 陸",
+    "title": "new moon",
+    "url": "https://fireloop.net/schedule_now.shtml#0127",
     "venue": "寺田町Fireloop",
     "note": ""
   },
@@ -4718,7 +4736,7 @@
   {
     "date": "2026/01/16",
     "day": "金",
-    "artist": "TIARA",
+    "artist": "HOLLOW TOWN",
     "title": "【LUSH PAUL 2026】新年爆進祭",
     "url": "https://vijon.jp/schedule/detail/48815",
     "venue": "北堀江club vijon",
@@ -4727,7 +4745,7 @@
   {
     "date": "2026/01/17",
     "day": "土",
-    "artist": "coming soon...",
+    "artist": "ファッションショーイベント",
     "title": "CHARMER × Charmy〜bigaku〜",
     "url": "https://vijon.jp/schedule/detail/46057",
     "venue": "北堀江club vijon",
@@ -5268,15 +5286,6 @@
     "date": "2026/01/26",
     "day": "月",
     "artist": "Yusuke Terauchi",
-    "title": "vijon × グルーヴ先生 pre.【なかまつれてきたで！ vol.3】",
-    "url": "https://vijon.jp/schedule/detail/48327",
-    "venue": "北堀江club vijon",
-    "note": ""
-  },
-  {
-    "date": "2026/01/26",
-    "day": "月",
-    "artist": "...and more",
     "title": "vijon × グルーヴ先生 pre.【なかまつれてきたで！ vol.3】",
     "url": "https://vijon.jp/schedule/detail/48327",
     "venue": "北堀江club vijon",
@@ -7533,6 +7542,276 @@
     "note": ""
   },
   {
+    "date": "2026/01/24",
+    "day": "土",
+    "artist": "出演者- 桜花こりす",
+    "title": "kokorisu live vol.7",
+    "url": "https://bangboo.jp/schedule/detail/45859",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2026/01/24",
+    "day": "土",
+    "artist": "勿忘うた",
+    "title": "kokorisu live vol.7",
+    "url": "https://bangboo.jp/schedule/detail/45859",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2026/01/24",
+    "day": "土",
+    "artist": "ごんぬ",
+    "title": "kokorisu live vol.7",
+    "url": "https://bangboo.jp/schedule/detail/45859",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2026/01/24",
+    "day": "土",
+    "artist": "今井マイ",
+    "title": "kokorisu live vol.7",
+    "url": "https://bangboo.jp/schedule/detail/45859",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2026/01/24",
+    "day": "土",
+    "artist": "まろん",
+    "title": "kokorisu live vol.7",
+    "url": "https://bangboo.jp/schedule/detail/45859",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2026/01/24",
+    "day": "土",
+    "artist": "桜花こはる",
+    "title": "kokorisu live vol.7",
+    "url": "https://bangboo.jp/schedule/detail/45859",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2026/01/24",
+    "day": "土",
+    "artist": "めーみ",
+    "title": "kokorisu live vol.7",
+    "url": "https://bangboo.jp/schedule/detail/45859",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2026/01/24",
+    "day": "土",
+    "artist": "りこ",
+    "title": "kokorisu live vol.7",
+    "url": "https://bangboo.jp/schedule/detail/45859",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2026/01/24",
+    "day": "土",
+    "artist": "ぱんだ",
+    "title": "kokorisu live vol.7",
+    "url": "https://bangboo.jp/schedule/detail/45859",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2026/01/24",
+    "day": "土",
+    "artist": "ちまめ",
+    "title": "kokorisu live vol.7",
+    "url": "https://bangboo.jp/schedule/detail/45859",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2026/01/24",
+    "day": "土",
+    "artist": "來蘭みえ",
+    "title": "kokorisu live vol.7",
+    "url": "https://bangboo.jp/schedule/detail/45859",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2026/01/24",
+    "day": "土",
+    "artist": "さやかぽてと",
+    "title": "kokorisu live vol.7",
+    "url": "https://bangboo.jp/schedule/detail/45859",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2026/01/24",
+    "day": "土",
+    "artist": "ちゃーこ",
+    "title": "kokorisu live vol.7",
+    "url": "https://bangboo.jp/schedule/detail/45859",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2026/01/24",
+    "day": "土",
+    "artist": "すい",
+    "title": "kokorisu live vol.7",
+    "url": "https://bangboo.jp/schedule/detail/45859",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2026/01/24",
+    "day": "土",
+    "artist": "みぁぐ",
+    "title": "kokorisu live vol.7",
+    "url": "https://bangboo.jp/schedule/detail/45859",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2026/01/24",
+    "day": "土",
+    "artist": "なこ",
+    "title": "kokorisu live vol.7",
+    "url": "https://bangboo.jp/schedule/detail/45859",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2026/01/24",
+    "day": "土",
+    "artist": "きりん",
+    "title": "kokorisu live vol.7",
+    "url": "https://bangboo.jp/schedule/detail/45859",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2026/01/24",
+    "day": "土",
+    "artist": "ななせ",
+    "title": "kokorisu live vol.7",
+    "url": "https://bangboo.jp/schedule/detail/45859",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2026/01/24",
+    "day": "土",
+    "artist": "もも",
+    "title": "kokorisu live vol.7",
+    "url": "https://bangboo.jp/schedule/detail/45859",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2026/01/24",
+    "day": "土",
+    "artist": "-ゲスト- 菖蒲ル子",
+    "title": "kokorisu live vol.7",
+    "url": "https://bangboo.jp/schedule/detail/45859",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2026/01/24",
+    "day": "土",
+    "artist": "あくる",
+    "title": "kokorisu live vol.7",
+    "url": "https://bangboo.jp/schedule/detail/45859",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2026/01/24",
+    "day": "土",
+    "artist": "佐倉こうめ",
+    "title": "kokorisu live vol.7",
+    "url": "https://bangboo.jp/schedule/detail/45859",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2026/01/24",
+    "day": "土",
+    "artist": "ophelia 20mg",
+    "title": "kokorisu live vol.7",
+    "url": "https://bangboo.jp/schedule/detail/45859",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2026/01/24",
+    "day": "土",
+    "artist": "神楽まつり",
+    "title": "kokorisu live vol.7",
+    "url": "https://bangboo.jp/schedule/detail/45859",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2026/01/24",
+    "day": "土",
+    "artist": "つきみ",
+    "title": "kokorisu live vol.7",
+    "url": "https://bangboo.jp/schedule/detail/45859",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2026/01/24",
+    "day": "土",
+    "artist": "文月きい",
+    "title": "kokorisu live vol.7",
+    "url": "https://bangboo.jp/schedule/detail/45859",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2026/01/24",
+    "day": "土",
+    "artist": "生菓",
+    "title": "kokorisu live vol.7",
+    "url": "https://bangboo.jp/schedule/detail/45859",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2026/01/24",
+    "day": "土",
+    "artist": "-グループ.ユニット- 星見る夜を過ぎても",
+    "title": "kokorisu live vol.7",
+    "url": "https://bangboo.jp/schedule/detail/45859",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2026/01/24",
+    "day": "土",
+    "artist": "fluffy",
+    "title": "kokorisu live vol.7",
+    "url": "https://bangboo.jp/schedule/detail/45859",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2026/01/24",
+    "day": "土",
+    "artist": "ぱんまいみえきい",
+    "title": "kokorisu live vol.7",
+    "url": "https://bangboo.jp/schedule/detail/45859",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
     "date": "2026/01/27",
     "day": "火",
     "artist": "いつかの夜に僕たちが、",
@@ -8762,6 +9041,123 @@
     "artist": "and more...",
     "title": "OSAKA GIRLS GIRLS CIRCUIT!!",
     "url": "https://bangboo.jp/schedule/detail/45596",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2026/02/16",
+    "day": "月",
+    "artist": "De PENDOLLS",
+    "title": "やの・うな企画！",
+    "url": "https://bangboo.jp/schedule/detail/49056",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2026/02/16",
+    "day": "月",
+    "artist": "ゴーゴージャグラー磯中's",
+    "title": "やの・うな企画！",
+    "url": "https://bangboo.jp/schedule/detail/49056",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2026/02/16",
+    "day": "月",
+    "artist": "ABABA",
+    "title": "やの・うな企画！",
+    "url": "https://bangboo.jp/schedule/detail/49056",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2026/02/16",
+    "day": "月",
+    "artist": "MINOTAKO GRAND PRIX",
+    "title": "やの・うな企画！",
+    "url": "https://bangboo.jp/schedule/detail/49056",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2026/02/16",
+    "day": "月",
+    "artist": "ero",
+    "title": "やの・うな企画！",
+    "url": "https://bangboo.jp/schedule/detail/49056",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2026/02/16",
+    "day": "月",
+    "artist": "BADWIMPS",
+    "title": "やの・うな企画！",
+    "url": "https://bangboo.jp/schedule/detail/49056",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2026/02/16",
+    "day": "月",
+    "artist": "ハラキドモツーオ",
+    "title": "やの・うな企画！",
+    "url": "https://bangboo.jp/schedule/detail/49056",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2026/02/16",
+    "day": "月",
+    "artist": "andymoriのコピーバンド",
+    "title": "やの・うな企画！",
+    "url": "https://bangboo.jp/schedule/detail/49056",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2026/02/16",
+    "day": "月",
+    "artist": "俺等が沸く情熱シガレッツ～え、死ぬ～",
+    "title": "やの・うな企画！",
+    "url": "https://bangboo.jp/schedule/detail/49056",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2026/02/16",
+    "day": "月",
+    "artist": "デュエリスト",
+    "title": "やの・うな企画！",
+    "url": "https://bangboo.jp/schedule/detail/49056",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2026/02/16",
+    "day": "月",
+    "artist": "NOALCOHOL NOSMOKING",
+    "title": "やの・うな企画！",
+    "url": "https://bangboo.jp/schedule/detail/49056",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2026/02/16",
+    "day": "月",
+    "artist": "ボカロ懐古厨",
+    "title": "やの・うな企画！",
+    "url": "https://bangboo.jp/schedule/detail/49056",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2026/02/16",
+    "day": "月",
+    "artist": "ヒネノドットステューディオ",
+    "title": "やの・うな企画！",
+    "url": "https://bangboo.jp/schedule/detail/49056",
     "venue": "梅田BANGBOO",
     "note": ""
   },
@@ -10544,6 +10940,168 @@
     "artist": "No.*Day",
     "title": "No.*Day 新章 Début One Man Live",
     "url": "https://clubdrop.jp/schedule/detail/45111",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/01/17",
+    "day": "土",
+    "artist": "ドレミファイン♪",
+    "title": "残機、半分。",
+    "url": "https://clubdrop.jp/schedule/detail/42345",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/01/17",
+    "day": "土",
+    "artist": "ミラーシュカ",
+    "title": "残機、半分。",
+    "url": "https://clubdrop.jp/schedule/detail/42345",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/01/17",
+    "day": "土",
+    "artist": "lullllul",
+    "title": "残機、半分。",
+    "url": "https://clubdrop.jp/schedule/detail/42345",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/01/17",
+    "day": "土",
+    "artist": "HIGH SPY DOLL",
+    "title": "残機、半分。",
+    "url": "https://clubdrop.jp/schedule/detail/42345",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/01/17",
+    "day": "土",
+    "artist": "ディノゾール",
+    "title": "残機、半分。",
+    "url": "https://clubdrop.jp/schedule/detail/42345",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/01/17",
+    "day": "土",
+    "artist": "流星☆プレリュード",
+    "title": "残機、半分。",
+    "url": "https://clubdrop.jp/schedule/detail/42345",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/01/17",
+    "day": "土",
+    "artist": "caprice",
+    "title": "残機、半分。",
+    "url": "https://clubdrop.jp/schedule/detail/42345",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/01/17",
+    "day": "土",
+    "artist": "asterhythm⁂lumina",
+    "title": "残機、半分。",
+    "url": "https://clubdrop.jp/schedule/detail/42345",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/01/17",
+    "day": "土",
+    "artist": "ハピネスクラッカー!",
+    "title": "残機、半分。",
+    "url": "https://clubdrop.jp/schedule/detail/42345",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/01/17",
+    "day": "土",
+    "artist": "skill of light",
+    "title": "残機、半分。",
+    "url": "https://clubdrop.jp/schedule/detail/42345",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/01/17",
+    "day": "土",
+    "artist": "daga-shi",
+    "title": "残機、半分。",
+    "url": "https://clubdrop.jp/schedule/detail/42345",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/01/17",
+    "day": "土",
+    "artist": "LOTUS MARRY",
+    "title": "残機、半分。",
+    "url": "https://clubdrop.jp/schedule/detail/42345",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/01/17",
+    "day": "土",
+    "artist": "TIPINKIT",
+    "title": "残機、半分。",
+    "url": "https://clubdrop.jp/schedule/detail/42345",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/01/17",
+    "day": "土",
+    "artist": "FanCy-",
+    "title": "残機、半分。",
+    "url": "https://clubdrop.jp/schedule/detail/42345",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/01/17",
+    "day": "土",
+    "artist": "Everglitch",
+    "title": "残機、半分。",
+    "url": "https://clubdrop.jp/schedule/detail/42345",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/01/17",
+    "day": "土",
+    "artist": "SPRISE",
+    "title": "scramble",
+    "url": "https://clubdrop.jp/schedule/detail/50326",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/01/17",
+    "day": "土",
+    "artist": "アブソプ",
+    "title": "scramble",
+    "url": "https://clubdrop.jp/schedule/detail/50326",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/01/17",
+    "day": "土",
+    "artist": "SANUGLOW",
+    "title": "scramble",
+    "url": "https://clubdrop.jp/schedule/detail/50326",
     "venue": "アメリカ村DROP",
     "note": ""
   },
@@ -14076,6 +14634,114 @@
     "note": ""
   },
   {
+    "date": "2026/02/06",
+    "day": "金",
+    "artist": "藍色の花",
+    "title": "はくみや(0524)企画",
+    "url": "https://osaka-varon.jp/schedule/detail/48099",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2026/02/06",
+    "day": "金",
+    "artist": "わかぴーランズ",
+    "title": "はくみや(0524)企画",
+    "url": "https://osaka-varon.jp/schedule/detail/48099",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2026/02/06",
+    "day": "金",
+    "artist": "My Member is OG",
+    "title": "はくみや(0524)企画",
+    "url": "https://osaka-varon.jp/schedule/detail/48099",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2026/02/06",
+    "day": "金",
+    "artist": "あぅうう",
+    "title": "はくみや(0524)企画",
+    "url": "https://osaka-varon.jp/schedule/detail/48099",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2026/02/06",
+    "day": "金",
+    "artist": "ギャル守護神愛琉",
+    "title": "はくみや(0524)企画",
+    "url": "https://osaka-varon.jp/schedule/detail/48099",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2026/02/06",
+    "day": "金",
+    "artist": "チンカースhigh",
+    "title": "はくみや(0524)企画",
+    "url": "https://osaka-varon.jp/schedule/detail/48099",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2026/02/06",
+    "day": "金",
+    "artist": "はくピアノやめます。",
+    "title": "はくみや(0524)企画",
+    "url": "https://osaka-varon.jp/schedule/detail/48099",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2026/02/06",
+    "day": "金",
+    "artist": "令和のお菓子配り田中おばさん",
+    "title": "はくみや(0524)企画",
+    "url": "https://osaka-varon.jp/schedule/detail/48099",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2026/02/06",
+    "day": "金",
+    "artist": "ヤマダクション",
+    "title": "はくみや(0524)企画",
+    "url": "https://osaka-varon.jp/schedule/detail/48099",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2026/02/06",
+    "day": "金",
+    "artist": "SUPER 齧歯類",
+    "title": "はくみや(0524)企画",
+    "url": "https://osaka-varon.jp/schedule/detail/48099",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2026/02/06",
+    "day": "金",
+    "artist": "ケイタミタイ",
+    "title": "はくみや(0524)企画",
+    "url": "https://osaka-varon.jp/schedule/detail/48099",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2026/02/06",
+    "day": "金",
+    "artist": "continued...",
+    "title": "はくみや(0524)企画",
+    "url": "https://osaka-varon.jp/schedule/detail/48099",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
     "date": "2026/02/08",
     "day": "日",
     "artist": "NOCTURNAL BLOODLUST",
@@ -16634,8 +17300,98 @@
   {
     "date": "2026/02/06",
     "day": "金",
-    "artist": "coming soon...",
-    "title": "HALL RENTAL",
+    "artist": "隣の冒険者",
+    "title": "ニホンオオヤスモド企画　オールスター歌謡祭?2026",
+    "url": "https://osaka-zeela.jp/schedule/detail/47895",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2026/02/06",
+    "day": "金",
+    "artist": "Hate Fender",
+    "title": "ニホンオオヤスモド企画　オールスター歌謡祭?2026",
+    "url": "https://osaka-zeela.jp/schedule/detail/47895",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2026/02/06",
+    "day": "金",
+    "artist": "ジェネリック",
+    "title": "ニホンオオヤスモド企画　オールスター歌謡祭?2026",
+    "url": "https://osaka-zeela.jp/schedule/detail/47895",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2026/02/06",
+    "day": "金",
+    "artist": "ユキちゃんのバンド",
+    "title": "ニホンオオヤスモド企画　オールスター歌謡祭?2026",
+    "url": "https://osaka-zeela.jp/schedule/detail/47895",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2026/02/06",
+    "day": "金",
+    "artist": "Turtle Frog",
+    "title": "ニホンオオヤスモド企画　オールスター歌謡祭?2026",
+    "url": "https://osaka-zeela.jp/schedule/detail/47895",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2026/02/06",
+    "day": "金",
+    "artist": "0？ Limited Sazabys",
+    "title": "ニホンオオヤスモド企画　オールスター歌謡祭?2026",
+    "url": "https://osaka-zeela.jp/schedule/detail/47895",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2026/02/06",
+    "day": "金",
+    "artist": "THE ORAL SEVENSTARS",
+    "title": "ニホンオオヤスモド企画　オールスター歌謡祭?2026",
+    "url": "https://osaka-zeela.jp/schedule/detail/47895",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2026/02/06",
+    "day": "金",
+    "artist": "ハンブンキンケツ",
+    "title": "ニホンオオヤスモド企画　オールスター歌謡祭?2026",
+    "url": "https://osaka-zeela.jp/schedule/detail/47895",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2026/02/06",
+    "day": "金",
+    "artist": ".Yellow pantuu",
+    "title": "ニホンオオヤスモド企画　オールスター歌謡祭?2026",
+    "url": "https://osaka-zeela.jp/schedule/detail/47895",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2026/02/06",
+    "day": "金",
+    "artist": "GANG CATS",
+    "title": "ニホンオオヤスモド企画　オールスター歌謡祭?2026",
+    "url": "https://osaka-zeela.jp/schedule/detail/47895",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2026/02/06",
+    "day": "金",
+    "artist": "YFR歌謡祭 2026",
+    "title": "ニホンオオヤスモド企画　オールスター歌謡祭?2026",
     "url": "https://osaka-zeela.jp/schedule/detail/47895",
     "venue": "Zeela",
     "note": ""
@@ -21413,16 +22169,7 @@
   {
     "date": "2026/02/15",
     "day": "日",
-    "artist": "にて12",
-    "title": "冬将軍 著 『90年代ヴィジュアル系ロック名盤100 選』 出版記念 トークセッション",
-    "url": "http://www.knave.co.jp/schedule/s_2026_02.html",
-    "venue": "knave",
-    "note": ""
-  },
-  {
-    "date": "2026/02/15",
-    "day": "日",
-    "artist": "20発売",
+    "artist": "にて発売中",
     "title": "冬将軍 著 『90年代ヴィジュアル系ロック名盤100 選』 出版記念 トークセッション",
     "url": "http://www.knave.co.jp/schedule/s_2026_02.html",
     "venue": "knave",
@@ -21775,6 +22522,51 @@
     "day": "土",
     "artist": "問)knave06-6535-0691",
     "title": "FEST VAINQUEUR × BabyKingdom",
+    "url": "http://www.knave.co.jp/schedule/s_2026_02.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2026/02/24",
+    "day": "火",
+    "artist": "ベンチウォーマーズ",
+    "title": "The Red Light",
+    "url": "http://www.knave.co.jp/schedule/s_2026_02.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2026/02/24",
+    "day": "火",
+    "artist": "Leave a MRK",
+    "title": "The Red Light",
+    "url": "http://www.knave.co.jp/schedule/s_2026_02.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2026/02/24",
+    "day": "火",
+    "artist": "CANDY BOX",
+    "title": "The Red Light",
+    "url": "http://www.knave.co.jp/schedule/s_2026_02.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2026/02/24",
+    "day": "火",
+    "artist": "YAKIMONkids",
+    "title": "The Red Light",
+    "url": "http://www.knave.co.jp/schedule/s_2026_02.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2026/02/24",
+    "day": "火",
+    "artist": "問)knave06-6535-0691",
+    "title": "The Red Light",
     "url": "http://www.knave.co.jp/schedule/s_2026_02.html",
     "venue": "knave",
     "note": ""
