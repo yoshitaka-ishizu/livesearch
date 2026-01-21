@@ -6275,7 +6275,7 @@
   {
     "date": "2026/05/28",
     "day": "木",
-    "artist": "andmore",
+    "artist": "THE SUNSHINE",
     "title": "【気ガ狂イソウナ3MAN　参】",
     "url": "https://vijon.jp/schedule/detail/50298",
     "venue": "北堀江club vijon",
@@ -9416,16 +9416,7 @@
   {
     "date": "2026/02/21",
     "day": "土",
-    "artist": "主催:白黒アリス  ゲスト:めっ！",
-    "title": "白黒アリス 姫柊あんず生誕祭",
-    "url": "https://bangboo.jp/schedule/detail/43811",
-    "venue": "梅田BANGBOO",
-    "note": ""
-  },
-  {
-    "date": "2026/02/21",
-    "day": "土",
-    "artist": "絶望キネマ オファー中:スキュラ、ココロシンドローム",
+    "artist": "主催:白黒アリス",
     "title": "白黒アリス 姫柊あんず生誕祭",
     "url": "https://bangboo.jp/schedule/detail/43811",
     "venue": "梅田BANGBOO",
@@ -11675,6 +11666,15 @@
   {
     "date": "2026/01/25",
     "day": "日",
+    "artist": "鳴ル神",
+    "title": "鳴ル神 無銭 単独公演『顕現予告』",
+    "url": "https://clubdrop.jp/schedule/detail/50579",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/01/25",
+    "day": "日",
     "artist": "AZ-ON",
     "title": "OSAKA PIXEL TOWER -2階層 DROP DISTRICT-",
     "url": "https://clubdrop.jp/schedule/detail/44004",
@@ -12299,6 +12299,33 @@
     "artist": "UNVEIL",
     "title": "BRAVER!! LEVEL.43",
     "url": "https://clubdrop.jp/schedule/detail/44557",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/02/18",
+    "day": "水",
+    "artist": "優利香",
+    "title": "NaKK presents. HAPPY WEEKDAYS!!",
+    "url": "https://clubdrop.jp/schedule/detail/49426",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/02/18",
+    "day": "水",
+    "artist": "Disconnect Cendrillon",
+    "title": "NaKK presents. HAPPY WEEKDAYS!!",
+    "url": "https://clubdrop.jp/schedule/detail/49426",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/02/18",
+    "day": "水",
+    "artist": "and more",
+    "title": "NaKK presents. HAPPY WEEKDAYS!!",
+    "url": "https://clubdrop.jp/schedule/detail/49426",
     "venue": "アメリカ村DROP",
     "note": ""
   },
@@ -14135,6 +14162,33 @@
     "artist": "AZ-ON",
     "title": "AZ-ON 定期公演 遊戯祭 -生誕衣装公演-",
     "url": "https://osaka-varon.jp/schedule/detail/50525",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2026/01/24",
+    "day": "土",
+    "artist": "鳴ル神",
+    "title": "三位一体攻撃",
+    "url": "https://osaka-varon.jp/schedule/detail/42023",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2026/01/24",
+    "day": "土",
+    "artist": "絶望キネマ",
+    "title": "三位一体攻撃",
+    "url": "https://osaka-varon.jp/schedule/detail/42023",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2026/01/24",
+    "day": "土",
+    "artist": "MAGMAZ",
+    "title": "三位一体攻撃",
+    "url": "https://osaka-varon.jp/schedule/detail/42023",
     "venue": "VARON",
     "note": ""
   },
@@ -19271,8 +19325,80 @@
   {
     "date": "2026/03/08",
     "day": "日",
-    "artist": "coming soon...",
-    "title": "HALL RENTAL",
+    "artist": "DAi-STANDARD",
+    "title": "モシャス Lv.9",
+    "url": "https://osaka-zeela.jp/schedule/detail/44729",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2026/03/08",
+    "day": "日",
+    "artist": "イチドキリ",
+    "title": "モシャス Lv.9",
+    "url": "https://osaka-zeela.jp/schedule/detail/44729",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2026/03/08",
+    "day": "日",
+    "artist": "MK",
+    "title": "モシャス Lv.9",
+    "url": "https://osaka-zeela.jp/schedule/detail/44729",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2026/03/08",
+    "day": "日",
+    "artist": "未確認歩行物体",
+    "title": "モシャス Lv.9",
+    "url": "https://osaka-zeela.jp/schedule/detail/44729",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2026/03/08",
+    "day": "日",
+    "artist": "KINLIN PARK",
+    "title": "モシャス Lv.9",
+    "url": "https://osaka-zeela.jp/schedule/detail/44729",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2026/03/08",
+    "day": "日",
+    "artist": "BUMP OF CHICKEN南蛮",
+    "title": "モシャス Lv.9",
+    "url": "https://osaka-zeela.jp/schedule/detail/44729",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2026/03/08",
+    "day": "日",
+    "artist": "ほかのげん",
+    "title": "モシャス Lv.9",
+    "url": "https://osaka-zeela.jp/schedule/detail/44729",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2026/03/08",
+    "day": "日",
+    "artist": "the tempurs",
+    "title": "モシャス Lv.9",
+    "url": "https://osaka-zeela.jp/schedule/detail/44729",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2026/03/08",
+    "day": "日",
+    "artist": "L'Arc~non~Citel",
+    "title": "モシャス Lv.9",
     "url": "https://osaka-zeela.jp/schedule/detail/44729",
     "venue": "Zeela",
     "note": ""
