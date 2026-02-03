@@ -1118,7 +1118,7 @@
   {
     "date": "2026/02/02",
     "day": "月",
-    "artist": "18:30〜19:00 ながさわ",
+    "artist": "19:00〜19:30 ながさわ",
     "title": "『 爆誕FUYUTSUGU祭 』",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
@@ -1127,7 +1127,7 @@
   {
     "date": "2026/02/02",
     "day": "月",
-    "artist": "19:10〜19:40 マッドショットガン",
+    "artist": "19:20〜19:50 wing-stong",
     "title": "『 爆誕FUYUTSUGU祭 』",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
@@ -1136,7 +1136,7 @@
   {
     "date": "2026/02/02",
     "day": "月",
-    "artist": "20:00〜20:30 wing-stong",
+    "artist": "20:10〜20:50 the denkibran",
     "title": "『 爆誕FUYUTSUGU祭 』",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
@@ -1145,7 +1145,7 @@
   {
     "date": "2026/02/02",
     "day": "月",
-    "artist": "20:40〜21:10 the denkibran",
+    "artist": "21:00〜21:30 mango.",
     "title": "『 爆誕FUYUTSUGU祭 』",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
@@ -1154,7 +1154,7 @@
   {
     "date": "2026/02/02",
     "day": "月",
-    "artist": "21:20〜ネバーエンディグ mango.",
+    "artist": "※マッドショットガンの出演は諸事情によりキャンセルとなりました。",
     "title": "『 爆誕FUYUTSUGU祭 』",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
@@ -2757,7 +2757,7 @@
     "date": "2026/03/13",
     "day": "金",
     "artist": "dummyclub",
-    "title": "dummyclub / イタミトクニン+箱+柾 / イマイカリクニヒコ / NEAREQUAL / gorsch……",
+    "title": "OPEN 18:30",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -2765,8 +2765,17 @@
   {
     "date": "2026/03/13",
     "day": "金",
-    "artist": "イタミトクニン+箱+柾",
-    "title": "dummyclub / イタミトクニン+箱+柾 / イマイカリクニヒコ / NEAREQUAL / gorsch……",
+    "artist": "植野将史",
+    "title": "OPEN 18:30",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
+    "date": "2026/03/13",
+    "day": "金",
+    "artist": "イタミトクニン+箱+柾+Ben Willis",
+    "title": "OPEN 18:30",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -2775,16 +2784,7 @@
     "date": "2026/03/13",
     "day": "金",
     "artist": "イマイカリクニヒコ",
-    "title": "dummyclub / イタミトクニン+箱+柾 / イマイカリクニヒコ / NEAREQUAL / gorsch……",
-    "url": "https://para-dice.net/",
-    "venue": "扇町para-dice",
-    "note": ""
-  },
-  {
-    "date": "2026/03/13",
-    "day": "金",
-    "artist": "NEAREQUAL",
-    "title": "dummyclub / イタミトクニン+箱+柾 / イマイカリクニヒコ / NEAREQUAL / gorsch……",
+    "title": "OPEN 18:30",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -2793,7 +2793,7 @@
     "date": "2026/03/13",
     "day": "金",
     "artist": "gorsch……",
-    "title": "dummyclub / イタミトクニン+箱+柾 / イマイカリクニヒコ / NEAREQUAL / gorsch……",
+    "title": "OPEN 18:30",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -3305,17 +3305,8 @@
   {
     "date": "2026/03/28",
     "day": "土",
-    "artist": "村瀬裕子",
-    "title": "村瀬裕子 / Yeah-One / ANIKI BAND / bluekeys / ロイヤル嫁姑 / carrel bites",
-    "url": "https://para-dice.net/",
-    "venue": "扇町para-dice",
-    "note": ""
-  },
-  {
-    "date": "2026/03/28",
-    "day": "土",
     "artist": "Yeah-One",
-    "title": "村瀬裕子 / Yeah-One / ANIKI BAND / bluekeys / ロイヤル嫁姑 / carrel bites",
+    "title": "OPEN 17:30",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -3323,26 +3314,8 @@
   {
     "date": "2026/03/28",
     "day": "土",
-    "artist": "ANIKI BAND",
-    "title": "村瀬裕子 / Yeah-One / ANIKI BAND / bluekeys / ロイヤル嫁姑 / carrel bites",
-    "url": "https://para-dice.net/",
-    "venue": "扇町para-dice",
-    "note": ""
-  },
-  {
-    "date": "2026/03/28",
-    "day": "土",
-    "artist": "bluekeys",
-    "title": "村瀬裕子 / Yeah-One / ANIKI BAND / bluekeys / ロイヤル嫁姑 / carrel bites",
-    "url": "https://para-dice.net/",
-    "venue": "扇町para-dice",
-    "note": ""
-  },
-  {
-    "date": "2026/03/28",
-    "day": "土",
-    "artist": "ロイヤル嫁姑",
-    "title": "村瀬裕子 / Yeah-One / ANIKI BAND / bluekeys / ロイヤル嫁姑 / carrel bites",
+    "artist": "村瀬裕子",
+    "title": "OPEN 17:30",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -3351,7 +3324,34 @@
     "date": "2026/03/28",
     "day": "土",
     "artist": "carrel bites",
-    "title": "村瀬裕子 / Yeah-One / ANIKI BAND / bluekeys / ロイヤル嫁姑 / carrel bites",
+    "title": "OPEN 17:30",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
+    "date": "2026/03/28",
+    "day": "土",
+    "artist": "ANIKI BAND",
+    "title": "OPEN 17:30",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
+    "date": "2026/03/28",
+    "day": "土",
+    "artist": "ロイヤル嫁姑",
+    "title": "OPEN 17:30",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
+    "date": "2026/03/28",
+    "day": "土",
+    "artist": "bluekeys",
+    "title": "OPEN 17:30",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -3360,7 +3360,7 @@
     "date": "2026/03/29",
     "day": "日",
     "artist": "para-dice 企画",
-    "title": "Hello11D3 / nego / Hitotonari / Plugman",
+    "title": "『 Goddamn Electric 』",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -3368,17 +3368,8 @@
   {
     "date": "2026/03/29",
     "day": "日",
-    "artist": "Hello11D3",
-    "title": "Hello11D3 / nego / Hitotonari / Plugman",
-    "url": "https://para-dice.net/",
-    "venue": "扇町para-dice",
-    "note": ""
-  },
-  {
-    "date": "2026/03/29",
-    "day": "日",
-    "artist": "nego",
-    "title": "Hello11D3 / nego / Hitotonari / Plugman",
+    "artist": "『 Goddamn Electric 』",
+    "title": "『 Goddamn Electric 』",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -3387,7 +3378,7 @@
     "date": "2026/03/29",
     "day": "日",
     "artist": "Hitotonari",
-    "title": "Hello11D3 / nego / Hitotonari / Plugman",
+    "title": "『 Goddamn Electric 』",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -3395,8 +3386,26 @@
   {
     "date": "2026/03/29",
     "day": "日",
-    "artist": "Plugman and more...",
-    "title": "Hello11D3 / nego / Hitotonari / Plugman",
+    "artist": "Plugman",
+    "title": "『 Goddamn Electric 』",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
+    "date": "2026/03/29",
+    "day": "日",
+    "artist": "Hello11D3",
+    "title": "『 Goddamn Electric 』",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
+    "date": "2026/03/29",
+    "day": "日",
+    "artist": "nego",
+    "title": "『 Goddamn Electric 』",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -4599,6 +4608,24 @@
     "note": ""
   },
   {
+    "date": "2026/04/29",
+    "day": "水祝",
+    "artist": "para-dice 17th anniversary",
+    "title": "para-dice 17th anniversary",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
+    "date": "2026/04/29",
+    "day": "水祝",
+    "artist": "雨市ワンマン",
+    "title": "para-dice 17th anniversary",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
     "date": "2026/04/30",
     "day": "木",
     "artist": "para-dice 17th anniversary",
@@ -4764,7 +4791,7 @@
     "date": "2026/02/02",
     "day": "月",
     "artist": "LuvHz",
-    "title": "音のキミツキチ",
+    "title": "音のヒミツキチ",
     "url": "https://vijon.jp/schedule/detail/50711",
     "venue": "北堀江club vijon",
     "note": ""
@@ -5036,6 +5063,15 @@
     "artist": "礒合風輝",
     "title": "Eggs[GIGGS] × club vijon Pre.【emergence】vol.2",
     "url": "https://vijon.jp/schedule/detail/48390",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2026/02/08",
+    "day": "日",
+    "artist": "ネテルダイヤ、SKill of light、永遠のセツナ、Little Rascal、FanCy-、&youth!、妖狐繚乱、新章大阪⭐春夏秋冬、SOCIAL×MATCH、MeltGem",
+    "title": "ネテルダイヤpre. 【ABSENT DEFINITION】 in club vijon",
+    "url": "https://vijon.jp/schedule/detail/50449",
     "venue": "北堀江club vijon",
     "note": ""
   },
@@ -6458,6 +6494,15 @@
     "artist": "White nova",
     "title": "【S W E E T E R】vol.5",
     "url": "https://bangboo.jp/schedule/detail/48620",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2026/02/06",
+    "day": "金",
+    "artist": "すべての瞬間は君だった。",
+    "title": "すべての瞬間は君だった。miniTIF直前無料スペシャル",
+    "url": "https://bangboo.jp/schedule/detail/49068",
     "venue": "梅田BANGBOO",
     "note": ""
   },
@@ -9243,11 +9288,137 @@
     "note": ""
   },
   {
+    "date": "2026/02/07",
+    "day": "土",
+    "artist": "ポーリミ",
+    "title": "かほみ生誕祭~タフガール番外編~",
+    "url": "https://clubdrop.jp/schedule/detail/41655",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/02/07",
+    "day": "土",
+    "artist": "ちょっとだけニート",
+    "title": "かほみ生誕祭~タフガール番外編~",
+    "url": "https://clubdrop.jp/schedule/detail/41655",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/02/07",
+    "day": "土",
+    "artist": "チェリーパイ",
+    "title": "かほみ生誕祭~タフガール番外編~",
+    "url": "https://clubdrop.jp/schedule/detail/41655",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/02/07",
+    "day": "土",
+    "artist": "トットリナイトダイブ",
+    "title": "かほみ生誕祭~タフガール番外編~",
+    "url": "https://clubdrop.jp/schedule/detail/41655",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/02/07",
+    "day": "土",
+    "artist": "大正デモクラシー",
+    "title": "かほみ生誕祭~タフガール番外編~",
+    "url": "https://clubdrop.jp/schedule/detail/41655",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/02/07",
+    "day": "土",
+    "artist": "Booo",
+    "title": "かほみ生誕祭~タフガール番外編~",
+    "url": "https://clubdrop.jp/schedule/detail/41655",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/02/07",
+    "day": "土",
+    "artist": "鼻鼻炎",
+    "title": "かほみ生誕祭~タフガール番外編~",
+    "url": "https://clubdrop.jp/schedule/detail/41655",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/02/07",
+    "day": "土",
+    "artist": "メタルコアパビリオン",
+    "title": "かほみ生誕祭~タフガール番外編~",
+    "url": "https://clubdrop.jp/schedule/detail/41655",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/02/07",
+    "day": "土",
+    "artist": "大日本福本帝国",
+    "title": "かほみ生誕祭~タフガール番外編~",
+    "url": "https://clubdrop.jp/schedule/detail/41655",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/02/07",
+    "day": "土",
+    "artist": "老害Factory",
+    "title": "かほみ生誕祭~タフガール番外編~",
+    "url": "https://clubdrop.jp/schedule/detail/41655",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/02/07",
+    "day": "土",
+    "artist": "ド変態童貞狩りお姉ちゃんにドレインパンチ",
+    "title": "かほみ生誕祭~タフガール番外編~",
+    "url": "https://clubdrop.jp/schedule/detail/41655",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/02/07",
+    "day": "土",
+    "artist": "原津玄師",
+    "title": "かほみ生誕祭~タフガール番外編~",
+    "url": "https://clubdrop.jp/schedule/detail/41655",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/02/07",
+    "day": "土",
+    "artist": "アボカド添えに…",
+    "title": "かほみ生誕祭~タフガール番外編~",
+    "url": "https://clubdrop.jp/schedule/detail/41655",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
     "date": "2026/02/08",
     "day": "日",
     "artist": "LuvHz",
     "title": "LuvHz Half Anniversary Oneman Live",
     "url": "https://clubdrop.jp/schedule/detail/48833",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/02/08",
+    "day": "日",
+    "artist": "ティラミス",
+    "title": "『ティラミス単独公演〜桧山こさお誕生日編』",
+    "url": "https://clubdrop.jp/schedule/detail/50670",
     "venue": "アメリカ村DROP",
     "note": ""
   },
@@ -9752,6 +9923,15 @@
     "artist": "OW",
     "title": "My:ME//OW 東名阪ツアー FIRST EDGE -初撃-",
     "url": "https://clubdrop.jp/schedule/detail/42346",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/02/16",
+    "day": "月",
+    "artist": "NeoAster",
+    "title": "ネオスタ単独-vol5-",
+    "url": "https://clubdrop.jp/schedule/detail/48987",
     "venue": "アメリカ村DROP",
     "note": ""
   },
@@ -12582,6 +12762,15 @@
     "note": ""
   },
   {
+    "date": "2026/02/12",
+    "day": "木",
+    "artist": "立命館大学ロケット団、大阪商業大学軽音楽部 多数！！",
+    "title": "ロケ商 ジョイント",
+    "url": "https://osaka-varon.jp/schedule/detail/44748",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
     "date": "2026/02/13",
     "day": "金",
     "artist": "バンピール",
@@ -13833,6 +14022,60 @@
     "note": ""
   },
   {
+    "date": "2026/04/13",
+    "day": "月",
+    "artist": "KINJI",
+    "title": "AWAKENING vol.21",
+    "url": "https://osaka-varon.jp/schedule/detail/49358",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2026/04/13",
+    "day": "月",
+    "artist": "マハーリンガ",
+    "title": "AWAKENING vol.21",
+    "url": "https://osaka-varon.jp/schedule/detail/49358",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2026/04/13",
+    "day": "月",
+    "artist": "UNVEIL",
+    "title": "AWAKENING vol.21",
+    "url": "https://osaka-varon.jp/schedule/detail/49358",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2026/04/13",
+    "day": "月",
+    "artist": "ZeL'",
+    "title": "AWAKENING vol.21",
+    "url": "https://osaka-varon.jp/schedule/detail/49358",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2026/04/13",
+    "day": "月",
+    "artist": "Dee-prive",
+    "title": "AWAKENING vol.21",
+    "url": "https://osaka-varon.jp/schedule/detail/49358",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2026/04/13",
+    "day": "月",
+    "artist": "バンドマンの底辺×高さ÷2",
+    "title": "AWAKENING vol.21",
+    "url": "https://osaka-varon.jp/schedule/detail/49358",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
     "date": "2026/04/23",
     "day": "木",
     "artist": "ネオンと無重力",
@@ -13973,6 +14216,15 @@
     "artist": "CHASED",
     "title": "CHASED pre. [ STAR HORSE - one man - ]",
     "url": "https://osaka-varon.jp/schedule/detail/46696",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2026/05/22",
+    "day": "金",
+    "artist": "NiL",
+    "title": "NiL 4TH ANNIVERSARY ONE MAN LIVE",
+    "url": "https://osaka-varon.jp/schedule/detail/48523",
     "venue": "VARON",
     "note": ""
   },
@@ -14634,6 +14886,15 @@
     "note": ""
   },
   {
+    "date": "2026/02/10",
+    "day": "火",
+    "artist": "NeoAster",
+    "title": "ネオスタ単独-vol4-",
+    "url": "https://osaka-zeela.jp/schedule/detail/49708",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
     "date": "2026/02/11",
     "day": "水",
     "artist": "ANAIS",
@@ -15023,7 +15284,7 @@
   {
     "date": "2026/02/13",
     "day": "金",
-    "artist": "go!to!kindergarten",
+    "artist": "ターメリックライス",
     "title": "南女ジョイント〜老害活動終了キャンペーン〜",
     "url": "https://osaka-zeela.jp/schedule/detail/43976",
     "venue": "Zeela",
@@ -15762,7 +16023,7 @@
     "date": "2026/02/16",
     "day": "月",
     "artist": "coming soon...",
-    "title": "HALL RENTAL",
+    "title": "HOMIES",
     "url": "https://osaka-zeela.jp/schedule/detail/46785",
     "venue": "Zeela",
     "note": ""
@@ -15770,8 +16031,8 @@
   {
     "date": "2026/02/18",
     "day": "水",
-    "artist": "coming soon...",
-    "title": "HALL RENTAL",
+    "artist": "立命館大学ロケット団 etc...",
+    "title": "立命館大学ロケット団 主催ジョイント",
     "url": "https://osaka-zeela.jp/schedule/detail/47748",
     "venue": "Zeela",
     "note": ""
@@ -16068,6 +16329,24 @@
     "date": "2026/03/01",
     "day": "日",
     "artist": "ハダカエフダ",
+    "title": "PLAYER'S VOL.9",
+    "url": "https://osaka-zeela.jp/schedule/detail/46586",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2026/03/01",
+    "day": "日",
+    "artist": "ZIYOLA",
+    "title": "PLAYER'S VOL.9",
+    "url": "https://osaka-zeela.jp/schedule/detail/46586",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2026/03/01",
+    "day": "日",
+    "artist": "阿王-AOU-",
     "title": "PLAYER'S VOL.9",
     "url": "https://osaka-zeela.jp/schedule/detail/46586",
     "venue": "Zeela",
@@ -16965,6 +17244,186 @@
     "note": ""
   },
   {
+    "date": "2026/04/15",
+    "day": "水",
+    "artist": "HIDADDY",
+    "title": "Zeela & bar T.A.B presents \"UMEDA BLOCK PARTY\"",
+    "url": "https://osaka-zeela.jp/schedule/detail/48387",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2026/04/15",
+    "day": "水",
+    "artist": "BUNBUN THE MC",
+    "title": "Zeela & bar T.A.B presents \"UMEDA BLOCK PARTY\"",
+    "url": "https://osaka-zeela.jp/schedule/detail/48387",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2026/04/15",
+    "day": "水",
+    "artist": "秘部痺れ",
+    "title": "Zeela & bar T.A.B presents \"UMEDA BLOCK PARTY\"",
+    "url": "https://osaka-zeela.jp/schedule/detail/48387",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2026/04/15",
+    "day": "水",
+    "artist": "DEATHSTARR",
+    "title": "Zeela & bar T.A.B presents \"UMEDA BLOCK PARTY\"",
+    "url": "https://osaka-zeela.jp/schedule/detail/48387",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2026/04/15",
+    "day": "水",
+    "artist": "S.L.N.M",
+    "title": "Zeela & bar T.A.B presents \"UMEDA BLOCK PARTY\"",
+    "url": "https://osaka-zeela.jp/schedule/detail/48387",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2026/04/15",
+    "day": "水",
+    "artist": "ノートリアスミノリン",
+    "title": "Zeela & bar T.A.B presents \"UMEDA BLOCK PARTY\"",
+    "url": "https://osaka-zeela.jp/schedule/detail/48387",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2026/04/15",
+    "day": "水",
+    "artist": "OneMi&01d",
+    "title": "Zeela & bar T.A.B presents \"UMEDA BLOCK PARTY\"",
+    "url": "https://osaka-zeela.jp/schedule/detail/48387",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2026/04/15",
+    "day": "水",
+    "artist": "チェ☀︎アリサ",
+    "title": "Zeela & bar T.A.B presents \"UMEDA BLOCK PARTY\"",
+    "url": "https://osaka-zeela.jp/schedule/detail/48387",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2026/04/15",
+    "day": "水",
+    "artist": "BNKR街道",
+    "title": "Zeela & bar T.A.B presents \"UMEDA BLOCK PARTY\"",
+    "url": "https://osaka-zeela.jp/schedule/detail/48387",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2026/04/15",
+    "day": "水",
+    "artist": "Kimists",
+    "title": "Zeela & bar T.A.B presents \"UMEDA BLOCK PARTY\"",
+    "url": "https://osaka-zeela.jp/schedule/detail/48387",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2026/04/15",
+    "day": "水",
+    "artist": "YOPPY",
+    "title": "Zeela & bar T.A.B presents \"UMEDA BLOCK PARTY\"",
+    "url": "https://osaka-zeela.jp/schedule/detail/48387",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2026/04/15",
+    "day": "水",
+    "artist": "ANGIE LIGHT&Mihee",
+    "title": "Zeela & bar T.A.B presents \"UMEDA BLOCK PARTY\"",
+    "url": "https://osaka-zeela.jp/schedule/detail/48387",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2026/04/15",
+    "day": "水",
+    "artist": "ya!ya?",
+    "title": "Zeela & bar T.A.B presents \"UMEDA BLOCK PARTY\"",
+    "url": "https://osaka-zeela.jp/schedule/detail/48387",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2026/04/15",
+    "day": "水",
+    "artist": "TABUO",
+    "title": "Zeela & bar T.A.B presents \"UMEDA BLOCK PARTY\"",
+    "url": "https://osaka-zeela.jp/schedule/detail/48387",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2026/04/15",
+    "day": "水",
+    "artist": "TK",
+    "title": "Zeela & bar T.A.B presents \"UMEDA BLOCK PARTY\"",
+    "url": "https://osaka-zeela.jp/schedule/detail/48387",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2026/04/15",
+    "day": "水",
+    "artist": "Mariya",
+    "title": "Zeela & bar T.A.B presents \"UMEDA BLOCK PARTY\"",
+    "url": "https://osaka-zeela.jp/schedule/detail/48387",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2026/04/15",
+    "day": "水",
+    "artist": "3saki",
+    "title": "Zeela & bar T.A.B presents \"UMEDA BLOCK PARTY\"",
+    "url": "https://osaka-zeela.jp/schedule/detail/48387",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2026/04/15",
+    "day": "水",
+    "artist": "松もと×AMOMESHI",
+    "title": "Zeela & bar T.A.B presents \"UMEDA BLOCK PARTY\"",
+    "url": "https://osaka-zeela.jp/schedule/detail/48387",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2026/04/15",
+    "day": "水",
+    "artist": "整体食堂",
+    "title": "Zeela & bar T.A.B presents \"UMEDA BLOCK PARTY\"",
+    "url": "https://osaka-zeela.jp/schedule/detail/48387",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2026/04/15",
+    "day": "水",
+    "artist": "Shock& lyudeath66",
+    "title": "Zeela & bar T.A.B presents \"UMEDA BLOCK PARTY\"",
+    "url": "https://osaka-zeela.jp/schedule/detail/48387",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
     "date": "2026/04/25",
     "day": "土",
     "artist": "THE 薩摩",
@@ -17213,6 +17672,24 @@
     "artist": "もちこん☆ぷろじぇくと！",
     "title": "おもち&こんこん ぷれぜんつ が〜るずFes",
     "url": "https://osaka-zeela.jp/schedule/detail/45382",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2026/05/29",
+    "day": "金",
+    "artist": "メルトタイマー",
+    "title": "メルトタイマー東阪2MAN LIVE TOUR \"ア・テ・スエ\"",
+    "url": "https://osaka-zeela.jp/schedule/detail/49239",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2026/05/29",
+    "day": "金",
+    "artist": "＋1BAND",
+    "title": "メルトタイマー東阪2MAN LIVE TOUR \"ア・テ・スエ\"",
+    "url": "https://osaka-zeela.jp/schedule/detail/49239",
     "venue": "Zeela",
     "note": ""
   },
@@ -20723,6 +21200,195 @@
     "artist": "問)knave06-6535-0691",
     "title": "小野亜里沙",
     "url": "http://www.knave.co.jp/schedule/s_2026_03.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2026/04/24",
+    "day": "金",
+    "artist": "“parallel glow 〜vol.2〜”",
+    "title": "藍白へて茜まで・PapiLio 2manLive",
+    "url": "http://www.knave.co.jp/schedule/s_2026_04.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2026/04/24",
+    "day": "金",
+    "artist": "藍白へて茜まで",
+    "title": "藍白へて茜まで・PapiLio 2manLive",
+    "url": "http://www.knave.co.jp/schedule/s_2026_04.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2026/04/24",
+    "day": "金",
+    "artist": "PapiLio",
+    "title": "藍白へて茜まで・PapiLio 2manLive",
+    "url": "http://www.knave.co.jp/schedule/s_2026_04.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2026/04/24",
+    "day": "金",
+    "artist": "TIGETにて近日発売",
+    "title": "藍白へて茜まで・PapiLio 2manLive",
+    "url": "http://www.knave.co.jp/schedule/s_2026_04.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2026/04/24",
+    "day": "金",
+    "artist": "問)knave06-6535-0691",
+    "title": "藍白へて茜まで・PapiLio 2manLive",
+    "url": "http://www.knave.co.jp/schedule/s_2026_04.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2026/05/10",
+    "day": "日",
+    "artist": "下尾礼子",
+    "title": "SPRING LIVE",
+    "url": "http://www.knave.co.jp/schedule/s_2026_04.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2026/05/10",
+    "day": "日",
+    "artist": "須田みみ",
+    "title": "SPRING LIVE",
+    "url": "http://www.knave.co.jp/schedule/s_2026_04.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2026/05/10",
+    "day": "日",
+    "artist": "高見このは",
+    "title": "SPRING LIVE",
+    "url": "http://www.knave.co.jp/schedule/s_2026_04.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2026/05/10",
+    "day": "日",
+    "artist": "※高校生以下2",
+    "title": "SPRING LIVE",
+    "url": "http://www.knave.co.jp/schedule/s_2026_04.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2026/05/10",
+    "day": "日",
+    "artist": "000円(要学生証提示）",
+    "title": "SPRING LIVE",
+    "url": "http://www.knave.co.jp/schedule/s_2026_04.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2026/05/10",
+    "day": "日",
+    "artist": "チケット発売 2",
+    "title": "SPRING LIVE",
+    "url": "http://www.knave.co.jp/schedule/s_2026_04.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2026/05/10",
+    "day": "日",
+    "artist": "1413:00〜",
+    "title": "SPRING LIVE",
+    "url": "http://www.knave.co.jp/schedule/s_2026_04.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2026/05/10",
+    "day": "日",
+    "artist": "問)uhopjtma",
+    "title": "SPRING LIVE",
+    "url": "http://www.knave.co.jp/schedule/s_2026_04.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2026/10/17",
+    "day": "土",
+    "artist": "東名阪札福ワンマンツアー2026",
+    "title": "あくあいゆい",
+    "url": "http://www.knave.co.jp/schedule/s_2026_04.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2026/10/17",
+    "day": "土",
+    "artist": "LiberRene",
+    "title": "あくあいゆい",
+    "url": "http://www.knave.co.jp/schedule/s_2026_04.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2026/10/17",
+    "day": "土",
+    "artist": "あくあゆい",
+    "title": "あくあいゆい",
+    "url": "http://www.knave.co.jp/schedule/s_2026_04.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2026/10/17",
+    "day": "土",
+    "artist": "PREMIUM￥5",
+    "title": "あくあいゆい",
+    "url": "http://www.knave.co.jp/schedule/s_2026_04.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2026/10/17",
+    "day": "土",
+    "artist": "000",
+    "title": "あくあいゆい",
+    "url": "http://www.knave.co.jp/schedule/s_2026_04.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2026/10/17",
+    "day": "土",
+    "artist": "学割￥2",
+    "title": "あくあいゆい",
+    "url": "http://www.knave.co.jp/schedule/s_2026_04.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2026/10/17",
+    "day": "土",
+    "artist": "500",
+    "title": "あくあいゆい",
+    "url": "http://www.knave.co.jp/schedule/s_2026_04.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2026/10/17",
+    "day": "土",
+    "artist": "問・チケット発売)TIGET",
+    "title": "あくあいゆい",
+    "url": "http://www.knave.co.jp/schedule/s_2026_04.html",
     "venue": "knave",
     "note": ""
   }
