@@ -5870,7 +5870,7 @@
   {
     "date": "2026/02/20",
     "day": "金",
-    "artist": "河北将志  Miya-z Anie",
+    "artist": "河北将志  　Miya-z Anie",
     "title": "club vijon PINK MAN pre.  KARAOKE BATTLE TOURNAMENT -2026-",
     "url": "https://vijon.jp/schedule/detail/49739",
     "venue": "北堀江club vijon",
@@ -5888,7 +5888,7 @@
   {
     "date": "2026/02/20",
     "day": "金",
-    "artist": "つむぎれい パーフェクト田中",
+    "artist": "つむぎれい 　パーフェクト田中",
     "title": "club vijon PINK MAN pre.  KARAOKE BATTLE TOURNAMENT -2026-",
     "url": "https://vijon.jp/schedule/detail/49739",
     "venue": "北堀江club vijon",
@@ -5906,7 +5906,16 @@
   {
     "date": "2026/02/20",
     "day": "金",
-    "artist": "Mary Ann  さすらい厨房trattoria may",
+    "artist": "Mary Ann",
+    "title": "club vijon PINK MAN pre.  KARAOKE BATTLE TOURNAMENT -2026-",
+    "url": "https://vijon.jp/schedule/detail/49739",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2026/02/20",
+    "day": "金",
+    "artist": "天翔龍閃a.k.aあまちゃん 　さすらい厨房trattoria may",
     "title": "club vijon PINK MAN pre.  KARAOKE BATTLE TOURNAMENT -2026-",
     "url": "https://vijon.jp/schedule/detail/49739",
     "venue": "北堀江club vijon",
@@ -6026,6 +6035,60 @@
     "artist": "and more...",
     "title": "【COLORS】",
     "url": "https://vijon.jp/schedule/detail/48929",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2026/02/25",
+    "day": "水",
+    "artist": "いろかにほへと",
+    "title": "club vijon Pre. 【EMERGENCY CALL】",
+    "url": "https://vijon.jp/schedule/detail/50691",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2026/02/25",
+    "day": "水",
+    "artist": "WeekendAll",
+    "title": "club vijon Pre. 【EMERGENCY CALL】",
+    "url": "https://vijon.jp/schedule/detail/50691",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2026/02/25",
+    "day": "水",
+    "artist": "Blow the instability",
+    "title": "club vijon Pre. 【EMERGENCY CALL】",
+    "url": "https://vijon.jp/schedule/detail/50691",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2026/02/25",
+    "day": "水",
+    "artist": "94' sabrina records",
+    "title": "club vijon Pre. 【EMERGENCY CALL】",
+    "url": "https://vijon.jp/schedule/detail/50691",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2026/02/25",
+    "day": "水",
+    "artist": "グルーヴ先生",
+    "title": "club vijon Pre. 【EMERGENCY CALL】",
+    "url": "https://vijon.jp/schedule/detail/50691",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2026/02/25",
+    "day": "水",
+    "artist": "and more...",
+    "title": "club vijon Pre. 【EMERGENCY CALL】",
+    "url": "https://vijon.jp/schedule/detail/50691",
     "venue": "北堀江club vijon",
     "note": ""
   },
@@ -6926,6 +6989,60 @@
     "artist": "すべての瞬間は君だった。",
     "title": "すべての瞬間は君だった。miniTIF直前無料スペシャル",
     "url": "https://bangboo.jp/schedule/detail/49068",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2026/02/06",
+    "day": "金",
+    "artist": "Rentaro",
+    "title": "大阪エンタメ交流会",
+    "url": "https://bangboo.jp/schedule/detail/48117",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2026/02/06",
+    "day": "金",
+    "artist": "MurM",
+    "title": "大阪エンタメ交流会",
+    "url": "https://bangboo.jp/schedule/detail/48117",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2026/02/06",
+    "day": "金",
+    "artist": "暮春",
+    "title": "大阪エンタメ交流会",
+    "url": "https://bangboo.jp/schedule/detail/48117",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2026/02/06",
+    "day": "金",
+    "artist": "アルツライマー",
+    "title": "大阪エンタメ交流会",
+    "url": "https://bangboo.jp/schedule/detail/48117",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2026/02/06",
+    "day": "金",
+    "artist": "Monster",
+    "title": "大阪エンタメ交流会",
+    "url": "https://bangboo.jp/schedule/detail/48117",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2026/02/06",
+    "day": "金",
+    "artist": "cHiLLy",
+    "title": "大阪エンタメ交流会",
+    "url": "https://bangboo.jp/schedule/detail/48117",
     "venue": "梅田BANGBOO",
     "note": ""
   },
@@ -9824,6 +9941,24 @@
     "artist": "LØISLOID",
     "title": "NaKK presents. アメ村獄中祭 feat.82回目の終身刑",
     "url": "https://clubdrop.jp/schedule/detail/50729",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/02/06",
+    "day": "金",
+    "artist": "白黒アリス",
+    "title": "明日！緊急無銭！ ALICE PARANOID",
+    "url": "https://clubdrop.jp/schedule/detail/45967",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/02/06",
+    "day": "金",
+    "artist": "ENVY PARANOID",
+    "title": "明日！緊急無銭！ ALICE PARANOID",
+    "url": "https://clubdrop.jp/schedule/detail/45967",
     "venue": "アメリカ村DROP",
     "note": ""
   },
@@ -13385,8 +13520,98 @@
   {
     "date": "2026/02/12",
     "day": "木",
-    "artist": "立命館大学ロケット団、大阪商業大学軽音楽部 多数！！",
-    "title": "ロケ商 ジョイント",
+    "artist": "よざわあいる",
+    "title": "ロケット団×商大 ロケ商 2大学ジョイント",
+    "url": "https://osaka-varon.jp/schedule/detail/44748",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2026/02/12",
+    "day": "木",
+    "artist": "もぎもぎりつまるろっく",
+    "title": "ロケット団×商大 ロケ商 2大学ジョイント",
+    "url": "https://osaka-varon.jp/schedule/detail/44748",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2026/02/12",
+    "day": "木",
+    "artist": "wakage",
+    "title": "ロケット団×商大 ロケ商 2大学ジョイント",
+    "url": "https://osaka-varon.jp/schedule/detail/44748",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2026/02/12",
+    "day": "木",
+    "artist": "なとらない",
+    "title": "ロケット団×商大 ロケ商 2大学ジョイント",
+    "url": "https://osaka-varon.jp/schedule/detail/44748",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2026/02/12",
+    "day": "木",
+    "artist": "Aya Family",
+    "title": "ロケット団×商大 ロケ商 2大学ジョイント",
+    "url": "https://osaka-varon.jp/schedule/detail/44748",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2026/02/12",
+    "day": "木",
+    "artist": "寝ずに米津",
+    "title": "ロケット団×商大 ロケ商 2大学ジョイント",
+    "url": "https://osaka-varon.jp/schedule/detail/44748",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2026/02/12",
+    "day": "木",
+    "artist": "さよぽえ",
+    "title": "ロケット団×商大 ロケ商 2大学ジョイント",
+    "url": "https://osaka-varon.jp/schedule/detail/44748",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2026/02/12",
+    "day": "木",
+    "artist": "Die,...翔大",
+    "title": "ロケット団×商大 ロケ商 2大学ジョイント",
+    "url": "https://osaka-varon.jp/schedule/detail/44748",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2026/02/12",
+    "day": "木",
+    "artist": "HEY-NISHIO",
+    "title": "ロケット団×商大 ロケ商 2大学ジョイント",
+    "url": "https://osaka-varon.jp/schedule/detail/44748",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2026/02/12",
+    "day": "木",
+    "artist": "ハマブレッダーツ",
+    "title": "ロケット団×商大 ロケ商 2大学ジョイント",
+    "url": "https://osaka-varon.jp/schedule/detail/44748",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2026/02/12",
+    "day": "木",
+    "artist": "SAKEMOKUキチーw",
+    "title": "ロケット団×商大 ロケ商 2大学ジョイント",
     "url": "https://osaka-varon.jp/schedule/detail/44748",
     "venue": "VARON",
     "note": ""
@@ -16967,7 +17192,106 @@
   {
     "date": "2026/02/18",
     "day": "水",
-    "artist": "立命館大学ロケット団 etc...",
+    "artist": "塩1トン舐めるくらいならこんな人生やめてやります（エンジェルリングを頬張りながら",
+    "title": "立命館大学ロケット団 主催ジョイント",
+    "url": "https://osaka-zeela.jp/schedule/detail/47748",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2026/02/18",
+    "day": "水",
+    "artist": "ぽえ",
+    "title": "立命館大学ロケット団 主催ジョイント",
+    "url": "https://osaka-zeela.jp/schedule/detail/47748",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2026/02/18",
+    "day": "水",
+    "artist": "アイッツブース",
+    "title": "立命館大学ロケット団 主催ジョイント",
+    "url": "https://osaka-zeela.jp/schedule/detail/47748",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2026/02/18",
+    "day": "水",
+    "artist": "うおおおぉんかどーれ",
+    "title": "立命館大学ロケット団 主催ジョイント",
+    "url": "https://osaka-zeela.jp/schedule/detail/47748",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2026/02/18",
+    "day": "水",
+    "artist": "バカになって踊る国",
+    "title": "立命館大学ロケット団 主催ジョイント",
+    "url": "https://osaka-zeela.jp/schedule/detail/47748",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2026/02/18",
+    "day": "水",
+    "artist": "ぼっちの源",
+    "title": "立命館大学ロケット団 主催ジョイント",
+    "url": "https://osaka-zeela.jp/schedule/detail/47748",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2026/02/18",
+    "day": "水",
+    "artist": "04 Limited Umakys",
+    "title": "立命館大学ロケット団 主催ジョイント",
+    "url": "https://osaka-zeela.jp/schedule/detail/47748",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2026/02/18",
+    "day": "水",
+    "artist": "ピンクグレープフルーツ",
+    "title": "立命館大学ロケット団 主催ジョイント",
+    "url": "https://osaka-zeela.jp/schedule/detail/47748",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2026/02/18",
+    "day": "水",
+    "artist": "一般BOYZ",
+    "title": "立命館大学ロケット団 主催ジョイント",
+    "url": "https://osaka-zeela.jp/schedule/detail/47748",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2026/02/18",
+    "day": "水",
+    "artist": "えま！",
+    "title": "立命館大学ロケット団 主催ジョイント",
+    "url": "https://osaka-zeela.jp/schedule/detail/47748",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2026/02/18",
+    "day": "水",
+    "artist": "Lilly",
+    "title": "立命館大学ロケット団 主催ジョイント",
+    "url": "https://osaka-zeela.jp/schedule/detail/47748",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2026/02/18",
+    "day": "水",
+    "artist": "氷川きよし 25",
     "title": "立命館大学ロケット団 主催ジョイント",
     "url": "https://osaka-zeela.jp/schedule/detail/47748",
     "venue": "Zeela",
@@ -17327,6 +17651,15 @@
   {
     "date": "2026/03/01",
     "day": "日",
+    "artist": "NANONI",
+    "title": "PLAYER'S VOL.9",
+    "url": "https://osaka-zeela.jp/schedule/detail/46586",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2026/03/01",
+    "day": "日",
     "artist": "じゅりこ",
     "title": "PLAYER'S VOL.9",
     "url": "https://osaka-zeela.jp/schedule/detail/46586",
@@ -17417,7 +17750,25 @@
   {
     "date": "2026/03/01",
     "day": "日",
-    "artist": "ねむすけ and more!",
+    "artist": "ねむすけ",
+    "title": "PLAYER'S VOL.9",
+    "url": "https://osaka-zeela.jp/schedule/detail/46586",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2026/03/01",
+    "day": "日",
+    "artist": "招猫飯店",
+    "title": "PLAYER'S VOL.9",
+    "url": "https://osaka-zeela.jp/schedule/detail/46586",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2026/03/01",
+    "day": "日",
+    "artist": "and more!",
     "title": "PLAYER'S VOL.9",
     "url": "https://osaka-zeela.jp/schedule/detail/46586",
     "venue": "Zeela",
@@ -17678,8 +18029,89 @@
   {
     "date": "2026/03/12",
     "day": "木",
-    "artist": "coming soon...",
-    "title": "HALL RENTAL",
+    "artist": "バチ地雷",
+    "title": "大阪人間科学大学軽音楽部 卒業ライブ DAY1",
+    "url": "https://osaka-zeela.jp/schedule/detail/43843",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2026/03/12",
+    "day": "木",
+    "artist": "ぺいばんど",
+    "title": "大阪人間科学大学軽音楽部 卒業ライブ DAY1",
+    "url": "https://osaka-zeela.jp/schedule/detail/43843",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2026/03/12",
+    "day": "木",
+    "artist": "ﾄﾞﾚｻﾜ?",
+    "title": "大阪人間科学大学軽音楽部 卒業ライブ DAY1",
+    "url": "https://osaka-zeela.jp/schedule/detail/43843",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2026/03/12",
+    "day": "木",
+    "artist": "エクスカリバー",
+    "title": "大阪人間科学大学軽音楽部 卒業ライブ DAY1",
+    "url": "https://osaka-zeela.jp/schedule/detail/43843",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2026/03/12",
+    "day": "木",
+    "artist": "VS",
+    "title": "大阪人間科学大学軽音楽部 卒業ライブ DAY1",
+    "url": "https://osaka-zeela.jp/schedule/detail/43843",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2026/03/12",
+    "day": "木",
+    "artist": "コンポタ's",
+    "title": "大阪人間科学大学軽音楽部 卒業ライブ DAY1",
+    "url": "https://osaka-zeela.jp/schedule/detail/43843",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2026/03/12",
+    "day": "木",
+    "artist": "不公平規則",
+    "title": "大阪人間科学大学軽音楽部 卒業ライブ DAY1",
+    "url": "https://osaka-zeela.jp/schedule/detail/43843",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2026/03/12",
+    "day": "木",
+    "artist": "すたます",
+    "title": "大阪人間科学大学軽音楽部 卒業ライブ DAY1",
+    "url": "https://osaka-zeela.jp/schedule/detail/43843",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2026/03/12",
+    "day": "木",
+    "artist": "ツキアカリ",
+    "title": "大阪人間科学大学軽音楽部 卒業ライブ DAY1",
+    "url": "https://osaka-zeela.jp/schedule/detail/43843",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2026/03/12",
+    "day": "木",
+    "artist": "えぐ柄",
+    "title": "大阪人間科学大学軽音楽部 卒業ライブ DAY1",
     "url": "https://osaka-zeela.jp/schedule/detail/43843",
     "venue": "Zeela",
     "note": ""
@@ -17687,8 +18119,80 @@
   {
     "date": "2026/03/13",
     "day": "金",
-    "artist": "coming soon...",
-    "title": "HALL RENTAL",
+    "artist": "Lua",
+    "title": "大阪人間科学大学軽音楽部 卒業ライブ DAY2",
+    "url": "https://osaka-zeela.jp/schedule/detail/43844",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2026/03/13",
+    "day": "金",
+    "artist": "白雪姫",
+    "title": "大阪人間科学大学軽音楽部 卒業ライブ DAY2",
+    "url": "https://osaka-zeela.jp/schedule/detail/43844",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2026/03/13",
+    "day": "金",
+    "artist": "りくしー",
+    "title": "大阪人間科学大学軽音楽部 卒業ライブ DAY2",
+    "url": "https://osaka-zeela.jp/schedule/detail/43844",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2026/03/13",
+    "day": "金",
+    "artist": "はんとーん",
+    "title": "大阪人間科学大学軽音楽部 卒業ライブ DAY2",
+    "url": "https://osaka-zeela.jp/schedule/detail/43844",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2026/03/13",
+    "day": "金",
+    "artist": "熱い！",
+    "title": "大阪人間科学大学軽音楽部 卒業ライブ DAY2",
+    "url": "https://osaka-zeela.jp/schedule/detail/43844",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2026/03/13",
+    "day": "金",
+    "artist": "すきなきょく",
+    "title": "大阪人間科学大学軽音楽部 卒業ライブ DAY2",
+    "url": "https://osaka-zeela.jp/schedule/detail/43844",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2026/03/13",
+    "day": "金",
+    "artist": "air is lump",
+    "title": "大阪人間科学大学軽音楽部 卒業ライブ DAY2",
+    "url": "https://osaka-zeela.jp/schedule/detail/43844",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2026/03/13",
+    "day": "金",
+    "artist": "はいとーん",
+    "title": "大阪人間科学大学軽音楽部 卒業ライブ DAY2",
+    "url": "https://osaka-zeela.jp/schedule/detail/43844",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2026/03/13",
+    "day": "金",
+    "artist": "ちょこぱに",
+    "title": "大阪人間科学大学軽音楽部 卒業ライブ DAY2",
     "url": "https://osaka-zeela.jp/schedule/detail/43844",
     "venue": "Zeela",
     "note": ""
@@ -17969,6 +18473,51 @@
     "artist": "coming soon...",
     "title": "HALL RENTAL",
     "url": "https://osaka-zeela.jp/schedule/detail/48114",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2026/04/07",
+    "day": "火",
+    "artist": "OXU",
+    "title": "Zeela present. MAGIC HOUR",
+    "url": "https://osaka-zeela.jp/schedule/detail/49733",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2026/04/07",
+    "day": "火",
+    "artist": "チセツナガラ",
+    "title": "Zeela present. MAGIC HOUR",
+    "url": "https://osaka-zeela.jp/schedule/detail/49733",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2026/04/07",
+    "day": "火",
+    "artist": "Romansquall",
+    "title": "Zeela present. MAGIC HOUR",
+    "url": "https://osaka-zeela.jp/schedule/detail/49733",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2026/04/07",
+    "day": "火",
+    "artist": "Shaftray",
+    "title": "Zeela present. MAGIC HOUR",
+    "url": "https://osaka-zeela.jp/schedule/detail/49733",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2026/04/07",
+    "day": "火",
+    "artist": "カレラ",
+    "title": "Zeela present. MAGIC HOUR",
+    "url": "https://osaka-zeela.jp/schedule/detail/49733",
     "venue": "Zeela",
     "note": ""
   },
@@ -20016,6 +20565,24 @@
     "note": ""
   },
   {
+    "date": "2026/02/22",
+    "day": "日",
+    "artist": "チケットは「イベントペイ」にて販売中",
+    "title": "SHEER LIVE-2026 WINTER-なんば",
+    "url": "http://www.knave.co.jp/schedule/s_2026_02.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2026/02/22",
+    "day": "日",
+    "artist": "問)シアーミュージック",
+    "title": "SHEER LIVE-2026 WINTER-なんば",
+    "url": "http://www.knave.co.jp/schedule/s_2026_02.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
     "date": "2026/02/23",
     "day": "月",
     "artist": "破邪顕正",
@@ -20450,7 +21017,7 @@
   {
     "date": "2026/03/01",
     "day": "日",
-    "artist": "and more...",
+    "artist": "P4C",
     "title": "エマージェンザ・ジャパン 2026",
     "url": "http://www.knave.co.jp/schedule/s_2026_03.html",
     "venue": "knave",
@@ -22295,7 +22862,34 @@
   {
     "date": "2026/06/19",
     "day": "金",
-    "artist": "杉浦 哲郎",
+    "artist": "杉浦 哲郎・三輪 一登(Sax",
+    "title": "knave 24th Anniversary  supported by KIRIN",
+    "url": "http://www.knave.co.jp/schedule/s_2026_04.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2026/06/19",
+    "day": "金",
+    "artist": "Fl)・",
+    "title": "knave 24th Anniversary  supported by KIRIN",
+    "url": "http://www.knave.co.jp/schedule/s_2026_04.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2026/06/19",
+    "day": "金",
+    "artist": "木全 希巨人・",
+    "title": "knave 24th Anniversary  supported by KIRIN",
+    "url": "http://www.knave.co.jp/schedule/s_2026_04.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2026/06/19",
+    "day": "金",
+    "artist": "山田 信晴",
     "title": "knave 24th Anniversary  supported by KIRIN",
     "url": "http://www.knave.co.jp/schedule/s_2026_04.html",
     "venue": "knave",
