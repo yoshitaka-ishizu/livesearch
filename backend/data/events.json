@@ -3630,7 +3630,7 @@
     "date": "2026/03/27",
     "day": "金",
     "artist": "para-dice 企画",
-    "title": "こねこむ / NA/DA / 田口智章(Muscle of the Soul) / 小原未樹 / nn_underground",
+    "title": "こねこむ / NA/DA / 田口智章(Muscle of the Soul) / 小原未樹 / nn_underground / \n                    \nSoft Landing",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -3639,7 +3639,7 @@
     "date": "2026/03/27",
     "day": "金",
     "artist": "こねこむ",
-    "title": "こねこむ / NA/DA / 田口智章(Muscle of the Soul) / 小原未樹 / nn_underground",
+    "title": "こねこむ / NA/DA / 田口智章(Muscle of the Soul) / 小原未樹 / nn_underground / \n                    \nSoft Landing",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -3648,7 +3648,7 @@
     "date": "2026/03/27",
     "day": "金",
     "artist": "NA",
-    "title": "こねこむ / NA/DA / 田口智章(Muscle of the Soul) / 小原未樹 / nn_underground",
+    "title": "こねこむ / NA/DA / 田口智章(Muscle of the Soul) / 小原未樹 / nn_underground / \n                    \nSoft Landing",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -3657,7 +3657,7 @@
     "date": "2026/03/27",
     "day": "金",
     "artist": "DA",
-    "title": "こねこむ / NA/DA / 田口智章(Muscle of the Soul) / 小原未樹 / nn_underground",
+    "title": "こねこむ / NA/DA / 田口智章(Muscle of the Soul) / 小原未樹 / nn_underground / \n                    \nSoft Landing",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -3666,7 +3666,7 @@
     "date": "2026/03/27",
     "day": "金",
     "artist": "田口智章",
-    "title": "こねこむ / NA/DA / 田口智章(Muscle of the Soul) / 小原未樹 / nn_underground",
+    "title": "こねこむ / NA/DA / 田口智章(Muscle of the Soul) / 小原未樹 / nn_underground / \n                    \nSoft Landing",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -3675,7 +3675,7 @@
     "date": "2026/03/27",
     "day": "金",
     "artist": "小原未樹",
-    "title": "こねこむ / NA/DA / 田口智章(Muscle of the Soul) / 小原未樹 / nn_underground",
+    "title": "こねこむ / NA/DA / 田口智章(Muscle of the Soul) / 小原未樹 / nn_underground / \n                    \nSoft Landing",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -3683,8 +3683,17 @@
   {
     "date": "2026/03/27",
     "day": "金",
-    "artist": "nn_underground and more...",
-    "title": "こねこむ / NA/DA / 田口智章(Muscle of the Soul) / 小原未樹 / nn_underground",
+    "artist": "nn_underground",
+    "title": "こねこむ / NA/DA / 田口智章(Muscle of the Soul) / 小原未樹 / nn_underground / \n                    \nSoft Landing",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
+    "date": "2026/03/27",
+    "day": "金",
+    "artist": "Soft Landing",
+    "title": "こねこむ / NA/DA / 田口智章(Muscle of the Soul) / 小原未樹 / nn_underground / \n                    \nSoft Landing",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -4394,15 +4403,6 @@
   {
     "date": "2026/04/10",
     "day": "金",
-    "artist": "BLONDnewHALF",
-    "title": "para-dice 17th anniversary",
-    "url": "https://para-dice.net/",
-    "venue": "扇町para-dice",
-    "note": ""
-  },
-  {
-    "date": "2026/04/10",
-    "day": "金",
     "artist": "武田 鳴",
     "title": "para-dice 17th anniversary",
     "url": "https://para-dice.net/",
@@ -4412,7 +4412,16 @@
   {
     "date": "2026/04/10",
     "day": "金",
-    "artist": "and more...",
+    "artist": "BLONDnewHALF",
+    "title": "para-dice 17th anniversary",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
+    "date": "2026/04/10",
+    "day": "金",
+    "artist": "氏家草太",
     "title": "para-dice 17th anniversary",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
@@ -4845,6 +4854,195 @@
     "date": "2026/04/19",
     "day": "日",
     "artist": "THE FREE'Z",
+    "title": "para-dice 17th anniversary",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
+    "date": "2026/04/20",
+    "day": "月",
+    "artist": "para-dice 17th anniversary",
+    "title": "para-dice 17th anniversary",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
+    "date": "2026/04/20",
+    "day": "月",
+    "artist": "『 TOO TOUGH TO DIE 』",
+    "title": "para-dice 17th anniversary",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
+    "date": "2026/04/20",
+    "day": "月",
+    "artist": "〜ジャスティス高校入学式〜",
+    "title": "para-dice 17th anniversary",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
+    "date": "2026/04/20",
+    "day": "月",
+    "artist": "胸ぐら掴む・はなす",
+    "title": "para-dice 17th anniversary",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
+    "date": "2026/04/20",
+    "day": "月",
+    "artist": "カキク",
+    "title": "para-dice 17th anniversary",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
+    "date": "2026/04/20",
+    "day": "月",
+    "artist": "アクセル",
+    "title": "para-dice 17th anniversary",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
+    "date": "2026/04/20",
+    "day": "月",
+    "artist": "ドスコイまんぼう",
+    "title": "para-dice 17th anniversary",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
+    "date": "2026/04/20",
+    "day": "月",
+    "artist": "METAL JUSTICE",
+    "title": "para-dice 17th anniversary",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
+    "date": "2026/04/20",
+    "day": "月",
+    "artist": "DJ naonari ueda",
+    "title": "para-dice 17th anniversary",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
+    "date": "2026/04/20",
+    "day": "月",
+    "artist": "dododrum",
+    "title": "para-dice 17th anniversary",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
+    "date": "2026/04/20",
+    "day": "月",
+    "artist": "牧野渚",
+    "title": "para-dice 17th anniversary",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
+    "date": "2026/04/20",
+    "day": "月",
+    "artist": "あっきん",
+    "title": "para-dice 17th anniversary",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
+    "date": "2026/04/20",
+    "day": "月",
+    "artist": "jack",
+    "title": "para-dice 17th anniversary",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
+    "date": "2026/04/20",
+    "day": "月",
+    "artist": "オガサワラ・ヨハン・ヒロユキ",
+    "title": "para-dice 17th anniversary",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
+    "date": "2026/04/20",
+    "day": "月",
+    "artist": "KxOxTxA",
+    "title": "para-dice 17th anniversary",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
+    "date": "2026/04/20",
+    "day": "月",
+    "artist": "DJ野生のマッツォ",
+    "title": "para-dice 17th anniversary",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
+    "date": "2026/04/20",
+    "day": "月",
+    "artist": "デス声",
+    "title": "para-dice 17th anniversary",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
+    "date": "2026/04/20",
+    "day": "月",
+    "artist": "星ひでき",
+    "title": "para-dice 17th anniversary",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
+    "date": "2026/04/20",
+    "day": "月",
+    "artist": "リュウa.k.aやんでぃ",
+    "title": "para-dice 17th anniversary",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
+    "date": "2026/04/20",
+    "day": "月",
+    "artist": "and Special DJ Mr. X",
+    "title": "para-dice 17th anniversary",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
+    "date": "2026/04/20",
+    "day": "月",
+    "artist": "FOOD 居酒屋げっちゃん",
     "title": "para-dice 17th anniversary",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
@@ -6885,6 +7083,78 @@
     "note": ""
   },
   {
+    "date": "2026/03/03",
+    "day": "火",
+    "artist": "白黒アリス",
+    "title": "\"VIBES ENCOUNTER\"",
+    "url": "https://vijon.jp/schedule/detail/49258",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2026/03/03",
+    "day": "火",
+    "artist": "神薙-時うさぎ-",
+    "title": "\"VIBES ENCOUNTER\"",
+    "url": "https://vijon.jp/schedule/detail/49258",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2026/03/03",
+    "day": "火",
+    "artist": "PLYDE",
+    "title": "\"VIBES ENCOUNTER\"",
+    "url": "https://vijon.jp/schedule/detail/49258",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2026/03/03",
+    "day": "火",
+    "artist": "Re:sist",
+    "title": "\"VIBES ENCOUNTER\"",
+    "url": "https://vijon.jp/schedule/detail/49258",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2026/03/03",
+    "day": "火",
+    "artist": "SANUGLOW",
+    "title": "\"VIBES ENCOUNTER\"",
+    "url": "https://vijon.jp/schedule/detail/49258",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2026/03/03",
+    "day": "火",
+    "artist": "ミラーシュカ",
+    "title": "\"VIBES ENCOUNTER\"",
+    "url": "https://vijon.jp/schedule/detail/49258",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2026/03/03",
+    "day": "火",
+    "artist": "妖狐繚乱",
+    "title": "\"VIBES ENCOUNTER\"",
+    "url": "https://vijon.jp/schedule/detail/49258",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2026/03/03",
+    "day": "火",
+    "artist": "MeltGem",
+    "title": "\"VIBES ENCOUNTER\"",
+    "url": "https://vijon.jp/schedule/detail/49258",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
     "date": "2026/03/05",
     "day": "木",
     "artist": "condoctor",
@@ -7205,6 +7475,60 @@
     "artist": "天才凡人",
     "title": "天才凡人 ONEMAN LIVE TOUR 2026『8ball』",
     "url": "https://vijon.jp/schedule/detail/48295",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2026/03/25",
+    "day": "水",
+    "artist": "Audio Dope",
+    "title": "vijon pre.【PORTAL】",
+    "url": "https://vijon.jp/schedule/detail/48463",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2026/03/25",
+    "day": "水",
+    "artist": "EMILY",
+    "title": "vijon pre.【PORTAL】",
+    "url": "https://vijon.jp/schedule/detail/48463",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2026/03/25",
+    "day": "水",
+    "artist": "DOG☆STAR",
+    "title": "vijon pre.【PORTAL】",
+    "url": "https://vijon.jp/schedule/detail/48463",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2026/03/25",
+    "day": "水",
+    "artist": "NOIQ",
+    "title": "vijon pre.【PORTAL】",
+    "url": "https://vijon.jp/schedule/detail/48463",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2026/03/25",
+    "day": "水",
+    "artist": "Norwegian Forest Cat",
+    "title": "vijon pre.【PORTAL】",
+    "url": "https://vijon.jp/schedule/detail/48463",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2026/03/25",
+    "day": "水",
+    "artist": "Little Tramp",
+    "title": "vijon pre.【PORTAL】",
+    "url": "https://vijon.jp/schedule/detail/48463",
     "venue": "北堀江club vijon",
     "note": ""
   },
@@ -10562,6 +10886,123 @@
     "artist": "TiDE and ???",
     "title": "たとえばボクが踊ったら presents 『梅田界隈 THE CIRCUIT '26』 【VENUE】大阪/梅田３会場（BananaHall + Zeela + BANGBOO） ＊各会場アクセス徒歩2分以内",
     "url": "https://bangboo.jp/schedule/detail/47847",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2026/03/21",
+    "day": "土",
+    "artist": "sunika",
+    "title": "はせゆう企画",
+    "url": "https://bangboo.jp/schedule/detail/45974",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2026/03/21",
+    "day": "土",
+    "artist": "将来の夢、ピ逃げチクる",
+    "title": "はせゆう企画",
+    "url": "https://bangboo.jp/schedule/detail/45974",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2026/03/21",
+    "day": "土",
+    "artist": "Yuandy",
+    "title": "はせゆう企画",
+    "url": "https://bangboo.jp/schedule/detail/45974",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2026/03/21",
+    "day": "土",
+    "artist": "ストイックなはせがわ",
+    "title": "はせゆう企画",
+    "url": "https://bangboo.jp/schedule/detail/45974",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2026/03/21",
+    "day": "土",
+    "artist": "鳩とヤマリンゴ",
+    "title": "はせゆう企画",
+    "url": "https://bangboo.jp/schedule/detail/45974",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2026/03/21",
+    "day": "土",
+    "artist": "モエバリワメク",
+    "title": "はせゆう企画",
+    "url": "https://bangboo.jp/schedule/detail/45974",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2026/03/21",
+    "day": "土",
+    "artist": "はせゆー、某、社会人",
+    "title": "はせゆう企画",
+    "url": "https://bangboo.jp/schedule/detail/45974",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2026/03/21",
+    "day": "土",
+    "artist": "はせ♡すき♡しんどい! byなんば",
+    "title": "はせゆう企画",
+    "url": "https://bangboo.jp/schedule/detail/45974",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2026/03/21",
+    "day": "土",
+    "artist": "Eroi brain",
+    "title": "はせゆう企画",
+    "url": "https://bangboo.jp/schedule/detail/45974",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2026/03/21",
+    "day": "土",
+    "artist": "明らかなミスとて不服 - EP",
+    "title": "はせゆう企画",
+    "url": "https://bangboo.jp/schedule/detail/45974",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2026/03/21",
+    "day": "土",
+    "artist": "おなかは真っ黒",
+    "title": "はせゆう企画",
+    "url": "https://bangboo.jp/schedule/detail/45974",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2026/03/21",
+    "day": "土",
+    "artist": "Egg,sand Cheese in Hasegawa you",
+    "title": "はせゆう企画",
+    "url": "https://bangboo.jp/schedule/detail/45974",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2026/03/21",
+    "day": "土",
+    "artist": "いつもの",
+    "title": "はせゆう企画",
+    "url": "https://bangboo.jp/schedule/detail/45974",
     "venue": "梅田BANGBOO",
     "note": ""
   },
@@ -17802,6 +18243,42 @@
     "note": ""
   },
   {
+    "date": "2026/03/03",
+    "day": "火",
+    "artist": "光波ミチ",
+    "title": "光波ミチ生誕祭「紡いできた魔法」",
+    "url": "https://osaka-varon.jp/schedule/detail/46757",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2026/03/03",
+    "day": "火",
+    "artist": "とんでもはっぷん！",
+    "title": "光波ミチ生誕祭「紡いできた魔法」",
+    "url": "https://osaka-varon.jp/schedule/detail/46757",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2026/03/03",
+    "day": "火",
+    "artist": "LØISLOID",
+    "title": "光波ミチ生誕祭「紡いできた魔法」",
+    "url": "https://osaka-varon.jp/schedule/detail/46757",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2026/03/03",
+    "day": "火",
+    "artist": "cleomery",
+    "title": "光波ミチ生誕祭「紡いできた魔法」",
+    "url": "https://osaka-varon.jp/schedule/detail/46757",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
     "date": "2026/03/05",
     "day": "木",
     "artist": "UnpRayable",
@@ -18014,6 +18491,213 @@
     "artist": "lonlium",
     "title": "lonlium ONEMAN TOUR2026 『LONELY FIGHT TOUR』",
     "url": "https://osaka-varon.jp/schedule/detail/43999",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2026/03/10",
+    "day": "火",
+    "artist": "可愛いハナちゃん",
+    "title": "MUSIC BOTTLE vol.19 2days school festival DAY1",
+    "url": "https://osaka-varon.jp/schedule/detail/47015",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2026/03/10",
+    "day": "火",
+    "artist": "シークレットゲスト枠",
+    "title": "MUSIC BOTTLE vol.19 2days school festival DAY1",
+    "url": "https://osaka-varon.jp/schedule/detail/47015",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2026/03/10",
+    "day": "火",
+    "artist": "満腹書店",
+    "title": "MUSIC BOTTLE vol.19 2days school festival DAY1",
+    "url": "https://osaka-varon.jp/schedule/detail/47015",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2026/03/10",
+    "day": "火",
+    "artist": "Srv.pinci",
+    "title": "MUSIC BOTTLE vol.19 2days school festival DAY1",
+    "url": "https://osaka-varon.jp/schedule/detail/47015",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2026/03/10",
+    "day": "火",
+    "artist": "ハルカSHISHAMOヌエンピツ",
+    "title": "MUSIC BOTTLE vol.19 2days school festival DAY1",
+    "url": "https://osaka-varon.jp/schedule/detail/47015",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2026/03/10",
+    "day": "火",
+    "artist": "とよき",
+    "title": "MUSIC BOTTLE vol.19 2days school festival DAY1",
+    "url": "https://osaka-varon.jp/schedule/detail/47015",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2026/03/10",
+    "day": "火",
+    "artist": "米之剣士",
+    "title": "MUSIC BOTTLE vol.19 2days school festival DAY1",
+    "url": "https://osaka-varon.jp/schedule/detail/47015",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2026/03/10",
+    "day": "火",
+    "artist": "お嬢様たちのモテ計画",
+    "title": "MUSIC BOTTLE vol.19 2days school festival DAY1",
+    "url": "https://osaka-varon.jp/schedule/detail/47015",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2026/03/10",
+    "day": "火",
+    "artist": "mnk69",
+    "title": "MUSIC BOTTLE vol.19 2days school festival DAY1",
+    "url": "https://osaka-varon.jp/schedule/detail/47015",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2026/03/10",
+    "day": "火",
+    "artist": "玉こんにゃく",
+    "title": "MUSIC BOTTLE vol.19 2days school festival DAY1",
+    "url": "https://osaka-varon.jp/schedule/detail/47015",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2026/03/10",
+    "day": "火",
+    "artist": "ﾜﾎ-",
+    "title": "MUSIC BOTTLE vol.19 2days school festival DAY1",
+    "url": "https://osaka-varon.jp/schedule/detail/47015",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2026/03/11",
+    "day": "水",
+    "artist": "みっしぇる",
+    "title": "MUSIC BOTTLE vol.19 2days school festival DAY2",
+    "url": "https://osaka-varon.jp/schedule/detail/47016",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2026/03/11",
+    "day": "水",
+    "artist": "ふじっこ",
+    "title": "MUSIC BOTTLE vol.19 2days school festival DAY2",
+    "url": "https://osaka-varon.jp/schedule/detail/47016",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2026/03/11",
+    "day": "水",
+    "artist": "りんりん帝国",
+    "title": "MUSIC BOTTLE vol.19 2days school festival DAY2",
+    "url": "https://osaka-varon.jp/schedule/detail/47016",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2026/03/11",
+    "day": "水",
+    "artist": "よりどりみどり",
+    "title": "MUSIC BOTTLE vol.19 2days school festival DAY2",
+    "url": "https://osaka-varon.jp/schedule/detail/47016",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2026/03/11",
+    "day": "水",
+    "artist": "honoka.",
+    "title": "MUSIC BOTTLE vol.19 2days school festival DAY2",
+    "url": "https://osaka-varon.jp/schedule/detail/47016",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2026/03/11",
+    "day": "水",
+    "artist": "AVENTURE",
+    "title": "MUSIC BOTTLE vol.19 2days school festival DAY2",
+    "url": "https://osaka-varon.jp/schedule/detail/47016",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2026/03/11",
+    "day": "水",
+    "artist": "PM4",
+    "title": "MUSIC BOTTLE vol.19 2days school festival DAY2",
+    "url": "https://osaka-varon.jp/schedule/detail/47016",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2026/03/11",
+    "day": "水",
+    "artist": "ポルカオドットレイ",
+    "title": "MUSIC BOTTLE vol.19 2days school festival DAY2",
+    "url": "https://osaka-varon.jp/schedule/detail/47016",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2026/03/11",
+    "day": "水",
+    "artist": "あいうえおーらる",
+    "title": "MUSIC BOTTLE vol.19 2days school festival DAY2",
+    "url": "https://osaka-varon.jp/schedule/detail/47016",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2026/03/11",
+    "day": "水",
+    "artist": "イノチミジカシウタエヨオトメ",
+    "title": "MUSIC BOTTLE vol.19 2days school festival DAY2",
+    "url": "https://osaka-varon.jp/schedule/detail/47016",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2026/03/11",
+    "day": "水",
+    "artist": "mumei.",
+    "title": "MUSIC BOTTLE vol.19 2days school festival DAY2",
+    "url": "https://osaka-varon.jp/schedule/detail/47016",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2026/03/11",
+    "day": "水",
+    "artist": "B'low",
+    "title": "MUSIC BOTTLE vol.19 2days school festival DAY2",
+    "url": "https://osaka-varon.jp/schedule/detail/47016",
     "venue": "VARON",
     "note": ""
   },
@@ -22511,8 +23195,107 @@
   {
     "date": "2026/03/11",
     "day": "水",
-    "artist": "coming soon...",
-    "title": "HALL RENTAL",
+    "artist": "来年卒業できるかな1名",
+    "title": "すばるの見たいバンド集めました",
+    "url": "https://osaka-zeela.jp/schedule/detail/44987",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2026/03/11",
+    "day": "水",
+    "artist": "むにむにおみ",
+    "title": "すばるの見たいバンド集めました",
+    "url": "https://osaka-zeela.jp/schedule/detail/44987",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2026/03/11",
+    "day": "水",
+    "artist": "シカシカ",
+    "title": "すばるの見たいバンド集めました",
+    "url": "https://osaka-zeela.jp/schedule/detail/44987",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2026/03/11",
+    "day": "水",
+    "artist": "カズキノミライナイ",
+    "title": "すばるの見たいバンド集めました",
+    "url": "https://osaka-zeela.jp/schedule/detail/44987",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2026/03/11",
+    "day": "水",
+    "artist": "エサやりタイム",
+    "title": "すばるの見たいバンド集めました",
+    "url": "https://osaka-zeela.jp/schedule/detail/44987",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2026/03/11",
+    "day": "水",
+    "artist": "ユニゾン原キーが〜出ん",
+    "title": "すばるの見たいバンド集めました",
+    "url": "https://osaka-zeela.jp/schedule/detail/44987",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2026/03/11",
+    "day": "水",
+    "artist": "やばい電通生の集い",
+    "title": "すばるの見たいバンド集めました",
+    "url": "https://osaka-zeela.jp/schedule/detail/44987",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2026/03/11",
+    "day": "水",
+    "artist": "タガいTシャツ屋さん",
+    "title": "すばるの見たいバンド集めました",
+    "url": "https://osaka-zeela.jp/schedule/detail/44987",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2026/03/11",
+    "day": "水",
+    "artist": "堅実ドーレ",
+    "title": "すばるの見たいバンド集めました",
+    "url": "https://osaka-zeela.jp/schedule/detail/44987",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2026/03/11",
+    "day": "水",
+    "artist": "りく",
+    "title": "すばるの見たいバンド集めました",
+    "url": "https://osaka-zeela.jp/schedule/detail/44987",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2026/03/11",
+    "day": "水",
+    "artist": "おま◯こSP",
+    "title": "すばるの見たいバンド集めました",
+    "url": "https://osaka-zeela.jp/schedule/detail/44987",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2026/03/11",
+    "day": "水",
+    "artist": "すばブレっターズ",
+    "title": "すばるの見たいバンド集めました",
     "url": "https://osaka-zeela.jp/schedule/detail/44987",
     "venue": "Zeela",
     "note": ""
