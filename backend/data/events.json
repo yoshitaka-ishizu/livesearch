@@ -3162,7 +3162,7 @@
     "date": "2026/03/14",
     "day": "土",
     "artist": "そうごじた",
-    "title": "そうごじた / 意識 / こもも / 雨つつ。",
+    "title": "OPEN 18:30",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -3170,8 +3170,8 @@
   {
     "date": "2026/03/14",
     "day": "土",
-    "artist": "意識",
-    "title": "そうごじた / 意識 / こもも / 雨つつ。",
+    "artist": "橋本 和佳",
+    "title": "OPEN 18:30",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -3180,7 +3180,7 @@
     "date": "2026/03/14",
     "day": "土",
     "artist": "こもも",
-    "title": "そうごじた / 意識 / こもも / 雨つつ。",
+    "title": "OPEN 18:30",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -3188,8 +3188,17 @@
   {
     "date": "2026/03/14",
     "day": "土",
-    "artist": "雨つつ。 and more...",
-    "title": "そうごじた / 意識 / こもも / 雨つつ。",
+    "artist": "雨つつ",
+    "title": "OPEN 18:30",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
+    "date": "2026/03/14",
+    "day": "土",
+    "artist": "意識",
+    "title": "OPEN 18:30",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -3630,7 +3639,7 @@
     "date": "2026/03/27",
     "day": "金",
     "artist": "para-dice 企画",
-    "title": "こねこむ / NA/DA / 田口智章(Muscle of the Soul) / 小原未樹 / nn_underground / \n                    \nSoft Landing",
+    "title": "『 Frame By Frame 』",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -3638,44 +3647,8 @@
   {
     "date": "2026/03/27",
     "day": "金",
-    "artist": "こねこむ",
-    "title": "こねこむ / NA/DA / 田口智章(Muscle of the Soul) / 小原未樹 / nn_underground / \n                    \nSoft Landing",
-    "url": "https://para-dice.net/",
-    "venue": "扇町para-dice",
-    "note": ""
-  },
-  {
-    "date": "2026/03/27",
-    "day": "金",
-    "artist": "NA",
-    "title": "こねこむ / NA/DA / 田口智章(Muscle of the Soul) / 小原未樹 / nn_underground / \n                    \nSoft Landing",
-    "url": "https://para-dice.net/",
-    "venue": "扇町para-dice",
-    "note": ""
-  },
-  {
-    "date": "2026/03/27",
-    "day": "金",
-    "artist": "DA",
-    "title": "こねこむ / NA/DA / 田口智章(Muscle of the Soul) / 小原未樹 / nn_underground / \n                    \nSoft Landing",
-    "url": "https://para-dice.net/",
-    "venue": "扇町para-dice",
-    "note": ""
-  },
-  {
-    "date": "2026/03/27",
-    "day": "金",
-    "artist": "田口智章",
-    "title": "こねこむ / NA/DA / 田口智章(Muscle of the Soul) / 小原未樹 / nn_underground / \n                    \nSoft Landing",
-    "url": "https://para-dice.net/",
-    "venue": "扇町para-dice",
-    "note": ""
-  },
-  {
-    "date": "2026/03/27",
-    "day": "金",
-    "artist": "小原未樹",
-    "title": "こねこむ / NA/DA / 田口智章(Muscle of the Soul) / 小原未樹 / nn_underground / \n                    \nSoft Landing",
+    "artist": "『 Frame By Frame 』",
+    "title": "『 Frame By Frame 』",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -3684,7 +3657,16 @@
     "date": "2026/03/27",
     "day": "金",
     "artist": "nn_underground",
-    "title": "こねこむ / NA/DA / 田口智章(Muscle of the Soul) / 小原未樹 / nn_underground / \n                    \nSoft Landing",
+    "title": "『 Frame By Frame 』",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
+    "date": "2026/03/27",
+    "day": "金",
+    "artist": "こねこむ",
+    "title": "『 Frame By Frame 』",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -3693,7 +3675,34 @@
     "date": "2026/03/27",
     "day": "金",
     "artist": "Soft Landing",
-    "title": "こねこむ / NA/DA / 田口智章(Muscle of the Soul) / 小原未樹 / nn_underground / \n                    \nSoft Landing",
+    "title": "『 Frame By Frame 』",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
+    "date": "2026/03/27",
+    "day": "金",
+    "artist": "小原未樹",
+    "title": "『 Frame By Frame 』",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
+    "date": "2026/03/27",
+    "day": "金",
+    "artist": "田口智章",
+    "title": "『 Frame By Frame 』",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
+    "date": "2026/03/27",
+    "day": "金",
+    "artist": "NA/DA",
+    "title": "『 Frame By Frame 』",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -7245,6 +7254,15 @@
     "note": ""
   },
   {
+    "date": "2026/03/08",
+    "day": "日",
+    "artist": "アブソプ",
+    "title": "アブソプ pre. 『Miss Lady』",
+    "url": "https://vijon.jp/schedule/detail/51402",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
     "date": "2026/03/09",
     "day": "月",
     "artist": "Azami Fun Club Live Try out POPs vol.2",
@@ -9506,7 +9524,7 @@
   {
     "date": "2026/02/20",
     "day": "金",
-    "artist": "超★NOVA24",
+    "artist": "大阪24区ガールズ",
     "title": "HOLIC! HOLIC!",
     "url": "https://bangboo.jp/schedule/detail/47642",
     "venue": "梅田BANGBOO",
@@ -10103,6 +10121,15 @@
     "artist": "ELVA 嫉兎のアリバイ JET!!Princely 幽獄パレード RoiAm クロロホルム キミトソラ UNWHITE 千慄レベリオ",
     "title": "「Pr!ince Fes Special」 @梅田BANGBOO",
     "url": "https://bangboo.jp/schedule/detail/49049",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2026/02/25",
+    "day": "水",
+    "artist": "みらくらんど、宇宙∞プラネクシア  衣装交換・楽曲交換あり",
+    "title": "みらくるPLANET",
+    "url": "https://bangboo.jp/schedule/detail/47951",
     "venue": "梅田BANGBOO",
     "note": ""
   },
@@ -14346,6 +14373,186 @@
     "note": ""
   },
   {
+    "date": "2026/03/01",
+    "day": "日",
+    "artist": "アブソプ",
+    "title": "ABSOP pre. 『UNBRACE』",
+    "url": "https://clubdrop.jp/schedule/detail/51382",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/03/01",
+    "day": "日",
+    "artist": "LINK START",
+    "title": "ABSOP pre. 『UNBRACE』",
+    "url": "https://clubdrop.jp/schedule/detail/51382",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/03/01",
+    "day": "日",
+    "artist": "SPRISE",
+    "title": "ABSOP pre. 『UNBRACE』",
+    "url": "https://clubdrop.jp/schedule/detail/51382",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/03/01",
+    "day": "日",
+    "artist": "sync-sens",
+    "title": "ABSOP pre. 『UNBRACE』",
+    "url": "https://clubdrop.jp/schedule/detail/51382",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/03/01",
+    "day": "日",
+    "artist": "ディノゾール",
+    "title": "ABSOP pre. 『UNBRACE』",
+    "url": "https://clubdrop.jp/schedule/detail/51382",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/03/01",
+    "day": "日",
+    "artist": "フォーチュネス",
+    "title": "ABSOP pre. 『UNBRACE』",
+    "url": "https://clubdrop.jp/schedule/detail/51382",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/03/01",
+    "day": "日",
+    "artist": "カミサマパレード",
+    "title": "ABSOP pre. 『UNBRACE』",
+    "url": "https://clubdrop.jp/schedule/detail/51382",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/03/01",
+    "day": "日",
+    "artist": "BreakTheLimit",
+    "title": "ABSOP pre. 『UNBRACE』",
+    "url": "https://clubdrop.jp/schedule/detail/51382",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/03/01",
+    "day": "日",
+    "artist": "SANUGLOW",
+    "title": "ABSOP pre. 『UNBRACE』",
+    "url": "https://clubdrop.jp/schedule/detail/51382",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/03/01",
+    "day": "日",
+    "artist": "ミラーシュカ",
+    "title": "ABSOP pre. 『UNBRACE』",
+    "url": "https://clubdrop.jp/schedule/detail/51382",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/03/01",
+    "day": "日",
+    "artist": "Lumi Prima",
+    "title": "アイドル好きで何がわるい",
+    "url": "https://clubdrop.jp/schedule/detail/42348",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/03/01",
+    "day": "日",
+    "artist": "lullllul",
+    "title": "アイドル好きで何がわるい",
+    "url": "https://clubdrop.jp/schedule/detail/42348",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/03/01",
+    "day": "日",
+    "artist": "アクアリウム",
+    "title": "アイドル好きで何がわるい",
+    "url": "https://clubdrop.jp/schedule/detail/42348",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/03/01",
+    "day": "日",
+    "artist": "AsteRythm",
+    "title": "アイドル好きで何がわるい",
+    "url": "https://clubdrop.jp/schedule/detail/42348",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/03/01",
+    "day": "日",
+    "artist": "ドレミファイン♪",
+    "title": "アイドル好きで何がわるい",
+    "url": "https://clubdrop.jp/schedule/detail/42348",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/03/01",
+    "day": "日",
+    "artist": "naniwairo",
+    "title": "アイドル好きで何がわるい",
+    "url": "https://clubdrop.jp/schedule/detail/42348",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/03/01",
+    "day": "日",
+    "artist": "ミケネコガールズ",
+    "title": "アイドル好きで何がわるい",
+    "url": "https://clubdrop.jp/schedule/detail/42348",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/03/01",
+    "day": "日",
+    "artist": "Nody",
+    "title": "アイドル好きで何がわるい",
+    "url": "https://clubdrop.jp/schedule/detail/42348",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/03/01",
+    "day": "日",
+    "artist": "MeluCharm",
+    "title": "アイドル好きで何がわるい",
+    "url": "https://clubdrop.jp/schedule/detail/42348",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/03/01",
+    "day": "日",
+    "artist": "むげんこんぜ",
+    "title": "アイドル好きで何がわるい",
+    "url": "https://clubdrop.jp/schedule/detail/42348",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
     "date": "2026/03/02",
     "day": "月",
     "artist": "BACKDAV",
@@ -15161,6 +15368,348 @@
     "artist": "イロムク",
     "title": "ZERO NEN CIRCUIT2026",
     "url": "https://clubdrop.jp/schedule/detail/48971",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/03/22",
+    "day": "日",
+    "artist": "anemoreel",
+    "title": "超！Lovely W",
+    "url": "https://clubdrop.jp/schedule/detail/44203",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/03/22",
+    "day": "日",
+    "artist": "イロハサクラ",
+    "title": "超！Lovely W",
+    "url": "https://clubdrop.jp/schedule/detail/44203",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/03/22",
+    "day": "日",
+    "artist": "うぃるめり！",
+    "title": "超！Lovely W",
+    "url": "https://clubdrop.jp/schedule/detail/44203",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/03/22",
+    "day": "日",
+    "artist": "永遠のセツナ",
+    "title": "超！Lovely W",
+    "url": "https://clubdrop.jp/schedule/detail/44203",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/03/22",
+    "day": "日",
+    "artist": "Qu♡Aly",
+    "title": "超！Lovely W",
+    "url": "https://clubdrop.jp/schedule/detail/44203",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/03/22",
+    "day": "日",
+    "artist": "Krown Krown",
+    "title": "超！Lovely W",
+    "url": "https://clubdrop.jp/schedule/detail/44203",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/03/22",
+    "day": "日",
+    "artist": "CRYZ",
+    "title": "超！Lovely W",
+    "url": "https://clubdrop.jp/schedule/detail/44203",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/03/22",
+    "day": "日",
+    "artist": "COzMICぱれーど",
+    "title": "超！Lovely W",
+    "url": "https://clubdrop.jp/schedule/detail/44203",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/03/22",
+    "day": "日",
+    "artist": "SANUGLOW",
+    "title": "超！Lovely W",
+    "url": "https://clubdrop.jp/schedule/detail/44203",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/03/22",
+    "day": "日",
+    "artist": "sync-sens",
+    "title": "超！Lovely W",
+    "url": "https://clubdrop.jp/schedule/detail/44203",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/03/22",
+    "day": "日",
+    "artist": "スキトオルアオ",
+    "title": "超！Lovely W",
+    "url": "https://clubdrop.jp/schedule/detail/44203",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/03/22",
+    "day": "日",
+    "artist": "SKILL of light",
+    "title": "超！Lovely W",
+    "url": "https://clubdrop.jp/schedule/detail/44203",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/03/22",
+    "day": "日",
+    "artist": "ゼロキョリハーツ",
+    "title": "超！Lovely W",
+    "url": "https://clubdrop.jp/schedule/detail/44203",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/03/22",
+    "day": "日",
+    "artist": "TIPINKIT",
+    "title": "超！Lovely W",
+    "url": "https://clubdrop.jp/schedule/detail/44203",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/03/22",
+    "day": "日",
+    "artist": "naniwairo",
+    "title": "超！Lovely W",
+    "url": "https://clubdrop.jp/schedule/detail/44203",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/03/22",
+    "day": "日",
+    "artist": "NEO BREAK",
+    "title": "超！Lovely W",
+    "url": "https://clubdrop.jp/schedule/detail/44203",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/03/22",
+    "day": "日",
+    "artist": "ネテルダイヤ",
+    "title": "超！Lovely W",
+    "url": "https://clubdrop.jp/schedule/detail/44203",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/03/22",
+    "day": "日",
+    "artist": "ノースサウンド新グループ候補生",
+    "title": "超！Lovely W",
+    "url": "https://clubdrop.jp/schedule/detail/44203",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/03/22",
+    "day": "日",
+    "artist": "Nody",
+    "title": "超！Lovely W",
+    "url": "https://clubdrop.jp/schedule/detail/44203",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/03/22",
+    "day": "日",
+    "artist": "Hi-Fi GIRLs PROJECT Osaka Fleur",
+    "title": "超！Lovely W",
+    "url": "https://clubdrop.jp/schedule/detail/44203",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/03/22",
+    "day": "日",
+    "artist": "Hi-Fi GIRLs PROJECT Osaka Poifull",
+    "title": "超！Lovely W",
+    "url": "https://clubdrop.jp/schedule/detail/44203",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/03/22",
+    "day": "日",
+    "artist": "Hi-Fi GIRLs PROJECT Osaka Morpho",
+    "title": "超！Lovely W",
+    "url": "https://clubdrop.jp/schedule/detail/44203",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/03/22",
+    "day": "日",
+    "artist": "BABEL",
+    "title": "超！Lovely W",
+    "url": "https://clubdrop.jp/schedule/detail/44203",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/03/22",
+    "day": "日",
+    "artist": "#BEMYLOVE",
+    "title": "超！Lovely W",
+    "url": "https://clubdrop.jp/schedule/detail/44203",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/03/22",
+    "day": "日",
+    "artist": "FanCy-",
+    "title": "超！Lovely W",
+    "url": "https://clubdrop.jp/schedule/detail/44203",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/03/22",
+    "day": "日",
+    "artist": "ふぁんたす！",
+    "title": "超！Lovely W",
+    "url": "https://clubdrop.jp/schedule/detail/44203",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/03/22",
+    "day": "日",
+    "artist": "プラチナリボン",
+    "title": "超！Lovely W",
+    "url": "https://clubdrop.jp/schedule/detail/44203",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/03/22",
+    "day": "日",
+    "artist": "プラリオン",
+    "title": "超！Lovely W",
+    "url": "https://clubdrop.jp/schedule/detail/44203",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/03/22",
+    "day": "日",
+    "artist": "POLARiS",
+    "title": "超！Lovely W",
+    "url": "https://clubdrop.jp/schedule/detail/44203",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/03/22",
+    "day": "日",
+    "artist": "meluQ",
+    "title": "超！Lovely W",
+    "url": "https://clubdrop.jp/schedule/detail/44203",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/03/22",
+    "day": "日",
+    "artist": "LuvHz",
+    "title": "超！Lovely W",
+    "url": "https://clubdrop.jp/schedule/detail/44203",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/03/22",
+    "day": "日",
+    "artist": "lullllul",
+    "title": "超！Lovely W",
+    "url": "https://clubdrop.jp/schedule/detail/44203",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/03/22",
+    "day": "日",
+    "artist": "リボンのないぷれぜんと",
+    "title": "超！Lovely W",
+    "url": "https://clubdrop.jp/schedule/detail/44203",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/03/22",
+    "day": "日",
+    "artist": "LyricalPopParadox",
+    "title": "超！Lovely W",
+    "url": "https://clubdrop.jp/schedule/detail/44203",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/03/22",
+    "day": "日",
+    "artist": "リリシック学園",
+    "title": "超！Lovely W",
+    "url": "https://clubdrop.jp/schedule/detail/44203",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/03/22",
+    "day": "日",
+    "artist": "Lumi Prima",
+    "title": "超！Lovely W",
+    "url": "https://clubdrop.jp/schedule/detail/44203",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/03/22",
+    "day": "日",
+    "artist": "LΩPARA",
+    "title": "超！Lovely W",
+    "url": "https://clubdrop.jp/schedule/detail/44203",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/03/22",
+    "day": "日",
+    "artist": "わんみゅーず！",
+    "title": "超！Lovely W",
+    "url": "https://clubdrop.jp/schedule/detail/44203",
     "venue": "アメリカ村DROP",
     "note": ""
   },
@@ -17987,6 +18536,141 @@
     "artist": "わんだー九",
     "title": "春の昼！ひな祭り直前歌謡祭！ ～うれしはずかし！タマシイ！My！Revolution！～",
     "url": "https://osaka-varon.jp/schedule/detail/44236",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2026/03/01",
+    "day": "日",
+    "artist": "ミラーシュカ",
+    "title": "ミラーシュカ pre 『ClubVechel』",
+    "url": "https://osaka-varon.jp/schedule/detail/44959",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2026/03/01",
+    "day": "日",
+    "artist": "SANUGLOW",
+    "title": "ミラーシュカ pre 『ClubVechel』",
+    "url": "https://osaka-varon.jp/schedule/detail/44959",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2026/03/01",
+    "day": "日",
+    "artist": "LINK START",
+    "title": "ミラーシュカ pre 『ClubVechel』",
+    "url": "https://osaka-varon.jp/schedule/detail/44959",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2026/03/01",
+    "day": "日",
+    "artist": "KAMuRO",
+    "title": "ミラーシュカ pre 『ClubVechel』",
+    "url": "https://osaka-varon.jp/schedule/detail/44959",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2026/03/01",
+    "day": "日",
+    "artist": "AIMIA",
+    "title": "ミラーシュカ pre 『ClubVechel』",
+    "url": "https://osaka-varon.jp/schedule/detail/44959",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2026/03/01",
+    "day": "日",
+    "artist": "sync-sens",
+    "title": "ミラーシュカ pre 『ClubVechel』",
+    "url": "https://osaka-varon.jp/schedule/detail/44959",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2026/03/01",
+    "day": "日",
+    "artist": "ディノゾール",
+    "title": "ミラーシュカ pre 『ClubVechel』",
+    "url": "https://osaka-varon.jp/schedule/detail/44959",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2026/03/01",
+    "day": "日",
+    "artist": "Lumi Prima",
+    "title": "carol pixie - purple-",
+    "url": "https://osaka-varon.jp/schedule/detail/51408",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2026/03/01",
+    "day": "日",
+    "artist": "lullllul",
+    "title": "carol pixie - purple-",
+    "url": "https://osaka-varon.jp/schedule/detail/51408",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2026/03/01",
+    "day": "日",
+    "artist": "アクアリウム",
+    "title": "carol pixie - purple-",
+    "url": "https://osaka-varon.jp/schedule/detail/51408",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2026/03/01",
+    "day": "日",
+    "artist": "AsteRythm",
+    "title": "carol pixie - purple-",
+    "url": "https://osaka-varon.jp/schedule/detail/51408",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2026/03/01",
+    "day": "日",
+    "artist": "ドレミファイン♪",
+    "title": "carol pixie - purple-",
+    "url": "https://osaka-varon.jp/schedule/detail/51408",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2026/03/01",
+    "day": "日",
+    "artist": "naniwairo",
+    "title": "carol pixie - purple-",
+    "url": "https://osaka-varon.jp/schedule/detail/51408",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2026/03/01",
+    "day": "日",
+    "artist": "MeluCharm",
+    "title": "carol pixie - purple-",
+    "url": "https://osaka-varon.jp/schedule/detail/51408",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2026/03/01",
+    "day": "日",
+    "artist": "むげんこんぜ",
+    "title": "carol pixie - purple-",
+    "url": "https://osaka-varon.jp/schedule/detail/51408",
     "venue": "VARON",
     "note": ""
   },
