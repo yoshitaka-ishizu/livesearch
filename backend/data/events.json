@@ -569,26 +569,8 @@
   {
     "date": "2026/02/23",
     "day": "",
-    "artist": "Split end",
-    "title": "Super Nova",
-    "url": "https://fireloop.net/schedule_now.shtml#0223",
-    "venue": "寺田町Fireloop",
-    "note": ""
-  },
-  {
-    "date": "2026/02/23",
-    "day": "",
-    "artist": "衝動革命",
-    "title": "Super Nova",
-    "url": "https://fireloop.net/schedule_now.shtml#0223",
-    "venue": "寺田町Fireloop",
-    "note": ""
-  },
-  {
-    "date": "2026/02/23",
-    "day": "",
-    "artist": "DJ : ouirou",
-    "title": "Super Nova",
+    "artist": "永遠のセツナ",
+    "title": "永遠のセツナ1周年ワンマンライブ",
     "url": "https://fireloop.net/schedule_now.shtml#0223",
     "venue": "寺田町Fireloop",
     "note": ""
@@ -1064,7 +1046,16 @@
   {
     "date": "2026/03/28",
     "day": "",
-    "artist": "and more…",
+    "artist": "miyama",
+    "title": "WILDNESS! vol.4",
+    "url": "https://fireloop.net/schedule_now.shtml#0328",
+    "venue": "寺田町Fireloop",
+    "note": ""
+  },
+  {
+    "date": "2026/03/28",
+    "day": "",
+    "artist": "コロブチカ",
     "title": "WILDNESS! vol.4",
     "url": "https://fireloop.net/schedule_now.shtml#0328",
     "venue": "寺田町Fireloop",
@@ -7382,7 +7373,16 @@
   {
     "date": "2026/03/04",
     "day": "水",
-    "artist": "ANDY 審査員：YUA",
+    "artist": "ANDY",
+    "title": "【北堀江 めるとだうん】~第一回 BISTRO VIJON 2026 & PLAY-1 グランプリ開催~",
+    "url": "https://vijon.jp/schedule/detail/51204",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2026/03/04",
+    "day": "水",
+    "artist": "Mary Ann 審査員：YUA",
     "title": "【北堀江 めるとだうん】~第一回 BISTRO VIJON 2026 & PLAY-1 グランプリ開催~",
     "url": "https://vijon.jp/schedule/detail/51204",
     "venue": "北堀江club vijon",
@@ -7961,6 +7961,33 @@
     "artist": "SARIOLA",
     "title": "SARIOLA JAPAN TOUR 2026 \"VOYAGER\"",
     "url": "https://vijon.jp/schedule/detail/49827",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2026/04/21",
+    "day": "火",
+    "artist": "まみれた",
+    "title": "「新しい友達と一緒〜東名阪編〜」",
+    "url": "https://vijon.jp/schedule/detail/49536",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2026/04/21",
+    "day": "火",
+    "artist": "鮮血A子ちゃん",
+    "title": "「新しい友達と一緒〜東名阪編〜」",
+    "url": "https://vijon.jp/schedule/detail/49536",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2026/04/21",
+    "day": "火",
+    "artist": "カリソメ",
+    "title": "「新しい友達と一緒〜東名阪編〜」",
+    "url": "https://vijon.jp/schedule/detail/49536",
     "venue": "北堀江club vijon",
     "note": ""
   },
@@ -15114,8 +15141,8 @@
     "date": "2026/03/07",
     "day": "土",
     "artist": "More Sisters",
-    "title": "More Sisters 3大都市ツア〜More Melody♩〜",
-    "url": "https://clubdrop.jp/schedule/detail/48450",
+    "title": "早川聖菜 × 早川夢菜 ソロライブ「VS」",
+    "url": "https://clubdrop.jp/schedule/detail/51482",
     "venue": "アメリカ村DROP",
     "note": ""
   },
@@ -19305,6 +19332,15 @@
     "note": ""
   },
   {
+    "date": "2026/03/01",
+    "day": "日",
+    "artist": "Nody",
+    "title": "carol pixie - purple-",
+    "url": "https://osaka-varon.jp/schedule/detail/51408",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
     "date": "2026/03/02",
     "day": "月",
     "artist": "ONAKAMA",
@@ -19463,6 +19499,24 @@
     "artist": "cleomery",
     "title": "光波ミチ生誕祭「紡いできた魔法」",
     "url": "https://osaka-varon.jp/schedule/detail/46757",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2026/03/04",
+    "day": "水",
+    "artist": "husky",
+    "title": "為虎傅翼ーイコフヨクー　龍虎の変（ココロシンドローム）",
+    "url": "https://osaka-varon.jp/schedule/detail/47035",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2026/03/04",
+    "day": "水",
+    "artist": "ココロシンドローム",
+    "title": "為虎傅翼ーイコフヨクー　龍虎の変（ココロシンドローム）",
+    "url": "https://osaka-varon.jp/schedule/detail/47035",
     "venue": "VARON",
     "note": ""
   },
@@ -19976,6 +20030,24 @@
     "artist": "B'low",
     "title": "MUSIC BOTTLE vol.19 2days school festival DAY2",
     "url": "https://osaka-varon.jp/schedule/detail/47016",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2026/03/12",
+    "day": "木",
+    "artist": "husky",
+    "title": "為虎傅翼ーイコフヨクー　龍虎の変（AZ-ON）",
+    "url": "https://osaka-varon.jp/schedule/detail/47036",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2026/03/12",
+    "day": "木",
+    "artist": "AZ-ON",
+    "title": "為虎傅翼ーイコフヨクー　龍虎の変（AZ-ON）",
+    "url": "https://osaka-varon.jp/schedule/detail/47036",
     "venue": "VARON",
     "note": ""
   },
@@ -20763,11 +20835,83 @@
     "note": ""
   },
   {
+    "date": "2026/04/01",
+    "day": "水",
+    "artist": "husky",
+    "title": "為虎傅翼ーイコフヨクー　龍虎の変（グットクルー）",
+    "url": "https://osaka-varon.jp/schedule/detail/48640",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2026/04/01",
+    "day": "水",
+    "artist": "グットクルー",
+    "title": "為虎傅翼ーイコフヨクー　龍虎の変（グットクルー）",
+    "url": "https://osaka-varon.jp/schedule/detail/48640",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
     "date": "2026/04/04",
     "day": "土",
     "artist": "DAIDA LAIDA",
     "title": "「DAIDA LAIDA 2026～BoN To Be Wild～」",
     "url": "https://osaka-varon.jp/schedule/detail/43672",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2026/04/07",
+    "day": "火",
+    "artist": "husky",
+    "title": "為虎傅翼ーイコフヨクー　龍虎の変（ExciteOneSelf）",
+    "url": "https://osaka-varon.jp/schedule/detail/48641",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2026/04/07",
+    "day": "火",
+    "artist": "ExciteOneSelf",
+    "title": "為虎傅翼ーイコフヨクー　龍虎の変（ExciteOneSelf）",
+    "url": "https://osaka-varon.jp/schedule/detail/48641",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2026/04/09",
+    "day": "木",
+    "artist": "マイフェアガ→ル",
+    "title": "マイフェアガ→ル定期公演 【カレイドスコープ OSAKA】",
+    "url": "https://osaka-varon.jp/schedule/detail/48600",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2026/04/09",
+    "day": "木",
+    "artist": "NiL",
+    "title": "マイフェアガ→ル定期公演 【カレイドスコープ OSAKA】",
+    "url": "https://osaka-varon.jp/schedule/detail/48600",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2026/04/09",
+    "day": "木",
+    "artist": "ネテルダイヤ",
+    "title": "マイフェアガ→ル定期公演 【カレイドスコープ OSAKA】",
+    "url": "https://osaka-varon.jp/schedule/detail/48600",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2026/04/09",
+    "day": "木",
+    "artist": "妖狐繚乱",
+    "title": "マイフェアガ→ル定期公演 【カレイドスコープ OSAKA】",
+    "url": "https://osaka-varon.jp/schedule/detail/48600",
     "venue": "VARON",
     "note": ""
   },
@@ -26591,6 +26735,15 @@
     "artist": "哀と凛人の無所属",
     "title": "哀と凛人の無所属 単独営利目的ライヴ 「おへその緒。-東西編-」 day2-大阪-",
     "url": "https://osaka-zeela.jp/schedule/detail/45383",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2026/05/11",
+    "day": "月",
+    "artist": "とっこのんか 〜バンドセットワンマンライブ〜",
+    "title": "ブラックシープが笑う【延期公演】",
+    "url": "https://osaka-zeela.jp/schedule/detail/50196",
     "venue": "Zeela",
     "note": ""
   },
