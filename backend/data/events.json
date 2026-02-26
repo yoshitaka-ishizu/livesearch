@@ -2451,7 +2451,7 @@
     "date": "2026/02/26",
     "day": "木",
     "artist": "タイラキタ",
-    "title": "OPEN 18:00",
+    "title": "OPEN 18:30",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -2460,16 +2460,7 @@
     "date": "2026/02/26",
     "day": "木",
     "artist": "河口　績",
-    "title": "OPEN 18:00",
-    "url": "https://para-dice.net/",
-    "venue": "扇町para-dice",
-    "note": ""
-  },
-  {
-    "date": "2026/02/26",
-    "day": "木",
-    "artist": "The purple parks!",
-    "title": "OPEN 18:00",
+    "title": "OPEN 18:30",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -2478,7 +2469,7 @@
     "date": "2026/02/26",
     "day": "木",
     "artist": "けーずや。",
-    "title": "OPEN 18:00",
+    "title": "OPEN 18:30",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -2487,7 +2478,7 @@
     "date": "2026/02/26",
     "day": "木",
     "artist": "エチュバリア",
-    "title": "OPEN 18:00",
+    "title": "OPEN 18:30",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -2496,7 +2487,25 @@
     "date": "2026/02/26",
     "day": "木",
     "artist": "村瀬裕子",
-    "title": "OPEN 18:00",
+    "title": "OPEN 18:30",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
+    "date": "2026/02/26",
+    "day": "木",
+    "artist": "※The purple parks!は諸事情により出演キャンセルとなりました。",
+    "title": "OPEN 18:30",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
+    "date": "2026/02/26",
+    "day": "木",
+    "artist": "それに伴いタイムテーブルが変更になっています。ご注意ください。",
+    "title": "OPEN 18:30",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -4242,6 +4251,24 @@
     "date": "2026/04/06",
     "day": "月",
     "artist": "El Primo",
+    "title": "para-dice企画",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
+    "date": "2026/04/06",
+    "day": "月",
+    "artist": "Andy Garden",
+    "title": "para-dice企画",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
+    "date": "2026/04/06",
+    "day": "月",
+    "artist": "TOTOJI",
     "title": "para-dice企画",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
@@ -7952,6 +7979,33 @@
     "artist": "ティンカーベル初野",
     "title": "【dawn】 - club vijon 23.5th anniversary -",
     "url": "https://vijon.jp/schedule/detail/48237",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2026/03/31",
+    "day": "火",
+    "artist": "ELECTRIC MAMA",
+    "title": "【気ガ狂イソウナ3MAN　壱】",
+    "url": "https://vijon.jp/schedule/detail/48961",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2026/03/31",
+    "day": "火",
+    "artist": "ウツシヨ",
+    "title": "【気ガ狂イソウナ3MAN　壱】",
+    "url": "https://vijon.jp/schedule/detail/48961",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2026/03/31",
+    "day": "火",
+    "artist": "ヤングマンパワー",
+    "title": "【気ガ狂イソウナ3MAN　壱】",
+    "url": "https://vijon.jp/schedule/detail/48961",
     "venue": "北堀江club vijon",
     "note": ""
   },
@@ -12141,6 +12195,24 @@
     "note": ""
   },
   {
+    "date": "2026/04/16",
+    "day": "木",
+    "artist": "アイスクリームネバーグラウンド",
+    "title": "Dickies Official & アイスクリームネバーグラウンド Presents【ディッキ履かなきゃ入れません！】彩りを纏いし者達",
+    "url": "https://bangboo.jp/schedule/detail/50480",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2026/04/16",
+    "day": "木",
+    "artist": "THE JAPANESE PRIDE",
+    "title": "Dickies Official & アイスクリームネバーグラウンド Presents【ディッキ履かなきゃ入れません！】彩りを纏いし者達",
+    "url": "https://bangboo.jp/schedule/detail/50480",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
     "date": "2026/04/20",
     "day": "月",
     "artist": "世史久",
@@ -12461,6 +12533,78 @@
     "artist": "umbrella",
     "title": "umbrella 春 生誕祭 ONEMAN  【アマヤドリ-燻-】",
     "url": "https://bangboo.jp/schedule/detail/50282",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2026/05/07",
+    "day": "木",
+    "artist": "WONDER CITY BOYS",
+    "title": "WONDER CITY BOYS&BANGBOO pre.「次元を超えて君とリンク」vol.1",
+    "url": "https://bangboo.jp/schedule/detail/50516",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2026/05/07",
+    "day": "木",
+    "artist": "Stardust Alone",
+    "title": "WONDER CITY BOYS&BANGBOO pre.「次元を超えて君とリンク」vol.1",
+    "url": "https://bangboo.jp/schedule/detail/50516",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2026/05/07",
+    "day": "木",
+    "artist": "Accelerator",
+    "title": "WONDER CITY BOYS&BANGBOO pre.「次元を超えて君とリンク」vol.1",
+    "url": "https://bangboo.jp/schedule/detail/50516",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2026/05/07",
+    "day": "木",
+    "artist": "caramel chocolate",
+    "title": "WONDER CITY BOYS&BANGBOO pre.「次元を超えて君とリンク」vol.1",
+    "url": "https://bangboo.jp/schedule/detail/50516",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2026/05/07",
+    "day": "木",
+    "artist": "けーずや。",
+    "title": "WONDER CITY BOYS&BANGBOO pre.「次元を超えて君とリンク」vol.1",
+    "url": "https://bangboo.jp/schedule/detail/50516",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2026/05/07",
+    "day": "木",
+    "artist": "歪みの国のチェルシー",
+    "title": "WONDER CITY BOYS&BANGBOO pre.「次元を超えて君とリンク」vol.1",
+    "url": "https://bangboo.jp/schedule/detail/50516",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2026/05/07",
+    "day": "木",
+    "artist": "河口績（w専用ズゴック)",
+    "title": "WONDER CITY BOYS&BANGBOO pre.「次元を超えて君とリンク」vol.1",
+    "url": "https://bangboo.jp/schedule/detail/50516",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2026/05/07",
+    "day": "木",
+    "artist": "and more",
+    "title": "WONDER CITY BOYS&BANGBOO pre.「次元を超えて君とリンク」vol.1",
+    "url": "https://bangboo.jp/schedule/detail/50516",
     "venue": "梅田BANGBOO",
     "note": ""
   },
@@ -20361,15 +20505,6 @@
     "date": "2026/03/13",
     "day": "金",
     "artist": "マキシマム ザ ウォーグレイモン",
-    "title": "FULL MOSH FEST",
-    "url": "https://osaka-varon.jp/schedule/detail/46051",
-    "venue": "VARON",
-    "note": ""
-  },
-  {
-    "date": "2026/03/13",
-    "day": "金",
-    "artist": "痛みをしれ",
     "title": "FULL MOSH FEST",
     "url": "https://osaka-varon.jp/schedule/detail/46051",
     "venue": "VARON",
