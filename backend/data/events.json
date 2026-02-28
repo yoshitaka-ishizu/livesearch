@@ -4800,7 +4800,7 @@
     "date": "2026/04/17",
     "day": "金",
     "artist": "para-dice 17th anniversary",
-    "title": "Obake-Numa2 ~after the night race~企画",
+    "title": "豆鉄砲を撃ちまくれ！Season2 vol.1",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -4808,8 +4808,8 @@
   {
     "date": "2026/04/17",
     "day": "金",
-    "artist": "Obake-Numa2 ~after the night race~企画",
-    "title": "Obake-Numa2 ~after the night race~企画",
+    "artist": "豆鉄砲を撃ちまくれ！Season2 vol.1",
+    "title": "豆鉄砲を撃ちまくれ！Season2 vol.1",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -4817,8 +4817,17 @@
   {
     "date": "2026/04/17",
     "day": "金",
-    "artist": "Obake-Numa2 ~after the night race~",
-    "title": "Obake-Numa2 ~after the night race~企画",
+    "artist": "~㊗️扇町para-dice17周年編~",
+    "title": "豆鉄砲を撃ちまくれ！Season2 vol.1",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
+    "date": "2026/04/17",
+    "day": "金",
+    "artist": "Obake-Numa2~after the night race ~",
+    "title": "豆鉄砲を撃ちまくれ！Season2 vol.1",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -4827,7 +4836,7 @@
     "date": "2026/04/17",
     "day": "金",
     "artist": "バンド喫茶",
-    "title": "Obake-Numa2 ~after the night race~企画",
+    "title": "豆鉄砲を撃ちまくれ！Season2 vol.1",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -4836,7 +4845,7 @@
     "date": "2026/04/17",
     "day": "金",
     "artist": "torobi",
-    "title": "Obake-Numa2 ~after the night race~企画",
+    "title": "豆鉄砲を撃ちまくれ！Season2 vol.1",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -4845,7 +4854,7 @@
     "date": "2026/04/17",
     "day": "金",
     "artist": "neke",
-    "title": "Obake-Numa2 ~after the night race~企画",
+    "title": "豆鉄砲を撃ちまくれ！Season2 vol.1",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -7256,6 +7265,15 @@
   {
     "date": "2026/02/28",
     "day": "土",
+    "artist": "LuvHz",
+    "title": "Squall Line tetote卒業前ブッキングライブ",
+    "url": "https://vijon.jp/schedule/detail/51456",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2026/02/28",
+    "day": "土",
     "artist": "GUEST： REBEL REBEL",
     "title": "Squall Line ONEMAN LIVE 〜tetote卒業〜",
     "url": "https://vijon.jp/schedule/detail/48165",
@@ -8469,6 +8487,15 @@
     "note": ""
   },
   {
+    "date": "2026/04/04",
+    "day": "土",
+    "artist": "千年メモリーズ",
+    "title": "逆アンガーマネジメント講習 【魔級編】",
+    "url": "https://vijon.jp/schedule/detail/49320",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
     "date": "2026/04/09",
     "day": "木",
     "artist": "アシガルユース",
@@ -8591,6 +8618,51 @@
     "artist": "ノエリア",
     "title": "散▽巡 × club vijon pre.【散▽巡 2nd EP 旅路 ツアーファイナル】",
     "url": "https://vijon.jp/schedule/detail/47236",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2026/04/26",
+    "day": "日",
+    "artist": "a frankenlouie",
+    "title": "club vijon × a frankenlouie pre. a frankenlouie Road to FES.企画\"フランケンポール\"",
+    "url": "https://vijon.jp/schedule/detail/50015",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2026/04/26",
+    "day": "日",
+    "artist": "Junk Unit",
+    "title": "club vijon × a frankenlouie pre. a frankenlouie Road to FES.企画\"フランケンポール\"",
+    "url": "https://vijon.jp/schedule/detail/50015",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2026/04/26",
+    "day": "日",
+    "artist": "kasane",
+    "title": "club vijon × a frankenlouie pre. a frankenlouie Road to FES.企画\"フランケンポール\"",
+    "url": "https://vijon.jp/schedule/detail/50015",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2026/04/26",
+    "day": "日",
+    "artist": "monocalring",
+    "title": "club vijon × a frankenlouie pre. a frankenlouie Road to FES.企画\"フランケンポール\"",
+    "url": "https://vijon.jp/schedule/detail/50015",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2026/04/26",
+    "day": "日",
+    "artist": "...and more",
+    "title": "club vijon × a frankenlouie pre. a frankenlouie Road to FES.企画\"フランケンポール\"",
+    "url": "https://vijon.jp/schedule/detail/50015",
     "venue": "北堀江club vijon",
     "note": ""
   },
@@ -12584,7 +12656,16 @@
   {
     "date": "2026/04/09",
     "day": "木",
-    "artist": "and more",
+    "artist": "Neil DiMC",
+    "title": "【S W E E T E R】vol.6 ~ALLiCA TOUR 2026 【SPiKE】~",
+    "url": "https://bangboo.jp/schedule/detail/49629",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2026/04/09",
+    "day": "木",
+    "artist": "密会と耳鳴り",
     "title": "【S W E E T E R】vol.6 ~ALLiCA TOUR 2026 【SPiKE】~",
     "url": "https://bangboo.jp/schedule/detail/49629",
     "venue": "梅田BANGBOO",
@@ -15710,6 +15791,15 @@
     "artist": "ラビットビット",
     "title": "IDOL GATE in DROP【NIGHT】",
     "url": "https://clubdrop.jp/schedule/detail/51183",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/02/28",
+    "day": "土",
+    "artist": "詳細はフライヤーをご覧ください",
+    "title": "NEO presents. NOCTARNvol.0",
+    "url": "https://clubdrop.jp/schedule/detail/49236",
     "venue": "アメリカ村DROP",
     "note": ""
   },
@@ -21420,6 +21510,15 @@
     "note": ""
   },
   {
+    "date": "2026/03/19",
+    "day": "木",
+    "artist": "むげんこんぜ",
+    "title": "むげんこんぜ定期公演ワンマンライブ \"ばいざとりっぷ\"vol.2",
+    "url": "https://osaka-varon.jp/schedule/detail/47286",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
     "date": "2026/03/20",
     "day": "金",
     "artist": "アクアリウム。",
@@ -22151,7 +22250,7 @@
   {
     "date": "2026/04/13",
     "day": "月",
-    "artist": "ZeL'",
+    "artist": "KILL My NEMESIS",
     "title": "AWAKENING vol.21",
     "url": "https://osaka-varon.jp/schedule/detail/49358",
     "venue": "VARON",
@@ -28391,6 +28490,51 @@
     "artist": "春奈るな",
     "title": "「OSHI TO DATE presents HARUNA LUNA LIVE TOUR 2026 \"Phases of the Moon\"」 [1部] #5 / [2部] #6",
     "url": "https://osaka-zeela.jp/schedule/detail/47975",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2026/07/07",
+    "day": "火",
+    "artist": "Ba：MASAKI",
+    "title": "MASAKIソロツアー2026",
+    "url": "https://osaka-zeela.jp/schedule/detail/46711",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2026/07/07",
+    "day": "火",
+    "artist": "Dr：JOE",
+    "title": "MASAKIソロツアー2026",
+    "url": "https://osaka-zeela.jp/schedule/detail/46711",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2026/07/07",
+    "day": "火",
+    "artist": "Gt：YUKI",
+    "title": "MASAKIソロツアー2026",
+    "url": "https://osaka-zeela.jp/schedule/detail/46711",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2026/07/07",
+    "day": "火",
+    "artist": "Gt：you",
+    "title": "MASAKIソロツアー2026",
+    "url": "https://osaka-zeela.jp/schedule/detail/46711",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2026/07/07",
+    "day": "火",
+    "artist": "Kb：都啓一",
+    "title": "MASAKIソロツアー2026",
+    "url": "https://osaka-zeela.jp/schedule/detail/46711",
     "venue": "Zeela",
     "note": ""
   },
