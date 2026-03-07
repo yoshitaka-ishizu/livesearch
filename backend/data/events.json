@@ -4097,7 +4097,16 @@
   {
     "date": "2026/05/09",
     "day": "土",
-    "artist": "重役出勤 and more...",
+    "artist": "重役出勤",
+    "title": "(from)³ / PPP / Refflucks / ワービー＆サービー / 重役出勤",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
+    "date": "2026/05/09",
+    "day": "土",
+    "artist": "THE 王様クジラ",
     "title": "(from)³ / PPP / Refflucks / ワービー＆サービー / 重役出勤",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
@@ -4152,7 +4161,7 @@
     "date": "2026/05/13",
     "day": "水",
     "artist": "コノカーン",
-    "title": "コノカーン / 愛犬課 / ベンチウォーマーズ / maru",
+    "title": "コノカーン / 愛犬課 / ベンチウォーマーズ / maru / 松延慎吾 / ナカノノナカノナカノ",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -4161,7 +4170,7 @@
     "date": "2026/05/13",
     "day": "水",
     "artist": "愛犬課",
-    "title": "コノカーン / 愛犬課 / ベンチウォーマーズ / maru",
+    "title": "コノカーン / 愛犬課 / ベンチウォーマーズ / maru / 松延慎吾 / ナカノノナカノナカノ",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -4170,7 +4179,7 @@
     "date": "2026/05/13",
     "day": "水",
     "artist": "ベンチウォーマーズ",
-    "title": "コノカーン / 愛犬課 / ベンチウォーマーズ / maru",
+    "title": "コノカーン / 愛犬課 / ベンチウォーマーズ / maru / 松延慎吾 / ナカノノナカノナカノ",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -4178,8 +4187,26 @@
   {
     "date": "2026/05/13",
     "day": "水",
-    "artist": "maru and more...",
-    "title": "コノカーン / 愛犬課 / ベンチウォーマーズ / maru",
+    "artist": "maru",
+    "title": "コノカーン / 愛犬課 / ベンチウォーマーズ / maru / 松延慎吾 / ナカノノナカノナカノ",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
+    "date": "2026/05/13",
+    "day": "水",
+    "artist": "松延慎吾",
+    "title": "コノカーン / 愛犬課 / ベンチウォーマーズ / maru / 松延慎吾 / ナカノノナカノナカノ",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
+    "date": "2026/05/13",
+    "day": "水",
+    "artist": "ナカノノナカノナカノ",
+    "title": "コノカーン / 愛犬課 / ベンチウォーマーズ / maru / 松延慎吾 / ナカノノナカノナカノ",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -4529,7 +4556,16 @@
   {
     "date": "2026/05/23",
     "day": "土",
-    "artist": "Merry Ghosts and more...",
+    "artist": "Merry Ghosts",
+    "title": "para-dice企画",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
+    "date": "2026/05/23",
+    "day": "土",
+    "artist": "poetry of torch and more...",
     "title": "para-dice企画",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
@@ -4612,6 +4648,42 @@
     "day": "月",
     "artist": "Rentaro and more...",
     "title": "ホシノコウスケ / 春田玄 / につりい / Rentaro",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
+    "date": "2026/05/26",
+    "day": "火",
+    "artist": "para-dice企画",
+    "title": "para-dice企画",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
+    "date": "2026/05/26",
+    "day": "火",
+    "artist": "モカリン",
+    "title": "para-dice企画",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
+    "date": "2026/05/26",
+    "day": "火",
+    "artist": "木村三郎",
+    "title": "para-dice企画",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
+    "date": "2026/05/26",
+    "day": "火",
+    "artist": "みのようへいと明明後日  and more...",
+    "title": "para-dice企画",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -5312,9 +5384,144 @@
   {
     "date": "2026/03/08",
     "day": "日",
+    "artist": "SNAUGLOW",
+    "title": "RRR",
+    "url": "https://vijon.jp/schedule/detail/51775",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2026/03/08",
+    "day": "日",
+    "artist": "ミラーシュカ",
+    "title": "RRR",
+    "url": "https://vijon.jp/schedule/detail/51775",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2026/03/08",
+    "day": "日",
+    "artist": "ネテルダイヤ",
+    "title": "RRR",
+    "url": "https://vijon.jp/schedule/detail/51775",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2026/03/08",
+    "day": "日",
+    "artist": "Skill of light",
+    "title": "RRR",
+    "url": "https://vijon.jp/schedule/detail/51775",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2026/03/08",
+    "day": "日",
+    "artist": "Charlotte",
+    "title": "RRR",
+    "url": "https://vijon.jp/schedule/detail/51775",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2026/03/08",
+    "day": "日",
+    "artist": "sync sens",
+    "title": "RRR",
+    "url": "https://vijon.jp/schedule/detail/51775",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2026/03/08",
+    "day": "日",
+    "artist": "ディノゾール",
+    "title": "RRR",
+    "url": "https://vijon.jp/schedule/detail/51775",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2026/03/08",
+    "day": "日",
+    "artist": "KAMuRO",
+    "title": "RRR",
+    "url": "https://vijon.jp/schedule/detail/51775",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2026/03/08",
+    "day": "日",
+    "artist": "CRYZ",
+    "title": "RRR",
+    "url": "https://vijon.jp/schedule/detail/51775",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2026/03/08",
+    "day": "日",
+    "artist": "プラリオン",
+    "title": "RRR",
+    "url": "https://vijon.jp/schedule/detail/51775",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2026/03/08",
+    "day": "日",
+    "artist": "Lumi Prima",
+    "title": "RRR",
+    "url": "https://vijon.jp/schedule/detail/51775",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2026/03/08",
+    "day": "日",
+    "artist": "lullllul",
+    "title": "RRR",
+    "url": "https://vijon.jp/schedule/detail/51775",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2026/03/08",
+    "day": "日",
+    "artist": "SPRISE",
+    "title": "scramble",
+    "url": "https://vijon.jp/schedule/detail/51773",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2026/03/08",
+    "day": "日",
     "artist": "アブソプ",
-    "title": "アブソプ pre.『Miss Lady』",
-    "url": "https://vijon.jp/schedule/detail/51402",
+    "title": "scramble",
+    "url": "https://vijon.jp/schedule/detail/51773",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2026/03/08",
+    "day": "日",
+    "artist": "SANUGLOW",
+    "title": "scramble",
+    "url": "https://vijon.jp/schedule/detail/51773",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2026/03/08",
+    "day": "日",
+    "artist": "POLARiS",
+    "title": "BBB",
+    "url": "https://vijon.jp/schedule/detail/51175",
     "venue": "北堀江club vijon",
     "note": ""
   },
@@ -7938,6 +8145,87 @@
     "note": ""
   },
   {
+    "date": "2026/04/03",
+    "day": "金",
+    "artist": "アクアリウム。",
+    "title": "山紫水明",
+    "url": "https://bangboo.jp/schedule/detail/49651",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2026/04/03",
+    "day": "金",
+    "artist": "ワッツ◎さーくる",
+    "title": "山紫水明",
+    "url": "https://bangboo.jp/schedule/detail/49651",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2026/04/03",
+    "day": "金",
+    "artist": "ゼロキョリハーツ",
+    "title": "山紫水明",
+    "url": "https://bangboo.jp/schedule/detail/49651",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2026/04/03",
+    "day": "金",
+    "artist": "anemoreel",
+    "title": "山紫水明",
+    "url": "https://bangboo.jp/schedule/detail/49651",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2026/04/03",
+    "day": "金",
+    "artist": "うぃるめり！",
+    "title": "山紫水明",
+    "url": "https://bangboo.jp/schedule/detail/49651",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2026/04/03",
+    "day": "金",
+    "artist": "わんみゅーず！",
+    "title": "山紫水明",
+    "url": "https://bangboo.jp/schedule/detail/49651",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2026/04/03",
+    "day": "金",
+    "artist": "COzMICぱれーど",
+    "title": "山紫水明",
+    "url": "https://bangboo.jp/schedule/detail/49651",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2026/04/03",
+    "day": "金",
+    "artist": "RINARIA",
+    "title": "山紫水明",
+    "url": "https://bangboo.jp/schedule/detail/49651",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2026/04/03",
+    "day": "金",
+    "artist": "Fille mimi",
+    "title": "山紫水明",
+    "url": "https://bangboo.jp/schedule/detail/49651",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
     "date": "2026/04/04",
     "day": "土",
     "artist": "ティラミス",
@@ -8193,7 +8481,7 @@
     "date": "2026/04/13",
     "day": "月",
     "artist": "らくだのこぶX",
-    "title": "【DOYAMA BEAT EMOTION】〜ネコトカゲ(東京) / バク(金沢) TOUR〜",
+    "title": "【DOYAMA BEAT EMOTION】〜ネコトカゲ(東京) / バク(金沢) TOUR〜 アンデコレイト『Parallel Paradox』レコ発",
     "url": "https://bangboo.jp/schedule/detail/49767",
     "venue": "梅田BANGBOO",
     "note": ""
@@ -8202,7 +8490,7 @@
     "date": "2026/04/13",
     "day": "月",
     "artist": "ネコトカゲ",
-    "title": "【DOYAMA BEAT EMOTION】〜ネコトカゲ(東京) / バク(金沢) TOUR〜",
+    "title": "【DOYAMA BEAT EMOTION】〜ネコトカゲ(東京) / バク(金沢) TOUR〜 アンデコレイト『Parallel Paradox』レコ発",
     "url": "https://bangboo.jp/schedule/detail/49767",
     "venue": "梅田BANGBOO",
     "note": ""
@@ -8211,7 +8499,7 @@
     "date": "2026/04/13",
     "day": "月",
     "artist": "バク",
-    "title": "【DOYAMA BEAT EMOTION】〜ネコトカゲ(東京) / バク(金沢) TOUR〜",
+    "title": "【DOYAMA BEAT EMOTION】〜ネコトカゲ(東京) / バク(金沢) TOUR〜 アンデコレイト『Parallel Paradox』レコ発",
     "url": "https://bangboo.jp/schedule/detail/49767",
     "venue": "梅田BANGBOO",
     "note": ""
@@ -8220,7 +8508,7 @@
     "date": "2026/04/13",
     "day": "月",
     "artist": "AcroBox",
-    "title": "【DOYAMA BEAT EMOTION】〜ネコトカゲ(東京) / バク(金沢) TOUR〜",
+    "title": "【DOYAMA BEAT EMOTION】〜ネコトカゲ(東京) / バク(金沢) TOUR〜 アンデコレイト『Parallel Paradox』レコ発",
     "url": "https://bangboo.jp/schedule/detail/49767",
     "venue": "梅田BANGBOO",
     "note": ""
@@ -8229,7 +8517,7 @@
     "date": "2026/04/13",
     "day": "月",
     "artist": "けーずや。",
-    "title": "【DOYAMA BEAT EMOTION】〜ネコトカゲ(東京) / バク(金沢) TOUR〜",
+    "title": "【DOYAMA BEAT EMOTION】〜ネコトカゲ(東京) / バク(金沢) TOUR〜 アンデコレイト『Parallel Paradox』レコ発",
     "url": "https://bangboo.jp/schedule/detail/49767",
     "venue": "梅田BANGBOO",
     "note": ""
@@ -8238,7 +8526,7 @@
     "date": "2026/04/13",
     "day": "月",
     "artist": "えせいんてり",
-    "title": "【DOYAMA BEAT EMOTION】〜ネコトカゲ(東京) / バク(金沢) TOUR〜",
+    "title": "【DOYAMA BEAT EMOTION】〜ネコトカゲ(東京) / バク(金沢) TOUR〜 アンデコレイト『Parallel Paradox』レコ発",
     "url": "https://bangboo.jp/schedule/detail/49767",
     "venue": "梅田BANGBOO",
     "note": ""
@@ -8247,7 +8535,7 @@
     "date": "2026/04/13",
     "day": "月",
     "artist": "アンデコレイト",
-    "title": "【DOYAMA BEAT EMOTION】〜ネコトカゲ(東京) / バク(金沢) TOUR〜",
+    "title": "【DOYAMA BEAT EMOTION】〜ネコトカゲ(東京) / バク(金沢) TOUR〜 アンデコレイト『Parallel Paradox』レコ発",
     "url": "https://bangboo.jp/schedule/detail/49767",
     "venue": "梅田BANGBOO",
     "note": ""
@@ -8256,7 +8544,7 @@
     "date": "2026/04/13",
     "day": "月",
     "artist": "つやさん",
-    "title": "【DOYAMA BEAT EMOTION】〜ネコトカゲ(東京) / バク(金沢) TOUR〜",
+    "title": "【DOYAMA BEAT EMOTION】〜ネコトカゲ(東京) / バク(金沢) TOUR〜 アンデコレイト『Parallel Paradox』レコ発",
     "url": "https://bangboo.jp/schedule/detail/49767",
     "venue": "梅田BANGBOO",
     "note": ""
@@ -8775,6 +9063,78 @@
     "note": ""
   },
   {
+    "date": "2026/05/25",
+    "day": "月",
+    "artist": "クリトリック・リス",
+    "title": "【続・天下一不毛会】クリトリック・リス vs BANGBOO 〜熱闘編〜",
+    "url": "https://bangboo.jp/schedule/detail/50635",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2026/05/25",
+    "day": "月",
+    "artist": "RobotMeetRobo",
+    "title": "【続・天下一不毛会】クリトリック・リス vs BANGBOO 〜熱闘編〜",
+    "url": "https://bangboo.jp/schedule/detail/50635",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2026/05/25",
+    "day": "月",
+    "artist": "One last danceLane boy",
+    "title": "【続・天下一不毛会】クリトリック・リス vs BANGBOO 〜熱闘編〜",
+    "url": "https://bangboo.jp/schedule/detail/50635",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2026/05/25",
+    "day": "月",
+    "artist": "Helpless Triangle",
+    "title": "【続・天下一不毛会】クリトリック・リス vs BANGBOO 〜熱闘編〜",
+    "url": "https://bangboo.jp/schedule/detail/50635",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2026/05/25",
+    "day": "月",
+    "artist": "QLIP",
+    "title": "【続・天下一不毛会】クリトリック・リス vs BANGBOO 〜熱闘編〜",
+    "url": "https://bangboo.jp/schedule/detail/50635",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2026/05/25",
+    "day": "月",
+    "artist": "自由追求論",
+    "title": "【続・天下一不毛会】クリトリック・リス vs BANGBOO 〜熱闘編〜",
+    "url": "https://bangboo.jp/schedule/detail/50635",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2026/05/25",
+    "day": "月",
+    "artist": "Rebelión",
+    "title": "【続・天下一不毛会】クリトリック・リス vs BANGBOO 〜熱闘編〜",
+    "url": "https://bangboo.jp/schedule/detail/50635",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2026/05/25",
+    "day": "月",
+    "artist": "and more",
+    "title": "【続・天下一不毛会】クリトリック・リス vs BANGBOO 〜熱闘編〜",
+    "url": "https://bangboo.jp/schedule/detail/50635",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
     "date": "2026/06/05",
     "day": "金",
     "artist": "soratobiwo",
@@ -9245,7 +9605,7 @@
   {
     "date": "2026/03/06",
     "day": "金",
-    "artist": "異臭騒ぎ) 募集中！！",
+    "artist": "異臭騒ぎ) 梵唄家",
     "title": "懐メロ☆学園 第35章 -このイエガーからの…卒業。編!!-",
     "url": "https://clubdrop.jp/schedule/detail/50398",
     "venue": "アメリカ村DROP",
@@ -9266,6 +9626,114 @@
     "artist": "DOOM",
     "title": "DOOM New Album \"APOCALYPSE\" Release Ｔour 2026",
     "url": "https://clubdrop.jp/schedule/detail/42497",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/03/08",
+    "day": "日",
+    "artist": "AsteRythm",
+    "title": "GIRLS TALK",
+    "url": "https://clubdrop.jp/schedule/detail/43960",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/03/08",
+    "day": "日",
+    "artist": "Fille mimi",
+    "title": "GIRLS TALK",
+    "url": "https://clubdrop.jp/schedule/detail/43960",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/03/08",
+    "day": "日",
+    "artist": "caprice",
+    "title": "GIRLS TALK",
+    "url": "https://clubdrop.jp/schedule/detail/43960",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/03/08",
+    "day": "日",
+    "artist": "キミだけの花言葉",
+    "title": "GIRLS TALK",
+    "url": "https://clubdrop.jp/schedule/detail/43960",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/03/08",
+    "day": "日",
+    "artist": "ボクセカ",
+    "title": "GIRLS TALK",
+    "url": "https://clubdrop.jp/schedule/detail/43960",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/03/08",
+    "day": "日",
+    "artist": "anemoreel",
+    "title": "GIRLS TALK",
+    "url": "https://clubdrop.jp/schedule/detail/43960",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/03/08",
+    "day": "日",
+    "artist": "きゅんどるちぇ",
+    "title": "GIRLS TALK",
+    "url": "https://clubdrop.jp/schedule/detail/43960",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/03/08",
+    "day": "日",
+    "artist": "POLARiS",
+    "title": "GIRLS TALK",
+    "url": "https://clubdrop.jp/schedule/detail/43960",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/03/08",
+    "day": "日",
+    "artist": "コドモシンカ",
+    "title": "AsteRythm ツアー2026 キミと歩く銀河 in大阪",
+    "url": "https://clubdrop.jp/schedule/detail/51655",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/03/08",
+    "day": "日",
+    "artist": "CRYZ",
+    "title": "AsteRythm ツアー2026 キミと歩く銀河 in大阪",
+    "url": "https://clubdrop.jp/schedule/detail/51655",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/03/08",
+    "day": "日",
+    "artist": "MeluCharm",
+    "title": "AsteRythm ツアー2026 キミと歩く銀河 in大阪",
+    "url": "https://clubdrop.jp/schedule/detail/51655",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/03/08",
+    "day": "日",
+    "artist": "わんみゅーず！",
+    "title": "AsteRythm ツアー2026 キミと歩く銀河 in大阪",
+    "url": "https://clubdrop.jp/schedule/detail/51655",
     "venue": "アメリカ村DROP",
     "note": ""
   },
@@ -10557,6 +11025,15 @@
     "note": ""
   },
   {
+    "date": "2026/03/21",
+    "day": "土",
+    "artist": "アブソプ",
+    "title": "アブソプ 定期公演 『常世ノ輪』",
+    "url": "https://clubdrop.jp/schedule/detail/51802",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
     "date": "2026/03/22",
     "day": "日",
     "artist": "anemoreel",
@@ -11210,6 +11687,420 @@
     "artist": "SEX MACHINEGUNS",
     "title": "SEX冠TOUR2026",
     "url": "https://clubdrop.jp/schedule/detail/44904",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/06/13",
+    "day": "土",
+    "artist": "＜第一弾解禁：46組＞  愛はズボーン",
+    "title": "Pangea EXPO 2026",
+    "url": "https://clubdrop.jp/schedule/detail/45606",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/06/13",
+    "day": "土",
+    "artist": "Akane Streaking Crowd",
+    "title": "Pangea EXPO 2026",
+    "url": "https://clubdrop.jp/schedule/detail/45606",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/06/13",
+    "day": "土",
+    "artist": "Alaska Jam",
+    "title": "Pangea EXPO 2026",
+    "url": "https://clubdrop.jp/schedule/detail/45606",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/06/13",
+    "day": "土",
+    "artist": "171",
+    "title": "Pangea EXPO 2026",
+    "url": "https://clubdrop.jp/schedule/detail/45606",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/06/13",
+    "day": "土",
+    "artist": "EVE OF THE LAIN",
+    "title": "Pangea EXPO 2026",
+    "url": "https://clubdrop.jp/schedule/detail/45606",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/06/13",
+    "day": "土",
+    "artist": "AIRFLIP",
+    "title": "Pangea EXPO 2026",
+    "url": "https://clubdrop.jp/schedule/detail/45606",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/06/13",
+    "day": "土",
+    "artist": "EPISODE",
+    "title": "Pangea EXPO 2026",
+    "url": "https://clubdrop.jp/schedule/detail/45606",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/06/13",
+    "day": "土",
+    "artist": "岡崎体育",
+    "title": "Pangea EXPO 2026",
+    "url": "https://clubdrop.jp/schedule/detail/45606",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/06/13",
+    "day": "土",
+    "artist": "8otto",
+    "title": "Pangea EXPO 2026",
+    "url": "https://clubdrop.jp/schedule/detail/45606",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/06/13",
+    "day": "土",
+    "artist": "かずき山盛り",
+    "title": "Pangea EXPO 2026",
+    "url": "https://clubdrop.jp/schedule/detail/45606",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/06/13",
+    "day": "土",
+    "artist": "クリトリック・リス",
+    "title": "Pangea EXPO 2026",
+    "url": "https://clubdrop.jp/schedule/detail/45606",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/06/13",
+    "day": "土",
+    "artist": "GOOD4NOTHING",
+    "title": "Pangea EXPO 2026",
+    "url": "https://clubdrop.jp/schedule/detail/45606",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/06/13",
+    "day": "土",
+    "artist": "SABOTEN",
+    "title": "Pangea EXPO 2026",
+    "url": "https://clubdrop.jp/schedule/detail/45606",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/06/13",
+    "day": "土",
+    "artist": "三四少女",
+    "title": "Pangea EXPO 2026",
+    "url": "https://clubdrop.jp/schedule/detail/45606",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/06/13",
+    "day": "土",
+    "artist": "THE SKIPPERS",
+    "title": "Pangea EXPO 2026",
+    "url": "https://clubdrop.jp/schedule/detail/45606",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/06/13",
+    "day": "土",
+    "artist": "ザ ニンクス",
+    "title": "Pangea EXPO 2026",
+    "url": "https://clubdrop.jp/schedule/detail/45606",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/06/13",
+    "day": "土",
+    "artist": "the bercedes menz",
+    "title": "Pangea EXPO 2026",
+    "url": "https://clubdrop.jp/schedule/detail/45606",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/06/13",
+    "day": "土",
+    "artist": "セックスマシーン!!",
+    "title": "Pangea EXPO 2026",
+    "url": "https://clubdrop.jp/schedule/detail/45606",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/06/13",
+    "day": "土",
+    "artist": "DUCK HOUSE",
+    "title": "Pangea EXPO 2026",
+    "url": "https://clubdrop.jp/schedule/detail/45606",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/06/13",
+    "day": "土",
+    "artist": "dustbox",
+    "title": "Pangea EXPO 2026",
+    "url": "https://clubdrop.jp/schedule/detail/45606",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/06/13",
+    "day": "土",
+    "artist": "TENDOUJI",
+    "title": "Pangea EXPO 2026",
+    "url": "https://clubdrop.jp/schedule/detail/45606",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/06/13",
+    "day": "土",
+    "artist": "DENIMS",
+    "title": "Pangea EXPO 2026",
+    "url": "https://clubdrop.jp/schedule/detail/45606",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/06/13",
+    "day": "土",
+    "artist": "DeNeel",
+    "title": "Pangea EXPO 2026",
+    "url": "https://clubdrop.jp/schedule/detail/45606",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/06/13",
+    "day": "土",
+    "artist": "トップシークレットマン",
+    "title": "Pangea EXPO 2026",
+    "url": "https://clubdrop.jp/schedule/detail/45606",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/06/13",
+    "day": "土",
+    "artist": "ナードマグネット",
+    "title": "Pangea EXPO 2026",
+    "url": "https://clubdrop.jp/schedule/detail/45606",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/06/13",
+    "day": "土",
+    "artist": "ハダカエフダ",
+    "title": "Pangea EXPO 2026",
+    "url": "https://clubdrop.jp/schedule/detail/45606",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/06/13",
+    "day": "土",
+    "artist": "Bye-Bye-Handの方 程式",
+    "title": "Pangea EXPO 2026",
+    "url": "https://clubdrop.jp/schedule/detail/45606",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/06/13",
+    "day": "土",
+    "artist": "BURL",
+    "title": "Pangea EXPO 2026",
+    "url": "https://clubdrop.jp/schedule/detail/45606",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/06/13",
+    "day": "土",
+    "artist": "PALM",
+    "title": "Pangea EXPO 2026",
+    "url": "https://clubdrop.jp/schedule/detail/45606",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/06/13",
+    "day": "土",
+    "artist": "ビレッジマンズストア",
+    "title": "Pangea EXPO 2026",
+    "url": "https://clubdrop.jp/schedule/detail/45606",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/06/13",
+    "day": "土",
+    "artist": "びわ湖くん",
+    "title": "Pangea EXPO 2026",
+    "url": "https://clubdrop.jp/schedule/detail/45606",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/06/13",
+    "day": "土",
+    "artist": "PJJ",
+    "title": "Pangea EXPO 2026",
+    "url": "https://clubdrop.jp/schedule/detail/45606",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/06/13",
+    "day": "土",
+    "artist": "FATE BOX",
+    "title": "Pangea EXPO 2026",
+    "url": "https://clubdrop.jp/schedule/detail/45606",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/06/13",
+    "day": "土",
+    "artist": "フリージア ン",
+    "title": "Pangea EXPO 2026",
+    "url": "https://clubdrop.jp/schedule/detail/45606",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/06/13",
+    "day": "土",
+    "artist": "Black petrol",
+    "title": "Pangea EXPO 2026",
+    "url": "https://clubdrop.jp/schedule/detail/45606",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/06/13",
+    "day": "土",
+    "artist": "FRONTIER BACKYARD",
+    "title": "Pangea EXPO 2026",
+    "url": "https://clubdrop.jp/schedule/detail/45606",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/06/13",
+    "day": "土",
+    "artist": "POT",
+    "title": "Pangea EXPO 2026",
+    "url": "https://clubdrop.jp/schedule/detail/45606",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/06/13",
+    "day": "土",
+    "artist": "muk",
+    "title": "Pangea EXPO 2026",
+    "url": "https://clubdrop.jp/schedule/detail/45606",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/06/13",
+    "day": "土",
+    "artist": "モーモールルギャバン",
+    "title": "Pangea EXPO 2026",
+    "url": "https://clubdrop.jp/schedule/detail/45606",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/06/13",
+    "day": "土",
+    "artist": "mogari",
+    "title": "Pangea EXPO 2026",
+    "url": "https://clubdrop.jp/schedule/detail/45606",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/06/13",
+    "day": "土",
+    "artist": "よさこいマン",
+    "title": "Pangea EXPO 2026",
+    "url": "https://clubdrop.jp/schedule/detail/45606",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/06/13",
+    "day": "土",
+    "artist": "Liaroid Cinema",
+    "title": "Pangea EXPO 2026",
+    "url": "https://clubdrop.jp/schedule/detail/45606",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/06/13",
+    "day": "土",
+    "artist": "裸体",
+    "title": "Pangea EXPO 2026",
+    "url": "https://clubdrop.jp/schedule/detail/45606",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/06/13",
+    "day": "土",
+    "artist": "ルサンチマン",
+    "title": "Pangea EXPO 2026",
+    "url": "https://clubdrop.jp/schedule/detail/45606",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/06/13",
+    "day": "土",
+    "artist": "RAZORS EDGE",
+    "title": "Pangea EXPO 2026",
+    "url": "https://clubdrop.jp/schedule/detail/45606",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/06/13",
+    "day": "土",
+    "artist": "LOSTAGE  and more!!",
+    "title": "Pangea EXPO 2026",
+    "url": "https://clubdrop.jp/schedule/detail/45606",
     "venue": "アメリカ村DROP",
     "note": ""
   },
@@ -12681,6 +13572,15 @@
     "note": ""
   },
   {
+    "date": "2026/03/16",
+    "day": "月",
+    "artist": "超★NOVA24’",
+    "title": "chemical reaction Vol.61",
+    "url": "https://osaka-varon.jp/schedule/detail/47037",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
     "date": "2026/03/17",
     "day": "火",
     "artist": "抜けてるくらいがちょうどいい",
@@ -13934,6 +14834,15 @@
   {
     "date": "2026/05/20",
     "day": "水",
+    "artist": "Morbid Sloth",
+    "title": "白昼夢vol.5 day2",
+    "url": "https://osaka-varon.jp/schedule/detail/49822",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2026/05/20",
+    "day": "水",
     "artist": "OVER LIMIT",
     "title": "白昼夢vol.5 day2",
     "url": "https://osaka-varon.jp/schedule/detail/49822",
@@ -13970,7 +14879,16 @@
   {
     "date": "2026/05/20",
     "day": "水",
-    "artist": "…and more",
+    "artist": "and 1BAND",
+    "title": "白昼夢vol.5 day2",
+    "url": "https://osaka-varon.jp/schedule/detail/49822",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2026/05/20",
+    "day": "水",
+    "artist": "ごはんや影山",
     "title": "白昼夢vol.5 day2",
     "url": "https://osaka-varon.jp/schedule/detail/49822",
     "venue": "VARON",
@@ -19323,6 +20241,42 @@
     "note": ""
   },
   {
+    "date": "2026/04/04",
+    "day": "土",
+    "artist": "スピカを追って special event〜",
+    "title": "〜スプリーガルpre.",
+    "url": "http://www.knave.co.jp/schedule/s_2026_04.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2026/04/04",
+    "day": "土",
+    "artist": "「スプリーガルを追って」",
+    "title": "〜スプリーガルpre.",
+    "url": "http://www.knave.co.jp/schedule/s_2026_04.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2026/04/04",
+    "day": "土",
+    "artist": "スプリーガル",
+    "title": "〜スプリーガルpre.",
+    "url": "http://www.knave.co.jp/schedule/s_2026_04.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2026/04/04",
+    "day": "土",
+    "artist": "問)knave06-6535-0691",
+    "title": "〜スプリーガルpre.",
+    "url": "http://www.knave.co.jp/schedule/s_2026_04.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
     "date": "2026/04/05",
     "day": "日",
     "artist": "りお",
@@ -19903,6 +20857,24 @@
     "day": "金",
     "artist": "問)knave06-6535-0691",
     "title": "Natural Woman SP",
+    "url": "http://www.knave.co.jp/schedule/s_2026_04.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2026/04/18",
+    "day": "土",
+    "artist": "三田春愛",
+    "title": "「喫茶春愛生誕店after party」",
+    "url": "http://www.knave.co.jp/schedule/s_2026_04.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2026/04/18",
+    "day": "土",
+    "artist": "問)knave06-6535-0691",
+    "title": "「喫茶春愛生誕店after party」",
     "url": "http://www.knave.co.jp/schedule/s_2026_04.html",
     "venue": "knave",
     "note": ""
@@ -21289,6 +22261,33 @@
     "day": "日",
     "artist": "問)knave06-6535-0691",
     "title": "COWGIRLS 2026ワンマンライブ",
+    "url": "http://www.knave.co.jp/schedule/s_2026_05.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2026/07/05",
+    "day": "日",
+    "artist": "“LIVE IT LOUD” 君のもとへ",
+    "title": "祐汰 Birthday ONE MAN",
+    "url": "http://www.knave.co.jp/schedule/s_2026_05.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2026/07/05",
+    "day": "日",
+    "artist": "祐汰",
+    "title": "祐汰 Birthday ONE MAN",
+    "url": "http://www.knave.co.jp/schedule/s_2026_05.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2026/07/05",
+    "day": "日",
+    "artist": "問・チケット販売) 祐汰公式サイト",
+    "title": "祐汰 Birthday ONE MAN",
     "url": "http://www.knave.co.jp/schedule/s_2026_05.html",
     "venue": "knave",
     "note": ""
