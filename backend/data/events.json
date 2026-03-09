@@ -2693,6 +2693,15 @@
   {
     "date": "2026/04/12",
     "day": "日",
+    "artist": "『 indulge. 』",
+    "title": "para-dice 17th anniversary",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
+    "date": "2026/04/12",
+    "day": "日",
     "artist": "Seiya Isono",
     "title": "para-dice 17th anniversary",
     "url": "https://para-dice.net/",
@@ -3487,6 +3496,42 @@
     "day": "木",
     "artist": "始業19:30",
     "title": "para-dice 17th anniversary",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
+    "date": "2026/04/24",
+    "day": "金",
+    "artist": "赤いアフロ × asano raincoat presents",
+    "title": "赤いアフロ × asano raincoat presents",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
+    "date": "2026/04/24",
+    "day": "金",
+    "artist": "SUKANPIN NIGHT 〜タイマンブルース編〜",
+    "title": "赤いアフロ × asano raincoat presents",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
+    "date": "2026/04/24",
+    "day": "金",
+    "artist": "Acoいアフロ",
+    "title": "赤いアフロ × asano raincoat presents",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
+    "date": "2026/04/24",
+    "day": "金",
+    "artist": "acono raincoastic",
+    "title": "赤いアフロ × asano raincoat presents",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -4746,7 +4791,7 @@
     "date": "2026/05/29",
     "day": "金",
     "artist": "NovaFlash",
-    "title": "NovaFlash / GUMLEON",
+    "title": "NovaFlash / GUMLEON / JUNK HEARTS",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -4754,8 +4799,17 @@
   {
     "date": "2026/05/29",
     "day": "金",
-    "artist": "GUMLEON and more...",
-    "title": "NovaFlash / GUMLEON",
+    "artist": "GUMLEON",
+    "title": "NovaFlash / GUMLEON / JUNK HEARTS",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
+    "date": "2026/05/29",
+    "day": "金",
+    "artist": "JUNK HEARTS and more...",
+    "title": "NovaFlash / GUMLEON / JUNK HEARTS",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -5670,6 +5724,24 @@
     "note": ""
   },
   {
+    "date": "2026/03/13",
+    "day": "金",
+    "artist": "きみパレ",
+    "title": "きみパレ　大阪遠征LIVE",
+    "url": "https://vijon.jp/schedule/detail/50030",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2026/03/13",
+    "day": "金",
+    "artist": "幽幻MONSTRO",
+    "title": "幽とぴあ～大阪編～",
+    "url": "https://vijon.jp/schedule/detail/51868",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
     "date": "2026/03/14",
     "day": "土",
     "artist": "スリーピース",
@@ -6134,6 +6206,114 @@
     "artist": "天才凡人",
     "title": "天才凡人 ONEMAN LIVE TOUR 2026『8ball』",
     "url": "https://vijon.jp/schedule/detail/48295",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2026/03/21",
+    "day": "土",
+    "artist": "ピンクマン",
+    "title": "vijonの”V”はvisualの”V” vol 4",
+    "url": "https://vijon.jp/schedule/detail/50782",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2026/03/21",
+    "day": "土",
+    "artist": "やまたにえん",
+    "title": "vijonの”V”はvisualの”V” vol 4",
+    "url": "https://vijon.jp/schedule/detail/50782",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2026/03/21",
+    "day": "土",
+    "artist": "水曜日",
+    "title": "vijonの”V”はvisualの”V” vol 4",
+    "url": "https://vijon.jp/schedule/detail/50782",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2026/03/21",
+    "day": "土",
+    "artist": "てらけん",
+    "title": "vijonの”V”はvisualの”V” vol 4",
+    "url": "https://vijon.jp/schedule/detail/50782",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2026/03/21",
+    "day": "土",
+    "artist": "Takkar",
+    "title": "vijonの”V”はvisualの”V” vol 4",
+    "url": "https://vijon.jp/schedule/detail/50782",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2026/03/21",
+    "day": "土",
+    "artist": "RAM(ヲタ霊",
+    "title": "vijonの”V”はvisualの”V” vol 4",
+    "url": "https://vijon.jp/schedule/detail/50782",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2026/03/21",
+    "day": "土",
+    "artist": "異臭騒ぎ)",
+    "title": "vijonの”V”はvisualの”V” vol 4",
+    "url": "https://vijon.jp/schedule/detail/50782",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2026/03/21",
+    "day": "土",
+    "artist": "憂漓(ヲタ霊",
+    "title": "vijonの”V”はvisualの”V” vol 4",
+    "url": "https://vijon.jp/schedule/detail/50782",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2026/03/21",
+    "day": "土",
+    "artist": "ろりぽっぷ)",
+    "title": "vijonの”V”はvisualの”V” vol 4",
+    "url": "https://vijon.jp/schedule/detail/50782",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2026/03/21",
+    "day": "土",
+    "artist": "294",
+    "title": "vijonの”V”はvisualの”V” vol 4",
+    "url": "https://vijon.jp/schedule/detail/50782",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2026/03/21",
+    "day": "土",
+    "artist": "あっきん",
+    "title": "vijonの”V”はvisualの”V” vol 4",
+    "url": "https://vijon.jp/schedule/detail/50782",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2026/03/21",
+    "day": "土",
+    "artist": "and more...",
+    "title": "vijonの”V”はvisualの”V” vol 4",
+    "url": "https://vijon.jp/schedule/detail/50782",
     "venue": "北堀江club vijon",
     "note": ""
   },
@@ -9468,6 +9648,42 @@
     "note": ""
   },
   {
+    "date": "2026/06/20",
+    "day": "土",
+    "artist": "ELECTRIC MAMA",
+    "title": "ELECTRIC MAMA「Atlas Shooting Star」Release Party&ケンジゾンビ爆誕祭",
+    "url": "https://bangboo.jp/schedule/detail/46458",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2026/06/20",
+    "day": "土",
+    "artist": "Who the Bitch",
+    "title": "ELECTRIC MAMA「Atlas Shooting Star」Release Party&ケンジゾンビ爆誕祭",
+    "url": "https://bangboo.jp/schedule/detail/46458",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2026/06/20",
+    "day": "土",
+    "artist": "rale one stance",
+    "title": "ELECTRIC MAMA「Atlas Shooting Star」Release Party&ケンジゾンビ爆誕祭",
+    "url": "https://bangboo.jp/schedule/detail/46458",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2026/06/20",
+    "day": "土",
+    "artist": "メタボリックシンジゲート",
+    "title": "ELECTRIC MAMA「Atlas Shooting Star」Release Party&ケンジゾンビ爆誕祭",
+    "url": "https://bangboo.jp/schedule/detail/46458",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
     "date": "2026/08/16",
     "day": "日",
     "artist": "アルルカン",
@@ -10382,6 +10598,15 @@
     "artist": "YA'ABURNEE",
     "title": "星誕祭Ⅲ～Chu♡してぷりんせちゅ♡～対バン編❤〜",
     "url": "https://clubdrop.jp/schedule/detail/44003",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/03/15",
+    "day": "日",
+    "artist": "AZ-ON ぱにぱぴんく",
+    "title": "『星誕祭Ⅲ～Chu♡してぷりんせちゅ♡～ワンマン編❤〜』",
+    "url": "https://clubdrop.jp/schedule/detail/51858",
     "venue": "アメリカ村DROP",
     "note": ""
   },
@@ -11768,6 +11993,42 @@
     "artist": "デスキャンディ",
     "title": "マギマギpresents『ココロシンドローム VS デスキャンディ』",
     "url": "https://clubdrop.jp/schedule/detail/50371",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/04/14",
+    "day": "火",
+    "artist": "オトギリソウ",
+    "title": "PIEN presents VOl.90 -RHYTHMIC LINK-",
+    "url": "https://clubdrop.jp/schedule/detail/50045",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/04/14",
+    "day": "火",
+    "artist": "N.R.R",
+    "title": "PIEN presents VOl.90 -RHYTHMIC LINK-",
+    "url": "https://clubdrop.jp/schedule/detail/50045",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/04/14",
+    "day": "火",
+    "artist": "Free Apua Butterfly",
+    "title": "PIEN presents VOl.90 -RHYTHMIC LINK-",
+    "url": "https://clubdrop.jp/schedule/detail/50045",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/04/14",
+    "day": "火",
+    "artist": "IGNIS andmore!!",
+    "title": "PIEN presents VOl.90 -RHYTHMIC LINK-",
+    "url": "https://clubdrop.jp/schedule/detail/50045",
     "venue": "アメリカ村DROP",
     "note": ""
   },
@@ -16049,8 +16310,170 @@
   {
     "date": "2026/03/10",
     "day": "火",
-    "artist": "coming soon...",
-    "title": "HALL RENTAL",
+    "artist": "熱血パンチ!!!!",
+    "title": "ロケット団卒業ライブ",
+    "url": "https://osaka-zeela.jp/schedule/detail/49098",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2026/03/10",
+    "day": "火",
+    "artist": "曽我部",
+    "title": "ロケット団卒業ライブ",
+    "url": "https://osaka-zeela.jp/schedule/detail/49098",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2026/03/10",
+    "day": "火",
+    "artist": "Do Dose Did",
+    "title": "ロケット団卒業ライブ",
+    "url": "https://osaka-zeela.jp/schedule/detail/49098",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2026/03/10",
+    "day": "火",
+    "artist": "やめるなら今だ",
+    "title": "ロケット団卒業ライブ",
+    "url": "https://osaka-zeela.jp/schedule/detail/49098",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2026/03/10",
+    "day": "火",
+    "artist": "嘘とカメロニン",
+    "title": "ロケット団卒業ライブ",
+    "url": "https://osaka-zeela.jp/schedule/detail/49098",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2026/03/10",
+    "day": "火",
+    "artist": "山野ben",
+    "title": "ロケット団卒業ライブ",
+    "url": "https://osaka-zeela.jp/schedule/detail/49098",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2026/03/10",
+    "day": "火",
+    "artist": "5フィート9インチ",
+    "title": "ロケット団卒業ライブ",
+    "url": "https://osaka-zeela.jp/schedule/detail/49098",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2026/03/10",
+    "day": "火",
+    "artist": "ダイダ21才",
+    "title": "ロケット団卒業ライブ",
+    "url": "https://osaka-zeela.jp/schedule/detail/49098",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2026/03/10",
+    "day": "火",
+    "artist": "UNI TALK",
+    "title": "ロケット団卒業ライブ",
+    "url": "https://osaka-zeela.jp/schedule/detail/49098",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2026/03/10",
+    "day": "火",
+    "artist": "ひろゆきと愉快な仲間たち",
+    "title": "ロケット団卒業ライブ",
+    "url": "https://osaka-zeela.jp/schedule/detail/49098",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2026/03/10",
+    "day": "火",
+    "artist": "9mm",
+    "title": "ロケット団卒業ライブ",
+    "url": "https://osaka-zeela.jp/schedule/detail/49098",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2026/03/10",
+    "day": "火",
+    "artist": "まじまよ",
+    "title": "ロケット団卒業ライブ",
+    "url": "https://osaka-zeela.jp/schedule/detail/49098",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2026/03/10",
+    "day": "火",
+    "artist": "CRYAMY",
+    "title": "ロケット団卒業ライブ",
+    "url": "https://osaka-zeela.jp/schedule/detail/49098",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2026/03/10",
+    "day": "火",
+    "artist": "soutsugyo accidents",
+    "title": "ロケット団卒業ライブ",
+    "url": "https://osaka-zeela.jp/schedule/detail/49098",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2026/03/10",
+    "day": "火",
+    "artist": "Donut2",
+    "title": "ロケット団卒業ライブ",
+    "url": "https://osaka-zeela.jp/schedule/detail/49098",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2026/03/10",
+    "day": "火",
+    "artist": "カズサ",
+    "title": "ロケット団卒業ライブ",
+    "url": "https://osaka-zeela.jp/schedule/detail/49098",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2026/03/10",
+    "day": "火",
+    "artist": "ほりしししまきのこ帝国さちマシマシ大盛りカラメ",
+    "title": "ロケット団卒業ライブ",
+    "url": "https://osaka-zeela.jp/schedule/detail/49098",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2026/03/10",
+    "day": "火",
+    "artist": "本気ミテッドササビース",
+    "title": "ロケット団卒業ライブ",
+    "url": "https://osaka-zeela.jp/schedule/detail/49098",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2026/03/10",
+    "day": "火",
+    "artist": "ロケット団7代目幹部",
+    "title": "ロケット団卒業ライブ",
     "url": "https://osaka-zeela.jp/schedule/detail/49098",
     "venue": "Zeela",
     "note": ""
@@ -16443,6 +16866,42 @@
     "note": ""
   },
   {
+    "date": "2026/03/15",
+    "day": "日",
+    "artist": "THE DUDES",
+    "title": "LIVE SHOWER 2026",
+    "url": "https://osaka-zeela.jp/schedule/detail/42902",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2026/03/15",
+    "day": "日",
+    "artist": "Pisces",
+    "title": "LIVE SHOWER 2026",
+    "url": "https://osaka-zeela.jp/schedule/detail/42902",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2026/03/15",
+    "day": "日",
+    "artist": "Az-factory",
+    "title": "LIVE SHOWER 2026",
+    "url": "https://osaka-zeela.jp/schedule/detail/42902",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2026/03/15",
+    "day": "日",
+    "artist": "and more...",
+    "title": "LIVE SHOWER 2026",
+    "url": "https://osaka-zeela.jp/schedule/detail/42902",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
     "date": "2026/03/16",
     "day": "月",
     "artist": "coming soon...",
@@ -16463,8 +16922,125 @@
   {
     "date": "2026/03/18",
     "day": "水",
-    "artist": "coming soon..",
-    "title": "HALL RENTAL",
+    "artist": "コレサワのコピー",
+    "title": "甲南大学 軽音楽部ミニコン",
+    "url": "https://osaka-zeela.jp/schedule/detail/44872",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2026/03/18",
+    "day": "水",
+    "artist": "まみふ",
+    "title": "甲南大学 軽音楽部ミニコン",
+    "url": "https://osaka-zeela.jp/schedule/detail/44872",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2026/03/18",
+    "day": "水",
+    "artist": "元気の無茶振りマッシュ",
+    "title": "甲南大学 軽音楽部ミニコン",
+    "url": "https://osaka-zeela.jp/schedule/detail/44872",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2026/03/18",
+    "day": "水",
+    "artist": "「結局イバンド」",
+    "title": "甲南大学 軽音楽部ミニコン",
+    "url": "https://osaka-zeela.jp/schedule/detail/44872",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2026/03/18",
+    "day": "水",
+    "artist": "ふっかつのしゅうと",
+    "title": "甲南大学 軽音楽部ミニコン",
+    "url": "https://osaka-zeela.jp/schedule/detail/44872",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2026/03/18",
+    "day": "水",
+    "artist": "カライドスコープのコピー",
+    "title": "甲南大学 軽音楽部ミニコン",
+    "url": "https://osaka-zeela.jp/schedule/detail/44872",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2026/03/18",
+    "day": "水",
+    "artist": "甲南の威厳を取り戻しがれっつ",
+    "title": "甲南大学 軽音楽部ミニコン",
+    "url": "https://osaka-zeela.jp/schedule/detail/44872",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2026/03/18",
+    "day": "水",
+    "artist": "さよならユウミー",
+    "title": "甲南大学 軽音楽部ミニコン",
+    "url": "https://osaka-zeela.jp/schedule/detail/44872",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2026/03/18",
+    "day": "水",
+    "artist": "まい❤️ぶらっでぃ❤️ゔぁれんたいん❤️",
+    "title": "甲南大学 軽音楽部ミニコン",
+    "url": "https://osaka-zeela.jp/schedule/detail/44872",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2026/03/18",
+    "day": "水",
+    "artist": "六兆本と串屋物語",
+    "title": "甲南大学 軽音楽部ミニコン",
+    "url": "https://osaka-zeela.jp/schedule/detail/44872",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2026/03/18",
+    "day": "水",
+    "artist": "Stevie Ray Vaughanのコピー",
+    "title": "甲南大学 軽音楽部ミニコン",
+    "url": "https://osaka-zeela.jp/schedule/detail/44872",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2026/03/18",
+    "day": "水",
+    "artist": "ドラゴンボールを求めし者",
+    "title": "甲南大学 軽音楽部ミニコン",
+    "url": "https://osaka-zeela.jp/schedule/detail/44872",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2026/03/18",
+    "day": "水",
+    "artist": "デカイらーめん屋さん",
+    "title": "甲南大学 軽音楽部ミニコン",
+    "url": "https://osaka-zeela.jp/schedule/detail/44872",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2026/03/18",
+    "day": "水",
+    "artist": "THE ORAL CIGARETTESのコピー",
+    "title": "甲南大学 軽音楽部ミニコン",
     "url": "https://osaka-zeela.jp/schedule/detail/44872",
     "venue": "Zeela",
     "note": ""
@@ -18374,6 +18950,24 @@
     "artist": "Beats Emotion",
     "title": "Gの集い ～10th anniversary～",
     "url": "https://osaka-zeela.jp/schedule/detail/46739",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2026/05/07",
+    "day": "木",
+    "artist": "声にならないよ",
+    "title": "声ならの日ファン大感謝祭-禁断の果実-",
+    "url": "https://osaka-zeela.jp/schedule/detail/49748",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2026/05/07",
+    "day": "木",
+    "artist": "Adult family",
+    "title": "声ならの日ファン大感謝祭-禁断の果実-",
+    "url": "https://osaka-zeela.jp/schedule/detail/49748",
     "venue": "Zeela",
     "note": ""
   },
