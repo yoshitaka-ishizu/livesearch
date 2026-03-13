@@ -4259,17 +4259,8 @@
   {
     "date": "2026/05/09",
     "day": "土",
-    "artist": "³",
-    "title": "(from)³ / PPP / Refflucks / ワービー＆サービー / 重役出勤",
-    "url": "https://para-dice.net/",
-    "venue": "扇町para-dice",
-    "note": ""
-  },
-  {
-    "date": "2026/05/09",
-    "day": "土",
-    "artist": "PPP",
-    "title": "(from)³ / PPP / Refflucks / ワービー＆サービー / 重役出勤",
+    "artist": "重役出勤",
+    "title": "OPEN 17:00",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -4278,7 +4269,25 @@
     "date": "2026/05/09",
     "day": "土",
     "artist": "Refflucks",
-    "title": "(from)³ / PPP / Refflucks / ワービー＆サービー / 重役出勤",
+    "title": "OPEN 17:00",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
+    "date": "2026/05/09",
+    "day": "土",
+    "artist": "³",
+    "title": "OPEN 17:00",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
+    "date": "2026/05/09",
+    "day": "土",
+    "artist": "PPP",
+    "title": "OPEN 17:00",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -4287,16 +4296,7 @@
     "date": "2026/05/09",
     "day": "土",
     "artist": "ワービー＆サービー",
-    "title": "(from)³ / PPP / Refflucks / ワービー＆サービー / 重役出勤",
-    "url": "https://para-dice.net/",
-    "venue": "扇町para-dice",
-    "note": ""
-  },
-  {
-    "date": "2026/05/09",
-    "day": "土",
-    "artist": "重役出勤",
-    "title": "(from)³ / PPP / Refflucks / ワービー＆サービー / 重役出勤",
+    "title": "OPEN 17:00",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -4305,7 +4305,7 @@
     "date": "2026/05/09",
     "day": "土",
     "artist": "THE 王様クジラ",
-    "title": "(from)³ / PPP / Refflucks / ワービー＆サービー / 重役出勤",
+    "title": "OPEN 17:00",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -4314,7 +4314,7 @@
     "date": "2026/05/10",
     "day": "日",
     "artist": "CODE☆BLUE",
-    "title": "CODE☆BLUE / ヘテロズ / Redboot2 / ふむふむズ / naonari ueda / THE UNLEASHED",
+    "title": "OPEN 17:00",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -4323,7 +4323,7 @@
     "date": "2026/05/10",
     "day": "日",
     "artist": "ヘテロズ",
-    "title": "CODE☆BLUE / ヘテロズ / Redboot2 / ふむふむズ / naonari ueda / THE UNLEASHED",
+    "title": "OPEN 17:00",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -4332,7 +4332,7 @@
     "date": "2026/05/10",
     "day": "日",
     "artist": "Redboot2",
-    "title": "CODE☆BLUE / ヘテロズ / Redboot2 / ふむふむズ / naonari ueda / THE UNLEASHED",
+    "title": "OPEN 17:00",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -4341,7 +4341,7 @@
     "date": "2026/05/10",
     "day": "日",
     "artist": "ふむふむズ",
-    "title": "CODE☆BLUE / ヘテロズ / Redboot2 / ふむふむズ / naonari ueda / THE UNLEASHED",
+    "title": "OPEN 17:00",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -4350,7 +4350,7 @@
     "date": "2026/05/10",
     "day": "日",
     "artist": "naonari ueda",
-    "title": "CODE☆BLUE / ヘテロズ / Redboot2 / ふむふむズ / naonari ueda / THE UNLEASHED",
+    "title": "OPEN 17:00",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -4359,7 +4359,7 @@
     "date": "2026/05/10",
     "day": "日",
     "artist": "THE UNLEASHED",
-    "title": "CODE☆BLUE / ヘテロズ / Redboot2 / ふむふむズ / naonari ueda / THE UNLEASHED",
+    "title": "OPEN 17:00",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -6201,15 +6201,6 @@
     "note": ""
   },
   {
-    "date": "2026/03/18",
-    "day": "水",
-    "artist": "and more...",
-    "title": "【FOREVER YOUNG】vol.21",
-    "url": "https://vijon.jp/schedule/detail/49600",
-    "venue": "北堀江club vijon",
-    "note": ""
-  },
-  {
     "date": "2026/03/19",
     "day": "木",
     "artist": "NIHIL",
@@ -6485,6 +6476,114 @@
     "artist": "and more...",
     "title": "vijonの”V”はvisualの”V” vol 4",
     "url": "https://vijon.jp/schedule/detail/50782",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2026/03/22",
+    "day": "日",
+    "artist": "まだF押さえられません",
+    "title": "樟蔭フォーソン卒業ライブ～全員卒業出来ました～",
+    "url": "https://vijon.jp/schedule/detail/50702",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2026/03/22",
+    "day": "日",
+    "artist": "ふとん",
+    "title": "樟蔭フォーソン卒業ライブ～全員卒業出来ました～",
+    "url": "https://vijon.jp/schedule/detail/50702",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2026/03/22",
+    "day": "日",
+    "artist": "水田はるか",
+    "title": "樟蔭フォーソン卒業ライブ～全員卒業出来ました～",
+    "url": "https://vijon.jp/schedule/detail/50702",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2026/03/22",
+    "day": "日",
+    "artist": "ごとじゅら事変",
+    "title": "樟蔭フォーソン卒業ライブ～全員卒業出来ました～",
+    "url": "https://vijon.jp/schedule/detail/50702",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2026/03/22",
+    "day": "日",
+    "artist": "うらじょうのうらじじょう",
+    "title": "樟蔭フォーソン卒業ライブ～全員卒業出来ました～",
+    "url": "https://vijon.jp/schedule/detail/50702",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2026/03/22",
+    "day": "日",
+    "artist": "さよならフォーソン",
+    "title": "樟蔭フォーソン卒業ライブ～全員卒業出来ました～",
+    "url": "https://vijon.jp/schedule/detail/50702",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2026/03/22",
+    "day": "日",
+    "artist": "だから僕はキーボードをやめた",
+    "title": "樟蔭フォーソン卒業ライブ～全員卒業出来ました～",
+    "url": "https://vijon.jp/schedule/detail/50702",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2026/03/22",
+    "day": "日",
+    "artist": "ふっかつのじゅうもん",
+    "title": "樟蔭フォーソン卒業ライブ～全員卒業出来ました～",
+    "url": "https://vijon.jp/schedule/detail/50702",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2026/03/22",
+    "day": "日",
+    "artist": "ふうとのセフレ",
+    "title": "樟蔭フォーソン卒業ライブ～全員卒業出来ました～",
+    "url": "https://vijon.jp/schedule/detail/50702",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2026/03/22",
+    "day": "日",
+    "artist": "駅まで終電ダッシュ",
+    "title": "樟蔭フォーソン卒業ライブ～全員卒業出来ました～",
+    "url": "https://vijon.jp/schedule/detail/50702",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2026/03/22",
+    "day": "日",
+    "artist": "ササデリック",
+    "title": "樟蔭フォーソン卒業ライブ～全員卒業出来ました～",
+    "url": "https://vijon.jp/schedule/detail/50702",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2026/03/22",
+    "day": "日",
+    "artist": "女子高卒業",
+    "title": "樟蔭フォーソン卒業ライブ～全員卒業出来ました～",
+    "url": "https://vijon.jp/schedule/detail/50702",
     "venue": "北堀江club vijon",
     "note": ""
   },
@@ -6869,7 +6968,7 @@
   {
     "date": "2026/04/04",
     "day": "土",
-    "artist": "かず",
+    "artist": "大江武圭留",
     "title": "club vijon pre.【HIRUNOME!】",
     "url": "https://vijon.jp/schedule/detail/49345",
     "venue": "北堀江club vijon",
@@ -6878,7 +6977,7 @@
   {
     "date": "2026/04/04",
     "day": "土",
-    "artist": "and more...?",
+    "artist": "かず",
     "title": "club vijon pre.【HIRUNOME!】",
     "url": "https://vijon.jp/schedule/detail/49345",
     "venue": "北堀江club vijon",
@@ -9045,6 +9144,123 @@
     "note": ""
   },
   {
+    "date": "2026/03/30",
+    "day": "月",
+    "artist": "ません。",
+    "title": "のきたつ企画",
+    "url": "https://bangboo.jp/schedule/detail/45989",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2026/03/30",
+    "day": "月",
+    "artist": "鬼奏本能",
+    "title": "のきたつ企画",
+    "url": "https://bangboo.jp/schedule/detail/45989",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2026/03/30",
+    "day": "月",
+    "artist": "イグッ",
+    "title": "のきたつ企画",
+    "url": "https://bangboo.jp/schedule/detail/45989",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2026/03/30",
+    "day": "月",
+    "artist": "♡、多様性",
+    "title": "のきたつ企画",
+    "url": "https://bangboo.jp/schedule/detail/45989",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2026/03/30",
+    "day": "月",
+    "artist": "Good Feeling のきの腰つき",
+    "title": "のきたつ企画",
+    "url": "https://bangboo.jp/schedule/detail/45989",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2026/03/30",
+    "day": "月",
+    "artist": "COSMO SQUARE GARDEN",
+    "title": "のきたつ企画",
+    "url": "https://bangboo.jp/schedule/detail/45989",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2026/03/30",
+    "day": "月",
+    "artist": "ISOKIN&OMAKIN",
+    "title": "のきたつ企画",
+    "url": "https://bangboo.jp/schedule/detail/45989",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2026/03/30",
+    "day": "月",
+    "artist": "道頓堀の女",
+    "title": "のきたつ企画",
+    "url": "https://bangboo.jp/schedule/detail/45989",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2026/03/30",
+    "day": "月",
+    "artist": "ぺけたん 阿諏訪、目覚めろ",
+    "title": "のきたつ企画",
+    "url": "https://bangboo.jp/schedule/detail/45989",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2026/03/30",
+    "day": "月",
+    "artist": "KYAPAII LAB.",
+    "title": "のきたつ企画",
+    "url": "https://bangboo.jp/schedule/detail/45989",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2026/03/30",
+    "day": "月",
+    "artist": "Last umbrella",
+    "title": "のきたつ企画",
+    "url": "https://bangboo.jp/schedule/detail/45989",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2026/03/30",
+    "day": "月",
+    "artist": "りんごジャムパン",
+    "title": "のきたつ企画",
+    "url": "https://bangboo.jp/schedule/detail/45989",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2026/03/30",
+    "day": "月",
+    "artist": "キムラバンド",
+    "title": "のきたつ企画",
+    "url": "https://bangboo.jp/schedule/detail/45989",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
     "date": "2026/03/31",
     "day": "火",
     "artist": "バンドマンの底辺×高さ÷2",
@@ -9554,6 +9770,69 @@
     "artist": "つやさん",
     "title": "【DOYAMA BEAT EMOTION】〜ネコトカゲ(東京) / バク(金沢) TOUR〜 アンデコレイト『Parallel Paradox』レコ発",
     "url": "https://bangboo.jp/schedule/detail/49767",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2026/04/15",
+    "day": "水",
+    "artist": "Swallow Friends",
+    "title": "【BANGBOOST-vol.8-】",
+    "url": "https://bangboo.jp/schedule/detail/49261",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2026/04/15",
+    "day": "水",
+    "artist": "Velvet",
+    "title": "【BANGBOOST-vol.8-】",
+    "url": "https://bangboo.jp/schedule/detail/49261",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2026/04/15",
+    "day": "水",
+    "artist": "Amazing Nights",
+    "title": "【BANGBOOST-vol.8-】",
+    "url": "https://bangboo.jp/schedule/detail/49261",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2026/04/15",
+    "day": "水",
+    "artist": "あまねこ",
+    "title": "【BANGBOOST-vol.8-】",
+    "url": "https://bangboo.jp/schedule/detail/49261",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2026/04/15",
+    "day": "水",
+    "artist": "NONAKA",
+    "title": "【BANGBOOST-vol.8-】",
+    "url": "https://bangboo.jp/schedule/detail/49261",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2026/04/15",
+    "day": "水",
+    "artist": "wakka",
+    "title": "【BANGBOOST-vol.8-】",
+    "url": "https://bangboo.jp/schedule/detail/49261",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2026/04/15",
+    "day": "水",
+    "artist": "赤猿",
+    "title": "【BANGBOOST-vol.8-】",
+    "url": "https://bangboo.jp/schedule/detail/49261",
     "venue": "梅田BANGBOO",
     "note": ""
   },
@@ -10130,6 +10409,15 @@
     "artist": "Nem",
     "title": "白航&BANGBOO pre.白航NewSingle「待逢せ」リリースパーティー『逢坂ノ関』",
     "url": "https://bangboo.jp/schedule/detail/50625",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2026/05/23",
+    "day": "土",
+    "artist": "AYANE",
+    "title": "AYANE Presents Cherish Vol.6 [大阪公演]",
+    "url": "https://bangboo.jp/schedule/detail/50283",
     "venue": "梅田BANGBOO",
     "note": ""
   },
@@ -13815,6 +14103,15 @@
     "note": ""
   },
   {
+    "date": "2026/07/04",
+    "day": "土",
+    "artist": "詳細をご覧ください",
+    "title": "⾒放題⼤阪2026",
+    "url": "https://clubdrop.jp/schedule/detail/45099",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
     "date": "2026/03/01",
     "day": "日",
     "artist": "Super-Duper？",
@@ -14790,7 +15087,7 @@
     "date": "2026/03/13",
     "day": "金",
     "artist": "マキシマム ザ ウォーグレイモン",
-    "title": "FULL MOSH FEST",
+    "title": "ともやん企画 FULL MOSH FEST",
     "url": "https://osaka-varon.jp/schedule/detail/46051",
     "venue": "VARON",
     "note": ""
@@ -14799,7 +15096,7 @@
     "date": "2026/03/13",
     "day": "金",
     "artist": "Height, and Distance in Nikai Seki",
-    "title": "FULL MOSH FEST",
+    "title": "ともやん企画 FULL MOSH FEST",
     "url": "https://osaka-varon.jp/schedule/detail/46051",
     "venue": "VARON",
     "note": ""
@@ -14808,7 +15105,7 @@
     "date": "2026/03/13",
     "day": "金",
     "artist": "ともやん金返せ",
-    "title": "FULL MOSH FEST",
+    "title": "ともやん企画 FULL MOSH FEST",
     "url": "https://osaka-varon.jp/schedule/detail/46051",
     "venue": "VARON",
     "note": ""
@@ -14817,7 +15114,7 @@
     "date": "2026/03/13",
     "day": "金",
     "artist": "手洗いうがいしっかりするモン",
-    "title": "FULL MOSH FEST",
+    "title": "ともやん企画 FULL MOSH FEST",
     "url": "https://osaka-varon.jp/schedule/detail/46051",
     "venue": "VARON",
     "note": ""
@@ -14826,7 +15123,7 @@
     "date": "2026/03/13",
     "day": "金",
     "artist": "ソープランドマークス",
-    "title": "FULL MOSH FEST",
+    "title": "ともやん企画 FULL MOSH FEST",
     "url": "https://osaka-varon.jp/schedule/detail/46051",
     "venue": "VARON",
     "note": ""
@@ -14835,7 +15132,7 @@
     "date": "2026/03/13",
     "day": "金",
     "artist": "Crysal Lake",
-    "title": "FULL MOSH FEST",
+    "title": "ともやん企画 FULL MOSH FEST",
     "url": "https://osaka-varon.jp/schedule/detail/46051",
     "venue": "VARON",
     "note": ""
@@ -14844,7 +15141,7 @@
     "date": "2026/03/13",
     "day": "金",
     "artist": "にわか雨",
-    "title": "FULL MOSH FEST",
+    "title": "ともやん企画 FULL MOSH FEST",
     "url": "https://osaka-varon.jp/schedule/detail/46051",
     "venue": "VARON",
     "note": ""
@@ -14853,7 +15150,7 @@
     "date": "2026/03/13",
     "day": "金",
     "artist": "Take A Look Konoband",
-    "title": "FULL MOSH FEST",
+    "title": "ともやん企画 FULL MOSH FEST",
     "url": "https://osaka-varon.jp/schedule/detail/46051",
     "venue": "VARON",
     "note": ""
@@ -14862,7 +15159,7 @@
     "date": "2026/03/13",
     "day": "金",
     "artist": "脳汁",
-    "title": "FULL MOSH FEST",
+    "title": "ともやん企画 FULL MOSH FEST",
     "url": "https://osaka-varon.jp/schedule/detail/46051",
     "venue": "VARON",
     "note": ""
@@ -14871,7 +15168,7 @@
     "date": "2026/03/13",
     "day": "金",
     "artist": "落としたぁ！！ゲームのカード落としちゃったぁ！Mahhhh！！",
-    "title": "FULL MOSH FEST",
+    "title": "ともやん企画 FULL MOSH FEST",
     "url": "https://osaka-varon.jp/schedule/detail/46051",
     "venue": "VARON",
     "note": ""
@@ -14880,7 +15177,7 @@
     "date": "2026/03/13",
     "day": "金",
     "artist": "dobbystile",
-    "title": "FULL MOSH FEST",
+    "title": "ともやん企画 FULL MOSH FEST",
     "url": "https://osaka-varon.jp/schedule/detail/46051",
     "venue": "VARON",
     "note": ""
@@ -14889,7 +15186,7 @@
     "date": "2026/03/13",
     "day": "金",
     "artist": "Fucked Kyono",
-    "title": "FULL MOSH FEST",
+    "title": "ともやん企画 FULL MOSH FEST",
     "url": "https://osaka-varon.jp/schedule/detail/46051",
     "venue": "VARON",
     "note": ""
@@ -15062,6 +15359,15 @@
     "artist": "LOTUS MARRY",
     "title": "Kawaii?\"WHITE DAY\"Night",
     "url": "https://osaka-varon.jp/schedule/detail/44602",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2026/03/14",
+    "day": "土",
+    "artist": "CRYZ",
+    "title": "CRYZ 1st ONE MAN LIVE 泣いても叫んでも、生きてやる。",
+    "url": "https://osaka-varon.jp/schedule/detail/51721",
     "venue": "VARON",
     "note": ""
   },
@@ -15584,6 +15890,15 @@
     "artist": "U179",
     "title": "THE IDOL M@STER COPY BAND STAGE コピマス",
     "url": "https://osaka-varon.jp/schedule/detail/44184",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2026/03/22",
+    "day": "日",
+    "artist": "ボクセカ",
+    "title": "【ボクセカ 甘愛るな卒業公演】",
+    "url": "https://osaka-varon.jp/schedule/detail/44603",
     "venue": "VARON",
     "note": ""
   },
@@ -18171,19 +18486,10 @@
     "note": ""
   },
   {
-    "date": "2026/03/15",
-    "day": "日",
-    "artist": "and more...",
-    "title": "LIVE SHOWER 2026",
-    "url": "https://osaka-zeela.jp/schedule/detail/42902",
-    "venue": "Zeela",
-    "note": ""
-  },
-  {
     "date": "2026/03/16",
     "day": "月",
     "artist": "coming soon...",
-    "title": "HALL RENTAL",
+    "title": "大手前大学 軽音楽部 卒業・引退ライブ",
     "url": "https://osaka-zeela.jp/schedule/detail/48836",
     "venue": "Zeela",
     "note": ""
@@ -18695,8 +19001,134 @@
   {
     "date": "2026/03/21",
     "day": "土",
-    "artist": "coming soon...",
-    "title": "HALL RENTAL",
+    "artist": "ユートピア",
+    "title": "大阪医科薬科大学薬学部 軽音楽部 卒業ライブ",
+    "url": "https://osaka-zeela.jp/schedule/detail/43394",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2026/03/21",
+    "day": "土",
+    "artist": "カネヨリネムイ",
+    "title": "大阪医科薬科大学薬学部 軽音楽部 卒業ライブ",
+    "url": "https://osaka-zeela.jp/schedule/detail/43394",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2026/03/21",
+    "day": "土",
+    "artist": "べしゃも",
+    "title": "大阪医科薬科大学薬学部 軽音楽部 卒業ライブ",
+    "url": "https://osaka-zeela.jp/schedule/detail/43394",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2026/03/21",
+    "day": "土",
+    "artist": "ほろよい日誌",
+    "title": "大阪医科薬科大学薬学部 軽音楽部 卒業ライブ",
+    "url": "https://osaka-zeela.jp/schedule/detail/43394",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2026/03/21",
+    "day": "土",
+    "artist": "UVEReats",
+    "title": "大阪医科薬科大学薬学部 軽音楽部 卒業ライブ",
+    "url": "https://osaka-zeela.jp/schedule/detail/43394",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2026/03/21",
+    "day": "土",
+    "artist": "今日、推しのバイオにエンカウントしてしまい、MP全部持ってかれた件について",
+    "title": "大阪医科薬科大学薬学部 軽音楽部 卒業ライブ",
+    "url": "https://osaka-zeela.jp/schedule/detail/43394",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2026/03/21",
+    "day": "土",
+    "artist": "We are the champion~全員優勝~",
+    "title": "大阪医科薬科大学薬学部 軽音楽部 卒業ライブ",
+    "url": "https://osaka-zeela.jp/schedule/detail/43394",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2026/03/21",
+    "day": "土",
+    "artist": "THE KOHAL CIGARETTES",
+    "title": "大阪医科薬科大学薬学部 軽音楽部 卒業ライブ",
+    "url": "https://osaka-zeela.jp/schedule/detail/43394",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2026/03/21",
+    "day": "土",
+    "artist": "さみしーどっぐ",
+    "title": "大阪医科薬科大学薬学部 軽音楽部 卒業ライブ",
+    "url": "https://osaka-zeela.jp/schedule/detail/43394",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2026/03/21",
+    "day": "土",
+    "artist": "たにーぐりーんあっぷるver 2.0",
+    "title": "大阪医科薬科大学薬学部 軽音楽部 卒業ライブ",
+    "url": "https://osaka-zeela.jp/schedule/detail/43394",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2026/03/21",
+    "day": "土",
+    "artist": "NIBOSHI",
+    "title": "大阪医科薬科大学薬学部 軽音楽部 卒業ライブ",
+    "url": "https://osaka-zeela.jp/schedule/detail/43394",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2026/03/21",
+    "day": "土",
+    "artist": "私か私以外か。",
+    "title": "大阪医科薬科大学薬学部 軽音楽部 卒業ライブ",
+    "url": "https://osaka-zeela.jp/schedule/detail/43394",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2026/03/21",
+    "day": "土",
+    "artist": "ayuko",
+    "title": "大阪医科薬科大学薬学部 軽音楽部 卒業ライブ",
+    "url": "https://osaka-zeela.jp/schedule/detail/43394",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2026/03/21",
+    "day": "土",
+    "artist": "にぼい公園",
+    "title": "大阪医科薬科大学薬学部 軽音楽部 卒業ライブ",
+    "url": "https://osaka-zeela.jp/schedule/detail/43394",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2026/03/21",
+    "day": "土",
+    "artist": "52120ズ",
+    "title": "大阪医科薬科大学薬学部 軽音楽部 卒業ライブ",
     "url": "https://osaka-zeela.jp/schedule/detail/43394",
     "venue": "Zeela",
     "note": ""
@@ -20052,321 +20484,6 @@
     "note": ""
   },
   {
-    "date": "2026/04/12",
-    "day": "日",
-    "artist": "汐れいら",
-    "title": "OSAKA GIGANTIC MUSIC FESTIVAL 2026 SPIN-OFF「THE BONDS 2026」   GIGANTIC TOWN MEETING  -THANKS 10TH GIGA-",
-    "url": "https://osaka-zeela.jp/schedule/detail/43749",
-    "venue": "Zeela",
-    "note": ""
-  },
-  {
-    "date": "2026/04/12",
-    "day": "日",
-    "artist": "ACE COLLECTION",
-    "title": "OSAKA GIGANTIC MUSIC FESTIVAL 2026 SPIN-OFF「THE BONDS 2026」   GIGANTIC TOWN MEETING  -THANKS 10TH GIGA-",
-    "url": "https://osaka-zeela.jp/schedule/detail/43749",
-    "venue": "Zeela",
-    "note": ""
-  },
-  {
-    "date": "2026/04/12",
-    "day": "日",
-    "artist": "EMNW",
-    "title": "OSAKA GIGANTIC MUSIC FESTIVAL 2026 SPIN-OFF「THE BONDS 2026」   GIGANTIC TOWN MEETING  -THANKS 10TH GIGA-",
-    "url": "https://osaka-zeela.jp/schedule/detail/43749",
-    "venue": "Zeela",
-    "note": ""
-  },
-  {
-    "date": "2026/04/12",
-    "day": "日",
-    "artist": "OddRe:",
-    "title": "OSAKA GIGANTIC MUSIC FESTIVAL 2026 SPIN-OFF「THE BONDS 2026」   GIGANTIC TOWN MEETING  -THANKS 10TH GIGA-",
-    "url": "https://osaka-zeela.jp/schedule/detail/43749",
-    "venue": "Zeela",
-    "note": ""
-  },
-  {
-    "date": "2026/04/12",
-    "day": "日",
-    "artist": "おもかげ",
-    "title": "OSAKA GIGANTIC MUSIC FESTIVAL 2026 SPIN-OFF「THE BONDS 2026」   GIGANTIC TOWN MEETING  -THANKS 10TH GIGA-",
-    "url": "https://osaka-zeela.jp/schedule/detail/43749",
-    "venue": "Zeela",
-    "note": ""
-  },
-  {
-    "date": "2026/04/12",
-    "day": "日",
-    "artist": "カネヨリマサル",
-    "title": "OSAKA GIGANTIC MUSIC FESTIVAL 2026 SPIN-OFF「THE BONDS 2026」   GIGANTIC TOWN MEETING  -THANKS 10TH GIGA-",
-    "url": "https://osaka-zeela.jp/schedule/detail/43749",
-    "venue": "Zeela",
-    "note": ""
-  },
-  {
-    "date": "2026/04/12",
-    "day": "日",
-    "artist": "ガラクタ",
-    "title": "OSAKA GIGANTIC MUSIC FESTIVAL 2026 SPIN-OFF「THE BONDS 2026」   GIGANTIC TOWN MEETING  -THANKS 10TH GIGA-",
-    "url": "https://osaka-zeela.jp/schedule/detail/43749",
-    "venue": "Zeela",
-    "note": ""
-  },
-  {
-    "date": "2026/04/12",
-    "day": "日",
-    "artist": "KI_EN",
-    "title": "OSAKA GIGANTIC MUSIC FESTIVAL 2026 SPIN-OFF「THE BONDS 2026」   GIGANTIC TOWN MEETING  -THANKS 10TH GIGA-",
-    "url": "https://osaka-zeela.jp/schedule/detail/43749",
-    "venue": "Zeela",
-    "note": ""
-  },
-  {
-    "date": "2026/04/12",
-    "day": "日",
-    "artist": "クレイジーウォウウォ!!",
-    "title": "OSAKA GIGANTIC MUSIC FESTIVAL 2026 SPIN-OFF「THE BONDS 2026」   GIGANTIC TOWN MEETING  -THANKS 10TH GIGA-",
-    "url": "https://osaka-zeela.jp/schedule/detail/43749",
-    "venue": "Zeela",
-    "note": ""
-  },
-  {
-    "date": "2026/04/12",
-    "day": "日",
-    "artist": "Conton Candy",
-    "title": "OSAKA GIGANTIC MUSIC FESTIVAL 2026 SPIN-OFF「THE BONDS 2026」   GIGANTIC TOWN MEETING  -THANKS 10TH GIGA-",
-    "url": "https://osaka-zeela.jp/schedule/detail/43749",
-    "venue": "Zeela",
-    "note": ""
-  },
-  {
-    "date": "2026/04/12",
-    "day": "日",
-    "artist": "sanetii",
-    "title": "OSAKA GIGANTIC MUSIC FESTIVAL 2026 SPIN-OFF「THE BONDS 2026」   GIGANTIC TOWN MEETING  -THANKS 10TH GIGA-",
-    "url": "https://osaka-zeela.jp/schedule/detail/43749",
-    "venue": "Zeela",
-    "note": ""
-  },
-  {
-    "date": "2026/04/12",
-    "day": "日",
-    "artist": "ジ・エンプティ",
-    "title": "OSAKA GIGANTIC MUSIC FESTIVAL 2026 SPIN-OFF「THE BONDS 2026」   GIGANTIC TOWN MEETING  -THANKS 10TH GIGA-",
-    "url": "https://osaka-zeela.jp/schedule/detail/43749",
-    "venue": "Zeela",
-    "note": ""
-  },
-  {
-    "date": "2026/04/12",
-    "day": "日",
-    "artist": "至福ぽんちょ",
-    "title": "OSAKA GIGANTIC MUSIC FESTIVAL 2026 SPIN-OFF「THE BONDS 2026」   GIGANTIC TOWN MEETING  -THANKS 10TH GIGA-",
-    "url": "https://osaka-zeela.jp/schedule/detail/43749",
-    "venue": "Zeela",
-    "note": ""
-  },
-  {
-    "date": "2026/04/12",
-    "day": "日",
-    "artist": "すいそうぐらし",
-    "title": "OSAKA GIGANTIC MUSIC FESTIVAL 2026 SPIN-OFF「THE BONDS 2026」   GIGANTIC TOWN MEETING  -THANKS 10TH GIGA-",
-    "url": "https://osaka-zeela.jp/schedule/detail/43749",
-    "venue": "Zeela",
-    "note": ""
-  },
-  {
-    "date": "2026/04/12",
-    "day": "日",
-    "artist": "すりぃ",
-    "title": "OSAKA GIGANTIC MUSIC FESTIVAL 2026 SPIN-OFF「THE BONDS 2026」   GIGANTIC TOWN MEETING  -THANKS 10TH GIGA-",
-    "url": "https://osaka-zeela.jp/schedule/detail/43749",
-    "venue": "Zeela",
-    "note": ""
-  },
-  {
-    "date": "2026/04/12",
-    "day": "日",
-    "artist": "セブンス・ベガ",
-    "title": "OSAKA GIGANTIC MUSIC FESTIVAL 2026 SPIN-OFF「THE BONDS 2026」   GIGANTIC TOWN MEETING  -THANKS 10TH GIGA-",
-    "url": "https://osaka-zeela.jp/schedule/detail/43749",
-    "venue": "Zeela",
-    "note": ""
-  },
-  {
-    "date": "2026/04/12",
-    "day": "日",
-    "artist": "TiDE",
-    "title": "OSAKA GIGANTIC MUSIC FESTIVAL 2026 SPIN-OFF「THE BONDS 2026」   GIGANTIC TOWN MEETING  -THANKS 10TH GIGA-",
-    "url": "https://osaka-zeela.jp/schedule/detail/43749",
-    "venue": "Zeela",
-    "note": ""
-  },
-  {
-    "date": "2026/04/12",
-    "day": "日",
-    "artist": "Czecho No Republic",
-    "title": "OSAKA GIGANTIC MUSIC FESTIVAL 2026 SPIN-OFF「THE BONDS 2026」   GIGANTIC TOWN MEETING  -THANKS 10TH GIGA-",
-    "url": "https://osaka-zeela.jp/schedule/detail/43749",
-    "venue": "Zeela",
-    "note": ""
-  },
-  {
-    "date": "2026/04/12",
-    "day": "日",
-    "artist": "Chimothy→",
-    "title": "OSAKA GIGANTIC MUSIC FESTIVAL 2026 SPIN-OFF「THE BONDS 2026」   GIGANTIC TOWN MEETING  -THANKS 10TH GIGA-",
-    "url": "https://osaka-zeela.jp/schedule/detail/43749",
-    "venue": "Zeela",
-    "note": ""
-  },
-  {
-    "date": "2026/04/12",
-    "day": "日",
-    "artist": "月追う彼方",
-    "title": "OSAKA GIGANTIC MUSIC FESTIVAL 2026 SPIN-OFF「THE BONDS 2026」   GIGANTIC TOWN MEETING  -THANKS 10TH GIGA-",
-    "url": "https://osaka-zeela.jp/schedule/detail/43749",
-    "venue": "Zeela",
-    "note": ""
-  },
-  {
-    "date": "2026/04/12",
-    "day": "日",
-    "artist": "TRACK15",
-    "title": "OSAKA GIGANTIC MUSIC FESTIVAL 2026 SPIN-OFF「THE BONDS 2026」   GIGANTIC TOWN MEETING  -THANKS 10TH GIGA-",
-    "url": "https://osaka-zeela.jp/schedule/detail/43749",
-    "venue": "Zeela",
-    "note": ""
-  },
-  {
-    "date": "2026/04/12",
-    "day": "日",
-    "artist": "なきごと",
-    "title": "OSAKA GIGANTIC MUSIC FESTIVAL 2026 SPIN-OFF「THE BONDS 2026」   GIGANTIC TOWN MEETING  -THANKS 10TH GIGA-",
-    "url": "https://osaka-zeela.jp/schedule/detail/43749",
-    "venue": "Zeela",
-    "note": ""
-  },
-  {
-    "date": "2026/04/12",
-    "day": "日",
-    "artist": "NEK!",
-    "title": "OSAKA GIGANTIC MUSIC FESTIVAL 2026 SPIN-OFF「THE BONDS 2026」   GIGANTIC TOWN MEETING  -THANKS 10TH GIGA-",
-    "url": "https://osaka-zeela.jp/schedule/detail/43749",
-    "venue": "Zeela",
-    "note": ""
-  },
-  {
-    "date": "2026/04/12",
-    "day": "日",
-    "artist": "猫背のネイビーセゾン",
-    "title": "OSAKA GIGANTIC MUSIC FESTIVAL 2026 SPIN-OFF「THE BONDS 2026」   GIGANTIC TOWN MEETING  -THANKS 10TH GIGA-",
-    "url": "https://osaka-zeela.jp/schedule/detail/43749",
-    "venue": "Zeela",
-    "note": ""
-  },
-  {
-    "date": "2026/04/12",
-    "day": "日",
-    "artist": "PURPLE BABBLE",
-    "title": "OSAKA GIGANTIC MUSIC FESTIVAL 2026 SPIN-OFF「THE BONDS 2026」   GIGANTIC TOWN MEETING  -THANKS 10TH GIGA-",
-    "url": "https://osaka-zeela.jp/schedule/detail/43749",
-    "venue": "Zeela",
-    "note": ""
-  },
-  {
-    "date": "2026/04/12",
-    "day": "日",
-    "artist": "harha",
-    "title": "OSAKA GIGANTIC MUSIC FESTIVAL 2026 SPIN-OFF「THE BONDS 2026」   GIGANTIC TOWN MEETING  -THANKS 10TH GIGA-",
-    "url": "https://osaka-zeela.jp/schedule/detail/43749",
-    "venue": "Zeela",
-    "note": ""
-  },
-  {
-    "date": "2026/04/12",
-    "day": "日",
-    "artist": "Baby Canta",
-    "title": "OSAKA GIGANTIC MUSIC FESTIVAL 2026 SPIN-OFF「THE BONDS 2026」   GIGANTIC TOWN MEETING  -THANKS 10TH GIGA-",
-    "url": "https://osaka-zeela.jp/schedule/detail/43749",
-    "venue": "Zeela",
-    "note": ""
-  },
-  {
-    "date": "2026/04/12",
-    "day": "日",
-    "artist": "ミーマイナー",
-    "title": "OSAKA GIGANTIC MUSIC FESTIVAL 2026 SPIN-OFF「THE BONDS 2026」   GIGANTIC TOWN MEETING  -THANKS 10TH GIGA-",
-    "url": "https://osaka-zeela.jp/schedule/detail/43749",
-    "venue": "Zeela",
-    "note": ""
-  },
-  {
-    "date": "2026/04/12",
-    "day": "日",
-    "artist": "moon drop",
-    "title": "OSAKA GIGANTIC MUSIC FESTIVAL 2026 SPIN-OFF「THE BONDS 2026」   GIGANTIC TOWN MEETING  -THANKS 10TH GIGA-",
-    "url": "https://osaka-zeela.jp/schedule/detail/43749",
-    "venue": "Zeela",
-    "note": ""
-  },
-  {
-    "date": "2026/04/12",
-    "day": "日",
-    "artist": "MAYSONS PARTY",
-    "title": "OSAKA GIGANTIC MUSIC FESTIVAL 2026 SPIN-OFF「THE BONDS 2026」   GIGANTIC TOWN MEETING  -THANKS 10TH GIGA-",
-    "url": "https://osaka-zeela.jp/schedule/detail/43749",
-    "venue": "Zeela",
-    "note": ""
-  },
-  {
-    "date": "2026/04/12",
-    "day": "日",
-    "artist": "らそんぶる",
-    "title": "OSAKA GIGANTIC MUSIC FESTIVAL 2026 SPIN-OFF「THE BONDS 2026」   GIGANTIC TOWN MEETING  -THANKS 10TH GIGA-",
-    "url": "https://osaka-zeela.jp/schedule/detail/43749",
-    "venue": "Zeela",
-    "note": ""
-  },
-  {
-    "date": "2026/04/12",
-    "day": "日",
-    "artist": "Laughing Hick リュベンス",
-    "title": "OSAKA GIGANTIC MUSIC FESTIVAL 2026 SPIN-OFF「THE BONDS 2026」   GIGANTIC TOWN MEETING  -THANKS 10TH GIGA-",
-    "url": "https://osaka-zeela.jp/schedule/detail/43749",
-    "venue": "Zeela",
-    "note": ""
-  },
-  {
-    "date": "2026/04/12",
-    "day": "日",
-    "artist": "Luov",
-    "title": "OSAKA GIGANTIC MUSIC FESTIVAL 2026 SPIN-OFF「THE BONDS 2026」   GIGANTIC TOWN MEETING  -THANKS 10TH GIGA-",
-    "url": "https://osaka-zeela.jp/schedule/detail/43749",
-    "venue": "Zeela",
-    "note": ""
-  },
-  {
-    "date": "2026/04/12",
-    "day": "日",
-    "artist": "LEGO BIG MORL",
-    "title": "OSAKA GIGANTIC MUSIC FESTIVAL 2026 SPIN-OFF「THE BONDS 2026」   GIGANTIC TOWN MEETING  -THANKS 10TH GIGA-",
-    "url": "https://osaka-zeela.jp/schedule/detail/43749",
-    "venue": "Zeela",
-    "note": ""
-  },
-  {
-    "date": "2026/04/12",
-    "day": "日",
-    "artist": "レトロマイガール!!",
-    "title": "OSAKA GIGANTIC MUSIC FESTIVAL 2026 SPIN-OFF「THE BONDS 2026」   GIGANTIC TOWN MEETING  -THANKS 10TH GIGA-",
-    "url": "https://osaka-zeela.jp/schedule/detail/43749",
-    "venue": "Zeela",
-    "note": ""
-  },
-  {
     "date": "2026/04/13",
     "day": "月",
     "artist": "江藤慧(yoaca.",
@@ -20723,6 +20840,51 @@
     "artist": "and more!!",
     "title": "Zeela presents. YAMINABE DEATH MATCH!! ～YAMINABE 6th Anniversary～ Day.2",
     "url": "https://osaka-zeela.jp/schedule/detail/49641",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2026/04/14",
+    "day": "火",
+    "artist": "Intence Rook",
+    "title": "Zeela presents NEW STANDARD",
+    "url": "https://osaka-zeela.jp/schedule/detail/50185",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2026/04/14",
+    "day": "火",
+    "artist": "ココログラス",
+    "title": "Zeela presents NEW STANDARD",
+    "url": "https://osaka-zeela.jp/schedule/detail/50185",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2026/04/14",
+    "day": "火",
+    "artist": "MARBLENOTE",
+    "title": "Zeela presents NEW STANDARD",
+    "url": "https://osaka-zeela.jp/schedule/detail/50185",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2026/04/14",
+    "day": "火",
+    "artist": "Remnant's New Order",
+    "title": "Zeela presents NEW STANDARD",
+    "url": "https://osaka-zeela.jp/schedule/detail/50185",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2026/04/14",
+    "day": "火",
+    "artist": "and more...",
+    "title": "Zeela presents NEW STANDARD",
+    "url": "https://osaka-zeela.jp/schedule/detail/50185",
     "venue": "Zeela",
     "note": ""
   },
@@ -24736,6 +24898,51 @@
     "day": "月",
     "artist": "問)knave06-6535-0691",
     "title": "girlstalk",
+    "url": "http://www.knave.co.jp/schedule/s_2026_04.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2026/04/14",
+    "day": "火",
+    "artist": "Acoustic Live in Osaka",
+    "title": "supabo.",
+    "url": "http://www.knave.co.jp/schedule/s_2026_04.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2026/04/14",
+    "day": "火",
+    "artist": "supabo.",
+    "title": "supabo.",
+    "url": "http://www.knave.co.jp/schedule/s_2026_04.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2026/04/14",
+    "day": "火",
+    "artist": "TIGET にて3",
+    "title": "supabo.",
+    "url": "http://www.knave.co.jp/schedule/s_2026_04.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2026/04/14",
+    "day": "火",
+    "artist": "13より一般発売開始",
+    "title": "supabo.",
+    "url": "http://www.knave.co.jp/schedule/s_2026_04.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2026/04/14",
+    "day": "火",
+    "artist": "問)knave06-6535-0691",
+    "title": "supabo.",
     "url": "http://www.knave.co.jp/schedule/s_2026_04.html",
     "venue": "knave",
     "note": ""
