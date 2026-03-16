@@ -963,6 +963,42 @@
     "note": ""
   },
   {
+    "date": "2026/07/01",
+    "day": "水",
+    "artist": "joppin:cal",
+    "title": "縁〜えにし〜",
+    "url": "https://fireloop.net/schedule_now.shtml#0701",
+    "venue": "寺田町Fireloop",
+    "note": ""
+  },
+  {
+    "date": "2026/07/01",
+    "day": "水",
+    "artist": "luin",
+    "title": "縁〜えにし〜",
+    "url": "https://fireloop.net/schedule_now.shtml#0701",
+    "venue": "寺田町Fireloop",
+    "note": ""
+  },
+  {
+    "date": "2026/07/01",
+    "day": "水",
+    "artist": "WHITEHEAD",
+    "title": "縁〜えにし〜",
+    "url": "https://fireloop.net/schedule_now.shtml#0701",
+    "venue": "寺田町Fireloop",
+    "note": ""
+  },
+  {
+    "date": "2026/07/01",
+    "day": "水",
+    "artist": "ゆびきりげんまい",
+    "title": "縁〜えにし〜",
+    "url": "https://fireloop.net/schedule_now.shtml#0701",
+    "venue": "寺田町Fireloop",
+    "note": ""
+  },
+  {
     "date": "2026/07/19",
     "day": "",
     "artist": "奇奇愛愛",
@@ -1559,7 +1595,7 @@
   {
     "date": "2026/03/14",
     "day": "土",
-    "artist": "雨つつ",
+    "artist": "雨つつ。",
     "title": "OPEN 18:30",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
@@ -4214,7 +4250,16 @@
   {
     "date": "2026/05/04",
     "day": "月祝",
-    "artist": "黒木サトシ and more...",
+    "artist": "黒木サトシ",
+    "title": "para-dice企画",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
+    "date": "2026/05/04",
+    "day": "月祝",
+    "artist": "Lindentraum and more...",
     "title": "para-dice企画",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
@@ -4314,7 +4359,7 @@
     "date": "2026/05/08",
     "day": "金",
     "artist": "終ノ住処",
-    "title": "終ノ住処 / CURIOUS / minä minä / ハヅメ",
+    "title": "終ノ住処 / CURIOUS / minä minä / ハヅメ / イマイカリクニヒコ",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -4323,7 +4368,7 @@
     "date": "2026/05/08",
     "day": "金",
     "artist": "CURIOUS",
-    "title": "終ノ住処 / CURIOUS / minä minä / ハヅメ",
+    "title": "終ノ住処 / CURIOUS / minä minä / ハヅメ / イマイカリクニヒコ",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -4332,7 +4377,7 @@
     "date": "2026/05/08",
     "day": "金",
     "artist": "minä minä",
-    "title": "終ノ住処 / CURIOUS / minä minä / ハヅメ",
+    "title": "終ノ住処 / CURIOUS / minä minä / ハヅメ / イマイカリクニヒコ",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -4340,8 +4385,17 @@
   {
     "date": "2026/05/08",
     "day": "金",
-    "artist": "ハヅメ and more...",
-    "title": "終ノ住処 / CURIOUS / minä minä / ハヅメ",
+    "artist": "ハヅメ",
+    "title": "終ノ住処 / CURIOUS / minä minä / ハヅメ / イマイカリクニヒコ",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
+    "date": "2026/05/08",
+    "day": "金",
+    "artist": "イマイカリクニヒコ and more...",
+    "title": "終ノ住処 / CURIOUS / minä minä / ハヅメ / イマイカリクニヒコ",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -4656,7 +4710,7 @@
     "date": "2026/05/19",
     "day": "火",
     "artist": "MCSHIGE Rockingchair",
-    "title": "MCSHIGE Rockingchair / 梅本卓馬 / mango.",
+    "title": "MCSHIGE Rockingchair / 梅本卓馬 / mango. / Triad",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -4665,7 +4719,7 @@
     "date": "2026/05/19",
     "day": "火",
     "artist": "梅本卓馬",
-    "title": "MCSHIGE Rockingchair / 梅本卓馬 / mango.",
+    "title": "MCSHIGE Rockingchair / 梅本卓馬 / mango. / Triad",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -4673,8 +4727,17 @@
   {
     "date": "2026/05/19",
     "day": "火",
-    "artist": "mango.  and more...",
-    "title": "MCSHIGE Rockingchair / 梅本卓馬 / mango.",
+    "artist": "mango.",
+    "title": "MCSHIGE Rockingchair / 梅本卓馬 / mango. / Triad",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
+    "date": "2026/05/19",
+    "day": "火",
+    "artist": "Triad  and more...",
+    "title": "MCSHIGE Rockingchair / 梅本卓馬 / mango. / Triad",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -5016,6 +5079,15 @@
     "date": "2026/05/28",
     "day": "木",
     "artist": "para-dice企画",
+    "title": "para-dice企画",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
+    "date": "2026/05/28",
+    "day": "木",
+    "artist": "『』",
     "title": "para-dice企画",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
@@ -7247,7 +7319,7 @@
   {
     "date": "2026/04/07",
     "day": "火",
-    "artist": "...and more",
+    "artist": "No more G’s",
     "title": "カザトマヒロ『WILD SIDE JAPAN TOUR』大阪編",
     "url": "https://vijon.jp/schedule/detail/49046",
     "venue": "北堀江club vijon",
@@ -7492,7 +7564,7 @@
     "day": "日",
     "artist": "a frankenlouie",
     "title": "club vijon × a frankenlouie pre. a frankenlouie Road to FES.企画\"フランケンポール\"",
-    "url": "https://vijon.jp/schedule/detail/50015",
+    "url": "https://vijon.jp/schedule/detail/52008",
     "venue": "北堀江club vijon",
     "note": ""
   },
@@ -7501,7 +7573,7 @@
     "day": "日",
     "artist": "Junk Unit",
     "title": "club vijon × a frankenlouie pre. a frankenlouie Road to FES.企画\"フランケンポール\"",
-    "url": "https://vijon.jp/schedule/detail/50015",
+    "url": "https://vijon.jp/schedule/detail/52008",
     "venue": "北堀江club vijon",
     "note": ""
   },
@@ -7510,7 +7582,7 @@
     "day": "日",
     "artist": "kasane",
     "title": "club vijon × a frankenlouie pre. a frankenlouie Road to FES.企画\"フランケンポール\"",
-    "url": "https://vijon.jp/schedule/detail/50015",
+    "url": "https://vijon.jp/schedule/detail/52008",
     "venue": "北堀江club vijon",
     "note": ""
   },
@@ -7519,16 +7591,25 @@
     "day": "日",
     "artist": "monocalring",
     "title": "club vijon × a frankenlouie pre. a frankenlouie Road to FES.企画\"フランケンポール\"",
-    "url": "https://vijon.jp/schedule/detail/50015",
+    "url": "https://vijon.jp/schedule/detail/52008",
     "venue": "北堀江club vijon",
     "note": ""
   },
   {
     "date": "2026/04/26",
     "day": "日",
-    "artist": "...and more",
+    "artist": "WeekendAll",
     "title": "club vijon × a frankenlouie pre. a frankenlouie Road to FES.企画\"フランケンポール\"",
-    "url": "https://vijon.jp/schedule/detail/50015",
+    "url": "https://vijon.jp/schedule/detail/52008",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2026/04/26",
+    "day": "日",
+    "artist": "infinite sentimeter",
+    "title": "club vijon × a frankenlouie pre. a frankenlouie Road to FES.企画\"フランケンポール\"",
+    "url": "https://vijon.jp/schedule/detail/52008",
     "venue": "北堀江club vijon",
     "note": ""
   },
@@ -7763,6 +7844,15 @@
     "artist": "Wakazaemon",
     "title": "WAKAZAWMON FIRST JAPAN TOUR ”CLAIM MY GROUND”",
     "url": "https://vijon.jp/schedule/detail/51194",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2026/07/20",
+    "day": "月",
+    "artist": "月刊PAM",
+    "title": "月刊PAM全国ツアー2026 「ちいさな夜」",
+    "url": "https://vijon.jp/schedule/detail/51876",
     "venue": "北堀江club vijon",
     "note": ""
   },
@@ -8606,7 +8696,7 @@
   {
     "date": "2026/03/16",
     "day": "月",
-    "artist": "ネテルダイヤ、skill of light、social×match、ハピノマ研修生、COzMICぱれーど、てんぽぷりも♪、ParaMilia、NI＝YON、むげんこんぜ、",
+    "artist": "ネテルダイヤ、skill of light、social×match、ハピノマ研修生、COzMICぱれーど、てんぽぷりも♪、ParaMilia、NI＝YON、むげんこんぜ、マイフェアガ→ル",
     "title": "ネテルダイヤpre.  【Diamond Polishers】  in梅田BANGBOO",
     "url": "https://bangboo.jp/schedule/detail/49213",
     "venue": "梅田BANGBOO",
@@ -10280,6 +10370,15 @@
   {
     "date": "2026/04/26",
     "day": "日",
+    "artist": "MyDresscode",
+    "title": "MyDresscode 2026 tour 「My Dreamer's～君が居ればどんな私にだってなれる～」",
+    "url": "https://bangboo.jp/schedule/detail/51389",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2026/04/26",
+    "day": "日",
     "artist": "踊れ！神風",
     "title": "覚醒の旋律・アラート-全国TOUR 2026",
     "url": "https://bangboo.jp/schedule/detail/45991",
@@ -10571,6 +10670,78 @@
     "artist": "透明な7日目の真実",
     "title": "透明な7日目の真実 1st ONE MAN LIVE 「とびっきりの、色になれ！」",
     "url": "https://bangboo.jp/schedule/detail/45427",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2026/05/20",
+    "day": "水",
+    "artist": "soratobiwo",
+    "title": "We've Only Just Begun】vol.1〜soratobiwo oneman 応援企画〜",
+    "url": "https://bangboo.jp/schedule/detail/50264",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2026/05/20",
+    "day": "水",
+    "artist": "aomidoro",
+    "title": "We've Only Just Begun】vol.1〜soratobiwo oneman 応援企画〜",
+    "url": "https://bangboo.jp/schedule/detail/50264",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2026/05/20",
+    "day": "水",
+    "artist": "メタボリックシンジゲート",
+    "title": "We've Only Just Begun】vol.1〜soratobiwo oneman 応援企画〜",
+    "url": "https://bangboo.jp/schedule/detail/50264",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2026/05/20",
+    "day": "水",
+    "artist": "mm limit",
+    "title": "We've Only Just Begun】vol.1〜soratobiwo oneman 応援企画〜",
+    "url": "https://bangboo.jp/schedule/detail/50264",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2026/05/20",
+    "day": "水",
+    "artist": "asano raincoat",
+    "title": "We've Only Just Begun】vol.1〜soratobiwo oneman 応援企画〜",
+    "url": "https://bangboo.jp/schedule/detail/50264",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2026/05/20",
+    "day": "水",
+    "artist": "Shom",
+    "title": "We've Only Just Begun】vol.1〜soratobiwo oneman 応援企画〜",
+    "url": "https://bangboo.jp/schedule/detail/50264",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2026/05/20",
+    "day": "水",
+    "artist": "infinite sentimeter",
+    "title": "We've Only Just Begun】vol.1〜soratobiwo oneman 応援企画〜",
+    "url": "https://bangboo.jp/schedule/detail/50264",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2026/05/20",
+    "day": "水",
+    "artist": "and more",
+    "title": "We've Only Just Begun】vol.1〜soratobiwo oneman 応援企画〜",
+    "url": "https://bangboo.jp/schedule/detail/50264",
     "venue": "梅田BANGBOO",
     "note": ""
   },
@@ -13280,6 +13451,15 @@
     "artist": "All City andmore!!",
     "title": "Synch Mob Presents \"VOLTAGE LEGION \"",
     "url": "https://clubdrop.jp/schedule/detail/47586",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/03/26",
+    "day": "木",
+    "artist": "バトラブ！",
+    "title": "T.E.I.E.N. ~大阪編~",
+    "url": "https://clubdrop.jp/schedule/detail/50120",
     "venue": "アメリカ村DROP",
     "note": ""
   },
@@ -16236,6 +16416,213 @@
     "note": ""
   },
   {
+    "date": "2026/03/24",
+    "day": "火",
+    "artist": "きらーちゅーんぷりきゅあ",
+    "title": "森ノ宮医療大学軽音楽部 卒業ライブ",
+    "url": "https://osaka-varon.jp/schedule/detail/46906",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2026/03/24",
+    "day": "火",
+    "artist": "メディ黒p〜闇夜の騎士団〜",
+    "title": "森ノ宮医療大学軽音楽部 卒業ライブ",
+    "url": "https://osaka-varon.jp/schedule/detail/46906",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2026/03/24",
+    "day": "火",
+    "artist": "自由業",
+    "title": "森ノ宮医療大学軽音楽部 卒業ライブ",
+    "url": "https://osaka-varon.jp/schedule/detail/46906",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2026/03/24",
+    "day": "火",
+    "artist": "キタクブレッターズ",
+    "title": "森ノ宮医療大学軽音楽部 卒業ライブ",
+    "url": "https://osaka-varon.jp/schedule/detail/46906",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2026/03/24",
+    "day": "火",
+    "artist": "sumiiko",
+    "title": "森ノ宮医療大学軽音楽部 卒業ライブ",
+    "url": "https://osaka-varon.jp/schedule/detail/46906",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2026/03/24",
+    "day": "火",
+    "artist": "宇宙際タイヒミュラー理論",
+    "title": "森ノ宮医療大学軽音楽部 卒業ライブ",
+    "url": "https://osaka-varon.jp/schedule/detail/46906",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2026/03/24",
+    "day": "火",
+    "artist": "シャバいTシャツ屋さん",
+    "title": "森ノ宮医療大学軽音楽部 卒業ライブ",
+    "url": "https://osaka-varon.jp/schedule/detail/46906",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2026/03/24",
+    "day": "火",
+    "artist": "ユーキーズ",
+    "title": "森ノ宮医療大学軽音楽部 卒業ライブ",
+    "url": "https://osaka-varon.jp/schedule/detail/46906",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2026/03/24",
+    "day": "火",
+    "artist": "Mrs.GREEN OTPPLE",
+    "title": "森ノ宮医療大学軽音楽部 卒業ライブ",
+    "url": "https://osaka-varon.jp/schedule/detail/46906",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2026/03/24",
+    "day": "火",
+    "artist": "PARADOX",
+    "title": "森ノ宮医療大学軽音楽部 卒業ライブ",
+    "url": "https://osaka-varon.jp/schedule/detail/46906",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2026/03/24",
+    "day": "火",
+    "artist": "Bye-Bye Fight!",
+    "title": "森ノ宮医療大学軽音楽部 卒業ライブ",
+    "url": "https://osaka-varon.jp/schedule/detail/46906",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2026/03/24",
+    "day": "火",
+    "artist": "The maje5tic quintet",
+    "title": "森ノ宮医療大学軽音楽部 卒業ライブ",
+    "url": "https://osaka-varon.jp/schedule/detail/46906",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2026/03/25",
+    "day": "水",
+    "artist": "Pomme Verte",
+    "title": "森ノ宮医療大学軽音楽部 卒業ライブ",
+    "url": "https://osaka-varon.jp/schedule/detail/46907",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2026/03/25",
+    "day": "水",
+    "artist": "Girl's Band",
+    "title": "森ノ宮医療大学軽音楽部 卒業ライブ",
+    "url": "https://osaka-varon.jp/schedule/detail/46907",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2026/03/25",
+    "day": "水",
+    "artist": "ラポール",
+    "title": "森ノ宮医療大学軽音楽部 卒業ライブ",
+    "url": "https://osaka-varon.jp/schedule/detail/46907",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2026/03/25",
+    "day": "水",
+    "artist": "くくる",
+    "title": "森ノ宮医療大学軽音楽部 卒業ライブ",
+    "url": "https://osaka-varon.jp/schedule/detail/46907",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2026/03/25",
+    "day": "水",
+    "artist": "さよならぱんだ",
+    "title": "森ノ宮医療大学軽音楽部 卒業ライブ",
+    "url": "https://osaka-varon.jp/schedule/detail/46907",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2026/03/25",
+    "day": "水",
+    "artist": "SHIRASU",
+    "title": "森ノ宮医療大学軽音楽部 卒業ライブ",
+    "url": "https://osaka-varon.jp/schedule/detail/46907",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2026/03/25",
+    "day": "水",
+    "artist": "KAN-BOON",
+    "title": "森ノ宮医療大学軽音楽部 卒業ライブ",
+    "url": "https://osaka-varon.jp/schedule/detail/46907",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2026/03/25",
+    "day": "水",
+    "artist": "らいみょん",
+    "title": "森ノ宮医療大学軽音楽部 卒業ライブ",
+    "url": "https://osaka-varon.jp/schedule/detail/46907",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2026/03/25",
+    "day": "水",
+    "artist": "Re:fleiN",
+    "title": "森ノ宮医療大学軽音楽部 卒業ライブ",
+    "url": "https://osaka-varon.jp/schedule/detail/46907",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2026/03/25",
+    "day": "水",
+    "artist": "めんたいもちーず",
+    "title": "森ノ宮医療大学軽音楽部 卒業ライブ",
+    "url": "https://osaka-varon.jp/schedule/detail/46907",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2026/03/25",
+    "day": "水",
+    "artist": "漢気ポニーテール",
+    "title": "森ノ宮医療大学軽音楽部 卒業ライブ",
+    "url": "https://osaka-varon.jp/schedule/detail/46907",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
     "date": "2026/03/26",
     "day": "木",
     "artist": "omoide factory (Age Factoryのコピー",
@@ -17222,6 +17609,24 @@
     "artist": "バンドマンの底辺×高さ÷2",
     "title": "AWAKENING vol.21",
     "url": "https://osaka-varon.jp/schedule/detail/49358",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2026/04/19",
+    "day": "日",
+    "artist": "感情線は時をこえて",
+    "title": "透き通る線",
+    "url": "https://osaka-varon.jp/schedule/detail/52004",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2026/04/19",
+    "day": "日",
+    "artist": "スキトオルアオ",
+    "title": "透き通る線",
+    "url": "https://osaka-varon.jp/schedule/detail/52004",
     "venue": "VARON",
     "note": ""
   },
