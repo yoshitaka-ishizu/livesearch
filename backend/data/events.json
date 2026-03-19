@@ -839,7 +839,7 @@
   {
     "date": "2026/04/25",
     "day": "",
-    "artist": "青天の霹",
+    "artist": "青天の霹靂",
     "title": "動",
     "url": "https://fireloop.net/schedule_now.shtml#0425",
     "venue": "寺田町Fireloop",
@@ -3881,8 +3881,8 @@
   {
     "date": "2026/04/26",
     "day": "日",
-    "artist": "para-dice 17th anniversary",
-    "title": "para-dice 17th anniversary",
+    "artist": "para-dice 17th Anniversary",
+    "title": "DooDeeCaa",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -3890,8 +3890,8 @@
   {
     "date": "2026/04/26",
     "day": "日",
-    "artist": "Dodeca 1st ep“Parallax Echoes”",
-    "title": "para-dice 17th anniversary",
+    "artist": "DooDeeCaa 1st EP“Parallax Echoes”",
+    "title": "DooDeeCaa",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -3900,7 +3900,7 @@
     "date": "2026/04/26",
     "day": "日",
     "artist": "リリースツアー",
-    "title": "para-dice 17th anniversary",
+    "title": "DooDeeCaa",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -3908,8 +3908,8 @@
   {
     "date": "2026/04/26",
     "day": "日",
-    "artist": "Dodeca",
-    "title": "para-dice 17th anniversary",
+    "artist": "DooDeeCaa",
+    "title": "DooDeeCaa",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -3918,16 +3918,7 @@
     "date": "2026/04/26",
     "day": "日",
     "artist": "SUBLIMITY",
-    "title": "para-dice 17th anniversary",
-    "url": "https://para-dice.net/",
-    "venue": "扇町para-dice",
-    "note": ""
-  },
-  {
-    "date": "2026/04/26",
-    "day": "日",
-    "artist": "CONAPT IN SISCO",
-    "title": "para-dice 17th anniversary",
+    "title": "DooDeeCaa",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -3936,7 +3927,16 @@
     "date": "2026/04/26",
     "day": "日",
     "artist": "E.S.S Group",
-    "title": "para-dice 17th anniversary",
+    "title": "DooDeeCaa",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
+    "date": "2026/04/26",
+    "day": "日",
+    "artist": "CONAPT IN SISCO",
+    "title": "DooDeeCaa",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -3945,7 +3945,7 @@
     "date": "2026/04/26",
     "day": "日",
     "artist": "DJ スミダトモヨシ",
-    "title": "para-dice 17th anniversary",
+    "title": "DooDeeCaa",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -4790,7 +4790,16 @@
   {
     "date": "2026/05/20",
     "day": "水",
-    "artist": "イタミトクニン+Rie Lee+柾 and more...",
+    "artist": "イタミトクニン+Rie Lee+柾",
+    "title": "灰原正之 / 山本 弘 / 異 / 虚舟 dub experience / イタミトクニン+Rie Lee+柾",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
+    "date": "2026/05/20",
+    "day": "水",
+    "artist": "ズルムケ直樹",
     "title": "灰原正之 / 山本 弘 / 異 / 虚舟 dub experience / イタミトクニン+Rie Lee+柾",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
@@ -13455,6 +13464,69 @@
     "note": ""
   },
   {
+    "date": "2026/03/23",
+    "day": "月",
+    "artist": "阿王〜aou〜",
+    "title": "Synch Mob Presents \"VOLTAGE LEGION \"",
+    "url": "https://clubdrop.jp/schedule/detail/51916",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/03/23",
+    "day": "月",
+    "artist": "Minority Game",
+    "title": "Synch Mob Presents \"VOLTAGE LEGION \"",
+    "url": "https://clubdrop.jp/schedule/detail/51916",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/03/23",
+    "day": "月",
+    "artist": "STRAWDAY",
+    "title": "Synch Mob Presents \"VOLTAGE LEGION \"",
+    "url": "https://clubdrop.jp/schedule/detail/51916",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/03/23",
+    "day": "月",
+    "artist": "C-LA",
+    "title": "Synch Mob Presents \"VOLTAGE LEGION \"",
+    "url": "https://clubdrop.jp/schedule/detail/51916",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/03/23",
+    "day": "月",
+    "artist": "All City",
+    "title": "Synch Mob Presents \"VOLTAGE LEGION \"",
+    "url": "https://clubdrop.jp/schedule/detail/51916",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/03/23",
+    "day": "月",
+    "artist": "LyricalPopParadox",
+    "title": "Synch Mob Presents \"VOLTAGE LEGION \"",
+    "url": "https://clubdrop.jp/schedule/detail/51916",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/03/23",
+    "day": "月",
+    "artist": "ディノゾール",
+    "title": "Synch Mob Presents \"VOLTAGE LEGION \"",
+    "url": "https://clubdrop.jp/schedule/detail/51916",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
     "date": "2026/03/25",
     "day": "水",
     "artist": "うぉんかなっど",
@@ -16686,6 +16758,132 @@
     "note": ""
   },
   {
+    "date": "2026/03/23",
+    "day": "月",
+    "artist": "Hige BAND",
+    "title": "酒じかけのアンディ",
+    "url": "https://osaka-varon.jp/schedule/detail/48064",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2026/03/23",
+    "day": "月",
+    "artist": "NAOTO疾風伝",
+    "title": "酒じかけのアンディ",
+    "url": "https://osaka-varon.jp/schedule/detail/48064",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2026/03/23",
+    "day": "月",
+    "artist": "peNice",
+    "title": "酒じかけのアンディ",
+    "url": "https://osaka-varon.jp/schedule/detail/48064",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2026/03/23",
+    "day": "月",
+    "artist": "χcmのピンヒール",
+    "title": "酒じかけのアンディ",
+    "url": "https://osaka-varon.jp/schedule/detail/48064",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2026/03/23",
+    "day": "月",
+    "artist": "すたじおズ",
+    "title": "酒じかけのアンディ",
+    "url": "https://osaka-varon.jp/schedule/detail/48064",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2026/03/23",
+    "day": "月",
+    "artist": "美女vijon",
+    "title": "酒じかけのアンディ",
+    "url": "https://osaka-varon.jp/schedule/detail/48064",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2026/03/23",
+    "day": "月",
+    "artist": "ラルクアンディシエル  Chun",
+    "title": "酒じかけのアンディ",
+    "url": "https://osaka-varon.jp/schedule/detail/48064",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2026/03/23",
+    "day": "月",
+    "artist": "DJオニオン",
+    "title": "酒じかけのアンディ",
+    "url": "https://osaka-varon.jp/schedule/detail/48064",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2026/03/23",
+    "day": "月",
+    "artist": "DJ MILLENNIUM",
+    "title": "酒じかけのアンディ",
+    "url": "https://osaka-varon.jp/schedule/detail/48064",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2026/03/23",
+    "day": "月",
+    "artist": "you are the END",
+    "title": "酒じかけのアンディ",
+    "url": "https://osaka-varon.jp/schedule/detail/48064",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2026/03/23",
+    "day": "月",
+    "artist": "俺の見たいバンドの人",
+    "title": "酒じかけのアンディ",
+    "url": "https://osaka-varon.jp/schedule/detail/48064",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2026/03/23",
+    "day": "月",
+    "artist": "せりな。",
+    "title": "酒じかけのアンディ",
+    "url": "https://osaka-varon.jp/schedule/detail/48064",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2026/03/23",
+    "day": "月",
+    "artist": "ミラクル嵐",
+    "title": "酒じかけのアンディ",
+    "url": "https://osaka-varon.jp/schedule/detail/48064",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2026/03/23",
+    "day": "月",
+    "artist": "やまたにえん  Eripyon",
+    "title": "酒じかけのアンディ",
+    "url": "https://osaka-varon.jp/schedule/detail/48064",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
     "date": "2026/03/24",
     "day": "火",
     "artist": "きらーちゅーんぷりきゅあ",
@@ -17094,7 +17292,7 @@
     "date": "2026/03/27",
     "day": "金",
     "artist": "Re:sist　 AIMIA",
-    "title": "Re:sist Last LIVE one who Re:sist Our resistance is over.",
+    "title": "『one who Re:sist Our resistance is over.』",
     "url": "https://osaka-varon.jp/schedule/detail/49774",
     "venue": "VARON",
     "note": ""
@@ -17103,7 +17301,7 @@
     "date": "2026/03/27",
     "day": "金",
     "artist": "LΩPALA",
-    "title": "Re:sist Last LIVE one who Re:sist Our resistance is over.",
+    "title": "『one who Re:sist Our resistance is over.』",
     "url": "https://osaka-varon.jp/schedule/detail/49774",
     "venue": "VARON",
     "note": ""
@@ -20468,7 +20666,70 @@
   {
     "date": "2026/03/25",
     "day": "水",
-    "artist": "coming soon..",
+    "artist": "響音帝国",
+    "title": "大阪工業大学主催ジョイント",
+    "url": "https://osaka-zeela.jp/schedule/detail/47382",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2026/03/25",
+    "day": "水",
+    "artist": "とんびにかめパン食べられた",
+    "title": "大阪工業大学主催ジョイント",
+    "url": "https://osaka-zeela.jp/schedule/detail/47382",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2026/03/25",
+    "day": "水",
+    "artist": "新米玄師",
+    "title": "大阪工業大学主催ジョイント",
+    "url": "https://osaka-zeela.jp/schedule/detail/47382",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2026/03/25",
+    "day": "水",
+    "artist": "うぉwwww",
+    "title": "大阪工業大学主催ジョイント",
+    "url": "https://osaka-zeela.jp/schedule/detail/47382",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2026/03/25",
+    "day": "水",
+    "artist": "ばうんでえ",
+    "title": "大阪工業大学主催ジョイント",
+    "url": "https://osaka-zeela.jp/schedule/detail/47382",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2026/03/25",
+    "day": "水",
+    "artist": "Awesome as fxxk",
+    "title": "大阪工業大学主催ジョイント",
+    "url": "https://osaka-zeela.jp/schedule/detail/47382",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2026/03/25",
+    "day": "水",
+    "artist": "ほりしゅう代打スルンヤデイ",
+    "title": "大阪工業大学主催ジョイント",
+    "url": "https://osaka-zeela.jp/schedule/detail/47382",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2026/03/25",
+    "day": "水",
+    "artist": "ぼらぎのぉる超",
     "title": "大阪工業大学主催ジョイント",
     "url": "https://osaka-zeela.jp/schedule/detail/47382",
     "venue": "Zeela",
@@ -27666,6 +27927,51 @@
     "note": ""
   },
   {
+    "date": "2026/05/13",
+    "day": "水",
+    "artist": "Kanon",
+    "title": "NaturalWoman",
+    "url": "http://www.knave.co.jp/schedule/s_2026_05.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2026/05/13",
+    "day": "水",
+    "artist": "河村麻未",
+    "title": "NaturalWoman",
+    "url": "http://www.knave.co.jp/schedule/s_2026_05.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2026/05/13",
+    "day": "水",
+    "artist": "ヤマサキマナミ",
+    "title": "NaturalWoman",
+    "url": "http://www.knave.co.jp/schedule/s_2026_05.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2026/05/13",
+    "day": "水",
+    "artist": "瀧本結月",
+    "title": "NaturalWoman",
+    "url": "http://www.knave.co.jp/schedule/s_2026_05.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2026/05/13",
+    "day": "水",
+    "artist": "問)knave06-6535-0691",
+    "title": "NaturalWoman",
+    "url": "http://www.knave.co.jp/schedule/s_2026_05.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
     "date": "2026/05/14",
     "day": "木",
     "artist": "ケシカルカッコ",
@@ -27927,6 +28233,78 @@
     "note": ""
   },
   {
+    "date": "2026/05/25",
+    "day": "月",
+    "artist": "網谷俊輝",
+    "title": "LoversRock",
+    "url": "http://www.knave.co.jp/schedule/s_2026_05.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2026/05/25",
+    "day": "月",
+    "artist": "Urey",
+    "title": "LoversRock",
+    "url": "http://www.knave.co.jp/schedule/s_2026_05.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2026/05/25",
+    "day": "月",
+    "artist": "げんき",
+    "title": "LoversRock",
+    "url": "http://www.knave.co.jp/schedule/s_2026_05.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2026/05/25",
+    "day": "月",
+    "artist": "てらぴょん",
+    "title": "LoversRock",
+    "url": "http://www.knave.co.jp/schedule/s_2026_05.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2026/05/25",
+    "day": "月",
+    "artist": "問)knave06-6535-0691",
+    "title": "LoversRock",
+    "url": "http://www.knave.co.jp/schedule/s_2026_05.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2026/05/27",
+    "day": "水",
+    "artist": "AIK",
+    "title": "AIK×ASNA 2manLive「太陽と月」",
+    "url": "http://www.knave.co.jp/schedule/s_2026_05.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2026/05/27",
+    "day": "水",
+    "artist": "ASNA",
+    "title": "AIK×ASNA 2manLive「太陽と月」",
+    "url": "http://www.knave.co.jp/schedule/s_2026_05.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2026/05/27",
+    "day": "水",
+    "artist": "問)knave06-6535-0691",
+    "title": "AIK×ASNA 2manLive「太陽と月」",
+    "url": "http://www.knave.co.jp/schedule/s_2026_05.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
     "date": "2026/05/29",
     "day": "金",
     "artist": "藤川彩",
@@ -28039,6 +28417,78 @@
     "day": "水",
     "artist": "問)knave06-6535-0691",
     "title": "knave 24th Anniversary  supported by KIRIN",
+    "url": "http://www.knave.co.jp/schedule/s_2026_05.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2026/06/06",
+    "day": "土",
+    "artist": "Dacco",
+    "title": "「TWINS 」",
+    "url": "http://www.knave.co.jp/schedule/s_2026_05.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2026/06/06",
+    "day": "土",
+    "artist": "天照",
+    "title": "「TWINS 」",
+    "url": "http://www.knave.co.jp/schedule/s_2026_05.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2026/06/06",
+    "day": "土",
+    "artist": "たまゆい",
+    "title": "「TWINS 」",
+    "url": "http://www.knave.co.jp/schedule/s_2026_05.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2026/06/06",
+    "day": "土",
+    "artist": "プレミアチケット￥5",
+    "title": "「TWINS 」",
+    "url": "http://www.knave.co.jp/schedule/s_2026_05.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2026/06/06",
+    "day": "土",
+    "artist": "000",
+    "title": "「TWINS 」",
+    "url": "http://www.knave.co.jp/schedule/s_2026_05.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2026/06/06",
+    "day": "土",
+    "artist": "TIGETにて 4",
+    "title": "「TWINS 」",
+    "url": "http://www.knave.co.jp/schedule/s_2026_05.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2026/06/06",
+    "day": "土",
+    "artist": "412:00より発売",
+    "title": "「TWINS 」",
+    "url": "http://www.knave.co.jp/schedule/s_2026_05.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2026/06/06",
+    "day": "土",
+    "artist": "問)knave06-6535-0691",
+    "title": "「TWINS 」",
     "url": "http://www.knave.co.jp/schedule/s_2026_05.html",
     "venue": "knave",
     "note": ""
