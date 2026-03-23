@@ -4772,17 +4772,8 @@
   {
     "date": "2026/05/20",
     "day": "水",
-    "artist": "灰原正之",
-    "title": "灰原正之 / 山本 弘 / 異 / 虚舟 dub experience / イタミトクニン+Rie Lee+柾",
-    "url": "https://para-dice.net/",
-    "venue": "扇町para-dice",
-    "note": ""
-  },
-  {
-    "date": "2026/05/20",
-    "day": "水",
     "artist": "山本 弘",
-    "title": "灰原正之 / 山本 弘 / 異 / 虚舟 dub experience / イタミトクニン+Rie Lee+柾",
+    "title": "OPEN 18:00",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -4791,7 +4782,7 @@
     "date": "2026/05/20",
     "day": "水",
     "artist": "異",
-    "title": "灰原正之 / 山本 弘 / 異 / 虚舟 dub experience / イタミトクニン+Rie Lee+柾",
+    "title": "OPEN 18:00",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -4800,7 +4791,16 @@
     "date": "2026/05/20",
     "day": "水",
     "artist": "虚舟 dub experience",
-    "title": "灰原正之 / 山本 弘 / 異 / 虚舟 dub experience / イタミトクニン+Rie Lee+柾",
+    "title": "OPEN 18:00",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
+    "date": "2026/05/20",
+    "day": "水",
+    "artist": "灰原正之",
+    "title": "OPEN 18:00",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -4809,7 +4809,7 @@
     "date": "2026/05/20",
     "day": "水",
     "artist": "イタミトクニン+Rie Lee+柾",
-    "title": "灰原正之 / 山本 弘 / 異 / 虚舟 dub experience / イタミトクニン+Rie Lee+柾",
+    "title": "OPEN 18:00",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -4818,7 +4818,7 @@
     "date": "2026/05/20",
     "day": "水",
     "artist": "ズルムケ直樹",
-    "title": "灰原正之 / 山本 弘 / 異 / 虚舟 dub experience / イタミトクニン+Rie Lee+柾",
+    "title": "OPEN 18:00",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -7290,6 +7290,69 @@
     "note": ""
   },
   {
+    "date": "2026/04/01",
+    "day": "水",
+    "artist": "あつしバンド",
+    "title": "あつし×しのらーpre. 【北堀江コピバンナイト】",
+    "url": "https://vijon.jp/schedule/detail/50395",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2026/04/01",
+    "day": "水",
+    "artist": "しのらー バンド",
+    "title": "あつし×しのらーpre. 【北堀江コピバンナイト】",
+    "url": "https://vijon.jp/schedule/detail/50395",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2026/04/01",
+    "day": "水",
+    "artist": "まなやだ バンド",
+    "title": "あつし×しのらーpre. 【北堀江コピバンナイト】",
+    "url": "https://vijon.jp/schedule/detail/50395",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2026/04/01",
+    "day": "水",
+    "artist": "きゃみ バンド",
+    "title": "あつし×しのらーpre. 【北堀江コピバンナイト】",
+    "url": "https://vijon.jp/schedule/detail/50395",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2026/04/01",
+    "day": "水",
+    "artist": "りお バンド",
+    "title": "あつし×しのらーpre. 【北堀江コピバンナイト】",
+    "url": "https://vijon.jp/schedule/detail/50395",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2026/04/01",
+    "day": "水",
+    "artist": "ざき バンド",
+    "title": "あつし×しのらーpre. 【北堀江コピバンナイト】",
+    "url": "https://vijon.jp/schedule/detail/50395",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2026/04/01",
+    "day": "水",
+    "artist": "こた バンド",
+    "title": "あつし×しのらーpre. 【北堀江コピバンナイト】",
+    "url": "https://vijon.jp/schedule/detail/50395",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
     "date": "2026/04/03",
     "day": "金",
     "artist": "Patrick&Patricia",
@@ -7493,6 +7556,105 @@
     "artist": "PIGGS",
     "title": "『太陽を超えろ！SUPER NOVASH TOUR』",
     "url": "https://vijon.jp/schedule/detail/49975",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2026/04/12",
+    "day": "日",
+    "artist": "O chan yori ai wo komete",
+    "title": "まみ企画",
+    "url": "https://vijon.jp/schedule/detail/48009",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2026/04/12",
+    "day": "日",
+    "artist": "cyan blue",
+    "title": "まみ企画",
+    "url": "https://vijon.jp/schedule/detail/48009",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2026/04/12",
+    "day": "日",
+    "artist": "どーする？",
+    "title": "まみ企画",
+    "url": "https://vijon.jp/schedule/detail/48009",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2026/04/12",
+    "day": "日",
+    "artist": "叫音-ユキネ-",
+    "title": "まみ企画",
+    "url": "https://vijon.jp/schedule/detail/48009",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2026/04/12",
+    "day": "日",
+    "artist": "SAILOR MARS",
+    "title": "まみ企画",
+    "url": "https://vijon.jp/schedule/detail/48009",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2026/04/12",
+    "day": "日",
+    "artist": "アル中ハイマー",
+    "title": "まみ企画",
+    "url": "https://vijon.jp/schedule/detail/48009",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2026/04/12",
+    "day": "日",
+    "artist": "HOT'NGRAFFITY",
+    "title": "まみ企画",
+    "url": "https://vijon.jp/schedule/detail/48009",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2026/04/12",
+    "day": "日",
+    "artist": "nettyori",
+    "title": "まみ企画",
+    "url": "https://vijon.jp/schedule/detail/48009",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2026/04/12",
+    "day": "日",
+    "artist": "うぉ…wい",
+    "title": "まみ企画",
+    "url": "https://vijon.jp/schedule/detail/48009",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2026/04/12",
+    "day": "日",
+    "artist": "ズーパーク",
+    "title": "まみ企画",
+    "url": "https://vijon.jp/schedule/detail/48009",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2026/04/12",
+    "day": "日",
+    "artist": "ペロロペロペロ",
+    "title": "まみ企画",
+    "url": "https://vijon.jp/schedule/detail/48009",
     "venue": "北堀江club vijon",
     "note": ""
   },
@@ -7862,6 +8024,87 @@
     "artist": "...and more",
     "title": "vijon pre.【ATSUME NIGHT 2026】",
     "url": "https://vijon.jp/schedule/detail/51824",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2026/05/07",
+    "day": "木",
+    "artist": "Nagui",
+    "title": "【UNPLUGOOD】vol.9",
+    "url": "https://vijon.jp/schedule/detail/50820",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2026/05/07",
+    "day": "木",
+    "artist": "宮下匡雅",
+    "title": "【UNPLUGOOD】vol.9",
+    "url": "https://vijon.jp/schedule/detail/50820",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2026/05/07",
+    "day": "木",
+    "artist": "あや",
+    "title": "【UNPLUGOOD】vol.9",
+    "url": "https://vijon.jp/schedule/detail/50820",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2026/05/07",
+    "day": "木",
+    "artist": "SiNT",
+    "title": "【UNPLUGOOD】vol.9",
+    "url": "https://vijon.jp/schedule/detail/50820",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2026/05/07",
+    "day": "木",
+    "artist": "溜渕裕人,Yuma",
+    "title": "【UNPLUGOOD】vol.9",
+    "url": "https://vijon.jp/schedule/detail/50820",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2026/05/07",
+    "day": "木",
+    "artist": "松久保竜也",
+    "title": "【UNPLUGOOD】vol.9",
+    "url": "https://vijon.jp/schedule/detail/50820",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2026/05/07",
+    "day": "木",
+    "artist": "植野将史",
+    "title": "【UNPLUGOOD】vol.9",
+    "url": "https://vijon.jp/schedule/detail/50820",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2026/05/07",
+    "day": "木",
+    "artist": "藤原司",
+    "title": "【UNPLUGOOD】vol.9",
+    "url": "https://vijon.jp/schedule/detail/50820",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2026/05/07",
+    "day": "木",
+    "artist": "芽生",
+    "title": "【UNPLUGOOD】vol.9",
+    "url": "https://vijon.jp/schedule/detail/50820",
     "venue": "北堀江club vijon",
     "note": ""
   },
@@ -14742,11 +14985,182 @@
     "note": ""
   },
   {
+    "date": "2026/04/27",
+    "day": "月",
+    "artist": "オトむしゃ",
+    "title": "北所陽和×DROP presents.楽しさのその先へ",
+    "url": "https://clubdrop.jp/schedule/detail/49722",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/04/27",
+    "day": "月",
+    "artist": "ALL iN FAZE",
+    "title": "北所陽和×DROP presents.楽しさのその先へ",
+    "url": "https://clubdrop.jp/schedule/detail/49722",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/04/27",
+    "day": "月",
+    "artist": "阿王〜aou〜",
+    "title": "北所陽和×DROP presents.楽しさのその先へ",
+    "url": "https://clubdrop.jp/schedule/detail/49722",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/04/27",
+    "day": "月",
+    "artist": "BUGSLUMP",
+    "title": "北所陽和×DROP presents.楽しさのその先へ",
+    "url": "https://clubdrop.jp/schedule/detail/49722",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/04/27",
+    "day": "月",
+    "artist": "UnpRayable",
+    "title": "北所陽和×DROP presents.楽しさのその先へ",
+    "url": "https://clubdrop.jp/schedule/detail/49722",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/04/27",
+    "day": "月",
+    "artist": "直径12cm andmore!!大和",
+    "title": "北所陽和×DROP presents.楽しさのその先へ",
+    "url": "https://clubdrop.jp/schedule/detail/49722",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
     "date": "2026/04/28",
     "day": "火",
     "artist": "I.VILL",
     "title": "にゃんこ大戦争〜テキーラを添えて〜",
     "url": "https://clubdrop.jp/schedule/detail/49843",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/04/29",
+    "day": "水",
+    "artist": "UZMK",
+    "title": "Section U.G & UZMK presents.『Red Death Chocolate Rampage3』-アメリカ村 BEYOND 8th ANNIVERSARY-",
+    "url": "https://clubdrop.jp/schedule/detail/45094",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/04/29",
+    "day": "水",
+    "artist": "SUNSHINE DUB",
+    "title": "Section U.G & UZMK presents.『Red Death Chocolate Rampage3』-アメリカ村 BEYOND 8th ANNIVERSARY-",
+    "url": "https://clubdrop.jp/schedule/detail/45094",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/04/29",
+    "day": "水",
+    "artist": "FABLED NUMBER",
+    "title": "Section U.G & UZMK presents.『Red Death Chocolate Rampage3』-アメリカ村 BEYOND 8th ANNIVERSARY-",
+    "url": "https://clubdrop.jp/schedule/detail/45094",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/04/29",
+    "day": "水",
+    "artist": "CHASED",
+    "title": "Section U.G & UZMK presents.『Red Death Chocolate Rampage3』-アメリカ村 BEYOND 8th ANNIVERSARY-",
+    "url": "https://clubdrop.jp/schedule/detail/45094",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/04/29",
+    "day": "水",
+    "artist": "ALL iN FAZE",
+    "title": "Section U.G & UZMK presents.『Red Death Chocolate Rampage3』-アメリカ村 BEYOND 8th ANNIVERSARY-",
+    "url": "https://clubdrop.jp/schedule/detail/45094",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/04/29",
+    "day": "水",
+    "artist": "AMAN",
+    "title": "Section U.G & UZMK presents.『Red Death Chocolate Rampage3』-アメリカ村 BEYOND 8th ANNIVERSARY-",
+    "url": "https://clubdrop.jp/schedule/detail/45094",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/04/29",
+    "day": "水",
+    "artist": "LENZ",
+    "title": "Section U.G & UZMK presents.『Red Death Chocolate Rampage3』-アメリカ村 BEYOND 8th ANNIVERSARY-",
+    "url": "https://clubdrop.jp/schedule/detail/45094",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/04/29",
+    "day": "水",
+    "artist": "Minority Game",
+    "title": "Section U.G & UZMK presents.『Red Death Chocolate Rampage3』-アメリカ村 BEYOND 8th ANNIVERSARY-",
+    "url": "https://clubdrop.jp/schedule/detail/45094",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/04/29",
+    "day": "水",
+    "artist": "ENVY PARANOID",
+    "title": "Section U.G & UZMK presents.『Red Death Chocolate Rampage3』-アメリカ村 BEYOND 8th ANNIVERSARY-",
+    "url": "https://clubdrop.jp/schedule/detail/45094",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/04/29",
+    "day": "水",
+    "artist": "CYCLONISTA",
+    "title": "Section U.G & UZMK presents.『Red Death Chocolate Rampage3』-アメリカ村 BEYOND 8th ANNIVERSARY-",
+    "url": "https://clubdrop.jp/schedule/detail/45094",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/04/29",
+    "day": "水",
+    "artist": "妖狐繚乱",
+    "title": "Section U.G & UZMK presents.『Red Death Chocolate Rampage3』-アメリカ村 BEYOND 8th ANNIVERSARY-",
+    "url": "https://clubdrop.jp/schedule/detail/45094",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/04/29",
+    "day": "水",
+    "artist": "LyricalPopParadox",
+    "title": "Section U.G & UZMK presents.『Red Death Chocolate Rampage3』-アメリカ村 BEYOND 8th ANNIVERSARY-",
+    "url": "https://clubdrop.jp/schedule/detail/45094",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/04/29",
+    "day": "水",
+    "artist": "永遠のセツナ and 1 BAND!!",
+    "title": "Section U.G & UZMK presents.『Red Death Chocolate Rampage3』-アメリカ村 BEYOND 8th ANNIVERSARY-",
+    "url": "https://clubdrop.jp/schedule/detail/45094",
     "venue": "アメリカ村DROP",
     "note": ""
   },
@@ -17924,6 +18338,132 @@
     "artist": "LΩPALA",
     "title": "『one who Re:sist Our resistance is over.』",
     "url": "https://osaka-varon.jp/schedule/detail/49774",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2026/03/28",
+    "day": "土",
+    "artist": "JET!!Princely",
+    "title": "『JET JET‼☆』vol.3",
+    "url": "https://osaka-varon.jp/schedule/detail/52158",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2026/03/28",
+    "day": "土",
+    "artist": "RoiAm",
+    "title": "『JET JET‼☆』vol.3",
+    "url": "https://osaka-varon.jp/schedule/detail/52158",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2026/03/28",
+    "day": "土",
+    "artist": "キミトソラ",
+    "title": "『JET JET‼☆』vol.3",
+    "url": "https://osaka-varon.jp/schedule/detail/52158",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2026/03/28",
+    "day": "土",
+    "artist": "YOUNITED",
+    "title": "『JET JET‼☆』vol.3",
+    "url": "https://osaka-varon.jp/schedule/detail/52158",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2026/03/28",
+    "day": "土",
+    "artist": "幽獄パレード",
+    "title": "『JET JET‼☆』vol.3",
+    "url": "https://osaka-varon.jp/schedule/detail/52158",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2026/03/28",
+    "day": "土",
+    "artist": "てんぽぷりも",
+    "title": "『COLLECTION　VOL.3』",
+    "url": "https://osaka-varon.jp/schedule/detail/44738",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2026/03/28",
+    "day": "土",
+    "artist": "COzMICぱれーど",
+    "title": "『COLLECTION　VOL.3』",
+    "url": "https://osaka-varon.jp/schedule/detail/44738",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2026/03/28",
+    "day": "土",
+    "artist": "Nody",
+    "title": "『COLLECTION　VOL.3』",
+    "url": "https://osaka-varon.jp/schedule/detail/44738",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2026/03/28",
+    "day": "土",
+    "artist": "ミケネコガールズ",
+    "title": "『COLLECTION　VOL.3』",
+    "url": "https://osaka-varon.jp/schedule/detail/44738",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2026/03/28",
+    "day": "土",
+    "artist": "わんみゅーず",
+    "title": "『COLLECTION　VOL.3』",
+    "url": "https://osaka-varon.jp/schedule/detail/44738",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2026/03/28",
+    "day": "土",
+    "artist": "神井花音",
+    "title": "『COLLECTION　VOL.3』",
+    "url": "https://osaka-varon.jp/schedule/detail/44738",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2026/03/28",
+    "day": "土",
+    "artist": "ハピネスクラッカー",
+    "title": "『COLLECTION　VOL.3』",
+    "url": "https://osaka-varon.jp/schedule/detail/44738",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2026/03/28",
+    "day": "土",
+    "artist": "HIGH SPY DOLL",
+    "title": "『COLLECTION　VOL.3』",
+    "url": "https://osaka-varon.jp/schedule/detail/44738",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2026/03/28",
+    "day": "土",
+    "artist": "リリシック学園",
+    "title": "『COLLECTION　VOL.3』",
+    "url": "https://osaka-varon.jp/schedule/detail/44738",
     "venue": "VARON",
     "note": ""
   },
@@ -21200,6 +21740,15 @@
     "artist": "HAPPY CREATORS",
     "title": "HAPPY CREATORS「ハピクリクエスト！-七色の光路へ -」",
     "url": "https://osaka-zeela.jp/schedule/detail/45525",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2026/03/22",
+    "day": "日",
+    "artist": "SANUGLOW",
+    "title": "BLUESATURDAY",
+    "url": "https://osaka-zeela.jp/schedule/detail/50681",
     "venue": "Zeela",
     "note": ""
   },
@@ -24633,6 +25182,105 @@
     "note": ""
   },
   {
+    "date": "2026/05/02",
+    "day": "土",
+    "artist": "U-key",
+    "title": "ShotBAR令和7周年!! 今日令和イイじゃん",
+    "url": "https://osaka-zeela.jp/schedule/detail/47054",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2026/05/02",
+    "day": "土",
+    "artist": "アペロール",
+    "title": "ShotBAR令和7周年!! 今日令和イイじゃん",
+    "url": "https://osaka-zeela.jp/schedule/detail/47054",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2026/05/02",
+    "day": "土",
+    "artist": "吠",
+    "title": "ShotBAR令和7周年!! 今日令和イイじゃん",
+    "url": "https://osaka-zeela.jp/schedule/detail/47054",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2026/05/02",
+    "day": "土",
+    "artist": "Dang爵'z",
+    "title": "ShotBAR令和7周年!! 今日令和イイじゃん",
+    "url": "https://osaka-zeela.jp/schedule/detail/47054",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2026/05/02",
+    "day": "土",
+    "artist": "おちんちんガールズ♪",
+    "title": "ShotBAR令和7周年!! 今日令和イイじゃん",
+    "url": "https://osaka-zeela.jp/schedule/detail/47054",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2026/05/02",
+    "day": "土",
+    "artist": "The Rehab",
+    "title": "ShotBAR令和7周年!! 今日令和イイじゃん",
+    "url": "https://osaka-zeela.jp/schedule/detail/47054",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2026/05/02",
+    "day": "土",
+    "artist": "れいわネイバーズ with浜崎祐吏",
+    "title": "ShotBAR令和7周年!! 今日令和イイじゃん",
+    "url": "https://osaka-zeela.jp/schedule/detail/47054",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2026/05/02",
+    "day": "土",
+    "artist": "タケウチズ",
+    "title": "ShotBAR令和7周年!! 今日令和イイじゃん",
+    "url": "https://osaka-zeela.jp/schedule/detail/47054",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2026/05/02",
+    "day": "土",
+    "artist": "マゾヒスティックマキバンド",
+    "title": "ShotBAR令和7周年!! 今日令和イイじゃん",
+    "url": "https://osaka-zeela.jp/schedule/detail/47054",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2026/05/02",
+    "day": "土",
+    "artist": "荒巻敬司トリオ",
+    "title": "ShotBAR令和7周年!! 今日令和イイじゃん",
+    "url": "https://osaka-zeela.jp/schedule/detail/47054",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2026/05/02",
+    "day": "土",
+    "artist": "のりりん＆ザ・ビューティーバンド",
+    "title": "ShotBAR令和7周年!! 今日令和イイじゃん",
+    "url": "https://osaka-zeela.jp/schedule/detail/47054",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
     "date": "2026/05/03",
     "day": "日",
     "artist": "Diamanté di gligio",
@@ -24782,6 +25430,42 @@
     "artist": "多次元制御機構よだか",
     "title": "共鳴するvol.1",
     "url": "https://osaka-zeela.jp/schedule/detail/49772",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2026/05/22",
+    "day": "金",
+    "artist": "Romansquall",
+    "title": "Romansquall Pre. Mushup Tunes!!",
+    "url": "https://osaka-zeela.jp/schedule/detail/48569",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2026/05/22",
+    "day": "金",
+    "artist": "Dualscape",
+    "title": "Romansquall Pre. Mushup Tunes!!",
+    "url": "https://osaka-zeela.jp/schedule/detail/48569",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2026/05/22",
+    "day": "金",
+    "artist": "Disconnect Cendrillon",
+    "title": "Romansquall Pre. Mushup Tunes!!",
+    "url": "https://osaka-zeela.jp/schedule/detail/48569",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2026/05/22",
+    "day": "金",
+    "artist": "mm limit",
+    "title": "Romansquall Pre. Mushup Tunes!!",
+    "url": "https://osaka-zeela.jp/schedule/detail/48569",
     "venue": "Zeela",
     "note": ""
   },
@@ -26606,7 +27290,7 @@
   {
     "date": "2026/03/25",
     "day": "水",
-    "artist": "MIA.",
+    "artist": "石原のの",
     "title": "NaturalWoman",
     "url": "http://www.knave.co.jp/schedule/s_2026_03.html",
     "venue": "knave",
@@ -26615,7 +27299,34 @@
   {
     "date": "2026/03/25",
     "day": "水",
-    "artist": "石原のの",
+    "artist": "※出演予定のMIA.は体調不良によりキャンセルとなりました。それに伴い開場開演時間が変更となります。直前のお知らせで申し訳ありませんが何卒ご了承ください。",
+    "title": "NaturalWoman",
+    "url": "http://www.knave.co.jp/schedule/s_2026_03.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2026/03/25",
+    "day": "水",
+    "artist": "18:00",
+    "title": "NaturalWoman",
+    "url": "http://www.knave.co.jp/schedule/s_2026_03.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2026/03/25",
+    "day": "水",
+    "artist": "18:30→18:30",
+    "title": "NaturalWoman",
+    "url": "http://www.knave.co.jp/schedule/s_2026_03.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2026/03/25",
+    "day": "水",
+    "artist": "19:00",
     "title": "NaturalWoman",
     "url": "http://www.knave.co.jp/schedule/s_2026_03.html",
     "venue": "knave",
