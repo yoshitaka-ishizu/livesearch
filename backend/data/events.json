@@ -5060,8 +5060,8 @@
   {
     "date": "2026/05/15",
     "day": "金",
-    "artist": "the blue sundays",
-    "title": "the blue sundays / NEAREQUAL / Carnival Floor / madohi",
+    "artist": "Carnival Floor",
+    "title": "OPEN 19:00",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -5070,7 +5070,7 @@
     "date": "2026/05/15",
     "day": "金",
     "artist": "NEAREQUAL",
-    "title": "the blue sundays / NEAREQUAL / Carnival Floor / madohi",
+    "title": "OPEN 19:00",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -5078,8 +5078,8 @@
   {
     "date": "2026/05/15",
     "day": "金",
-    "artist": "Carnival Floor",
-    "title": "the blue sundays / NEAREQUAL / Carnival Floor / madohi",
+    "artist": "the blue sundays",
+    "title": "OPEN 19:00",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -5088,7 +5088,7 @@
     "date": "2026/05/15",
     "day": "金",
     "artist": "madohi",
-    "title": "the blue sundays / NEAREQUAL / Carnival Floor / madohi",
+    "title": "OPEN 19:00",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -5321,8 +5321,8 @@
   {
     "date": "2026/05/22",
     "day": "金",
-    "artist": "dins",
-    "title": "dins / かとりょー / JACKSTRAW / UMMO / HAMAYANEN / 教育",
+    "artist": "扇町para-dice",
+    "title": "扇町para-dice",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -5330,35 +5330,8 @@
   {
     "date": "2026/05/22",
     "day": "金",
-    "artist": "かとりょー",
-    "title": "dins / かとりょー / JACKSTRAW / UMMO / HAMAYANEN / 教育",
-    "url": "https://para-dice.net/",
-    "venue": "扇町para-dice",
-    "note": ""
-  },
-  {
-    "date": "2026/05/22",
-    "day": "金",
-    "artist": "JACKSTRAW",
-    "title": "dins / かとりょー / JACKSTRAW / UMMO / HAMAYANEN / 教育",
-    "url": "https://para-dice.net/",
-    "venue": "扇町para-dice",
-    "note": ""
-  },
-  {
-    "date": "2026/05/22",
-    "day": "金",
-    "artist": "UMMO",
-    "title": "dins / かとりょー / JACKSTRAW / UMMO / HAMAYANEN / 教育",
-    "url": "https://para-dice.net/",
-    "venue": "扇町para-dice",
-    "note": ""
-  },
-  {
-    "date": "2026/05/22",
-    "day": "金",
-    "artist": "HAMAYANEN",
-    "title": "dins / かとりょー / JACKSTRAW / UMMO / HAMAYANEN / 教育",
+    "artist": "『 GOLD EXPERIENCE 』",
+    "title": "扇町para-dice",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -5367,7 +5340,52 @@
     "date": "2026/05/22",
     "day": "金",
     "artist": "教育",
-    "title": "dins / かとりょー / JACKSTRAW / UMMO / HAMAYANEN / 教育",
+    "title": "扇町para-dice",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
+    "date": "2026/05/22",
+    "day": "金",
+    "artist": "JACKSTRAW",
+    "title": "扇町para-dice",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
+    "date": "2026/05/22",
+    "day": "金",
+    "artist": "HAMAYANEN",
+    "title": "扇町para-dice",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
+    "date": "2026/05/22",
+    "day": "金",
+    "artist": "かとりょー",
+    "title": "扇町para-dice",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
+    "date": "2026/05/22",
+    "day": "金",
+    "artist": "dins",
+    "title": "扇町para-dice",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
+    "date": "2026/05/22",
+    "day": "金",
+    "artist": "UMMO",
+    "title": "扇町para-dice",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -8588,7 +8606,7 @@
   {
     "date": "2026/04/24",
     "day": "金",
-    "artist": "peNice andmore...RiKU",
+    "artist": "peNiceRiKU",
     "title": "岩田生誕祭 LEVEL26",
     "url": "https://vijon.jp/schedule/detail/51307",
     "venue": "北堀江club vijon",
@@ -9536,6 +9554,24 @@
     "artist": "...and more",
     "title": "ピウムジカ5th Anniversary tour\"Take FIVE\"大阪編",
     "url": "https://vijon.jp/schedule/detail/51971",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2026/08/27",
+    "day": "木",
+    "artist": "ワンダフル放送局",
+    "title": "ワンダフル放送局ツアー2026 「出会い直しキャラバン」",
+    "url": "https://vijon.jp/schedule/detail/51984",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2026/08/27",
+    "day": "木",
+    "artist": "...and more",
+    "title": "ワンダフル放送局ツアー2026 「出会い直しキャラバン」",
+    "url": "https://vijon.jp/schedule/detail/51984",
     "venue": "北堀江club vijon",
     "note": ""
   },
@@ -12557,7 +12593,7 @@
   {
     "date": "2026/05/13",
     "day": "水",
-    "artist": "peNice   HINODE SPICE CURRY",
+    "artist": "peNice    HINODE SPICE CURRY",
     "title": "白昼夢vol.5 day1",
     "url": "https://bangboo.jp/schedule/detail/49821",
     "venue": "梅田BANGBOO",
@@ -13493,7 +13529,7 @@
   {
     "date": "2026/06/22",
     "day": "月",
-    "artist": "and more",
+    "artist": "赤猿",
     "title": "Helpless Triangle&BANGBOO pre.【Worst is mine】vol.1",
     "url": "https://bangboo.jp/schedule/detail/49587",
     "venue": "梅田BANGBOO",
@@ -13559,6 +13595,96 @@
     "artist": "おシャベリな感情",
     "title": "山口建人pre.【29歳になっても青春がしたい！！！】",
     "url": "https://bangboo.jp/schedule/detail/51320",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2026/06/24",
+    "day": "水",
+    "artist": "JUNIOR BREATH",
+    "title": "JUNIOR BREATH&BANGBOO pre.【eightbeat sickness EX】 vs BANGBOO編！",
+    "url": "https://bangboo.jp/schedule/detail/51609",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2026/06/24",
+    "day": "水",
+    "artist": "トランヂスター",
+    "title": "JUNIOR BREATH&BANGBOO pre.【eightbeat sickness EX】 vs BANGBOO編！",
+    "url": "https://bangboo.jp/schedule/detail/51609",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2026/06/24",
+    "day": "水",
+    "artist": "AMANOJAKU",
+    "title": "JUNIOR BREATH&BANGBOO pre.【eightbeat sickness EX】 vs BANGBOO編！",
+    "url": "https://bangboo.jp/schedule/detail/51609",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2026/06/24",
+    "day": "水",
+    "artist": "亀岡寛明",
+    "title": "JUNIOR BREATH&BANGBOO pre.【eightbeat sickness EX】 vs BANGBOO編！",
+    "url": "https://bangboo.jp/schedule/detail/51609",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2026/06/24",
+    "day": "水",
+    "artist": "GO→STRAIGHT",
+    "title": "JUNIOR BREATH&BANGBOO pre.【eightbeat sickness EX】 vs BANGBOO編！",
+    "url": "https://bangboo.jp/schedule/detail/51609",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2026/06/24",
+    "day": "水",
+    "artist": "NONAKA",
+    "title": "JUNIOR BREATH&BANGBOO pre.【eightbeat sickness EX】 vs BANGBOO編！",
+    "url": "https://bangboo.jp/schedule/detail/51609",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2026/06/24",
+    "day": "水",
+    "artist": "Azall",
+    "title": "JUNIOR BREATH&BANGBOO pre.【eightbeat sickness EX】 vs BANGBOO編！",
+    "url": "https://bangboo.jp/schedule/detail/51609",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2026/06/24",
+    "day": "水",
+    "artist": "赤いアフロ",
+    "title": "JUNIOR BREATH&BANGBOO pre.【eightbeat sickness EX】 vs BANGBOO編！",
+    "url": "https://bangboo.jp/schedule/detail/51609",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2026/08/09",
+    "day": "日",
+    "artist": "前川優希",
+    "title": "前川優希 LIVE TOUR 2026 「ENcall」",
+    "url": "https://bangboo.jp/schedule/detail/47926",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2026/08/09",
+    "day": "日",
+    "artist": "TëKMO+",
+    "title": "前川優希 LIVE TOUR 2026 「ENcall」",
+    "url": "https://bangboo.jp/schedule/detail/47926",
     "venue": "梅田BANGBOO",
     "note": ""
   },
@@ -26219,6 +26345,69 @@
   {
     "date": "2026/04/04",
     "day": "土",
+    "artist": "Lumi Prima",
+    "title": "Lumi Prima初単独公演",
+    "url": "https://osaka-zeela.jp/schedule/detail/52361",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2026/04/04",
+    "day": "土",
+    "artist": "SANUGLOW",
+    "title": "taking girls",
+    "url": "https://osaka-zeela.jp/schedule/detail/52132",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2026/04/04",
+    "day": "土",
+    "artist": "シンセカイヒーロー",
+    "title": "taking girls",
+    "url": "https://osaka-zeela.jp/schedule/detail/52132",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2026/04/04",
+    "day": "土",
+    "artist": "GΛLNØA",
+    "title": "taking girls",
+    "url": "https://osaka-zeela.jp/schedule/detail/52132",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2026/04/04",
+    "day": "土",
+    "artist": "大阪24区ガールズ",
+    "title": "taking girls",
+    "url": "https://osaka-zeela.jp/schedule/detail/52132",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2026/04/04",
+    "day": "土",
+    "artist": "NI=YON",
+    "title": "taking girls",
+    "url": "https://osaka-zeela.jp/schedule/detail/52132",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2026/04/04",
+    "day": "土",
+    "artist": "永遠のセツナ",
+    "title": "taking girls",
+    "url": "https://osaka-zeela.jp/schedule/detail/52132",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2026/04/04",
+    "day": "土",
     "artist": "Slill of light",
     "title": "taking girls",
     "url": "https://osaka-zeela.jp/schedule/detail/52132",
@@ -26246,15 +26435,6 @@
   {
     "date": "2026/04/04",
     "day": "土",
-    "artist": "SANUGLOW",
-    "title": "SCRUM EASTER",
-    "url": "https://osaka-zeela.jp/schedule/detail/52134",
-    "venue": "Zeela",
-    "note": ""
-  },
-  {
-    "date": "2026/04/04",
-    "day": "土",
     "artist": "lullllul",
     "title": "SCRUM EASTER",
     "url": "https://osaka-zeela.jp/schedule/detail/52134",
@@ -26262,11 +26442,11 @@
     "note": ""
   },
   {
-    "date": "2026/04/04",
-    "day": "土",
-    "artist": "Lumi Prima",
-    "title": "SCRUM EASTER",
-    "url": "https://osaka-zeela.jp/schedule/detail/52134",
+    "date": "2026/04/05",
+    "day": "日",
+    "artist": "コスプレパフォーマンスイベント「カラスのたまり場」のエイプリルフールネタオンリー回",
+    "title": "カラスのたまり場5th",
+    "url": "https://osaka-zeela.jp/schedule/detail/44789",
     "venue": "Zeela",
     "note": ""
   },
@@ -27615,15 +27795,6 @@
     "date": "2026/04/14",
     "day": "火",
     "artist": "Remnant's New Order",
-    "title": "Zeela presents NEW STANDARD",
-    "url": "https://osaka-zeela.jp/schedule/detail/50185",
-    "venue": "Zeela",
-    "note": ""
-  },
-  {
-    "date": "2026/04/14",
-    "day": "火",
-    "artist": "and more...",
     "title": "Zeela presents NEW STANDARD",
     "url": "https://osaka-zeela.jp/schedule/detail/50185",
     "venue": "Zeela",
@@ -34695,6 +34866,60 @@
     "note": ""
   },
   {
+    "date": "2026/06/22",
+    "day": "月",
+    "artist": "Kanna 17th birthday party",
+    "title": "knave 24th Anniversary  supported by KIRIN",
+    "url": "http://www.knave.co.jp/schedule/s_2026_06.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2026/06/22",
+    "day": "月",
+    "artist": "Kanna",
+    "title": "knave 24th Anniversary  supported by KIRIN",
+    "url": "http://www.knave.co.jp/schedule/s_2026_06.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2026/06/22",
+    "day": "月",
+    "artist": "special guest : 奈美エリサ",
+    "title": "knave 24th Anniversary  supported by KIRIN",
+    "url": "http://www.knave.co.jp/schedule/s_2026_06.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2026/06/22",
+    "day": "月",
+    "artist": "VIP:4",
+    "title": "knave 24th Anniversary  supported by KIRIN",
+    "url": "http://www.knave.co.jp/schedule/s_2026_06.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2026/06/22",
+    "day": "月",
+    "artist": "000円",
+    "title": "knave 24th Anniversary  supported by KIRIN",
+    "url": "http://www.knave.co.jp/schedule/s_2026_06.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2026/06/22",
+    "day": "月",
+    "artist": "問)knave06-6535-0691",
+    "title": "knave 24th Anniversary  supported by KIRIN",
+    "url": "http://www.knave.co.jp/schedule/s_2026_06.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
     "date": "2026/06/26",
     "day": "金",
     "artist": "ケシカルカッコoneman live",
@@ -35267,6 +35492,24 @@
     "artist": "問・チケット発売)TIGET",
     "title": "あくあいゆい",
     "url": "http://www.knave.co.jp/schedule/s_2026_06.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2026/07/20",
+    "day": "月",
+    "artist": "竹内宏美",
+    "title": "「ひろみとピアノのランデブー」",
+    "url": "http://www.knave.co.jp/schedule/s_2026_07.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2026/07/20",
+    "day": "月",
+    "artist": "3114:00より発売",
+    "title": "「ひろみとピアノのランデブー」",
+    "url": "http://www.knave.co.jp/schedule/s_2026_07.html",
     "venue": "knave",
     "note": ""
   }
