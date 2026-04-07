@@ -5229,15 +5229,6 @@
     "note": ""
   },
   {
-    "date": "2026/04/08",
-    "day": "水",
-    "artist": "and more...",
-    "title": "【FOREVER YOUNG】vol.22",
-    "url": "https://vijon.jp/schedule/detail/51087",
-    "venue": "北堀江club vijon",
-    "note": ""
-  },
-  {
     "date": "2026/04/09",
     "day": "木",
     "artist": "アシガルユース",
@@ -5720,6 +5711,42 @@
     "artist": "カリソメ",
     "title": "「新しい友達と一緒〜東名阪編〜」",
     "url": "https://vijon.jp/schedule/detail/49536",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2026/04/22",
+    "day": "水",
+    "artist": "ネテルダイヤ",
+    "title": "うまお(vijon)presents　【アイ(ﾄﾞﾙ)トーーク　~春の宴~】",
+    "url": "https://vijon.jp/schedule/detail/51306",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2026/04/22",
+    "day": "水",
+    "artist": "マイフェアガ→ル",
+    "title": "うまお(vijon)presents　【アイ(ﾄﾞﾙ)トーーク　~春の宴~】",
+    "url": "https://vijon.jp/schedule/detail/51306",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2026/04/22",
+    "day": "水",
+    "artist": "妖狐繚乱",
+    "title": "うまお(vijon)presents　【アイ(ﾄﾞﾙ)トーーク　~春の宴~】",
+    "url": "https://vijon.jp/schedule/detail/51306",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2026/04/22",
+    "day": "水",
+    "artist": "MeltGem",
+    "title": "うまお(vijon)presents　【アイ(ﾄﾞﾙ)トーーク　~春の宴~】",
+    "url": "https://vijon.jp/schedule/detail/51306",
     "venue": "北堀江club vijon",
     "note": ""
   },
@@ -7086,8 +7113,8 @@
     "date": "2026/04/07",
     "day": "火",
     "artist": "LuvHz",
-    "title": "LuvHz Pre.午後5時のお茶会 Vol.29",
-    "url": "https://bangboo.jp/schedule/detail/50416",
+    "title": "平日昼間『音のヒミツキチ』",
+    "url": "https://bangboo.jp/schedule/detail/52611",
     "venue": "梅田BANGBOO",
     "note": ""
   },
@@ -7202,7 +7229,7 @@
   {
     "date": "2026/04/08",
     "day": "水",
-    "artist": "HUNDRED",
+    "artist": "HUNDRED ※出演予定でしたHUNDREDは出演キャンセルとなりました。",
     "title": "The Dawn of a New Era vol.6",
     "url": "https://bangboo.jp/schedule/detail/50079",
     "venue": "梅田BANGBOO",
@@ -9410,6 +9437,15 @@
     "artist": "アルルカン",
     "title": "アルルカン LIVE TOUR 2026「imagine」",
     "url": "https://bangboo.jp/schedule/detail/47362",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2026/08/18",
+    "day": "火",
+    "artist": "colorin'c",
+    "title": "colorin'c 1st ONEMAN LIVE in OSAKA 「私たちだけのキャンバス」",
+    "url": "https://bangboo.jp/schedule/detail/51276",
     "venue": "梅田BANGBOO",
     "note": ""
   },
@@ -20235,6 +20271,15 @@
     "date": "2026/05/12",
     "day": "火",
     "artist": "有近朋恵",
+    "title": "girlstalk",
+    "url": "http://www.knave.co.jp/schedule/s_2026_05.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2026/05/12",
+    "day": "火",
+    "artist": "Mayuro",
     "title": "girlstalk",
     "url": "http://www.knave.co.jp/schedule/s_2026_05.html",
     "venue": "knave",
