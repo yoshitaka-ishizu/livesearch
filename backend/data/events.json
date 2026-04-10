@@ -110,7 +110,7 @@
   {
     "date": "2026/04/11",
     "day": "",
-    "artist": "Cloud Forest",
+    "artist": "Greensieeves",
     "title": "ROCK ON vol.4",
     "url": "https://fireloop.net/schedule_now.shtml#0411",
     "venue": "寺田町Fireloop",
@@ -119,7 +119,7 @@
   {
     "date": "2026/04/11",
     "day": "",
-    "artist": "Y's Project",
+    "artist": "BRAND NEW PAGE",
     "title": "ROCK ON vol.4",
     "url": "https://fireloop.net/schedule_now.shtml#0411",
     "venue": "寺田町Fireloop",
@@ -5553,15 +5553,6 @@
     "note": ""
   },
   {
-    "date": "2026/04/15",
-    "day": "水",
-    "artist": "...and more",
-    "title": "vijon × ベースオントップなんば店 pre.【WAVE & SOUL】",
-    "url": "https://vijon.jp/schedule/detail/50843",
-    "venue": "北堀江club vijon",
-    "note": ""
-  },
-  {
     "date": "2026/04/16",
     "day": "木",
     "artist": "SKILL of light",
@@ -7655,6 +7646,33 @@
     "artist": "THE JAPANESE PRIDE",
     "title": "Dickies Official & アイスクリームネバーグラウンド Presents【ディッキ履かなきゃ入れません！】彩りを纏いし者達",
     "url": "https://bangboo.jp/schedule/detail/50480",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2026/04/17",
+    "day": "金",
+    "artist": "わんだふる×ぱにっく",
+    "title": "GRRRGroove",
+    "url": "https://bangboo.jp/schedule/detail/51861",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2026/04/17",
+    "day": "金",
+    "artist": "ブラックデビル",
+    "title": "GRRRGroove",
+    "url": "https://bangboo.jp/schedule/detail/51861",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2026/04/17",
+    "day": "金",
+    "artist": "妖狐繚乱",
+    "title": "GRRRGroove",
+    "url": "https://bangboo.jp/schedule/detail/51861",
     "venue": "梅田BANGBOO",
     "note": ""
   },
@@ -10506,7 +10524,7 @@
     "date": "2026/04/11",
     "day": "土",
     "artist": "ワッツ@さーくる",
-    "title": "1日中 Kawaii?Night",
+    "title": "1日中 Kawaii Night",
     "url": "https://clubdrop.jp/schedule/detail/44928",
     "venue": "アメリカ村DROP",
     "note": ""
@@ -10515,7 +10533,7 @@
     "date": "2026/04/11",
     "day": "土",
     "artist": "Qu♡Aly",
-    "title": "1日中 Kawaii?Night",
+    "title": "1日中 Kawaii Night",
     "url": "https://clubdrop.jp/schedule/detail/44928",
     "venue": "アメリカ村DROP",
     "note": ""
@@ -10524,7 +10542,7 @@
     "date": "2026/04/11",
     "day": "土",
     "artist": "脳内パステル",
-    "title": "1日中 Kawaii?Night",
+    "title": "1日中 Kawaii Night",
     "url": "https://clubdrop.jp/schedule/detail/44928",
     "venue": "アメリカ村DROP",
     "note": ""
@@ -10533,7 +10551,7 @@
     "date": "2026/04/11",
     "day": "土",
     "artist": "おちゃメンタル☆パーティー",
-    "title": "1日中 Kawaii?Night",
+    "title": "1日中 Kawaii Night",
     "url": "https://clubdrop.jp/schedule/detail/44928",
     "venue": "アメリカ村DROP",
     "note": ""
@@ -10542,7 +10560,7 @@
     "date": "2026/04/11",
     "day": "土",
     "artist": "宇宙∞プラネクシア",
-    "title": "1日中 Kawaii?Night",
+    "title": "1日中 Kawaii Night",
     "url": "https://clubdrop.jp/schedule/detail/44928",
     "venue": "アメリカ村DROP",
     "note": ""
@@ -10551,7 +10569,7 @@
     "date": "2026/04/11",
     "day": "土",
     "artist": "あおぞらをキミに",
-    "title": "1日中 Kawaii?Night",
+    "title": "1日中 Kawaii Night",
     "url": "https://clubdrop.jp/schedule/detail/44928",
     "venue": "アメリカ村DROP",
     "note": ""
@@ -10560,7 +10578,7 @@
     "date": "2026/04/11",
     "day": "土",
     "artist": "うぃるめり！",
-    "title": "1日中 Kawaii?Night",
+    "title": "1日中 Kawaii Night",
     "url": "https://clubdrop.jp/schedule/detail/44928",
     "venue": "アメリカ村DROP",
     "note": ""
@@ -10569,7 +10587,7 @@
     "date": "2026/04/11",
     "day": "土",
     "artist": "COzMICぱれーど",
-    "title": "1日中 Kawaii?Night",
+    "title": "1日中 Kawaii Night",
     "url": "https://clubdrop.jp/schedule/detail/44928",
     "venue": "アメリカ村DROP",
     "note": ""
@@ -10578,7 +10596,7 @@
     "date": "2026/04/11",
     "day": "土",
     "artist": "てんぽぷりも♪",
-    "title": "1日中 Kawaii?Night",
+    "title": "1日中 Kawaii Night",
     "url": "https://clubdrop.jp/schedule/detail/44928",
     "venue": "アメリカ村DROP",
     "note": ""
@@ -10587,7 +10605,7 @@
     "date": "2026/04/11",
     "day": "土",
     "artist": "ハピネスクラッカー！",
-    "title": "1日中 Kawaii?Night",
+    "title": "1日中 Kawaii Night",
     "url": "https://clubdrop.jp/schedule/detail/44928",
     "venue": "アメリカ村DROP",
     "note": ""
@@ -10596,7 +10614,7 @@
     "date": "2026/04/11",
     "day": "土",
     "artist": "FanCy-",
-    "title": "1日中 Kawaii?Night",
+    "title": "1日中 Kawaii Night",
     "url": "https://clubdrop.jp/schedule/detail/44928",
     "venue": "アメリカ村DROP",
     "note": ""
@@ -10605,7 +10623,7 @@
     "date": "2026/04/11",
     "day": "土",
     "artist": "ふう♫りん",
-    "title": "1日中 Kawaii?Night",
+    "title": "1日中 Kawaii Night",
     "url": "https://clubdrop.jp/schedule/detail/44928",
     "venue": "アメリカ村DROP",
     "note": ""
@@ -10614,7 +10632,7 @@
     "date": "2026/04/11",
     "day": "土",
     "artist": "プラチナリボン",
-    "title": "1日中 Kawaii?Night",
+    "title": "1日中 Kawaii Night",
     "url": "https://clubdrop.jp/schedule/detail/44928",
     "venue": "アメリカ村DROP",
     "note": ""
@@ -10623,7 +10641,7 @@
     "date": "2026/04/11",
     "day": "土",
     "artist": "ボクセカ",
-    "title": "1日中 Kawaii?Night",
+    "title": "1日中 Kawaii Night",
     "url": "https://clubdrop.jp/schedule/detail/44928",
     "venue": "アメリカ村DROP",
     "note": ""
@@ -10632,7 +10650,7 @@
     "date": "2026/04/11",
     "day": "土",
     "artist": "むげんこんぜ",
-    "title": "1日中 Kawaii?Night",
+    "title": "1日中 Kawaii Night",
     "url": "https://clubdrop.jp/schedule/detail/44928",
     "venue": "アメリカ村DROP",
     "note": ""
@@ -10641,7 +10659,7 @@
     "date": "2026/04/11",
     "day": "土",
     "artist": "リリシック学園",
-    "title": "1日中 Kawaii?Night",
+    "title": "1日中 Kawaii Night",
     "url": "https://clubdrop.jp/schedule/detail/44928",
     "venue": "アメリカ村DROP",
     "note": ""
@@ -10650,7 +10668,7 @@
     "date": "2026/04/11",
     "day": "土",
     "artist": "LINK START",
-    "title": "1日中 Kawaii?Night",
+    "title": "1日中 Kawaii Night",
     "url": "https://clubdrop.jp/schedule/detail/44928",
     "venue": "アメリカ村DROP",
     "note": ""
@@ -10659,7 +10677,7 @@
     "date": "2026/04/11",
     "day": "土",
     "artist": "わんみゅーず！",
-    "title": "1日中 Kawaii?Night",
+    "title": "1日中 Kawaii Night",
     "url": "https://clubdrop.jp/schedule/detail/44928",
     "venue": "アメリカ村DROP",
     "note": ""
@@ -11264,6 +11282,60 @@
     "artist": "性傷年倶楽部",
     "title": "性傷年倶楽部 倶楽部会員募集ツアー",
     "url": "https://clubdrop.jp/schedule/detail/48407",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/04/23",
+    "day": "木",
+    "artist": "ArmaElla",
+    "title": "Revelry Tour 2026(大阪)",
+    "url": "https://clubdrop.jp/schedule/detail/49281",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/04/23",
+    "day": "木",
+    "artist": "ENVY PARANOID",
+    "title": "Revelry Tour 2026(大阪)",
+    "url": "https://clubdrop.jp/schedule/detail/49281",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/04/23",
+    "day": "木",
+    "artist": "CRYZ",
+    "title": "Revelry Tour 2026(大阪)",
+    "url": "https://clubdrop.jp/schedule/detail/49281",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/04/23",
+    "day": "木",
+    "artist": "CØCØRIZE",
+    "title": "Revelry Tour 2026(大阪)",
+    "url": "https://clubdrop.jp/schedule/detail/49281",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/04/23",
+    "day": "木",
+    "artist": "LØISLOID",
+    "title": "Revelry Tour 2026(大阪)",
+    "url": "https://clubdrop.jp/schedule/detail/49281",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/04/23",
+    "day": "木",
+    "artist": "依存性えんじぇる",
+    "title": "Revelry Tour 2026(大阪)",
+    "url": "https://clubdrop.jp/schedule/detail/49281",
     "venue": "アメリカ村DROP",
     "note": ""
   },
@@ -12361,7 +12433,7 @@
     "day": "土",
     "artist": "詳細をご覧ください",
     "title": "見放題大阪2026",
-    "url": "https://clubdrop.jp/schedule/detail/52444",
+    "url": "https://clubdrop.jp/schedule/detail/52676",
     "venue": "アメリカ村DROP",
     "note": ""
   },
@@ -17555,6 +17627,51 @@
     "artist": "Beats Emotion",
     "title": "Gの集い ～10th anniversary～",
     "url": "https://osaka-zeela.jp/schedule/detail/46739",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2026/05/04",
+    "day": "月",
+    "artist": "白黒アリス",
+    "title": "浮世茶会 - GWﾀﾞﾖ大阪百物語編 -",
+    "url": "https://osaka-zeela.jp/schedule/detail/51704",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2026/05/04",
+    "day": "月",
+    "artist": "DIAVEL",
+    "title": "浮世茶会 - GWﾀﾞﾖ大阪百物語編 -",
+    "url": "https://osaka-zeela.jp/schedule/detail/51704",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2026/05/04",
+    "day": "月",
+    "artist": "カミサマパレード",
+    "title": "浮世茶会 - GWﾀﾞﾖ大阪百物語編 -",
+    "url": "https://osaka-zeela.jp/schedule/detail/51704",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2026/05/04",
+    "day": "月",
+    "artist": "ココロシンドローム",
+    "title": "浮世茶会 - GWﾀﾞﾖ大阪百物語編 -",
+    "url": "https://osaka-zeela.jp/schedule/detail/51704",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2026/05/04",
+    "day": "月",
+    "artist": "デスキャンディ",
+    "title": "浮世茶会 - GWﾀﾞﾖ大阪百物語編 -",
+    "url": "https://osaka-zeela.jp/schedule/detail/51704",
     "venue": "Zeela",
     "note": ""
   },
