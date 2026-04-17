@@ -1044,6 +1044,15 @@
     "note": ""
   },
   {
+    "date": "2026/05/26",
+    "day": "火",
+    "artist": "BAR : ノダ・松川",
+    "title": "青オッズ倶楽部",
+    "url": "https://fireloop.net/schedule_now.shtml#0526",
+    "venue": "寺田町Fireloop",
+    "note": ""
+  },
+  {
     "date": "2026/06/08",
     "day": "月",
     "artist": "DazzlingBAD",
@@ -5969,6 +5978,15 @@
   {
     "date": "2026/04/19",
     "day": "日",
+    "artist": "LuvHz",
+    "title": "Wonderland Dream :||",
+    "url": "https://vijon.jp/schedule/detail/52697",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2026/04/19",
+    "day": "日",
     "artist": "SARIOLA",
     "title": "SARIOLA JAPAN TOUR 2026 \"VOYAGER\"",
     "url": "https://vijon.jp/schedule/detail/49827",
@@ -6338,7 +6356,43 @@
   {
     "date": "2026/04/24",
     "day": "金",
-    "artist": "カッチョ andmore...",
+    "artist": "カッチョ",
+    "title": "岩田生誕祭 LEVEL26",
+    "url": "https://vijon.jp/schedule/detail/51307",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2026/04/24",
+    "day": "金",
+    "artist": "けーさく",
+    "title": "岩田生誕祭 LEVEL26",
+    "url": "https://vijon.jp/schedule/detail/51307",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2026/04/24",
+    "day": "金",
+    "artist": "Bigswamp a.k.a だいふく",
+    "title": "岩田生誕祭 LEVEL26",
+    "url": "https://vijon.jp/schedule/detail/51307",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2026/04/24",
+    "day": "金",
+    "artist": "RAM",
+    "title": "岩田生誕祭 LEVEL26",
+    "url": "https://vijon.jp/schedule/detail/51307",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2026/04/24",
+    "day": "金",
+    "artist": "294 さすらい厨房trattoria may",
     "title": "岩田生誕祭 LEVEL26",
     "url": "https://vijon.jp/schedule/detail/51307",
     "venue": "北堀江club vijon",
@@ -12753,6 +12807,24 @@
     "note": ""
   },
   {
+    "date": "2026/05/03",
+    "day": "日",
+    "artist": "ぶっとび！パンデミック",
+    "title": "ぶっとび！パンデミック×SUPER JYAPON 浪速の2MAN LIVE",
+    "url": "https://clubdrop.jp/schedule/detail/50218",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/05/03",
+    "day": "日",
+    "artist": "SUPER JYAPON",
+    "title": "ぶっとび！パンデミック×SUPER JYAPON 浪速の2MAN LIVE",
+    "url": "https://clubdrop.jp/schedule/detail/50218",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
     "date": "2026/05/06",
     "day": "水",
     "artist": "ティラミス",
@@ -18138,7 +18210,7 @@
     "date": "2026/04/18",
     "day": "土",
     "artist": "THE MICRO HEAD 4N’S",
-    "title": "THE MICRO HEAD 4N’S LAST TOUR「HELLO MY CLONE」",
+    "title": "【開催延期】THE MICRO HEAD 4N’S LAST TOUR「HELLO MY CLONE」",
     "url": "https://osaka-zeela.jp/schedule/detail/44100",
     "venue": "Zeela",
     "note": ""
@@ -19199,8 +19271,116 @@
   {
     "date": "2026/05/05",
     "day": "火",
-    "artist": "coming soon...",
-    "title": "HALL RENTAL",
+    "artist": "ﾀﾞ.ｵ.ﾃﾞ",
+    "title": "まっつん企画",
+    "url": "https://osaka-zeela.jp/schedule/detail/46045",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2026/05/05",
+    "day": "火",
+    "artist": "SUPER TEACHER ~2年目の駱駝~",
+    "title": "まっつん企画",
+    "url": "https://osaka-zeela.jp/schedule/detail/46045",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2026/05/05",
+    "day": "火",
+    "artist": "『アダム松本の肋骨話』",
+    "title": "まっつん企画",
+    "url": "https://osaka-zeela.jp/schedule/detail/46045",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2026/05/05",
+    "day": "火",
+    "artist": "アレキさん殺す",
+    "title": "まっつん企画",
+    "url": "https://osaka-zeela.jp/schedule/detail/46045",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2026/05/05",
+    "day": "火",
+    "artist": "ハレノチハレ",
+    "title": "まっつん企画",
+    "url": "https://osaka-zeela.jp/schedule/detail/46045",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2026/05/05",
+    "day": "火",
+    "artist": "ディルディックアナビーズ",
+    "title": "まっつん企画",
+    "url": "https://osaka-zeela.jp/schedule/detail/46045",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2026/05/05",
+    "day": "火",
+    "artist": "松本企画荒らしたった",
+    "title": "まっつん企画",
+    "url": "https://osaka-zeela.jp/schedule/detail/46045",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2026/05/05",
+    "day": "火",
+    "artist": "疾ク還楼",
+    "title": "まっつん企画",
+    "url": "https://osaka-zeela.jp/schedule/detail/46045",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2026/05/05",
+    "day": "火",
+    "artist": "Vaundy→Mounty→ゴメンディ",
+    "title": "まっつん企画",
+    "url": "https://osaka-zeela.jp/schedule/detail/46045",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2026/05/05",
+    "day": "火",
+    "artist": "Y HEARTFUL STORY",
+    "title": "まっつん企画",
+    "url": "https://osaka-zeela.jp/schedule/detail/46045",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2026/05/05",
+    "day": "火",
+    "artist": "Go!Go!SHANK!!!",
+    "title": "まっつん企画",
+    "url": "https://osaka-zeela.jp/schedule/detail/46045",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2026/05/05",
+    "day": "火",
+    "artist": "サブリミナル",
+    "title": "まっつん企画",
+    "url": "https://osaka-zeela.jp/schedule/detail/46045",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2026/05/05",
+    "day": "火",
+    "artist": "俺はもうよいちを超えている",
+    "title": "まっつん企画",
     "url": "https://osaka-zeela.jp/schedule/detail/46045",
     "venue": "Zeela",
     "note": ""
@@ -20142,6 +20322,15 @@
     "note": ""
   },
   {
+    "date": "2026/06/14",
+    "day": "日",
+    "artist": "Czecho No Republic",
+    "title": "Czecho No Republic 《ア！ビ！バ！ボ！ツアー》",
+    "url": "https://osaka-zeela.jp/schedule/detail/46841",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
     "date": "2026/06/15",
     "day": "月",
     "artist": "OXU",
@@ -20277,6 +20466,33 @@
     "note": ""
   },
   {
+    "date": "2026/06/23",
+    "day": "火",
+    "artist": "Lost Back’Point",
+    "title": "Lost Back’Point“With My Shadows” tour",
+    "url": "https://osaka-zeela.jp/schedule/detail/51333",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2026/06/23",
+    "day": "火",
+    "artist": "CHASED",
+    "title": "Lost Back’Point“With My Shadows” tour",
+    "url": "https://osaka-zeela.jp/schedule/detail/51333",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2026/06/23",
+    "day": "火",
+    "artist": "ALL iN FAZE",
+    "title": "Lost Back’Point“With My Shadows” tour",
+    "url": "https://osaka-zeela.jp/schedule/detail/51333",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
     "date": "2026/06/24",
     "day": "水",
     "artist": "トラケミスト",
@@ -20403,6 +20619,42 @@
     "note": ""
   },
   {
+    "date": "2026/07/26",
+    "day": "日",
+    "artist": "三日月ジョン",
+    "title": "三日月ジョン 結成25周年＜記念イベントin大阪＞",
+    "url": "https://osaka-zeela.jp/schedule/detail/50041",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2026/07/26",
+    "day": "日",
+    "artist": "The Alan Smithy Band",
+    "title": "三日月ジョン 結成25周年＜記念イベントin大阪＞",
+    "url": "https://osaka-zeela.jp/schedule/detail/50041",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2026/07/26",
+    "day": "日",
+    "artist": "グラスニットジャガー",
+    "title": "三日月ジョン 結成25周年＜記念イベントin大阪＞",
+    "url": "https://osaka-zeela.jp/schedule/detail/50041",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2026/07/26",
+    "day": "日",
+    "artist": "もりきこ",
+    "title": "三日月ジョン 結成25周年＜記念イベントin大阪＞",
+    "url": "https://osaka-zeela.jp/schedule/detail/50041",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
     "date": "2026/08/28",
     "day": "金",
     "artist": "RIP DISHONOR",
@@ -20426,6 +20678,15 @@
     "artist": "Rhythmic Toy World",
     "title": "VESSELied TOUR",
     "url": "https://osaka-zeela.jp/schedule/detail/48373",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2026/09/17",
+    "day": "木",
+    "artist": "Parallel Frank",
+    "title": "Parallel Frank pre. 「覚悟の1000円」2大都市 TOKYO / OSAKA - ONE MAN LIVE -【大阪編】",
+    "url": "https://osaka-zeela.jp/schedule/detail/52645",
     "venue": "Zeela",
     "note": ""
   },
@@ -21260,7 +21521,7 @@
   {
     "date": "2026/04/19",
     "day": "日",
-    "artist": "一般発売2",
+    "artist": "ツイキャスライブ視聴購入ページ",
     "title": "←Tra-ffic-jaM→",
     "url": "http://www.knave.co.jp/schedule/s_2026_04.html",
     "venue": "knave",
@@ -21269,7 +21530,7 @@
   {
     "date": "2026/04/19",
     "day": "日",
-    "artist": "21",
+    "artist": "https:",
     "title": "←Tra-ffic-jaM→",
     "url": "http://www.knave.co.jp/schedule/s_2026_04.html",
     "venue": "knave",
@@ -21278,7 +21539,7 @@
   {
     "date": "2026/04/19",
     "day": "日",
-    "artist": "問)knave06-6535-0691",
+    "artist": "twitcasting.tv",
     "title": "←Tra-ffic-jaM→",
     "url": "http://www.knave.co.jp/schedule/s_2026_04.html",
     "venue": "knave",
@@ -22349,7 +22610,16 @@
   {
     "date": "2026/05/10",
     "day": "日",
-    "artist": "チケット発売近日",
+    "artist": "TIGETより4",
+    "title": "緒方音楽会 〜若葉の旅〜",
+    "url": "http://www.knave.co.jp/schedule/s_2026_05.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2026/05/10",
+    "day": "日",
+    "artist": "1520:00より発売",
     "title": "緒方音楽会 〜若葉の旅〜",
     "url": "http://www.knave.co.jp/schedule/s_2026_05.html",
     "venue": "knave",
