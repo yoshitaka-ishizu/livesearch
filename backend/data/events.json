@@ -3630,7 +3630,7 @@
     "date": "2026/05/15",
     "day": "金",
     "artist": "NEAREQUAL",
-    "title": "NEAREQUAL /",
+    "title": "OPEN 19:15",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -3639,7 +3639,7 @@
     "date": "2026/05/15",
     "day": "金",
     "artist": "the blue sundays",
-    "title": "NEAREQUAL /",
+    "title": "OPEN 19:15",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -3647,8 +3647,8 @@
   {
     "date": "2026/05/15",
     "day": "金",
-    "artist": "madohi and more...",
-    "title": "NEAREQUAL /",
+    "artist": "madohi",
+    "title": "OPEN 19:15",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -3657,7 +3657,7 @@
     "date": "2026/05/15",
     "day": "金",
     "artist": "※Carnival Floorは諸事情によりキャンセルとなりました。",
-    "title": "NEAREQUAL /",
+    "title": "OPEN 19:15",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -4368,7 +4368,7 @@
     "date": "2026/06/01",
     "day": "月",
     "artist": "まさき",
-    "title": "OPEN 18:00",
+    "title": "OPEN 18:30",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -4377,16 +4377,7 @@
     "date": "2026/06/01",
     "day": "月",
     "artist": "武下直樹",
-    "title": "OPEN 18:00",
-    "url": "https://para-dice.net/",
-    "venue": "扇町para-dice",
-    "note": ""
-  },
-  {
-    "date": "2026/06/01",
-    "day": "月",
-    "artist": "19:45〜 20:15 CHeol-Hong",
-    "title": "OPEN 18:00",
+    "title": "OPEN 18:30",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -4395,7 +4386,7 @@
     "date": "2026/06/01",
     "day": "月",
     "artist": "netaro51",
-    "title": "OPEN 18:00",
+    "title": "OPEN 18:30",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -4404,7 +4395,7 @@
     "date": "2026/06/01",
     "day": "月",
     "artist": "こもも",
-    "title": "OPEN 18:00",
+    "title": "OPEN 18:30",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -4413,7 +4404,16 @@
     "date": "2026/06/01",
     "day": "月",
     "artist": "アステリズム×369beats",
-    "title": "OPEN 18:00",
+    "title": "OPEN 18:30",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
+    "date": "2026/06/01",
+    "day": "月",
+    "artist": "※CHeol-Hongは諸事情により出演キャンセルとなりました。",
+    "title": "OPEN 18:30",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -4511,26 +4511,17 @@
   {
     "date": "2026/06/05",
     "day": "金",
+    "artist": "七歩",
+    "title": "OPEN 18:30",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
+    "date": "2026/06/05",
+    "day": "金",
     "artist": "lacina",
-    "title": "lacina / 木村ただし(ハニカムズ) / オガサワラヒロユキ / ジェットTAMURA / 七歩",
-    "url": "https://para-dice.net/",
-    "venue": "扇町para-dice",
-    "note": ""
-  },
-  {
-    "date": "2026/06/05",
-    "day": "金",
-    "artist": "木村ただし",
-    "title": "lacina / 木村ただし(ハニカムズ) / オガサワラヒロユキ / ジェットTAMURA / 七歩",
-    "url": "https://para-dice.net/",
-    "venue": "扇町para-dice",
-    "note": ""
-  },
-  {
-    "date": "2026/06/05",
-    "day": "金",
-    "artist": "オガサワラヒロユキ",
-    "title": "lacina / 木村ただし(ハニカムズ) / オガサワラヒロユキ / ジェットTAMURA / 七歩",
+    "title": "OPEN 18:30",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -4539,7 +4530,7 @@
     "date": "2026/06/05",
     "day": "金",
     "artist": "ジェットTAMURA",
-    "title": "lacina / 木村ただし(ハニカムズ) / オガサワラヒロユキ / ジェットTAMURA / 七歩",
+    "title": "OPEN 18:30",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -4547,8 +4538,17 @@
   {
     "date": "2026/06/05",
     "day": "金",
-    "artist": "七歩 and more...",
-    "title": "lacina / 木村ただし(ハニカムズ) / オガサワラヒロユキ / ジェットTAMURA / 七歩",
+    "artist": "オガサワラヒロユキ",
+    "title": "OPEN 18:30",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
+    "date": "2026/06/05",
+    "day": "金",
+    "artist": "木村ただし",
+    "title": "OPEN 18:30",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -4790,26 +4790,8 @@
   {
     "date": "2026/06/13",
     "day": "土",
-    "artist": "Gecko Cult Cartel",
-    "title": "Gecko Cult Cartel / Phosfalls / FUDGE ALL THERE / スカンピンエクスペリエンス / Lone Otter",
-    "url": "https://para-dice.net/",
-    "venue": "扇町para-dice",
-    "note": ""
-  },
-  {
-    "date": "2026/06/13",
-    "day": "土",
-    "artist": "Phosfalls",
-    "title": "Gecko Cult Cartel / Phosfalls / FUDGE ALL THERE / スカンピンエクスペリエンス / Lone Otter",
-    "url": "https://para-dice.net/",
-    "venue": "扇町para-dice",
-    "note": ""
-  },
-  {
-    "date": "2026/06/13",
-    "day": "土",
     "artist": "FUDGE ALL THERE",
-    "title": "Gecko Cult Cartel / Phosfalls / FUDGE ALL THERE / スカンピンエクスペリエンス / Lone Otter",
+    "title": "OPEN 16:30",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -4818,7 +4800,7 @@
     "date": "2026/06/13",
     "day": "土",
     "artist": "スカンピンエクスペリエンス",
-    "title": "Gecko Cult Cartel / Phosfalls / FUDGE ALL THERE / スカンピンエクスペリエンス / Lone Otter",
+    "title": "OPEN 16:30",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -4826,8 +4808,35 @@
   {
     "date": "2026/06/13",
     "day": "土",
-    "artist": "Lone Otter  and more...",
-    "title": "Gecko Cult Cartel / Phosfalls / FUDGE ALL THERE / スカンピンエクスペリエンス / Lone Otter",
+    "artist": "Phosfalls",
+    "title": "OPEN 16:30",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
+    "date": "2026/06/13",
+    "day": "土",
+    "artist": "Lone Otter",
+    "title": "OPEN 16:30",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
+    "date": "2026/06/13",
+    "day": "土",
+    "artist": "El Primo",
+    "title": "OPEN 16:30",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
+    "date": "2026/06/13",
+    "day": "土",
+    "artist": "Gecko Cult Cartel",
+    "title": "OPEN 16:30",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -7742,7 +7751,7 @@
   {
     "date": "2026/05/20",
     "day": "水",
-    "artist": "The kurunoon",
+    "artist": "よしき",
     "title": "【THE SHOCK OF THE LIGHTNING】",
     "url": "https://vijon.jp/schedule/detail/52106",
     "venue": "北堀江club vijon",
@@ -8024,6 +8033,195 @@
     "artist": "DIAVEL",
     "title": "花魁道中xめっxDIAVEL3マン公演 「三つ巴」",
     "url": "https://vijon.jp/schedule/detail/52289",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2026/06/03",
+    "day": "水",
+    "artist": "深川リュウノスケ",
+    "title": "【TO YOU SONG】- ツユウタ -",
+    "url": "https://vijon.jp/schedule/detail/50892",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2026/06/03",
+    "day": "水",
+    "artist": "たかと",
+    "title": "【TO YOU SONG】- ツユウタ -",
+    "url": "https://vijon.jp/schedule/detail/50892",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2026/06/03",
+    "day": "水",
+    "artist": "Shun.",
+    "title": "【TO YOU SONG】- ツユウタ -",
+    "url": "https://vijon.jp/schedule/detail/50892",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2026/06/03",
+    "day": "水",
+    "artist": "まこここここ",
+    "title": "【TO YOU SONG】- ツユウタ -",
+    "url": "https://vijon.jp/schedule/detail/50892",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2026/06/03",
+    "day": "水",
+    "artist": "千賀岳人",
+    "title": "【TO YOU SONG】- ツユウタ -",
+    "url": "https://vijon.jp/schedule/detail/50892",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2026/06/03",
+    "day": "水",
+    "artist": "さやか",
+    "title": "【TO YOU SONG】- ツユウタ -",
+    "url": "https://vijon.jp/schedule/detail/50892",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2026/06/03",
+    "day": "水",
+    "artist": "きゃみ",
+    "title": "【TO YOU SONG】- ツユウタ -",
+    "url": "https://vijon.jp/schedule/detail/50892",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2026/06/03",
+    "day": "水",
+    "artist": "はく",
+    "title": "【TO YOU SONG】- ツユウタ -",
+    "url": "https://vijon.jp/schedule/detail/50892",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2026/06/03",
+    "day": "水",
+    "artist": "まなやだ",
+    "title": "【TO YOU SONG】- ツユウタ -",
+    "url": "https://vijon.jp/schedule/detail/50892",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2026/06/03",
+    "day": "水",
+    "artist": "たくま",
+    "title": "【TO YOU SONG】- ツユウタ -",
+    "url": "https://vijon.jp/schedule/detail/50892",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2026/06/03",
+    "day": "水",
+    "artist": "大江武圭留",
+    "title": "【TO YOU SONG】- ツユウタ -",
+    "url": "https://vijon.jp/schedule/detail/50892",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2026/06/03",
+    "day": "水",
+    "artist": "龍之介",
+    "title": "【TO YOU SONG】- ツユウタ -",
+    "url": "https://vijon.jp/schedule/detail/50892",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2026/06/03",
+    "day": "水",
+    "artist": "しのらー",
+    "title": "【TO YOU SONG】- ツユウタ -",
+    "url": "https://vijon.jp/schedule/detail/50892",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2026/06/03",
+    "day": "水",
+    "artist": "中濱 公惺",
+    "title": "【TO YOU SONG】- ツユウタ -",
+    "url": "https://vijon.jp/schedule/detail/50892",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2026/06/03",
+    "day": "水",
+    "artist": "茉那",
+    "title": "【TO YOU SONG】- ツユウタ -",
+    "url": "https://vijon.jp/schedule/detail/50892",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2026/06/03",
+    "day": "水",
+    "artist": "松久保竜也",
+    "title": "【TO YOU SONG】- ツユウタ -",
+    "url": "https://vijon.jp/schedule/detail/50892",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2026/06/03",
+    "day": "水",
+    "artist": "TAICHI",
+    "title": "【TO YOU SONG】- ツユウタ -",
+    "url": "https://vijon.jp/schedule/detail/50892",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2026/06/03",
+    "day": "水",
+    "artist": "たける",
+    "title": "【TO YOU SONG】- ツユウタ -",
+    "url": "https://vijon.jp/schedule/detail/50892",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2026/06/03",
+    "day": "水",
+    "artist": "岡本 凛",
+    "title": "【TO YOU SONG】- ツユウタ -",
+    "url": "https://vijon.jp/schedule/detail/50892",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2026/06/03",
+    "day": "水",
+    "artist": "長谷川健太",
+    "title": "【TO YOU SONG】- ツユウタ -",
+    "url": "https://vijon.jp/schedule/detail/50892",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2026/06/03",
+    "day": "水",
+    "artist": "あや",
+    "title": "【TO YOU SONG】- ツユウタ -",
+    "url": "https://vijon.jp/schedule/detail/50892",
     "venue": "北堀江club vijon",
     "note": ""
   },
@@ -14679,6 +14877,51 @@
     "note": ""
   },
   {
+    "date": "2026/05/08",
+    "day": "金",
+    "artist": "selfish",
+    "title": "DROP THE IDOL〜supported by MAWA LOOP OSAKA 2026〜",
+    "url": "https://clubdrop.jp/schedule/detail/49143",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/05/08",
+    "day": "金",
+    "artist": "限りなく白く",
+    "title": "DROP THE IDOL〜supported by MAWA LOOP OSAKA 2026〜",
+    "url": "https://clubdrop.jp/schedule/detail/49143",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/05/08",
+    "day": "金",
+    "artist": "zanka",
+    "title": "DROP THE IDOL〜supported by MAWA LOOP OSAKA 2026〜",
+    "url": "https://clubdrop.jp/schedule/detail/49143",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/05/08",
+    "day": "金",
+    "artist": "feelNEO",
+    "title": "DROP THE IDOL〜supported by MAWA LOOP OSAKA 2026〜",
+    "url": "https://clubdrop.jp/schedule/detail/49143",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/05/08",
+    "day": "金",
+    "artist": "RePLAY",
+    "title": "DROP THE IDOL〜supported by MAWA LOOP OSAKA 2026〜",
+    "url": "https://clubdrop.jp/schedule/detail/49143",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
     "date": "2026/05/09",
     "day": "土",
     "artist": "詳細欄をご確認下さい",
@@ -18066,6 +18309,15 @@
     "date": "2026/05/01",
     "day": "金",
     "artist": "おシャベリな感情",
+    "title": "心斎橋VARON & BASS ON TOP心斎橋店 present’s [SPIN-OFF vol.1]",
+    "url": "https://osaka-varon.jp/schedule/detail/48177",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2026/05/01",
+    "day": "金",
+    "artist": "kensun",
     "title": "心斎橋VARON & BASS ON TOP心斎橋店 present’s [SPIN-OFF vol.1]",
     "url": "https://osaka-varon.jp/schedule/detail/48177",
     "venue": "VARON",
@@ -22266,6 +22518,15 @@
     "note": ""
   },
   {
+    "date": "2026/05/06",
+    "day": "水",
+    "artist": "NeoAster",
+    "title": "ネオ上等-vol14-",
+    "url": "https://osaka-zeela.jp/schedule/detail/50523",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
     "date": "2026/05/07",
     "day": "木",
     "artist": "声にならないよ",
@@ -23294,7 +23555,7 @@
   {
     "date": "2026/06/10",
     "day": "水",
-    "artist": "and more...",
+    "artist": "坂口喜咲",
     "title": "ニューアヤカ presents READY POP LADY vol.7",
     "url": "https://osaka-zeela.jp/schedule/detail/51710",
     "venue": "Zeela",
@@ -23315,6 +23576,24 @@
     "artist": "藤田悠也",
     "title": "Zeela presents.POPCONE VIBRATION",
     "url": "https://osaka-zeela.jp/schedule/detail/51517",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2026/06/12",
+    "day": "金",
+    "artist": "有馬元気",
+    "title": "有馬元気×山口諒也 (Absolute area) Special 2Man Band Live！ 「待ち合わせvol.3」",
+    "url": "https://osaka-zeela.jp/schedule/detail/49794",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2026/06/12",
+    "day": "金",
+    "artist": "Absolute area",
+    "title": "有馬元気×山口諒也 (Absolute area) Special 2Man Band Live！ 「待ち合わせvol.3」",
+    "url": "https://osaka-zeela.jp/schedule/detail/49794",
     "venue": "Zeela",
     "note": ""
   },
@@ -26347,6 +26626,60 @@
     "day": "木",
     "artist": "問)knave06-6535-0691",
     "title": "girlstalk SP",
+    "url": "http://www.knave.co.jp/schedule/s_2026_05.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2026/05/22",
+    "day": "金",
+    "artist": "Departure",
+    "title": "まるここ×Peachtopia  presents",
+    "url": "http://www.knave.co.jp/schedule/s_2026_05.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2026/05/22",
+    "day": "金",
+    "artist": "Peachtopia",
+    "title": "まるここ×Peachtopia  presents",
+    "url": "http://www.knave.co.jp/schedule/s_2026_05.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2026/05/22",
+    "day": "金",
+    "artist": "RAPT LA PLACE",
+    "title": "まるここ×Peachtopia  presents",
+    "url": "http://www.knave.co.jp/schedule/s_2026_05.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2026/05/22",
+    "day": "金",
+    "artist": "スギヤマ",
+    "title": "まるここ×Peachtopia  presents",
+    "url": "http://www.knave.co.jp/schedule/s_2026_05.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2026/05/22",
+    "day": "金",
+    "artist": "だれかのせぼね",
+    "title": "まるここ×Peachtopia  presents",
+    "url": "http://www.knave.co.jp/schedule/s_2026_05.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2026/05/22",
+    "day": "金",
+    "artist": "問)knave06-6535-0691",
+    "title": "まるここ×Peachtopia  presents",
     "url": "http://www.knave.co.jp/schedule/s_2026_05.html",
     "venue": "knave",
     "note": ""
