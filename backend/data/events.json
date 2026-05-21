@@ -3620,8 +3620,8 @@
   {
     "date": "2026/06/19",
     "day": "金",
-    "artist": "ここにいるよ杉浦&UV",
-    "title": "ここにいるよ杉浦&UV / THE CHOPPMAN / the dominant curve / 海組",
+    "artist": "海組",
+    "title": "OPEN 19:00",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -3629,8 +3629,8 @@
   {
     "date": "2026/06/19",
     "day": "金",
-    "artist": "THE CHOPPMAN",
-    "title": "ここにいるよ杉浦&UV / THE CHOPPMAN / the dominant curve / 海組",
+    "artist": "ここにいるよ杉浦&UV",
+    "title": "OPEN 19:00",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -3639,7 +3639,7 @@
     "date": "2026/06/19",
     "day": "金",
     "artist": "the dominant curve",
-    "title": "ここにいるよ杉浦&UV / THE CHOPPMAN / the dominant curve / 海組",
+    "title": "OPEN 19:00",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -3647,8 +3647,8 @@
   {
     "date": "2026/06/19",
     "day": "金",
-    "artist": "海組  and more...",
-    "title": "ここにいるよ杉浦&UV / THE CHOPPMAN / the dominant curve / 海組",
+    "artist": "THE CHOPPMAN",
+    "title": "OPEN 19:00",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -3944,8 +3944,8 @@
   {
     "date": "2026/06/26",
     "day": "金",
-    "artist": "Paris Death Hilton",
-    "title": "Paris Death Hilton / MELTME / 3030(from EPISODE) /\n              \n              セルフコンパッション",
+    "artist": "para-dice企画",
+    "title": "para-dice企画",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -3953,8 +3953,17 @@
   {
     "date": "2026/06/26",
     "day": "金",
-    "artist": "MELTME",
-    "title": "Paris Death Hilton / MELTME / 3030(from EPISODE) /\n              \n              セルフコンパッション",
+    "artist": "『 GOLD EXPERIENCE 』",
+    "title": "para-dice企画",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
+    "date": "2026/06/26",
+    "day": "金",
+    "artist": "セルフコンパッション",
+    "title": "para-dice企画",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -3963,7 +3972,7 @@
     "date": "2026/06/26",
     "day": "金",
     "artist": "3030",
-    "title": "Paris Death Hilton / MELTME / 3030(from EPISODE) /\n              \n              セルフコンパッション",
+    "title": "para-dice企画",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -3971,8 +3980,17 @@
   {
     "date": "2026/06/26",
     "day": "金",
-    "artist": "セルフコンパッション and more...",
-    "title": "Paris Death Hilton / MELTME / 3030(from EPISODE) /\n              \n              セルフコンパッション",
+    "artist": "Paris Death Hilton",
+    "title": "para-dice企画",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
+    "date": "2026/06/26",
+    "day": "金",
+    "artist": "MELTME",
+    "title": "para-dice企画",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -4161,7 +4179,7 @@
     "date": "2026/07/03",
     "day": "金",
     "artist": "イタミトクニン+箱+柾",
-    "title": "イタミトクニン+箱+柾 / \n                \ncarrel bites / 氏家草太",
+    "title": "イタミトクニン+箱+柾 / \n                \ncarrel bites / 氏家草太 / Madder Youth / 九九る式",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -4170,7 +4188,7 @@
     "date": "2026/07/03",
     "day": "金",
     "artist": "carrel bites",
-    "title": "イタミトクニン+箱+柾 / \n                \ncarrel bites / 氏家草太",
+    "title": "イタミトクニン+箱+柾 / \n                \ncarrel bites / 氏家草太 / Madder Youth / 九九る式",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -4178,8 +4196,26 @@
   {
     "date": "2026/07/03",
     "day": "金",
-    "artist": "氏家草太  and more...",
-    "title": "イタミトクニン+箱+柾 / \n                \ncarrel bites / 氏家草太",
+    "artist": "氏家草太",
+    "title": "イタミトクニン+箱+柾 / \n                \ncarrel bites / 氏家草太 / Madder Youth / 九九る式",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
+    "date": "2026/07/03",
+    "day": "金",
+    "artist": "Madder Youth",
+    "title": "イタミトクニン+箱+柾 / \n                \ncarrel bites / 氏家草太 / Madder Youth / 九九る式",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
+    "date": "2026/07/03",
+    "day": "金",
+    "artist": "九九る式",
+    "title": "イタミトクニン+箱+柾 / \n                \ncarrel bites / 氏家草太 / Madder Youth / 九九る式",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -4377,7 +4413,7 @@
     "date": "2026/07/08",
     "day": "水",
     "artist": "けーずや。",
-    "title": "けーずや。 / mickey / 京橋光(f.カリニャンクール) / ニャチコジエンズ",
+    "title": "けーずや。 / mickey / 京橋光(f.カリニャンクール) / ニャチコジエンズ / 山本 弘",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -4386,7 +4422,7 @@
     "date": "2026/07/08",
     "day": "水",
     "artist": "mickey",
-    "title": "けーずや。 / mickey / 京橋光(f.カリニャンクール) / ニャチコジエンズ",
+    "title": "けーずや。 / mickey / 京橋光(f.カリニャンクール) / ニャチコジエンズ / 山本 弘",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -4395,7 +4431,7 @@
     "date": "2026/07/08",
     "day": "水",
     "artist": "京橋光",
-    "title": "けーずや。 / mickey / 京橋光(f.カリニャンクール) / ニャチコジエンズ",
+    "title": "けーずや。 / mickey / 京橋光(f.カリニャンクール) / ニャチコジエンズ / 山本 弘",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -4403,8 +4439,17 @@
   {
     "date": "2026/07/08",
     "day": "水",
-    "artist": "ニャチコジエンズ and more...",
-    "title": "けーずや。 / mickey / 京橋光(f.カリニャンクール) / ニャチコジエンズ",
+    "artist": "ニャチコジエンズ",
+    "title": "けーずや。 / mickey / 京橋光(f.カリニャンクール) / ニャチコジエンズ / 山本 弘",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
+    "date": "2026/07/08",
+    "day": "水",
+    "artist": "山本 弘  and more...",
+    "title": "けーずや。 / mickey / 京橋光(f.カリニャンクール) / ニャチコジエンズ / 山本 弘",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -4620,7 +4665,7 @@
     "date": "2026/07/15",
     "day": "水",
     "artist": "karasuuri",
-    "title": "karasuuri / THE BLOODY␣WEEKEND / カナデ",
+    "title": "karasuuri / THE BLOODY␣WEEKEND / カナデ / 虚舟 dub experience",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -4629,7 +4674,7 @@
     "date": "2026/07/15",
     "day": "水",
     "artist": "THE BLOODY␣WEEKEND",
-    "title": "karasuuri / THE BLOODY␣WEEKEND / カナデ",
+    "title": "karasuuri / THE BLOODY␣WEEKEND / カナデ / 虚舟 dub experience",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -4637,8 +4682,17 @@
   {
     "date": "2026/07/15",
     "day": "水",
-    "artist": "カナデ and more...",
-    "title": "karasuuri / THE BLOODY␣WEEKEND / カナデ",
+    "artist": "カナデ",
+    "title": "karasuuri / THE BLOODY␣WEEKEND / カナデ / 虚舟 dub experience",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
+    "date": "2026/07/15",
+    "day": "水",
+    "artist": "虚舟 dub experience and more...",
+    "title": "karasuuri / THE BLOODY␣WEEKEND / カナデ / 虚舟 dub experience",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -4647,7 +4701,7 @@
     "date": "2026/07/16",
     "day": "木",
     "artist": "さよなら人工衛星",
-    "title": "さよなら人工衛星 / 松浦颯太 / PPP / Obake-Numa2 ~after the night race~",
+    "title": "さよなら人工衛星 / 松浦颯太 / PPP / Obake-Numa2 ~after the night race~ /\n              \nロンリーズ",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -4656,7 +4710,7 @@
     "date": "2026/07/16",
     "day": "木",
     "artist": "松浦颯太",
-    "title": "さよなら人工衛星 / 松浦颯太 / PPP / Obake-Numa2 ~after the night race~",
+    "title": "さよなら人工衛星 / 松浦颯太 / PPP / Obake-Numa2 ~after the night race~ /\n              \nロンリーズ",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -4665,7 +4719,7 @@
     "date": "2026/07/16",
     "day": "木",
     "artist": "PPP",
-    "title": "さよなら人工衛星 / 松浦颯太 / PPP / Obake-Numa2 ~after the night race~",
+    "title": "さよなら人工衛星 / 松浦颯太 / PPP / Obake-Numa2 ~after the night race~ /\n              \nロンリーズ",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -4674,7 +4728,16 @@
     "date": "2026/07/16",
     "day": "木",
     "artist": "Obake-Numa2 ~after the night race~",
-    "title": "さよなら人工衛星 / 松浦颯太 / PPP / Obake-Numa2 ~after the night race~",
+    "title": "さよなら人工衛星 / 松浦颯太 / PPP / Obake-Numa2 ~after the night race~ /\n              \nロンリーズ",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
+    "date": "2026/07/16",
+    "day": "木",
+    "artist": "ロンリーズ",
+    "title": "さよなら人工衛星 / 松浦颯太 / PPP / Obake-Numa2 ~after the night race~ /\n              \nロンリーズ",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -5024,7 +5087,16 @@
   {
     "date": "2026/07/25",
     "day": "土",
-    "artist": "直撃バキューミー and more...",
+    "artist": "直撃バキューミー",
+    "title": "きまぐれ☆まゃバンド / ザ・マンガンズ / 圭十 / 村瀬裕子 / 直撃バキューミー",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
+    "date": "2026/07/25",
+    "day": "土",
+    "artist": "くじけな",
     "title": "きまぐれ☆まゃバンド / ザ・マンガンズ / 圭十 / 村瀬裕子 / 直撃バキューミー",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
@@ -8463,7 +8535,7 @@
     "date": "2026/07/02",
     "day": "木",
     "artist": "・メインステージ ライラックヘイジー",
-    "title": "【IKATGKAT感謝祭】DAY1",
+    "title": "【IKATGKAT感謝祭】- イケアツゲキアツカンシャサイ - DAY1",
     "url": "https://vijon.jp/schedule/detail/52084",
     "venue": "北堀江club vijon",
     "note": ""
@@ -8472,7 +8544,7 @@
     "date": "2026/07/02",
     "day": "木",
     "artist": "NON BRAINER",
-    "title": "【IKATGKAT感謝祭】DAY1",
+    "title": "【IKATGKAT感謝祭】- イケアツゲキアツカンシャサイ - DAY1",
     "url": "https://vijon.jp/schedule/detail/52084",
     "venue": "北堀江club vijon",
     "note": ""
@@ -8481,7 +8553,7 @@
     "date": "2026/07/02",
     "day": "木",
     "artist": "GERBERA MUFFLER",
-    "title": "【IKATGKAT感謝祭】DAY1",
+    "title": "【IKATGKAT感謝祭】- イケアツゲキアツカンシャサイ - DAY1",
     "url": "https://vijon.jp/schedule/detail/52084",
     "venue": "北堀江club vijon",
     "note": ""
@@ -8490,7 +8562,7 @@
     "date": "2026/07/02",
     "day": "木",
     "artist": "ノスター",
-    "title": "【IKATGKAT感謝祭】DAY1",
+    "title": "【IKATGKAT感謝祭】- イケアツゲキアツカンシャサイ - DAY1",
     "url": "https://vijon.jp/schedule/detail/52084",
     "venue": "北堀江club vijon",
     "note": ""
@@ -8499,7 +8571,7 @@
     "date": "2026/07/02",
     "day": "木",
     "artist": "Last me ・サブステージ 小倉海",
-    "title": "【IKATGKAT感謝祭】DAY1",
+    "title": "【IKATGKAT感謝祭】- イケアツゲキアツカンシャサイ - DAY1",
     "url": "https://vijon.jp/schedule/detail/52084",
     "venue": "北堀江club vijon",
     "note": ""
@@ -8508,7 +8580,7 @@
     "date": "2026/07/02",
     "day": "木",
     "artist": "松久保竜也",
-    "title": "【IKATGKAT感謝祭】DAY1",
+    "title": "【IKATGKAT感謝祭】- イケアツゲキアツカンシャサイ - DAY1",
     "url": "https://vijon.jp/schedule/detail/52084",
     "venue": "北堀江club vijon",
     "note": ""
@@ -8517,7 +8589,7 @@
     "date": "2026/07/02",
     "day": "木",
     "artist": "藤原司",
-    "title": "【IKATGKAT感謝祭】DAY1",
+    "title": "【IKATGKAT感謝祭】- イケアツゲキアツカンシャサイ - DAY1",
     "url": "https://vijon.jp/schedule/detail/52084",
     "venue": "北堀江club vijon",
     "note": ""
@@ -14141,15 +14213,6 @@
   {
     "date": "2026/05/21",
     "day": "木",
-    "artist": "Antages",
-    "title": "Cats Rule The World x AMERICAMURA DROP pre. CLAWS&ANTLERS-猫ノ牙、鹿ノ角-",
-    "url": "https://clubdrop.jp/schedule/detail/50746",
-    "venue": "アメリカ村DROP",
-    "note": ""
-  },
-  {
-    "date": "2026/05/21",
-    "day": "木",
     "artist": "羅刹",
     "title": "Cats Rule The World x AMERICAMURA DROP pre. CLAWS&ANTLERS-猫ノ牙、鹿ノ角-",
     "url": "https://clubdrop.jp/schedule/detail/50746",
@@ -14186,7 +14249,7 @@
   {
     "date": "2026/05/21",
     "day": "木",
-    "artist": "PIECE OF TRASH",
+    "artist": "PIECE OF TRASH ※出演予定でしたAntagesは諸事情のため出演キャンセルとなりました。",
     "title": "Cats Rule The World x AMERICAMURA DROP pre. CLAWS&ANTLERS-猫ノ牙、鹿ノ角-",
     "url": "https://clubdrop.jp/schedule/detail/50746",
     "venue": "アメリカ村DROP",
@@ -20871,6 +20934,123 @@
     "note": ""
   },
   {
+    "date": "2026/07/09",
+    "day": "木",
+    "artist": "kasa no naka",
+    "title": "Zeela presents MAGIC HOUR",
+    "url": "https://osaka-zeela.jp/schedule/detail/52478",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2026/07/09",
+    "day": "木",
+    "artist": "シィ",
+    "title": "Zeela presents MAGIC HOUR",
+    "url": "https://osaka-zeela.jp/schedule/detail/52478",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2026/07/09",
+    "day": "木",
+    "artist": "神曲",
+    "title": "Zeela presents MAGIC HOUR",
+    "url": "https://osaka-zeela.jp/schedule/detail/52478",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2026/07/09",
+    "day": "木",
+    "artist": "スクールガールズエンド",
+    "title": "Zeela presents MAGIC HOUR",
+    "url": "https://osaka-zeela.jp/schedule/detail/52478",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2026/07/09",
+    "day": "木",
+    "artist": "三国未来",
+    "title": "Zeela presents MAGIC HOUR",
+    "url": "https://osaka-zeela.jp/schedule/detail/52478",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2026/07/09",
+    "day": "木",
+    "artist": "揺らいで凪",
+    "title": "Zeela presents MAGIC HOUR",
+    "url": "https://osaka-zeela.jp/schedule/detail/52478",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2026/07/11",
+    "day": "土",
+    "artist": "かなわんぼ",
+    "title": "GIRLS \"VOICE\" MUSIC HOUR",
+    "url": "https://osaka-zeela.jp/schedule/detail/46823",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2026/07/11",
+    "day": "土",
+    "artist": "Adope",
+    "title": "GIRLS \"VOICE\" MUSIC HOUR",
+    "url": "https://osaka-zeela.jp/schedule/detail/46823",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2026/07/11",
+    "day": "土",
+    "artist": "3×3＝9ua",
+    "title": "GIRLS \"VOICE\" MUSIC HOUR",
+    "url": "https://osaka-zeela.jp/schedule/detail/46823",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2026/07/11",
+    "day": "土",
+    "artist": "BLAST OUT",
+    "title": "GIRLS \"VOICE\" MUSIC HOUR",
+    "url": "https://osaka-zeela.jp/schedule/detail/46823",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2026/07/11",
+    "day": "土",
+    "artist": "ぼちぼち元気",
+    "title": "GIRLS \"VOICE\" MUSIC HOUR",
+    "url": "https://osaka-zeela.jp/schedule/detail/46823",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2026/07/11",
+    "day": "土",
+    "artist": "MiSA with にゅーメンズ",
+    "title": "GIRLS \"VOICE\" MUSIC HOUR",
+    "url": "https://osaka-zeela.jp/schedule/detail/46823",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2026/07/11",
+    "day": "土",
+    "artist": "Every Liqueur Time",
+    "title": "GIRLS \"VOICE\" MUSIC HOUR",
+    "url": "https://osaka-zeela.jp/schedule/detail/46823",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
     "date": "2026/07/12",
     "day": "日",
     "artist": "ぷりんせす☆れいやあ",
@@ -20930,6 +21110,60 @@
     "artist": "TeAMocK",
     "title": "thee sight presents『unknown sight』",
     "url": "https://osaka-zeela.jp/schedule/detail/48106",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2026/07/18",
+    "day": "土",
+    "artist": "Bello!PROJECT",
+    "title": "HEY!SAY!SAY!HIT PARADE STATION",
+    "url": "https://osaka-zeela.jp/schedule/detail/46339",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2026/07/18",
+    "day": "土",
+    "artist": "相川7世",
+    "title": "HEY!SAY!SAY!HIT PARADE STATION",
+    "url": "https://osaka-zeela.jp/schedule/detail/46339",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2026/07/18",
+    "day": "土",
+    "artist": "THEE MICHELLE GUN HIPOPOTAMUS",
+    "title": "HEY!SAY!SAY!HIT PARADE STATION",
+    "url": "https://osaka-zeela.jp/schedule/detail/46339",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2026/07/18",
+    "day": "土",
+    "artist": "XJAmPAN",
+    "title": "HEY!SAY!SAY!HIT PARADE STATION",
+    "url": "https://osaka-zeela.jp/schedule/detail/46339",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2026/07/18",
+    "day": "土",
+    "artist": "HungRy Piglet",
+    "title": "HEY!SAY!SAY!HIT PARADE STATION",
+    "url": "https://osaka-zeela.jp/schedule/detail/46339",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2026/07/18",
+    "day": "土",
+    "artist": "F'z",
+    "title": "HEY!SAY!SAY!HIT PARADE STATION",
+    "url": "https://osaka-zeela.jp/schedule/detail/46339",
     "venue": "Zeela",
     "note": ""
   },
@@ -24079,6 +24313,51 @@
     "day": "日",
     "artist": "問)knave06-6535-0691",
     "title": "ヤマサキマナミ 5th Anniversary",
+    "url": "http://www.knave.co.jp/schedule/s_2026_06.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2026/06/21",
+    "day": "日",
+    "artist": "ファンクラブ限定",
+    "title": "ヤマサキマナミ5th Anniversary 2days",
+    "url": "http://www.knave.co.jp/schedule/s_2026_06.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2026/06/21",
+    "day": "日",
+    "artist": "アフターパーティー",
+    "title": "ヤマサキマナミ5th Anniversary 2days",
+    "url": "http://www.knave.co.jp/schedule/s_2026_06.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2026/06/21",
+    "day": "日",
+    "artist": "pf:古田愛弓",
+    "title": "ヤマサキマナミ5th Anniversary 2days",
+    "url": "http://www.knave.co.jp/schedule/s_2026_06.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2026/06/21",
+    "day": "日",
+    "artist": "cajon:Mitch",
+    "title": "ヤマサキマナミ5th Anniversary 2days",
+    "url": "http://www.knave.co.jp/schedule/s_2026_06.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2026/06/21",
+    "day": "日",
+    "artist": "FC会員限定",
+    "title": "ヤマサキマナミ5th Anniversary 2days",
     "url": "http://www.knave.co.jp/schedule/s_2026_06.html",
     "venue": "knave",
     "note": ""
