@@ -199,7 +199,7 @@
   },
   {
     "date": "2026/06/09",
-    "day": "",
+    "day": "火",
     "artist": "TEAPOT",
     "title": "弱さは愛のなか Release Tour",
     "url": "https://fireloop.net/schedule_now.shtml#0609",
@@ -208,7 +208,7 @@
   },
   {
     "date": "2026/06/09",
-    "day": "",
+    "day": "火",
     "artist": "sakimori",
     "title": "弱さは愛のなか Release Tour",
     "url": "https://fireloop.net/schedule_now.shtml#0609",
@@ -217,7 +217,7 @@
   },
   {
     "date": "2026/06/09",
-    "day": "",
+    "day": "火",
     "artist": "さよなら人工衛星",
     "title": "弱さは愛のなか Release Tour",
     "url": "https://fireloop.net/schedule_now.shtml#0609",
@@ -226,7 +226,7 @@
   },
   {
     "date": "2026/06/09",
-    "day": "",
+    "day": "火",
     "artist": "吉凶わからず、",
     "title": "弱さは愛のなか Release Tour",
     "url": "https://fireloop.net/schedule_now.shtml#0609",
@@ -309,7 +309,61 @@
     "date": "2026/06/13",
     "day": "",
     "artist": "メルクマールメルマール",
-    "title": "KOUSHIN ONEMAN TOUR DAY6 OSAKA",
+    "title": "MERUMARU IDOL PARTY",
+    "url": "https://fireloop.net/schedule_now.shtml#0613",
+    "venue": "寺田町Fireloop",
+    "note": ""
+  },
+  {
+    "date": "2026/06/13",
+    "day": "",
+    "artist": "グットクルー",
+    "title": "MERUMARU IDOL PARTY",
+    "url": "https://fireloop.net/schedule_now.shtml#0613",
+    "venue": "寺田町Fireloop",
+    "note": ""
+  },
+  {
+    "date": "2026/06/13",
+    "day": "",
+    "artist": "MeluCharm",
+    "title": "MERUMARU IDOL PARTY",
+    "url": "https://fireloop.net/schedule_now.shtml#0613",
+    "venue": "寺田町Fireloop",
+    "note": ""
+  },
+  {
+    "date": "2026/06/13",
+    "day": "",
+    "artist": "セツナフロート",
+    "title": "MERUMARU IDOL PARTY",
+    "url": "https://fireloop.net/schedule_now.shtml#0613",
+    "venue": "寺田町Fireloop",
+    "note": ""
+  },
+  {
+    "date": "2026/06/13",
+    "day": "",
+    "artist": "リボンのないぷれぜんと",
+    "title": "MERUMARU IDOL PARTY",
+    "url": "https://fireloop.net/schedule_now.shtml#0613",
+    "venue": "寺田町Fireloop",
+    "note": ""
+  },
+  {
+    "date": "2026/06/13",
+    "day": "",
+    "artist": "LyricalPopParadox",
+    "title": "MERUMARU IDOL PARTY",
+    "url": "https://fireloop.net/schedule_now.shtml#0613",
+    "venue": "寺田町Fireloop",
+    "note": ""
+  },
+  {
+    "date": "2026/06/13",
+    "day": "",
+    "artist": "ELEVYZ",
+    "title": "MERUMARU IDOL PARTY",
     "url": "https://fireloop.net/schedule_now.shtml#0613",
     "venue": "寺田町Fireloop",
     "note": ""
@@ -5618,7 +5672,7 @@
   {
     "date": "2026/06/16",
     "day": "火",
-    "artist": "Bloom in Zero",
+    "artist": "Neo’n’eaT",
     "title": "【宇宙一不毛会】クリトリック・リス vs club vijon～2026年髪半期編～",
     "url": "https://vijon.jp/schedule/detail/51451",
     "venue": "北堀江club vijon",
@@ -5654,7 +5708,7 @@
   {
     "date": "2026/06/16",
     "day": "火",
-    "artist": "yoncei okamoto san",
+    "artist": "yoncei okamoto san ※出演予定でした、Bloom in Zeroは、諸事情により出演をキャンセルとなりました。代打としてNeo’n’eaTの出演が決定しております。",
     "title": "【宇宙一不毛会】クリトリック・リス vs club vijon～2026年髪半期編～",
     "url": "https://vijon.jp/schedule/detail/51451",
     "venue": "北堀江club vijon",
@@ -5778,6 +5832,60 @@
     "note": ""
   },
   {
+    "date": "2026/06/19",
+    "day": "金",
+    "artist": "Madder Youth",
+    "title": "club vijon×DRAFT FES【DRAFT FES 2026 SUMMER in Osaka前哨戦】",
+    "url": "https://vijon.jp/schedule/detail/52052",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2026/06/19",
+    "day": "金",
+    "artist": "Slipout Blank",
+    "title": "club vijon×DRAFT FES【DRAFT FES 2026 SUMMER in Osaka前哨戦】",
+    "url": "https://vijon.jp/schedule/detail/52052",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2026/06/19",
+    "day": "金",
+    "artist": "NIHIL",
+    "title": "club vijon×DRAFT FES【DRAFT FES 2026 SUMMER in Osaka前哨戦】",
+    "url": "https://vijon.jp/schedule/detail/52052",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2026/06/19",
+    "day": "金",
+    "artist": "風花",
+    "title": "club vijon×DRAFT FES【DRAFT FES 2026 SUMMER in Osaka前哨戦】",
+    "url": "https://vijon.jp/schedule/detail/52052",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2026/06/19",
+    "day": "金",
+    "artist": "秘密基地カルテット",
+    "title": "club vijon×DRAFT FES【DRAFT FES 2026 SUMMER in Osaka前哨戦】",
+    "url": "https://vijon.jp/schedule/detail/52052",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2026/06/19",
+    "day": "金",
+    "artist": "Turtle Frog",
+    "title": "club vijon×DRAFT FES【DRAFT FES 2026 SUMMER in Osaka前哨戦】",
+    "url": "https://vijon.jp/schedule/detail/52052",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
     "date": "2026/06/20",
     "day": "土",
     "artist": "コラゾンボーイズ",
@@ -5873,6 +5981,51 @@
     "artist": "赤旗Passion's",
     "title": "兵庫県⽴川⻄緑台⾼校 軽⾳楽部 引退ライブ",
     "url": "https://vijon.jp/schedule/detail/51084",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2026/06/24",
+    "day": "水",
+    "artist": "sumida",
+    "title": "【CONNECT 2026】vol.2",
+    "url": "https://vijon.jp/schedule/detail/53314",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2026/06/24",
+    "day": "水",
+    "artist": "小谷陽為",
+    "title": "【CONNECT 2026】vol.2",
+    "url": "https://vijon.jp/schedule/detail/53314",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2026/06/24",
+    "day": "水",
+    "artist": "ノタロネ",
+    "title": "【CONNECT 2026】vol.2",
+    "url": "https://vijon.jp/schedule/detail/53314",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2026/06/24",
+    "day": "水",
+    "artist": "Mei",
+    "title": "【CONNECT 2026】vol.2",
+    "url": "https://vijon.jp/schedule/detail/53314",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2026/06/24",
+    "day": "水",
+    "artist": "...and more",
+    "title": "【CONNECT 2026】vol.2",
+    "url": "https://vijon.jp/schedule/detail/53314",
     "venue": "北堀江club vijon",
     "note": ""
   },
@@ -6017,6 +6170,60 @@
     "artist": "HiSui",
     "title": "【BRAVE SONGS】vol.14",
     "url": "https://vijon.jp/schedule/detail/52051",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2026/06/30",
+    "day": "火",
+    "artist": "バンド:グルーヴ先生",
+    "title": "vijonの音を止めるな！vol.1",
+    "url": "https://vijon.jp/schedule/detail/53315",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2026/06/30",
+    "day": "火",
+    "artist": "ノルネコ",
+    "title": "vijonの音を止めるな！vol.1",
+    "url": "https://vijon.jp/schedule/detail/53315",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2026/06/30",
+    "day": "火",
+    "artist": "あまねこ",
+    "title": "vijonの音を止めるな！vol.1",
+    "url": "https://vijon.jp/schedule/detail/53315",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2026/06/30",
+    "day": "火",
+    "artist": "れいめい",
+    "title": "vijonの音を止めるな！vol.1",
+    "url": "https://vijon.jp/schedule/detail/53315",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2026/06/30",
+    "day": "火",
+    "artist": "...and more",
+    "title": "vijonの音を止めるな！vol.1",
+    "url": "https://vijon.jp/schedule/detail/53315",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2026/06/30",
+    "day": "火",
+    "artist": "弾き語り: KeiN",
+    "title": "vijonの音を止めるな！vol.1",
+    "url": "https://vijon.jp/schedule/detail/53315",
     "venue": "北堀江club vijon",
     "note": ""
   },
@@ -6251,6 +6458,123 @@
     "artist": "and more...",
     "title": "【IKATGKAT感謝祭】- イケアツゲキアツカンシャサイ - DAY3",
     "url": "https://vijon.jp/schedule/detail/51720",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2026/07/10",
+    "day": "金",
+    "artist": "IKATGKAT",
+    "title": "【IKATGKAT感謝祭】- イケアツゲキアツカンシャサイ - DAY7 ALL NIGHT",
+    "url": "https://vijon.jp/schedule/detail/51718",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2026/07/10",
+    "day": "金",
+    "artist": "ペニスハンモック",
+    "title": "【IKATGKAT感謝祭】- イケアツゲキアツカンシャサイ - DAY7 ALL NIGHT",
+    "url": "https://vijon.jp/schedule/detail/51718",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2026/07/10",
+    "day": "金",
+    "artist": "梶の蕎麦屋",
+    "title": "【IKATGKAT感謝祭】- イケアツゲキアツカンシャサイ - DAY7 ALL NIGHT",
+    "url": "https://vijon.jp/schedule/detail/51718",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2026/07/10",
+    "day": "金",
+    "artist": "ワイニー",
+    "title": "【IKATGKAT感謝祭】- イケアツゲキアツカンシャサイ - DAY7 ALL NIGHT",
+    "url": "https://vijon.jp/schedule/detail/51718",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2026/07/10",
+    "day": "金",
+    "artist": "つむ",
+    "title": "【IKATGKAT感謝祭】- イケアツゲキアツカンシャサイ - DAY7 ALL NIGHT",
+    "url": "https://vijon.jp/schedule/detail/51718",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2026/07/10",
+    "day": "金",
+    "artist": "kijin",
+    "title": "【IKATGKAT感謝祭】- イケアツゲキアツカンシャサイ - DAY7 ALL NIGHT",
+    "url": "https://vijon.jp/schedule/detail/51718",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2026/07/10",
+    "day": "金",
+    "artist": "かち割れ",
+    "title": "【IKATGKAT感謝祭】- イケアツゲキアツカンシャサイ - DAY7 ALL NIGHT",
+    "url": "https://vijon.jp/schedule/detail/51718",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2026/07/10",
+    "day": "金",
+    "artist": "SiNT",
+    "title": "【IKATGKAT感謝祭】- イケアツゲキアツカンシャサイ - DAY7 ALL NIGHT",
+    "url": "https://vijon.jp/schedule/detail/51718",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2026/07/10",
+    "day": "金",
+    "artist": "ATSUKI",
+    "title": "【IKATGKAT感謝祭】- イケアツゲキアツカンシャサイ - DAY7 ALL NIGHT",
+    "url": "https://vijon.jp/schedule/detail/51718",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2026/07/10",
+    "day": "金",
+    "artist": "Anri",
+    "title": "【IKATGKAT感謝祭】- イケアツゲキアツカンシャサイ - DAY7 ALL NIGHT",
+    "url": "https://vijon.jp/schedule/detail/51718",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2026/07/10",
+    "day": "金",
+    "artist": "HARUTO",
+    "title": "【IKATGKAT感謝祭】- イケアツゲキアツカンシャサイ - DAY7 ALL NIGHT",
+    "url": "https://vijon.jp/schedule/detail/51718",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2026/07/10",
+    "day": "金",
+    "artist": "ごま油師匠 さばちゃん",
+    "title": "【IKATGKAT感謝祭】- イケアツゲキアツカンシャサイ - DAY7 ALL NIGHT",
+    "url": "https://vijon.jp/schedule/detail/51718",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2026/07/10",
+    "day": "金",
+    "artist": "アルツライマー しゅーちゃん",
+    "title": "【IKATGKAT感謝祭】- イケアツゲキアツカンシャサイ - DAY7 ALL NIGHT",
+    "url": "https://vijon.jp/schedule/detail/51718",
     "venue": "北堀江club vijon",
     "note": ""
   },
@@ -7511,6 +7835,114 @@
     "artist": "わんみゅーず！",
     "title": "わんみゅーず！ half anniversary LIVE ｢メリーゴーランドは止まらない！｣",
     "url": "https://bangboo.jp/schedule/detail/50515",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2026/06/12",
+    "day": "金",
+    "artist": "Guest 句弾",
+    "title": "大阪エンタメ交流会 6/12",
+    "url": "https://bangboo.jp/schedule/detail/52371",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2026/06/12",
+    "day": "金",
+    "artist": "Pick up Live",
+    "title": "大阪エンタメ交流会 6/12",
+    "url": "https://bangboo.jp/schedule/detail/52371",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2026/06/12",
+    "day": "金",
+    "artist": "BOYZ IN THE UZI",
+    "title": "大阪エンタメ交流会 6/12",
+    "url": "https://bangboo.jp/schedule/detail/52371",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2026/06/12",
+    "day": "金",
+    "artist": "Live アルツライマー",
+    "title": "大阪エンタメ交流会 6/12",
+    "url": "https://bangboo.jp/schedule/detail/52371",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2026/06/12",
+    "day": "金",
+    "artist": "MurM",
+    "title": "大阪エンタメ交流会 6/12",
+    "url": "https://bangboo.jp/schedule/detail/52371",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2026/06/12",
+    "day": "金",
+    "artist": "暮春",
+    "title": "大阪エンタメ交流会 6/12",
+    "url": "https://bangboo.jp/schedule/detail/52371",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2026/06/12",
+    "day": "金",
+    "artist": "Monster",
+    "title": "大阪エンタメ交流会 6/12",
+    "url": "https://bangboo.jp/schedule/detail/52371",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2026/06/12",
+    "day": "金",
+    "artist": "Rentaro",
+    "title": "大阪エンタメ交流会 6/12",
+    "url": "https://bangboo.jp/schedule/detail/52371",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2026/06/12",
+    "day": "金",
+    "artist": "Street Squad",
+    "title": "大阪エンタメ交流会 6/12",
+    "url": "https://bangboo.jp/schedule/detail/52371",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2026/06/12",
+    "day": "金",
+    "artist": "Levelheard",
+    "title": "大阪エンタメ交流会 6/12",
+    "url": "https://bangboo.jp/schedule/detail/52371",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2026/06/12",
+    "day": "金",
+    "artist": "DJ cHiLLy",
+    "title": "大阪エンタメ交流会 6/12",
+    "url": "https://bangboo.jp/schedule/detail/52371",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2026/06/12",
+    "day": "金",
+    "artist": "8人制beatbox battle",
+    "title": "大阪エンタメ交流会 6/12",
+    "url": "https://bangboo.jp/schedule/detail/52371",
     "venue": "梅田BANGBOO",
     "note": ""
   },
@@ -9783,6 +10215,285 @@
     "note": ""
   },
   {
+    "date": "2026/06/22",
+    "day": "月",
+    "artist": "JUU",
+    "title": "ドロ祭2026SUMMER-Tanki∞machi48祭Birthday Party",
+    "url": "https://clubdrop.jp/schedule/detail/50502",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/06/22",
+    "day": "月",
+    "artist": "DANKAI jrDJs 2号",
+    "title": "ドロ祭2026SUMMER-Tanki∞machi48祭Birthday Party",
+    "url": "https://clubdrop.jp/schedule/detail/50502",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/06/22",
+    "day": "月",
+    "artist": "爆裂",
+    "title": "ドロ祭2026SUMMER-Tanki∞machi48祭Birthday Party",
+    "url": "https://clubdrop.jp/schedule/detail/50502",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/06/22",
+    "day": "月",
+    "artist": "DJ 昭和",
+    "title": "ドロ祭2026SUMMER-Tanki∞machi48祭Birthday Party",
+    "url": "https://clubdrop.jp/schedule/detail/50502",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/06/22",
+    "day": "月",
+    "artist": "ナオミチ",
+    "title": "ドロ祭2026SUMMER-Tanki∞machi48祭Birthday Party",
+    "url": "https://clubdrop.jp/schedule/detail/50502",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/06/22",
+    "day": "月",
+    "artist": "tAiki",
+    "title": "ドロ祭2026SUMMER-Tanki∞machi48祭Birthday Party",
+    "url": "https://clubdrop.jp/schedule/detail/50502",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/06/22",
+    "day": "月",
+    "artist": "TP",
+    "title": "ドロ祭2026SUMMER-Tanki∞machi48祭Birthday Party",
+    "url": "https://clubdrop.jp/schedule/detail/50502",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/06/22",
+    "day": "月",
+    "artist": "Shingo",
+    "title": "ドロ祭2026SUMMER-Tanki∞machi48祭Birthday Party",
+    "url": "https://clubdrop.jp/schedule/detail/50502",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/06/22",
+    "day": "月",
+    "artist": "Itch",
+    "title": "ドロ祭2026SUMMER-Tanki∞machi48祭Birthday Party",
+    "url": "https://clubdrop.jp/schedule/detail/50502",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/06/22",
+    "day": "月",
+    "artist": "大吉",
+    "title": "ドロ祭2026SUMMER-Tanki∞machi48祭Birthday Party",
+    "url": "https://clubdrop.jp/schedule/detail/50502",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/06/22",
+    "day": "月",
+    "artist": "NA2MI",
+    "title": "ドロ祭2026SUMMER-Tanki∞machi48祭Birthday Party",
+    "url": "https://clubdrop.jp/schedule/detail/50502",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/06/22",
+    "day": "月",
+    "artist": "水曜日",
+    "title": "ドロ祭2026SUMMER-Tanki∞machi48祭Birthday Party",
+    "url": "https://clubdrop.jp/schedule/detail/50502",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/06/22",
+    "day": "月",
+    "artist": "レオナ",
+    "title": "ドロ祭2026SUMMER-Tanki∞machi48祭Birthday Party",
+    "url": "https://clubdrop.jp/schedule/detail/50502",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/06/22",
+    "day": "月",
+    "artist": "NINTOKU",
+    "title": "ドロ祭2026SUMMER-Tanki∞machi48祭Birthday Party",
+    "url": "https://clubdrop.jp/schedule/detail/50502",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/06/22",
+    "day": "月",
+    "artist": "MOTTY",
+    "title": "ドロ祭2026SUMMER-Tanki∞machi48祭Birthday Party",
+    "url": "https://clubdrop.jp/schedule/detail/50502",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/06/22",
+    "day": "月",
+    "artist": "マツモ・デラックス",
+    "title": "ドロ祭2026SUMMER-Tanki∞machi48祭Birthday Party",
+    "url": "https://clubdrop.jp/schedule/detail/50502",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/06/22",
+    "day": "月",
+    "artist": "ポール",
+    "title": "ドロ祭2026SUMMER-Tanki∞machi48祭Birthday Party",
+    "url": "https://clubdrop.jp/schedule/detail/50502",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/06/22",
+    "day": "月",
+    "artist": "ダブルボギー上田",
+    "title": "ドロ祭2026SUMMER-Tanki∞machi48祭Birthday Party",
+    "url": "https://clubdrop.jp/schedule/detail/50502",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/06/22",
+    "day": "月",
+    "artist": "BOB",
+    "title": "ドロ祭2026SUMMER-Tanki∞machi48祭Birthday Party",
+    "url": "https://clubdrop.jp/schedule/detail/50502",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/06/22",
+    "day": "月",
+    "artist": "INEBRIATE",
+    "title": "ドロ祭2026SUMMER-Tanki∞machi48祭Birthday Party",
+    "url": "https://clubdrop.jp/schedule/detail/50502",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/06/22",
+    "day": "月",
+    "artist": "せりな",
+    "title": "ドロ祭2026SUMMER-Tanki∞machi48祭Birthday Party",
+    "url": "https://clubdrop.jp/schedule/detail/50502",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/06/22",
+    "day": "月",
+    "artist": "TAKEMITZ",
+    "title": "ドロ祭2026SUMMER-Tanki∞machi48祭Birthday Party",
+    "url": "https://clubdrop.jp/schedule/detail/50502",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/06/22",
+    "day": "月",
+    "artist": "ただのスズキ",
+    "title": "ドロ祭2026SUMMER-Tanki∞machi48祭Birthday Party",
+    "url": "https://clubdrop.jp/schedule/detail/50502",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/06/22",
+    "day": "月",
+    "artist": "YANI-KEN",
+    "title": "ドロ祭2026SUMMER-Tanki∞machi48祭Birthday Party",
+    "url": "https://clubdrop.jp/schedule/detail/50502",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/06/22",
+    "day": "月",
+    "artist": "俺の見たいバンドの人",
+    "title": "ドロ祭2026SUMMER-Tanki∞machi48祭Birthday Party",
+    "url": "https://clubdrop.jp/schedule/detail/50502",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/06/22",
+    "day": "月",
+    "artist": "D-MAN",
+    "title": "ドロ祭2026SUMMER-Tanki∞machi48祭Birthday Party",
+    "url": "https://clubdrop.jp/schedule/detail/50502",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/06/22",
+    "day": "月",
+    "artist": "ゆーあ",
+    "title": "ドロ祭2026SUMMER-Tanki∞machi48祭Birthday Party",
+    "url": "https://clubdrop.jp/schedule/detail/50502",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/06/22",
+    "day": "月",
+    "artist": "りょーや",
+    "title": "ドロ祭2026SUMMER-Tanki∞machi48祭Birthday Party",
+    "url": "https://clubdrop.jp/schedule/detail/50502",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/06/22",
+    "day": "月",
+    "artist": "のでぃP",
+    "title": "ドロ祭2026SUMMER-Tanki∞machi48祭Birthday Party",
+    "url": "https://clubdrop.jp/schedule/detail/50502",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/06/22",
+    "day": "月",
+    "artist": "ANDY",
+    "title": "ドロ祭2026SUMMER-Tanki∞machi48祭Birthday Party",
+    "url": "https://clubdrop.jp/schedule/detail/50502",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/06/22",
+    "day": "月",
+    "artist": "激娑婆☆下呂太郎 andmore!!えりぴょん梵唄家 RAM Ride Me",
+    "title": "ドロ祭2026SUMMER-Tanki∞machi48祭Birthday Party",
+    "url": "https://clubdrop.jp/schedule/detail/50502",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
     "date": "2026/06/23",
     "day": "火",
     "artist": "Sucré･Box!",
@@ -10577,6 +11288,15 @@
   {
     "date": "2026/06/03",
     "day": "水",
+    "artist": "Sezko",
+    "title": "All I Clacks pre. \"What's My Age Again?\"",
+    "url": "https://osaka-varon.jp/schedule/detail/50593",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2026/06/03",
+    "day": "水",
     "artist": "THE GAME SHOP",
     "title": "All I Clacks pre. \"What's My Age Again?\"",
     "url": "https://osaka-varon.jp/schedule/detail/50593",
@@ -10737,6 +11457,105 @@
     "note": ""
   },
   {
+    "date": "2026/06/06",
+    "day": "土",
+    "artist": "caprice",
+    "title": "モーニングプレート",
+    "url": "https://osaka-varon.jp/schedule/detail/53944",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2026/06/06",
+    "day": "土",
+    "artist": "AsteRythm",
+    "title": "モーニングプレート",
+    "url": "https://osaka-varon.jp/schedule/detail/53944",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2026/06/06",
+    "day": "土",
+    "artist": "ミケネコガールズ",
+    "title": "モーニングプレート",
+    "url": "https://osaka-varon.jp/schedule/detail/53944",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2026/06/06",
+    "day": "土",
+    "artist": "うぃるめり！",
+    "title": "ランチビュッフェ",
+    "url": "https://osaka-varon.jp/schedule/detail/46661",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2026/06/06",
+    "day": "土",
+    "artist": "Fille mimi",
+    "title": "ランチビュッフェ",
+    "url": "https://osaka-varon.jp/schedule/detail/46661",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2026/06/06",
+    "day": "土",
+    "artist": "TIPINKIT",
+    "title": "ディナーバイキング",
+    "url": "https://osaka-varon.jp/schedule/detail/53945",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2026/06/06",
+    "day": "土",
+    "artist": "Melu Charm",
+    "title": "ディナーバイキング",
+    "url": "https://osaka-varon.jp/schedule/detail/53945",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2026/06/06",
+    "day": "土",
+    "artist": "Hi-Fi-GIRLs PROJECT osaka Morpho",
+    "title": "ディナーバイキング",
+    "url": "https://osaka-varon.jp/schedule/detail/53945",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2026/06/06",
+    "day": "土",
+    "artist": "Hi-Fi-GIRLs PROJECT osaka Fleur",
+    "title": "ディナーバイキング",
+    "url": "https://osaka-varon.jp/schedule/detail/53945",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2026/06/06",
+    "day": "土",
+    "artist": "Hi-Fi-GIRLs PROJECT osaka Poifull",
+    "title": "ディナーバイキング",
+    "url": "https://osaka-varon.jp/schedule/detail/53945",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2026/06/06",
+    "day": "土",
+    "artist": "わんみゅーず！",
+    "title": "ディナーバイキング",
+    "url": "https://osaka-varon.jp/schedule/detail/53945",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
     "date": "2026/06/07",
     "day": "日",
     "artist": "SANUGLOW",
@@ -10854,11 +11673,119 @@
     "note": ""
   },
   {
+    "date": "2026/06/08",
+    "day": "月",
+    "artist": "超★NOVA24’",
+    "title": "『推し活★ムセン』",
+    "url": "https://osaka-varon.jp/schedule/detail/50764",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2026/06/08",
+    "day": "月",
+    "artist": "リトルシェノン",
+    "title": "『推し活★ムセン』",
+    "url": "https://osaka-varon.jp/schedule/detail/50764",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2026/06/08",
+    "day": "月",
+    "artist": "OGP研修生チーム",
+    "title": "『推し活★ムセン』",
+    "url": "https://osaka-varon.jp/schedule/detail/50764",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2026/06/08",
+    "day": "月",
+    "artist": "無花果とマシンガン",
+    "title": "『推し活★ムセン』",
+    "url": "https://osaka-varon.jp/schedule/detail/50764",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2026/06/08",
+    "day": "月",
+    "artist": "プラチナリボン",
+    "title": "『推し活★ムセン』",
+    "url": "https://osaka-varon.jp/schedule/detail/50764",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2026/06/08",
+    "day": "月",
+    "artist": "TIPINKIT",
+    "title": "『推し活★ムセン』",
+    "url": "https://osaka-varon.jp/schedule/detail/50764",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
     "date": "2026/06/09",
     "day": "火",
     "artist": "BreakTheLimit",
     "title": "BreakTheLimit 1st ワンマンライブ Break The Second",
     "url": "https://osaka-varon.jp/schedule/detail/48647",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2026/06/10",
+    "day": "水",
+    "artist": "てんぽぷりも♪",
+    "title": "てんぼぷりも♪はむ生誕対バンLIVE",
+    "url": "https://osaka-varon.jp/schedule/detail/49193",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2026/06/10",
+    "day": "水",
+    "artist": "COzMICぱれーど",
+    "title": "てんぼぷりも♪はむ生誕対バンLIVE",
+    "url": "https://osaka-varon.jp/schedule/detail/49193",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2026/06/10",
+    "day": "水",
+    "artist": "プラチナリボン",
+    "title": "てんぼぷりも♪はむ生誕対バンLIVE",
+    "url": "https://osaka-varon.jp/schedule/detail/49193",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2026/06/10",
+    "day": "水",
+    "artist": "わんみゅーず！",
+    "title": "てんぼぷりも♪はむ生誕対バンLIVE",
+    "url": "https://osaka-varon.jp/schedule/detail/49193",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2026/06/10",
+    "day": "水",
+    "artist": "&Youth!",
+    "title": "てんぼぷりも♪はむ生誕対バンLIVE",
+    "url": "https://osaka-varon.jp/schedule/detail/49193",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2026/06/10",
+    "day": "水",
+    "artist": "ミケネコガールズ",
+    "title": "てんぼぷりも♪はむ生誕対バンLIVE",
+    "url": "https://osaka-varon.jp/schedule/detail/49193",
     "venue": "VARON",
     "note": ""
   },
@@ -11057,6 +11984,60 @@
     "artist": "B&Vo:宇都宮LEO清志、Vo:藤井 重樹 、Dr:角谷 考宣、G＆Vo:遠藤 コースケ、G:斎藤　健",
     "title": "with YOU ．「足立’YOU'祐二を偲ぶ」",
     "url": "https://osaka-varon.jp/schedule/detail/44426",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2026/06/15",
+    "day": "月",
+    "artist": "Running Home Run",
+    "title": "DUMBSTRUCK Vol.29",
+    "url": "https://osaka-varon.jp/schedule/detail/49574",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2026/06/15",
+    "day": "月",
+    "artist": "HUNDRED",
+    "title": "DUMBSTRUCK Vol.29",
+    "url": "https://osaka-varon.jp/schedule/detail/49574",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2026/06/15",
+    "day": "月",
+    "artist": "The Brew",
+    "title": "DUMBSTRUCK Vol.29",
+    "url": "https://osaka-varon.jp/schedule/detail/49574",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2026/06/15",
+    "day": "月",
+    "artist": "FreQ Hack",
+    "title": "DUMBSTRUCK Vol.29",
+    "url": "https://osaka-varon.jp/schedule/detail/49574",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2026/06/15",
+    "day": "月",
+    "artist": "バンドマンの底辺×高さ÷2",
+    "title": "DUMBSTRUCK Vol.29",
+    "url": "https://osaka-varon.jp/schedule/detail/49574",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2026/06/15",
+    "day": "月",
+    "artist": "MADPLANT",
+    "title": "DUMBSTRUCK Vol.29",
+    "url": "https://osaka-varon.jp/schedule/detail/49574",
     "venue": "VARON",
     "note": ""
   },
@@ -11300,6 +12281,60 @@
     "artist": "SKULL Show Time!!",
     "title": "2DIF!!!!! GRAND FINALE",
     "url": "https://osaka-varon.jp/schedule/detail/45260",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2026/06/25",
+    "day": "木",
+    "artist": "Reign Starving the Orca",
+    "title": "DUMBSTRUCK Vol.30",
+    "url": "https://osaka-varon.jp/schedule/detail/51496",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2026/06/25",
+    "day": "木",
+    "artist": "FreQ Hack",
+    "title": "DUMBSTRUCK Vol.30",
+    "url": "https://osaka-varon.jp/schedule/detail/51496",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2026/06/25",
+    "day": "木",
+    "artist": "UPSET",
+    "title": "DUMBSTRUCK Vol.30",
+    "url": "https://osaka-varon.jp/schedule/detail/51496",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2026/06/25",
+    "day": "木",
+    "artist": "SkaPunCelt",
+    "title": "DUMBSTRUCK Vol.30",
+    "url": "https://osaka-varon.jp/schedule/detail/51496",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2026/06/25",
+    "day": "木",
+    "artist": "VAX TRVAIL",
+    "title": "DUMBSTRUCK Vol.30",
+    "url": "https://osaka-varon.jp/schedule/detail/51496",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2026/06/25",
+    "day": "木",
+    "artist": "HACT",
+    "title": "DUMBSTRUCK Vol.30",
+    "url": "https://osaka-varon.jp/schedule/detail/51496",
     "venue": "VARON",
     "note": ""
   },
@@ -12830,6 +13865,69 @@
     "artist": "Kb：都啓一",
     "title": "MASAKIソロツアー2026",
     "url": "https://osaka-zeela.jp/schedule/detail/46711",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2026/07/08",
+    "day": "水",
+    "artist": "Atlas Youth",
+    "title": "水都音楽祭×梅田Zeela pre. 「sweet music award 2026」",
+    "url": "https://osaka-zeela.jp/schedule/detail/51652",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2026/07/08",
+    "day": "水",
+    "artist": "ココログラス",
+    "title": "水都音楽祭×梅田Zeela pre. 「sweet music award 2026」",
+    "url": "https://osaka-zeela.jp/schedule/detail/51652",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2026/07/08",
+    "day": "水",
+    "artist": "Jammrin'",
+    "title": "水都音楽祭×梅田Zeela pre. 「sweet music award 2026」",
+    "url": "https://osaka-zeela.jp/schedule/detail/51652",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2026/07/08",
+    "day": "水",
+    "artist": "+Pluscotch+",
+    "title": "水都音楽祭×梅田Zeela pre. 「sweet music award 2026」",
+    "url": "https://osaka-zeela.jp/schedule/detail/51652",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2026/07/08",
+    "day": "水",
+    "artist": "MARBLENOTE",
+    "title": "水都音楽祭×梅田Zeela pre. 「sweet music award 2026」",
+    "url": "https://osaka-zeela.jp/schedule/detail/51652",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2026/07/08",
+    "day": "水",
+    "artist": "rolling darling",
+    "title": "水都音楽祭×梅田Zeela pre. 「sweet music award 2026」",
+    "url": "https://osaka-zeela.jp/schedule/detail/51652",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2026/07/08",
+    "day": "水",
+    "artist": "and more...",
+    "title": "水都音楽祭×梅田Zeela pre. 「sweet music award 2026」",
+    "url": "https://osaka-zeela.jp/schedule/detail/51652",
     "venue": "Zeela",
     "note": ""
   },
