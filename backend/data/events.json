@@ -3287,8 +3287,8 @@
   {
     "date": "2026/07/09",
     "day": "木",
-    "artist": "茉宮槿",
-    "title": "茉宮槿 / 亜偉瑠 / こもも / No easy silence",
+    "artist": "亜偉瑠",
+    "title": "OPEN 19:00",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -3296,8 +3296,8 @@
   {
     "date": "2026/07/09",
     "day": "木",
-    "artist": "亜偉瑠",
-    "title": "茉宮槿 / 亜偉瑠 / こもも / No easy silence",
+    "artist": "茉宮槿",
+    "title": "OPEN 19:00",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -3306,7 +3306,7 @@
     "date": "2026/07/09",
     "day": "木",
     "artist": "こもも",
-    "title": "茉宮槿 / 亜偉瑠 / こもも / No easy silence",
+    "title": "OPEN 19:00",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -3314,8 +3314,8 @@
   {
     "date": "2026/07/09",
     "day": "木",
-    "artist": "No easy silence  and more...",
-    "title": "茉宮槿 / 亜偉瑠 / こもも / No easy silence",
+    "artist": "No easy silence",
+    "title": "OPEN 19:00",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -4268,25 +4268,7 @@
   {
     "date": "2026/07/31",
     "day": "金",
-    "artist": "伝説のアニソンぴちぴちガールズ",
-    "title": "para-dice企画",
-    "url": "https://para-dice.net/",
-    "venue": "扇町para-dice",
-    "note": ""
-  },
-  {
-    "date": "2026/07/31",
-    "day": "金",
-    "artist": "モンゴール☆天山",
-    "title": "para-dice企画",
-    "url": "https://para-dice.net/",
-    "venue": "扇町para-dice",
-    "note": ""
-  },
-  {
-    "date": "2026/07/31",
-    "day": "金",
-    "artist": "ANIKI BAND",
+    "artist": "『扇町のYeah!!』",
     "title": "para-dice企画",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
@@ -4304,7 +4286,34 @@
   {
     "date": "2026/07/31",
     "day": "金",
+    "artist": "伝説のアニソンぴちぴちガールズ",
+    "title": "para-dice企画",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
+    "date": "2026/07/31",
+    "day": "金",
     "artist": "netaro51",
+    "title": "para-dice企画",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
+    "date": "2026/07/31",
+    "day": "金",
+    "artist": "ANIKI BAND",
+    "title": "para-dice企画",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
+    "date": "2026/07/31",
+    "day": "金",
+    "artist": "モンゴール☆天山",
     "title": "para-dice企画",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
@@ -7758,6 +7767,60 @@
     "note": ""
   },
   {
+    "date": "2026/07/24",
+    "day": "金",
+    "artist": "LOP!!ROP",
+    "title": "vijon × LOP!!ROP pre.【MOON LIGHT SIGNAL !!】",
+    "url": "https://vijon.jp/schedule/detail/51583",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2026/07/24",
+    "day": "金",
+    "artist": "BlueVeil",
+    "title": "vijon × LOP!!ROP pre.【MOON LIGHT SIGNAL !!】",
+    "url": "https://vijon.jp/schedule/detail/51583",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2026/07/24",
+    "day": "金",
+    "artist": "Stardust Alone",
+    "title": "vijon × LOP!!ROP pre.【MOON LIGHT SIGNAL !!】",
+    "url": "https://vijon.jp/schedule/detail/51583",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2026/07/24",
+    "day": "金",
+    "artist": "The Marriage Sky Blues",
+    "title": "vijon × LOP!!ROP pre.【MOON LIGHT SIGNAL !!】",
+    "url": "https://vijon.jp/schedule/detail/51583",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2026/07/24",
+    "day": "金",
+    "artist": "pronalc",
+    "title": "vijon × LOP!!ROP pre.【MOON LIGHT SIGNAL !!】",
+    "url": "https://vijon.jp/schedule/detail/51583",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2026/07/24",
+    "day": "金",
+    "artist": "アルダーラック",
+    "title": "vijon × LOP!!ROP pre.【MOON LIGHT SIGNAL !!】",
+    "url": "https://vijon.jp/schedule/detail/51583",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
     "date": "2026/07/25",
     "day": "土",
     "artist": "Error",
@@ -9761,6 +9824,78 @@
     "artist": "WAAARZ",
     "title": "WAAARZ Road to Zepp Shinjyuku-雷轟-",
     "url": "https://bangboo.jp/schedule/detail/50791",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2026/07/05",
+    "day": "日",
+    "artist": "すーぱーぷーばぁー!!",
+    "title": "IDOLGATE in BANGBOO【DAY】",
+    "url": "https://bangboo.jp/schedule/detail/54235",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2026/07/05",
+    "day": "日",
+    "artist": "超★NOVA24’",
+    "title": "IDOLGATE in BANGBOO【DAY】",
+    "url": "https://bangboo.jp/schedule/detail/54235",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2026/07/05",
+    "day": "日",
+    "artist": "感情線は時をこえて",
+    "title": "IDOLGATE in BANGBOO【DAY】",
+    "url": "https://bangboo.jp/schedule/detail/54235",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2026/07/05",
+    "day": "日",
+    "artist": "NEO BREAK",
+    "title": "IDOLGATE in BANGBOO【DAY】",
+    "url": "https://bangboo.jp/schedule/detail/54235",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2026/07/05",
+    "day": "日",
+    "artist": "スキトオルアオ",
+    "title": "IDOLGATE in BANGBOO【DAY】",
+    "url": "https://bangboo.jp/schedule/detail/54235",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2026/07/05",
+    "day": "日",
+    "artist": "tune time capsule",
+    "title": "IDOLGATE in BANGBOO【NIGHT】",
+    "url": "https://bangboo.jp/schedule/detail/48496",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2026/07/05",
+    "day": "日",
+    "artist": "大阪24区ガールズ",
+    "title": "IDOLGATE in BANGBOO【NIGHT】",
+    "url": "https://bangboo.jp/schedule/detail/48496",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2026/07/05",
+    "day": "日",
+    "artist": "ティラミス",
+    "title": "IDOLGATE in BANGBOO【NIGHT】",
+    "url": "https://bangboo.jp/schedule/detail/48496",
     "venue": "梅田BANGBOO",
     "note": ""
   },
@@ -11855,7 +11990,7 @@
   {
     "date": "2026/06/18",
     "day": "木",
-    "artist": "ELEVYZ andmore!!",
+    "artist": "ELEVYZ",
     "title": "Tanki∞machi pre.百花繚乱第16章",
     "url": "https://clubdrop.jp/schedule/detail/51986",
     "venue": "アメリカ村DROP",
@@ -12323,7 +12458,7 @@
   {
     "date": "2026/06/24",
     "day": "水",
-    "artist": "ODMR andmore!!",
+    "artist": "ODMR",
     "title": "SynchMob presents VOLTAGE LEGION",
     "url": "https://clubdrop.jp/schedule/detail/51911",
     "venue": "アメリカ村DROP",
@@ -14240,7 +14375,16 @@
   {
     "date": "2026/06/17",
     "day": "水",
-    "artist": "Edna and more...",
+    "artist": "Edna",
+    "title": "いたづら×SHINSAIBASHI VARON pre. Vibrations Of Mind vol.5 いたづら4th ANNIVERSARY!!",
+    "url": "https://osaka-varon.jp/schedule/detail/50440",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2026/06/17",
+    "day": "水",
+    "artist": "Rock de nasiy",
     "title": "いたづら×SHINSAIBASHI VARON pre. Vibrations Of Mind vol.5 いたづら4th ANNIVERSARY!!",
     "url": "https://osaka-varon.jp/schedule/detail/50440",
     "venue": "VARON",
@@ -21843,6 +21987,105 @@
     "note": ""
   },
   {
+    "date": "2026/08/04",
+    "day": "火",
+    "artist": "依祈縁",
+    "title": "NaturalWoman",
+    "url": "http://www.knave.co.jp/schedule/s_2026_08.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2026/08/04",
+    "day": "火",
+    "artist": "奈美エリサ",
+    "title": "NaturalWoman",
+    "url": "http://www.knave.co.jp/schedule/s_2026_08.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2026/08/04",
+    "day": "火",
+    "artist": "Yae.",
+    "title": "NaturalWoman",
+    "url": "http://www.knave.co.jp/schedule/s_2026_08.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2026/08/04",
+    "day": "火",
+    "artist": "akari",
+    "title": "NaturalWoman",
+    "url": "http://www.knave.co.jp/schedule/s_2026_08.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2026/08/04",
+    "day": "火",
+    "artist": "宮崎真穂",
+    "title": "NaturalWoman",
+    "url": "http://www.knave.co.jp/schedule/s_2026_08.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2026/08/04",
+    "day": "火",
+    "artist": "問)knave 06-6535-0691",
+    "title": "NaturalWoman",
+    "url": "http://www.knave.co.jp/schedule/s_2026_08.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2026/08/05",
+    "day": "水",
+    "artist": "森あんぱん",
+    "title": "girlstalk SP",
+    "url": "http://www.knave.co.jp/schedule/s_2026_08.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2026/08/05",
+    "day": "水",
+    "artist": "三田春愛",
+    "title": "girlstalk SP",
+    "url": "http://www.knave.co.jp/schedule/s_2026_08.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2026/08/05",
+    "day": "水",
+    "artist": "冬木希",
+    "title": "girlstalk SP",
+    "url": "http://www.knave.co.jp/schedule/s_2026_08.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2026/08/05",
+    "day": "水",
+    "artist": "milo.",
+    "title": "girlstalk SP",
+    "url": "http://www.knave.co.jp/schedule/s_2026_08.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2026/08/05",
+    "day": "水",
+    "artist": "問)knave 06-6535-0691",
+    "title": "girlstalk SP",
+    "url": "http://www.knave.co.jp/schedule/s_2026_08.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
     "date": "2026/08/09",
     "day": "日",
     "artist": "BAND with 齊藤ジョニー",
@@ -21897,6 +22140,51 @@
     "note": ""
   },
   {
+    "date": "2026/08/10",
+    "day": "月",
+    "artist": "斉藤れいか",
+    "title": "NaturalWoman",
+    "url": "http://www.knave.co.jp/schedule/s_2026_08.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2026/08/10",
+    "day": "月",
+    "artist": "蛍",
+    "title": "NaturalWoman",
+    "url": "http://www.knave.co.jp/schedule/s_2026_08.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2026/08/10",
+    "day": "月",
+    "artist": "有近朋恵",
+    "title": "NaturalWoman",
+    "url": "http://www.knave.co.jp/schedule/s_2026_08.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2026/08/10",
+    "day": "月",
+    "artist": "あやほ",
+    "title": "NaturalWoman",
+    "url": "http://www.knave.co.jp/schedule/s_2026_08.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2026/08/10",
+    "day": "月",
+    "artist": "問)knave 06-6535-0691",
+    "title": "NaturalWoman",
+    "url": "http://www.knave.co.jp/schedule/s_2026_08.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
     "date": "2026/08/13",
     "day": "木",
     "artist": "3manLive",
@@ -21946,6 +22234,51 @@
     "day": "木",
     "artist": "問)knave 06-6535-0691",
     "title": "SHOMA SHIRAKAWA presents",
+    "url": "http://www.knave.co.jp/schedule/s_2026_08.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2026/08/14",
+    "day": "金",
+    "artist": "Kanon",
+    "title": "NaturalWoman SP",
+    "url": "http://www.knave.co.jp/schedule/s_2026_08.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2026/08/14",
+    "day": "金",
+    "artist": "心美",
+    "title": "NaturalWoman SP",
+    "url": "http://www.knave.co.jp/schedule/s_2026_08.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2026/08/14",
+    "day": "金",
+    "artist": "梨奈",
+    "title": "NaturalWoman SP",
+    "url": "http://www.knave.co.jp/schedule/s_2026_08.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2026/08/14",
+    "day": "金",
+    "artist": "かじなな",
+    "title": "NaturalWoman SP",
+    "url": "http://www.knave.co.jp/schedule/s_2026_08.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2026/08/14",
+    "day": "金",
+    "artist": "問)knave 06-6535-0691",
+    "title": "NaturalWoman SP",
     "url": "http://www.knave.co.jp/schedule/s_2026_08.html",
     "venue": "knave",
     "note": ""
@@ -22045,6 +22378,141 @@
     "day": "日",
     "artist": "問)knave 06-6535-0691",
     "title": "西村広文 88鍵一本勝負 2026",
+    "url": "http://www.knave.co.jp/schedule/s_2026_08.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2026/08/17",
+    "day": "月",
+    "artist": "愛奈",
+    "title": "girlstalk",
+    "url": "http://www.knave.co.jp/schedule/s_2026_08.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2026/08/17",
+    "day": "月",
+    "artist": "ふぁなな",
+    "title": "girlstalk",
+    "url": "http://www.knave.co.jp/schedule/s_2026_08.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2026/08/17",
+    "day": "月",
+    "artist": "友愛",
+    "title": "girlstalk",
+    "url": "http://www.knave.co.jp/schedule/s_2026_08.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2026/08/17",
+    "day": "月",
+    "artist": "おとは",
+    "title": "girlstalk",
+    "url": "http://www.knave.co.jp/schedule/s_2026_08.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2026/08/17",
+    "day": "月",
+    "artist": "問)knave 06-6535-0691",
+    "title": "girlstalk",
+    "url": "http://www.knave.co.jp/schedule/s_2026_08.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2026/08/20",
+    "day": "木",
+    "artist": "Yukky",
+    "title": "LoversRock",
+    "url": "http://www.knave.co.jp/schedule/s_2026_08.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2026/08/20",
+    "day": "木",
+    "artist": "ヤマサキマナミ",
+    "title": "LoversRock",
+    "url": "http://www.knave.co.jp/schedule/s_2026_08.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2026/08/20",
+    "day": "木",
+    "artist": "福寿たいき",
+    "title": "LoversRock",
+    "url": "http://www.knave.co.jp/schedule/s_2026_08.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2026/08/20",
+    "day": "木",
+    "artist": "小川泉",
+    "title": "LoversRock",
+    "url": "http://www.knave.co.jp/schedule/s_2026_08.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2026/08/20",
+    "day": "木",
+    "artist": "問)knave 06-6535-0691",
+    "title": "LoversRock",
+    "url": "http://www.knave.co.jp/schedule/s_2026_08.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2026/08/21",
+    "day": "金",
+    "artist": "Ritomo",
+    "title": "NaturalWoman SP",
+    "url": "http://www.knave.co.jp/schedule/s_2026_08.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2026/08/21",
+    "day": "金",
+    "artist": "カズミナナ",
+    "title": "NaturalWoman SP",
+    "url": "http://www.knave.co.jp/schedule/s_2026_08.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2026/08/21",
+    "day": "金",
+    "artist": "コデラユウコ",
+    "title": "NaturalWoman SP",
+    "url": "http://www.knave.co.jp/schedule/s_2026_08.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2026/08/21",
+    "day": "金",
+    "artist": "ケシカルカッコ",
+    "title": "NaturalWoman SP",
+    "url": "http://www.knave.co.jp/schedule/s_2026_08.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2026/08/21",
+    "day": "金",
+    "artist": "問)knave 06-6535-0691",
+    "title": "NaturalWoman SP",
     "url": "http://www.knave.co.jp/schedule/s_2026_08.html",
     "venue": "knave",
     "note": ""
@@ -22171,6 +22639,96 @@
     "day": "火",
     "artist": "問)knave 06-6535-0691",
     "title": "東西交流戦",
+    "url": "http://www.knave.co.jp/schedule/s_2026_08.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2026/08/26",
+    "day": "水",
+    "artist": "藤村ミフユ",
+    "title": "girlstalk",
+    "url": "http://www.knave.co.jp/schedule/s_2026_08.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2026/08/26",
+    "day": "水",
+    "artist": "亜偉瑠",
+    "title": "girlstalk",
+    "url": "http://www.knave.co.jp/schedule/s_2026_08.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2026/08/26",
+    "day": "水",
+    "artist": "きらりすず",
+    "title": "girlstalk",
+    "url": "http://www.knave.co.jp/schedule/s_2026_08.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2026/08/26",
+    "day": "水",
+    "artist": "にと",
+    "title": "girlstalk",
+    "url": "http://www.knave.co.jp/schedule/s_2026_08.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2026/08/26",
+    "day": "水",
+    "artist": "問)knave 06-6535-0691",
+    "title": "girlstalk",
+    "url": "http://www.knave.co.jp/schedule/s_2026_08.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2026/08/28",
+    "day": "金",
+    "artist": "きばやし",
+    "title": "NaturalWoman SP",
+    "url": "http://www.knave.co.jp/schedule/s_2026_08.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2026/08/28",
+    "day": "金",
+    "artist": "青いガーネット",
+    "title": "NaturalWoman SP",
+    "url": "http://www.knave.co.jp/schedule/s_2026_08.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2026/08/28",
+    "day": "金",
+    "artist": "マイネ",
+    "title": "NaturalWoman SP",
+    "url": "http://www.knave.co.jp/schedule/s_2026_08.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2026/08/28",
+    "day": "金",
+    "artist": "山口華穂",
+    "title": "NaturalWoman SP",
+    "url": "http://www.knave.co.jp/schedule/s_2026_08.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2026/08/28",
+    "day": "金",
+    "artist": "問)knave 06-6535-0691",
+    "title": "NaturalWoman SP",
     "url": "http://www.knave.co.jp/schedule/s_2026_08.html",
     "venue": "knave",
     "note": ""
@@ -22315,7 +22873,7 @@
     "day": "土",
     "artist": "『残暑お見舞いツアー』",
     "title": "ピュアミュージック ２０２６",
-    "url": "http://www.knave.co.jp/schedule/s_2026_08.html",
+    "url": "http://www.knave.co.jp/schedule/s_2026_09.html",
     "venue": "knave",
     "note": ""
   },
@@ -22324,7 +22882,7 @@
     "day": "土",
     "artist": "杉 真理、伊豆田 洋之、山本 英美",
     "title": "ピュアミュージック ２０２６",
-    "url": "http://www.knave.co.jp/schedule/s_2026_08.html",
+    "url": "http://www.knave.co.jp/schedule/s_2026_09.html",
     "venue": "knave",
     "note": ""
   },
@@ -22333,7 +22891,7 @@
     "day": "土",
     "artist": "一般発売 6",
     "title": "ピュアミュージック ２０２６",
-    "url": "http://www.knave.co.jp/schedule/s_2026_08.html",
+    "url": "http://www.knave.co.jp/schedule/s_2026_09.html",
     "venue": "knave",
     "note": ""
   },
@@ -22342,7 +22900,7 @@
     "day": "土",
     "artist": "6",
     "title": "ピュアミュージック ２０２６",
-    "url": "http://www.knave.co.jp/schedule/s_2026_08.html",
+    "url": "http://www.knave.co.jp/schedule/s_2026_09.html",
     "venue": "knave",
     "note": ""
   },
@@ -22351,7 +22909,7 @@
     "day": "土",
     "artist": "問)knave06-6535-0691",
     "title": "ピュアミュージック ２０２６",
-    "url": "http://www.knave.co.jp/schedule/s_2026_08.html",
+    "url": "http://www.knave.co.jp/schedule/s_2026_09.html",
     "venue": "knave",
     "note": ""
   },
@@ -22360,7 +22918,7 @@
     "day": "金",
     "artist": "“好きな人の好きな人” -弾き語り編-ヒグチアイ",
     "title": "HIGUCHIAI presents",
-    "url": "http://www.knave.co.jp/schedule/s_2026_08.html",
+    "url": "http://www.knave.co.jp/schedule/s_2026_09.html",
     "venue": "knave",
     "note": ""
   },
@@ -22369,7 +22927,7 @@
     "day": "金",
     "artist": "一般発売 8",
     "title": "HIGUCHIAI presents",
-    "url": "http://www.knave.co.jp/schedule/s_2026_08.html",
+    "url": "http://www.knave.co.jp/schedule/s_2026_09.html",
     "venue": "knave",
     "note": ""
   },
@@ -22378,7 +22936,7 @@
     "day": "金",
     "artist": "110:00〜",
     "title": "HIGUCHIAI presents",
-    "url": "http://www.knave.co.jp/schedule/s_2026_08.html",
+    "url": "http://www.knave.co.jp/schedule/s_2026_09.html",
     "venue": "knave",
     "note": ""
   },
@@ -22387,7 +22945,7 @@
     "day": "金",
     "artist": "問)knave06-6535-0691",
     "title": "HIGUCHIAI presents",
-    "url": "http://www.knave.co.jp/schedule/s_2026_08.html",
+    "url": "http://www.knave.co.jp/schedule/s_2026_09.html",
     "venue": "knave",
     "note": ""
   },
@@ -22396,7 +22954,7 @@
     "day": "金",
     "artist": "「Summer Soft vol.10",
     "title": "unclose presents",
-    "url": "http://www.knave.co.jp/schedule/s_2026_08.html",
+    "url": "http://www.knave.co.jp/schedule/s_2026_09.html",
     "venue": "knave",
     "note": ""
   },
@@ -22405,7 +22963,7 @@
     "day": "金",
     "artist": "unclose Band set ONE MAN SHOW」unclose",
     "title": "unclose presents",
-    "url": "http://www.knave.co.jp/schedule/s_2026_08.html",
+    "url": "http://www.knave.co.jp/schedule/s_2026_09.html",
     "venue": "knave",
     "note": ""
   },
@@ -22414,7 +22972,7 @@
     "day": "金",
     "artist": "問)knave 06-6535-0691",
     "title": "unclose presents",
-    "url": "http://www.knave.co.jp/schedule/s_2026_08.html",
+    "url": "http://www.knave.co.jp/schedule/s_2026_09.html",
     "venue": "knave",
     "note": ""
   },
@@ -22423,7 +22981,7 @@
     "day": "土",
     "artist": "こよなく愛する人達へ〜",
     "title": "〜SOFT BALLETを",
-    "url": "http://www.knave.co.jp/schedule/s_2026_08.html",
+    "url": "http://www.knave.co.jp/schedule/s_2026_09.html",
     "venue": "knave",
     "note": ""
   },
@@ -22432,7 +22990,7 @@
     "day": "土",
     "artist": "MARBLEMARKET PRESENTS",
     "title": "〜SOFT BALLETを",
-    "url": "http://www.knave.co.jp/schedule/s_2026_08.html",
+    "url": "http://www.knave.co.jp/schedule/s_2026_09.html",
     "venue": "knave",
     "note": ""
   },
@@ -22441,7 +22999,7 @@
     "day": "土",
     "artist": "SOUND MASTURBATION",
     "title": "〜SOFT BALLETを",
-    "url": "http://www.knave.co.jp/schedule/s_2026_08.html",
+    "url": "http://www.knave.co.jp/schedule/s_2026_09.html",
     "venue": "knave",
     "note": ""
   },
@@ -22450,7 +23008,7 @@
     "day": "土",
     "artist": "アンドロジニー",
     "title": "〜SOFT BALLETを",
-    "url": "http://www.knave.co.jp/schedule/s_2026_08.html",
+    "url": "http://www.knave.co.jp/schedule/s_2026_09.html",
     "venue": "knave",
     "note": ""
   },
@@ -22459,7 +23017,7 @@
     "day": "土",
     "artist": "PLP",
     "title": "〜SOFT BALLETを",
-    "url": "http://www.knave.co.jp/schedule/s_2026_08.html",
+    "url": "http://www.knave.co.jp/schedule/s_2026_09.html",
     "venue": "knave",
     "note": ""
   },
@@ -22468,7 +23026,7 @@
     "day": "土",
     "artist": "L.es.B",
     "title": "〜SOFT BALLETを",
-    "url": "http://www.knave.co.jp/schedule/s_2026_08.html",
+    "url": "http://www.knave.co.jp/schedule/s_2026_09.html",
     "venue": "knave",
     "note": ""
   },
@@ -22477,7 +23035,7 @@
     "day": "土",
     "artist": "TAKA with REDSUNS",
     "title": "〜SOFT BALLETを",
-    "url": "http://www.knave.co.jp/schedule/s_2026_08.html",
+    "url": "http://www.knave.co.jp/schedule/s_2026_09.html",
     "venue": "knave",
     "note": ""
   },
@@ -22486,7 +23044,7 @@
     "day": "土",
     "artist": "k2k rub",
     "title": "〜SOFT BALLETを",
-    "url": "http://www.knave.co.jp/schedule/s_2026_08.html",
+    "url": "http://www.knave.co.jp/schedule/s_2026_09.html",
     "venue": "knave",
     "note": ""
   },
@@ -22495,7 +23053,7 @@
     "day": "土",
     "artist": "newもぎたて",
     "title": "〜SOFT BALLETを",
-    "url": "http://www.knave.co.jp/schedule/s_2026_08.html",
+    "url": "http://www.knave.co.jp/schedule/s_2026_09.html",
     "venue": "knave",
     "note": ""
   },
@@ -22504,7 +23062,7 @@
     "day": "土",
     "artist": "ツイキャスライブ視聴購入ページ",
     "title": "〜SOFT BALLETを",
-    "url": "http://www.knave.co.jp/schedule/s_2026_08.html",
+    "url": "http://www.knave.co.jp/schedule/s_2026_09.html",
     "venue": "knave",
     "note": ""
   },
@@ -22513,7 +23071,7 @@
     "day": "土",
     "artist": "https:",
     "title": "〜SOFT BALLETを",
-    "url": "http://www.knave.co.jp/schedule/s_2026_08.html",
+    "url": "http://www.knave.co.jp/schedule/s_2026_09.html",
     "venue": "knave",
     "note": ""
   },
@@ -22522,7 +23080,7 @@
     "day": "土",
     "artist": "twitcasting.tv",
     "title": "〜SOFT BALLETを",
-    "url": "http://www.knave.co.jp/schedule/s_2026_08.html",
+    "url": "http://www.knave.co.jp/schedule/s_2026_09.html",
     "venue": "knave",
     "note": ""
   },
@@ -22531,7 +23089,7 @@
     "day": "日",
     "artist": "バースデーワンマンライブツア",
     "title": "小野亜里沙",
-    "url": "http://www.knave.co.jp/schedule/s_2026_08.html",
+    "url": "http://www.knave.co.jp/schedule/s_2026_09.html",
     "venue": "knave",
     "note": ""
   },
@@ -22540,7 +23098,7 @@
     "day": "日",
     "artist": "ー 2026大阪公演",
     "title": "小野亜里沙",
-    "url": "http://www.knave.co.jp/schedule/s_2026_08.html",
+    "url": "http://www.knave.co.jp/schedule/s_2026_09.html",
     "venue": "knave",
     "note": ""
   },
@@ -22549,7 +23107,7 @@
     "day": "日",
     "artist": "世界〜誰かの希望になりたくて〜",
     "title": "小野亜里沙",
-    "url": "http://www.knave.co.jp/schedule/s_2026_08.html",
+    "url": "http://www.knave.co.jp/schedule/s_2026_09.html",
     "venue": "knave",
     "note": ""
   },
@@ -22558,7 +23116,7 @@
     "day": "日",
     "artist": "小野亜里沙",
     "title": "小野亜里沙",
-    "url": "http://www.knave.co.jp/schedule/s_2026_08.html",
+    "url": "http://www.knave.co.jp/schedule/s_2026_09.html",
     "venue": "knave",
     "note": ""
   },
@@ -22567,7 +23125,7 @@
     "day": "日",
     "artist": "一般発売1",
     "title": "小野亜里沙",
-    "url": "http://www.knave.co.jp/schedule/s_2026_08.html",
+    "url": "http://www.knave.co.jp/schedule/s_2026_09.html",
     "venue": "knave",
     "note": ""
   },
@@ -22576,7 +23134,7 @@
     "day": "日",
     "artist": "29",
     "title": "小野亜里沙",
-    "url": "http://www.knave.co.jp/schedule/s_2026_08.html",
+    "url": "http://www.knave.co.jp/schedule/s_2026_09.html",
     "venue": "knave",
     "note": ""
   },
@@ -22585,7 +23143,7 @@
     "day": "日",
     "artist": "問)knave06-6535-0691",
     "title": "小野亜里沙",
-    "url": "http://www.knave.co.jp/schedule/s_2026_08.html",
+    "url": "http://www.knave.co.jp/schedule/s_2026_09.html",
     "venue": "knave",
     "note": ""
   },
@@ -22594,7 +23152,7 @@
     "day": "土",
     "artist": "白玉雅己",
     "title": "白玉雅己 ライブ2026 Destination",
-    "url": "http://www.knave.co.jp/schedule/s_2026_08.html",
+    "url": "http://www.knave.co.jp/schedule/s_2026_09.html",
     "venue": "knave",
     "note": ""
   },
@@ -22603,7 +23161,7 @@
     "day": "土",
     "artist": "ツイキャスライブ視聴購入ページ",
     "title": "白玉雅己 ライブ2026 Destination",
-    "url": "http://www.knave.co.jp/schedule/s_2026_08.html",
+    "url": "http://www.knave.co.jp/schedule/s_2026_09.html",
     "venue": "knave",
     "note": ""
   },
@@ -22612,7 +23170,7 @@
     "day": "土",
     "artist": "https:",
     "title": "白玉雅己 ライブ2026 Destination",
-    "url": "http://www.knave.co.jp/schedule/s_2026_08.html",
+    "url": "http://www.knave.co.jp/schedule/s_2026_09.html",
     "venue": "knave",
     "note": ""
   },
@@ -22621,7 +23179,7 @@
     "day": "土",
     "artist": "twitcasting.tv",
     "title": "白玉雅己 ライブ2026 Destination",
-    "url": "http://www.knave.co.jp/schedule/s_2026_08.html",
+    "url": "http://www.knave.co.jp/schedule/s_2026_09.html",
     "venue": "knave",
     "note": ""
   },
@@ -22630,7 +23188,7 @@
     "day": "土",
     "artist": "JUN SKY WALKER",
     "title": "-MORI JUNTA-",
-    "url": "http://www.knave.co.jp/schedule/s_2026_08.html",
+    "url": "http://www.knave.co.jp/schedule/s_2026_09.html",
     "venue": "knave",
     "note": ""
   },
@@ -22639,7 +23197,7 @@
     "day": "土",
     "artist": "MJBD TOUR 2026Let’s Rock It !",
     "title": "-MORI JUNTA-",
-    "url": "http://www.knave.co.jp/schedule/s_2026_08.html",
+    "url": "http://www.knave.co.jp/schedule/s_2026_09.html",
     "venue": "knave",
     "note": ""
   },
@@ -22648,7 +23206,7 @@
     "day": "土",
     "artist": "森純太",
     "title": "-MORI JUNTA-",
-    "url": "http://www.knave.co.jp/schedule/s_2026_08.html",
+    "url": "http://www.knave.co.jp/schedule/s_2026_09.html",
     "venue": "knave",
     "note": ""
   },
@@ -22657,7 +23215,7 @@
     "day": "土",
     "artist": "伊藤毅",
     "title": "-MORI JUNTA-",
-    "url": "http://www.knave.co.jp/schedule/s_2026_08.html",
+    "url": "http://www.knave.co.jp/schedule/s_2026_09.html",
     "venue": "knave",
     "note": ""
   },
@@ -22666,7 +23224,7 @@
     "day": "土",
     "artist": "水尻ヨシユキ",
     "title": "-MORI JUNTA-",
-    "url": "http://www.knave.co.jp/schedule/s_2026_08.html",
+    "url": "http://www.knave.co.jp/schedule/s_2026_09.html",
     "venue": "knave",
     "note": ""
   },
@@ -22675,7 +23233,7 @@
     "day": "土",
     "artist": "一般発売3",
     "title": "-MORI JUNTA-",
-    "url": "http://www.knave.co.jp/schedule/s_2026_08.html",
+    "url": "http://www.knave.co.jp/schedule/s_2026_09.html",
     "venue": "knave",
     "note": ""
   },
@@ -22684,7 +23242,7 @@
     "day": "土",
     "artist": "28",
     "title": "-MORI JUNTA-",
-    "url": "http://www.knave.co.jp/schedule/s_2026_08.html",
+    "url": "http://www.knave.co.jp/schedule/s_2026_09.html",
     "venue": "knave",
     "note": ""
   },
@@ -22693,7 +23251,7 @@
     "day": "土",
     "artist": "問)knave06-6535-0691",
     "title": "-MORI JUNTA-",
-    "url": "http://www.knave.co.jp/schedule/s_2026_08.html",
+    "url": "http://www.knave.co.jp/schedule/s_2026_09.html",
     "venue": "knave",
     "note": ""
   },
@@ -22702,7 +23260,7 @@
     "day": "土",
     "artist": "東名阪札福ワンマンツアー",
     "title": "あくあいゆい",
-    "url": "http://www.knave.co.jp/schedule/s_2026_08.html",
+    "url": "http://www.knave.co.jp/schedule/s_2026_09.html",
     "venue": "knave",
     "note": ""
   },
@@ -22711,7 +23269,7 @@
     "day": "土",
     "artist": "2026 LiberRene",
     "title": "あくあいゆい",
-    "url": "http://www.knave.co.jp/schedule/s_2026_08.html",
+    "url": "http://www.knave.co.jp/schedule/s_2026_09.html",
     "venue": "knave",
     "note": ""
   },
@@ -22720,7 +23278,7 @@
     "day": "土",
     "artist": "あくあゆい",
     "title": "あくあいゆい",
-    "url": "http://www.knave.co.jp/schedule/s_2026_08.html",
+    "url": "http://www.knave.co.jp/schedule/s_2026_09.html",
     "venue": "knave",
     "note": ""
   },
@@ -22729,7 +23287,7 @@
     "day": "土",
     "artist": "PREMIUM￥5",
     "title": "あくあいゆい",
-    "url": "http://www.knave.co.jp/schedule/s_2026_08.html",
+    "url": "http://www.knave.co.jp/schedule/s_2026_09.html",
     "venue": "knave",
     "note": ""
   },
@@ -22738,7 +23296,7 @@
     "day": "土",
     "artist": "000",
     "title": "あくあいゆい",
-    "url": "http://www.knave.co.jp/schedule/s_2026_08.html",
+    "url": "http://www.knave.co.jp/schedule/s_2026_09.html",
     "venue": "knave",
     "note": ""
   },
@@ -22747,7 +23305,7 @@
     "day": "土",
     "artist": "学割￥2",
     "title": "あくあいゆい",
-    "url": "http://www.knave.co.jp/schedule/s_2026_08.html",
+    "url": "http://www.knave.co.jp/schedule/s_2026_09.html",
     "venue": "knave",
     "note": ""
   },
@@ -22756,7 +23314,7 @@
     "day": "土",
     "artist": "500",
     "title": "あくあいゆい",
-    "url": "http://www.knave.co.jp/schedule/s_2026_08.html",
+    "url": "http://www.knave.co.jp/schedule/s_2026_09.html",
     "venue": "knave",
     "note": ""
   },
@@ -22765,7 +23323,7 @@
     "day": "土",
     "artist": "問・チケット発売)TIGET",
     "title": "あくあいゆい",
-    "url": "http://www.knave.co.jp/schedule/s_2026_08.html",
+    "url": "http://www.knave.co.jp/schedule/s_2026_09.html",
     "venue": "knave",
     "note": ""
   },
@@ -22774,7 +23332,7 @@
     "day": "日",
     "artist": "シェルミィ",
     "title": "シェルミィ 銃声TOUR",
-    "url": "http://www.knave.co.jp/schedule/s_2026_08.html",
+    "url": "http://www.knave.co.jp/schedule/s_2026_09.html",
     "venue": "knave",
     "note": ""
   },
@@ -22783,7 +23341,7 @@
     "day": "日",
     "artist": "シェルミィ公式ウェブショップ",
     "title": "シェルミィ 銃声TOUR",
-    "url": "http://www.knave.co.jp/schedule/s_2026_08.html",
+    "url": "http://www.knave.co.jp/schedule/s_2026_09.html",
     "venue": "knave",
     "note": ""
   },
@@ -22792,7 +23350,7 @@
     "day": "日",
     "artist": "「負け犬倶楽部」にて9",
     "title": "シェルミィ 銃声TOUR",
-    "url": "http://www.knave.co.jp/schedule/s_2026_08.html",
+    "url": "http://www.knave.co.jp/schedule/s_2026_09.html",
     "venue": "knave",
     "note": ""
   },
@@ -22801,7 +23359,7 @@
     "day": "日",
     "artist": "2010:00発売開始",
     "title": "シェルミィ 銃声TOUR",
-    "url": "http://www.knave.co.jp/schedule/s_2026_08.html",
+    "url": "http://www.knave.co.jp/schedule/s_2026_09.html",
     "venue": "knave",
     "note": ""
   },
@@ -22810,7 +23368,7 @@
     "day": "日",
     "artist": "RETURNS",
     "title": "A DAY WITH THE ACES TOUR",
-    "url": "http://www.knave.co.jp/schedule/s_2026_08.html",
+    "url": "http://www.knave.co.jp/schedule/s_2026_09.html",
     "venue": "knave",
     "note": ""
   },
@@ -22819,7 +23377,7 @@
     "day": "日",
     "artist": "QUEENESS",
     "title": "A DAY WITH THE ACES TOUR",
-    "url": "http://www.knave.co.jp/schedule/s_2026_08.html",
+    "url": "http://www.knave.co.jp/schedule/s_2026_09.html",
     "venue": "knave",
     "note": ""
   },
@@ -22828,7 +23386,7 @@
     "day": "日",
     "artist": "一般発売5",
     "title": "A DAY WITH THE ACES TOUR",
-    "url": "http://www.knave.co.jp/schedule/s_2026_08.html",
+    "url": "http://www.knave.co.jp/schedule/s_2026_09.html",
     "venue": "knave",
     "note": ""
   },
@@ -22837,7 +23395,7 @@
     "day": "日",
     "artist": "27",
     "title": "A DAY WITH THE ACES TOUR",
-    "url": "http://www.knave.co.jp/schedule/s_2026_08.html",
+    "url": "http://www.knave.co.jp/schedule/s_2026_09.html",
     "venue": "knave",
     "note": ""
   },
@@ -22846,7 +23404,7 @@
     "day": "日",
     "artist": "問)knave06-6535-0691",
     "title": "A DAY WITH THE ACES TOUR",
-    "url": "http://www.knave.co.jp/schedule/s_2026_08.html",
+    "url": "http://www.knave.co.jp/schedule/s_2026_09.html",
     "venue": "knave",
     "note": ""
   },
@@ -22855,7 +23413,7 @@
     "day": "水",
     "artist": "『歌える子羊』",
     "title": "莉奈 バンドセットワンマンライブ",
-    "url": "http://www.knave.co.jp/schedule/s_2026_08.html",
+    "url": "http://www.knave.co.jp/schedule/s_2026_09.html",
     "venue": "knave",
     "note": ""
   },
@@ -22864,7 +23422,7 @@
     "day": "水",
     "artist": "莉奈",
     "title": "莉奈 バンドセットワンマンライブ",
-    "url": "http://www.knave.co.jp/schedule/s_2026_08.html",
+    "url": "http://www.knave.co.jp/schedule/s_2026_09.html",
     "venue": "knave",
     "note": ""
   },
@@ -22873,7 +23431,7 @@
     "day": "水",
     "artist": "PREMIUM￥5",
     "title": "莉奈 バンドセットワンマンライブ",
-    "url": "http://www.knave.co.jp/schedule/s_2026_08.html",
+    "url": "http://www.knave.co.jp/schedule/s_2026_09.html",
     "venue": "knave",
     "note": ""
   },
@@ -22882,7 +23440,7 @@
     "day": "水",
     "artist": "000",
     "title": "莉奈 バンドセットワンマンライブ",
-    "url": "http://www.knave.co.jp/schedule/s_2026_08.html",
+    "url": "http://www.knave.co.jp/schedule/s_2026_09.html",
     "venue": "knave",
     "note": ""
   },
@@ -22891,7 +23449,7 @@
     "day": "水",
     "artist": "U-22￥2",
     "title": "莉奈 バンドセットワンマンライブ",
-    "url": "http://www.knave.co.jp/schedule/s_2026_08.html",
+    "url": "http://www.knave.co.jp/schedule/s_2026_09.html",
     "venue": "knave",
     "note": ""
   },
@@ -22900,7 +23458,7 @@
     "day": "水",
     "artist": "問・チケット発売)TIGETにて近日発売",
     "title": "莉奈 バンドセットワンマンライブ",
-    "url": "http://www.knave.co.jp/schedule/s_2026_08.html",
+    "url": "http://www.knave.co.jp/schedule/s_2026_09.html",
     "venue": "knave",
     "note": ""
   }
