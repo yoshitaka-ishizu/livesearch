@@ -507,7 +507,7 @@ date,day,artist,title,url,venue,note
 2026/07/27,月,岡﨑コウユウ,OPEN 18:00,https://para-dice.net/,扇町para-dice,
 2026/07/27,月,ホシノコウスケ,OPEN 18:00,https://para-dice.net/,扇町para-dice,
 2026/07/28,火,OFF,,https://para-dice.net/,扇町para-dice,
-2026/07/29,水,ホールレンタル,,https://para-dice.net/,扇町para-dice,
+2026/07/29,水,OFF,,https://para-dice.net/,扇町para-dice,
 2026/07/30,木,べーしょー,,https://para-dice.net/,扇町para-dice,
 2026/07/30,木,文雨伽奈,,https://para-dice.net/,扇町para-dice,
 2026/07/30,木,雨つつ。,,https://para-dice.net/,扇町para-dice,
@@ -547,10 +547,21 @@ date,day,artist,title,url,venue,note
 2026/08/04,火,jocojo,そうごじた生誕祭 』,https://para-dice.net/,扇町para-dice,
 2026/08/04,火,重田拓成,そうごじた生誕祭 』,https://para-dice.net/,扇町para-dice,
 2026/08/04,火,JOSEI BANDBAND and more...,そうごじた生誕祭 』,https://para-dice.net/,扇町para-dice,
-2026/08/06,木,CURIOUS,CURIOUS / ツネ。 / N0NAKA / フジコー(九九る式),https://para-dice.net/,扇町para-dice,
-2026/08/06,木,ツネ。,CURIOUS / ツネ。 / N0NAKA / フジコー(九九る式),https://para-dice.net/,扇町para-dice,
-2026/08/06,木,N0NAKA,CURIOUS / ツネ。 / N0NAKA / フジコー(九九る式),https://para-dice.net/,扇町para-dice,
-2026/08/06,木,フジコー and more...,CURIOUS / ツネ。 / N0NAKA / フジコー(九九る式),https://para-dice.net/,扇町para-dice,
+2026/08/06,木,CURIOUS,"CURIOUS / ツネ。 / N0NAKA / フジコー(九九る式) / 
+                
+ごま",https://para-dice.net/,扇町para-dice,
+2026/08/06,木,ツネ。,"CURIOUS / ツネ。 / N0NAKA / フジコー(九九る式) / 
+                
+ごま",https://para-dice.net/,扇町para-dice,
+2026/08/06,木,N0NAKA,"CURIOUS / ツネ。 / N0NAKA / フジコー(九九る式) / 
+                
+ごま",https://para-dice.net/,扇町para-dice,
+2026/08/06,木,フジコー,"CURIOUS / ツネ。 / N0NAKA / フジコー(九九る式) / 
+                
+ごま",https://para-dice.net/,扇町para-dice,
+2026/08/06,木,ごま  and more...,"CURIOUS / ツネ。 / N0NAKA / フジコー(九九る式) / 
+                
+ごま",https://para-dice.net/,扇町para-dice,
 2026/08/07,金,Shake it up baby 2026 OSAKA DAY1,Shake it up baby 2026 OSAKA DAY1,https://para-dice.net/,扇町para-dice,
 2026/08/07,金,wash?,Shake it up baby 2026 OSAKA DAY1,https://para-dice.net/,扇町para-dice,
 2026/08/07,金,TIGET,Shake it up baby 2026 OSAKA DAY1,https://para-dice.net/,扇町para-dice,
@@ -558,15 +569,27 @@ date,day,artist,title,url,venue,note
 2026/08/07,金,tiget.net,Shake it up baby 2026 OSAKA DAY1,https://para-dice.net/,扇町para-dice,
 2026/08/07,金,events,Shake it up baby 2026 OSAKA DAY1,https://para-dice.net/,扇町para-dice,
 2026/08/07,金,486954,Shake it up baby 2026 OSAKA DAY1,https://para-dice.net/,扇町para-dice,
-2026/08/08,土,para-dice企画,para-dice企画,https://para-dice.net/,扇町para-dice,
-2026/08/08,土,neke,para-dice企画,https://para-dice.net/,扇町para-dice,
-2026/08/08,土,ウサギバニーボーイ,para-dice企画,https://para-dice.net/,扇町para-dice,
-2026/08/08,土,PLATFORM,para-dice企画,https://para-dice.net/,扇町para-dice,
-2026/08/08,土,夕鳴 and more...,para-dice企画,https://para-dice.net/,扇町para-dice,
-2026/08/09,日,MOGETS,MOGETS / THE WHAT’S / 爆音シンフォニー(徳島) / ヘテロズ,https://para-dice.net/,扇町para-dice,
-2026/08/09,日,THE WHAT’S,MOGETS / THE WHAT’S / 爆音シンフォニー(徳島) / ヘテロズ,https://para-dice.net/,扇町para-dice,
-2026/08/09,日,爆音シンフォニー,MOGETS / THE WHAT’S / 爆音シンフォニー(徳島) / ヘテロズ,https://para-dice.net/,扇町para-dice,
-2026/08/09,日,ヘテロズ and more...,MOGETS / THE WHAT’S / 爆音シンフォニー(徳島) / ヘテロズ,https://para-dice.net/,扇町para-dice,
+2026/08/08,土,para-dice企画,『 Frame By Frame 』,https://para-dice.net/,扇町para-dice,
+2026/08/08,土,『 Frame By Frame 』,『 Frame By Frame 』,https://para-dice.net/,扇町para-dice,
+2026/08/08,土,PLATFORM,『 Frame By Frame 』,https://para-dice.net/,扇町para-dice,
+2026/08/08,土,夕鳴,『 Frame By Frame 』,https://para-dice.net/,扇町para-dice,
+2026/08/08,土,neke,『 Frame By Frame 』,https://para-dice.net/,扇町para-dice,
+2026/08/08,土,ウサギバニーボーイ,『 Frame By Frame 』,https://para-dice.net/,扇町para-dice,
+2026/08/09,日,MOGETS,"MOGETS / THE WHAT’S / 爆音シンフォニー(徳島) / ヘテロズ / 
+                
+河口績",https://para-dice.net/,扇町para-dice,
+2026/08/09,日,THE WHAT’S,"MOGETS / THE WHAT’S / 爆音シンフォニー(徳島) / ヘテロズ / 
+                
+河口績",https://para-dice.net/,扇町para-dice,
+2026/08/09,日,爆音シンフォニー,"MOGETS / THE WHAT’S / 爆音シンフォニー(徳島) / ヘテロズ / 
+                
+河口績",https://para-dice.net/,扇町para-dice,
+2026/08/09,日,ヘテロズ,"MOGETS / THE WHAT’S / 爆音シンフォニー(徳島) / ヘテロズ / 
+                
+河口績",https://para-dice.net/,扇町para-dice,
+2026/08/09,日,河口績 and more...,"MOGETS / THE WHAT’S / 爆音シンフォニー(徳島) / ヘテロズ / 
+                
+河口績",https://para-dice.net/,扇町para-dice,
 2026/08/11,火祝,para-dice企画,para-dice企画,https://para-dice.net/,扇町para-dice,
 2026/08/11,火祝,メタリックお盆K.O.2026,para-dice企画,https://para-dice.net/,扇町para-dice,
 2026/08/11,火祝,BRODY,para-dice企画,https://para-dice.net/,扇町para-dice,
@@ -578,24 +601,52 @@ date,day,artist,title,url,venue,note
 2026/08/19,水,MY HEART IS SCREWED.,para-dice企画,https://para-dice.net/,扇町para-dice,
 2026/08/19,水,今村モータース,para-dice企画,https://para-dice.net/,扇町para-dice,
 2026/08/19,水,サイケデリックハートブラボーズ,para-dice企画,https://para-dice.net/,扇町para-dice,
-2026/08/19,水,オガサワラヒロユキグループ:CUE and more...,para-dice企画,https://para-dice.net/,扇町para-dice,
-2026/08/20,木,蛍,蛍 / 異 / 春田玄,https://para-dice.net/,扇町para-dice,
-2026/08/20,木,異,蛍 / 異 / 春田玄,https://para-dice.net/,扇町para-dice,
-2026/08/20,木,春田玄 and more...,蛍 / 異 / 春田玄,https://para-dice.net/,扇町para-dice,
+2026/08/19,水,オガサワラヒロユキグループ:CUE,para-dice企画,https://para-dice.net/,扇町para-dice,
+2026/08/20,木,para-dice企画,para-dice企画,https://para-dice.net/,扇町para-dice,
+2026/08/20,木,蛍,para-dice企画,https://para-dice.net/,扇町para-dice,
+2026/08/20,木,異,para-dice企画,https://para-dice.net/,扇町para-dice,
+2026/08/20,木,春田玄,para-dice企画,https://para-dice.net/,扇町para-dice,
+2026/08/20,木,シラハタショウコ,para-dice企画,https://para-dice.net/,扇町para-dice,
 2026/08/23,日,ZOOZ 6th Full Album『Sense』Release Party,ZOOZ 6th Full Album『Sense』Release Party,https://para-dice.net/,扇町para-dice,
 2026/08/23,日,ZOOZ,ZOOZ 6th Full Album『Sense』Release Party,https://para-dice.net/,扇町para-dice,
 2026/08/23,日,ANYO,ZOOZ 6th Full Album『Sense』Release Party,https://para-dice.net/,扇町para-dice,
 2026/08/23,日,LADY FLASH,ZOOZ 6th Full Album『Sense』Release Party,https://para-dice.net/,扇町para-dice,
-2026/08/24,月,Refflucks,Refflucks / MCSHIGE Rockingchair / SSS / Jiro Matatabi / 自転車SO業舎,https://para-dice.net/,扇町para-dice,
-2026/08/24,月,MCSHIGE Rockingchair,Refflucks / MCSHIGE Rockingchair / SSS / Jiro Matatabi / 自転車SO業舎,https://para-dice.net/,扇町para-dice,
-2026/08/24,月,SSS,Refflucks / MCSHIGE Rockingchair / SSS / Jiro Matatabi / 自転車SO業舎,https://para-dice.net/,扇町para-dice,
-2026/08/24,月,Jiro Matatabi,Refflucks / MCSHIGE Rockingchair / SSS / Jiro Matatabi / 自転車SO業舎,https://para-dice.net/,扇町para-dice,
-2026/08/24,月,自転車SO業舎,Refflucks / MCSHIGE Rockingchair / SSS / Jiro Matatabi / 自転車SO業舎,https://para-dice.net/,扇町para-dice,
-2026/08/25,火,灰原正之,灰原正之 / 吾妻光記(酩酊バレンタイン) / 昂大(火星同盟) / lacina / 鴨しんご,https://para-dice.net/,扇町para-dice,
-2026/08/25,火,吾妻光記,灰原正之 / 吾妻光記(酩酊バレンタイン) / 昂大(火星同盟) / lacina / 鴨しんご,https://para-dice.net/,扇町para-dice,
-2026/08/25,火,昂大,灰原正之 / 吾妻光記(酩酊バレンタイン) / 昂大(火星同盟) / lacina / 鴨しんご,https://para-dice.net/,扇町para-dice,
-2026/08/25,火,lacina,灰原正之 / 吾妻光記(酩酊バレンタイン) / 昂大(火星同盟) / lacina / 鴨しんご,https://para-dice.net/,扇町para-dice,
-2026/08/25,火,鴨しんご,灰原正之 / 吾妻光記(酩酊バレンタイン) / 昂大(火星同盟) / lacina / 鴨しんご,https://para-dice.net/,扇町para-dice,
+2026/08/24,月,Refflucks,"Refflucks / MCSHIGE Rockingchair / SSS / Jiro Matatabi / 自転車SO業舎 /
+              
+              DOVE",https://para-dice.net/,扇町para-dice,
+2026/08/24,月,MCSHIGE Rockingchair,"Refflucks / MCSHIGE Rockingchair / SSS / Jiro Matatabi / 自転車SO業舎 /
+              
+              DOVE",https://para-dice.net/,扇町para-dice,
+2026/08/24,月,SSS,"Refflucks / MCSHIGE Rockingchair / SSS / Jiro Matatabi / 自転車SO業舎 /
+              
+              DOVE",https://para-dice.net/,扇町para-dice,
+2026/08/24,月,Jiro Matatabi,"Refflucks / MCSHIGE Rockingchair / SSS / Jiro Matatabi / 自転車SO業舎 /
+              
+              DOVE",https://para-dice.net/,扇町para-dice,
+2026/08/24,月,自転車SO業舎,"Refflucks / MCSHIGE Rockingchair / SSS / Jiro Matatabi / 自転車SO業舎 /
+              
+              DOVE",https://para-dice.net/,扇町para-dice,
+2026/08/24,月,DOVE,"Refflucks / MCSHIGE Rockingchair / SSS / Jiro Matatabi / 自転車SO業舎 /
+              
+              DOVE",https://para-dice.net/,扇町para-dice,
+2026/08/25,火,灰原正之,"灰原正之 / 吾妻光記(酩酊バレンタイン) / 昂大(火星同盟) / lacina / 鴨しんご /
+              
+              カリウタ",https://para-dice.net/,扇町para-dice,
+2026/08/25,火,吾妻光記,"灰原正之 / 吾妻光記(酩酊バレンタイン) / 昂大(火星同盟) / lacina / 鴨しんご /
+              
+              カリウタ",https://para-dice.net/,扇町para-dice,
+2026/08/25,火,昂大,"灰原正之 / 吾妻光記(酩酊バレンタイン) / 昂大(火星同盟) / lacina / 鴨しんご /
+              
+              カリウタ",https://para-dice.net/,扇町para-dice,
+2026/08/25,火,lacina,"灰原正之 / 吾妻光記(酩酊バレンタイン) / 昂大(火星同盟) / lacina / 鴨しんご /
+              
+              カリウタ",https://para-dice.net/,扇町para-dice,
+2026/08/25,火,鴨しんご,"灰原正之 / 吾妻光記(酩酊バレンタイン) / 昂大(火星同盟) / lacina / 鴨しんご /
+              
+              カリウタ",https://para-dice.net/,扇町para-dice,
+2026/08/25,火,カリウタ,"灰原正之 / 吾妻光記(酩酊バレンタイン) / 昂大(火星同盟) / lacina / 鴨しんご /
+              
+              カリウタ",https://para-dice.net/,扇町para-dice,
 2026/08/26,水,para-dice企画,para-dice企画,https://para-dice.net/,扇町para-dice,
 2026/08/26,水,kasuppa,para-dice企画,https://para-dice.net/,扇町para-dice,
 2026/08/26,水,kevin,para-dice企画,https://para-dice.net/,扇町para-dice,
@@ -1258,6 +1309,7 @@ date,day,artist,title,url,venue,note
 2026/06/29,月,LØISLOID,ENVY PARANOID Pre. 燕返し-ツバメガエシ- special 4MAN edition,https://bangboo.jp/schedule/detail/51380,梅田BANGBOO,
 2026/06/29,月,8bit零,ENVY PARANOID Pre. 燕返し-ツバメガエシ- special 4MAN edition,https://bangboo.jp/schedule/detail/51380,梅田BANGBOO,
 2026/06/29,月,LΩPARA,ENVY PARANOID Pre. 燕返し-ツバメガエシ- special 4MAN edition,https://bangboo.jp/schedule/detail/51380,梅田BANGBOO,
+2026/06/30,火,ネテルダイヤ、skill of light  カリフラワー冒険記、無花果とマシンガン、シンセカイヒーロー、皐月かえで、マイフェアガール、柊ゆう,ネテルダイヤpre.  【Diamond Polishers】  in梅田BANGBOO,https://bangboo.jp/schedule/detail/51355,梅田BANGBOO,
 2026/07/01,水,First Fl∞r,First Fl∞r Spring & Summer TOUR 2026-DEPERTURE-,https://bangboo.jp/schedule/detail/50789,梅田BANGBOO,
 2026/07/01,水,MELT THE BURRET,First Fl∞r Spring & Summer TOUR 2026-DEPERTURE-,https://bangboo.jp/schedule/detail/50789,梅田BANGBOO,
 2026/07/01,水,Magi♡9,First Fl∞r Spring & Summer TOUR 2026-DEPERTURE-,https://bangboo.jp/schedule/detail/50789,梅田BANGBOO,
@@ -1684,6 +1736,12 @@ date,day,artist,title,url,venue,note
 2026/07/10,金,MAGMAZ,コドモメンタルINC. × #ﾆｷﾌﾟﾚ pre. “en-kai.03 オオサカッ!!編”,https://clubdrop.jp/schedule/detail/50572,アメリカ村DROP,
 2026/07/10,金,9DayzGlitchClubTokyo,コドモメンタルINC. × #ﾆｷﾌﾟﾚ pre. “en-kai.03 オオサカッ!!編”,https://clubdrop.jp/schedule/detail/50572,アメリカ村DROP,
 2026/07/10,金,セツナフロート,コドモメンタルINC. × #ﾆｷﾌﾟﾚ pre. “en-kai.03 オオサカッ!!編”,https://clubdrop.jp/schedule/detail/50572,アメリカ村DROP,
+2026/07/12,日,アブソプ,ROCKING DOGS,https://clubdrop.jp/schedule/detail/54386,アメリカ村DROP,
+2026/07/12,日,SANUGLOW,ROCKING DOGS,https://clubdrop.jp/schedule/detail/54386,アメリカ村DROP,
+2026/07/12,日,GRIMO,ROCKING DOGS,https://clubdrop.jp/schedule/detail/54386,アメリカ村DROP,
+2026/07/12,日,ココロシンドローム,ROCKING DOGS,https://clubdrop.jp/schedule/detail/54386,アメリカ村DROP,
+2026/07/12,日,デスキャンディ,ROCKING DOGS,https://clubdrop.jp/schedule/detail/54386,アメリカ村DROP,
+2026/07/12,日,マギマギ研修生,ROCKING DOGS,https://clubdrop.jp/schedule/detail/54386,アメリカ村DROP,
 2026/07/17,金,AIWO,#ﾆｷﾌﾟﾚ『オオサカッ!! -真夏、三陣。-』,https://clubdrop.jp/schedule/detail/51151,アメリカ村DROP,
 2026/07/17,金,AZ-ON,#ﾆｷﾌﾟﾚ『オオサカッ!! -真夏、三陣。-』,https://clubdrop.jp/schedule/detail/51151,アメリカ村DROP,
 2026/07/17,金,Axelight,#ﾆｷﾌﾟﾚ『オオサカッ!! -真夏、三陣。-』,https://clubdrop.jp/schedule/detail/51151,アメリカ村DROP,
@@ -1704,6 +1762,11 @@ date,day,artist,title,url,venue,note
 2026/07/17,金,いつかの夜に僕たちが、,#ﾆｷﾌﾟﾚ『オオサカッ!! -真夏、三陣。-』,https://clubdrop.jp/schedule/detail/51151,アメリカ村DROP,
 2026/07/17,金,感情線は時をこえて,#ﾆｷﾌﾟﾚ『オオサカッ!! -真夏、三陣。-』,https://clubdrop.jp/schedule/detail/51151,アメリカ村DROP,
 2026/07/17,金,セツナフロート,#ﾆｷﾌﾟﾚ『オオサカッ!! -真夏、三陣。-』,https://clubdrop.jp/schedule/detail/51151,アメリカ村DROP,
+2026/07/22,水,Antages,UNCHAIN vol.1-AMERICAMURA DROP 23th ANNIVERSARY-,https://clubdrop.jp/schedule/detail/52677,アメリカ村DROP,
+2026/07/22,水,城山彩涼,UNCHAIN vol.1-AMERICAMURA DROP 23th ANNIVERSARY-,https://clubdrop.jp/schedule/detail/52677,アメリカ村DROP,
+2026/07/22,水,KILL My NEMESIS,UNCHAIN vol.1-AMERICAMURA DROP 23th ANNIVERSARY-,https://clubdrop.jp/schedule/detail/52677,アメリカ村DROP,
+2026/07/22,水,ANTI GUN THE FORCE,UNCHAIN vol.1-AMERICAMURA DROP 23th ANNIVERSARY-,https://clubdrop.jp/schedule/detail/52677,アメリカ村DROP,
+2026/07/22,水,and more...,UNCHAIN vol.1-AMERICAMURA DROP 23th ANNIVERSARY-,https://clubdrop.jp/schedule/detail/52677,アメリカ村DROP,
 2026/08/01,土,Naked Identity Created by King,『THE G∀TE_η』OSAKA,https://clubdrop.jp/schedule/detail/50116,アメリカ村DROP,
 2026/08/01,土,DIZZYREVERSE,『THE G∀TE_η』OSAKA,https://clubdrop.jp/schedule/detail/50116,アメリカ村DROP,
 2026/08/02,日,花冷え。,花冷え。「Triple Scoop Tour 2026」,https://clubdrop.jp/schedule/detail/51245,アメリカ村DROP,
@@ -2053,6 +2116,13 @@ date,day,artist,title,url,venue,note
 2026/07/24,金,and more...,全焼戦隊オーバーヒートマンツアー2026,https://osaka-varon.jp/schedule/detail/50441,VARON,
 2026/07/25,土,B`low KZ,LIT A LIFE,https://osaka-varon.jp/schedule/detail/47976,VARON,
 2026/08/06,木,Chanty,ONEMANTOUR 2026 深々呼吸,https://osaka-varon.jp/schedule/detail/50296,VARON,
+2026/08/26,水,Campanella,存在共鳴 POKO 33rd Birthday,https://osaka-varon.jp/schedule/detail/51159,VARON,
+2026/08/26,水,アオイハル,存在共鳴 POKO 33rd Birthday,https://osaka-varon.jp/schedule/detail/51159,VARON,
+2026/08/26,水,yoaca,存在共鳴 POKO 33rd Birthday,https://osaka-varon.jp/schedule/detail/51159,VARON,
+2026/08/26,水,WODEN JONES,存在共鳴 POKO 33rd Birthday,https://osaka-varon.jp/schedule/detail/51159,VARON,
+2026/08/26,水,Blow the instabillity,存在共鳴 POKO 33rd Birthday,https://osaka-varon.jp/schedule/detail/51159,VARON,
+2026/08/26,水,PO!KO!7188,存在共鳴 POKO 33rd Birthday,https://osaka-varon.jp/schedule/detail/51159,VARON,
+2026/08/26,水,and more… ごはんや影山,存在共鳴 POKO 33rd Birthday,https://osaka-varon.jp/schedule/detail/51159,VARON,
 2026/08/28,金,InvertHourglass,Invert Hourglass Pre. 「HOUR LIGHTS TOUR 2026」×DUMBSTUCKS vol.39,https://osaka-varon.jp/schedule/detail/51052,VARON,
 2026/08/28,金,Addiction end in thrive,Invert Hourglass Pre. 「HOUR LIGHTS TOUR 2026」×DUMBSTUCKS vol.39,https://osaka-varon.jp/schedule/detail/51052,VARON,
 2026/08/28,金,Dimrays,Invert Hourglass Pre. 「HOUR LIGHTS TOUR 2026」×DUMBSTUCKS vol.39,https://osaka-varon.jp/schedule/detail/51052,VARON,
