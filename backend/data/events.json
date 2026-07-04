@@ -1154,15 +1154,6 @@
   {
     "date": "2026/07/03",
     "day": "金",
-    "artist": "HAMAYANEN",
-    "title": "OPEN 19:00",
-    "url": "https://para-dice.net/",
-    "venue": "扇町para-dice",
-    "note": ""
-  },
-  {
-    "date": "2026/07/03",
-    "day": "金",
     "artist": "carrel bites",
     "title": "OPEN 19:00",
     "url": "https://para-dice.net/",
@@ -1181,7 +1172,7 @@
   {
     "date": "2026/07/03",
     "day": "金",
-    "artist": "※Madder Youthは諸事情によりキャンセルとなりました。",
+    "artist": "※HAMAYANEN、Madder Youthは諸事情によりキャンセルとなりました。",
     "title": "OPEN 19:00",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
@@ -2883,7 +2874,7 @@
     "date": "2026/08/09",
     "day": "日",
     "artist": "MOGETS",
-    "title": "MOGETS / THE WHAT’S / 爆音シンフォニー(徳島) / ヘテロズ /\n                \n河口績",
+    "title": "OPEN 17:30",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -2892,7 +2883,16 @@
     "date": "2026/08/09",
     "day": "日",
     "artist": "THE WHAT’S",
-    "title": "MOGETS / THE WHAT’S / 爆音シンフォニー(徳島) / ヘテロズ /\n                \n河口績",
+    "title": "OPEN 17:30",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
+    "date": "2026/08/09",
+    "day": "日",
+    "artist": "河口績",
+    "title": "OPEN 17:30",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -2901,7 +2901,7 @@
     "date": "2026/08/09",
     "day": "日",
     "artist": "爆音シンフォニー",
-    "title": "MOGETS / THE WHAT’S / 爆音シンフォニー(徳島) / ヘテロズ /\n                \n河口績",
+    "title": "OPEN 17:30",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -2910,16 +2910,7 @@
     "date": "2026/08/09",
     "day": "日",
     "artist": "ヘテロズ",
-    "title": "MOGETS / THE WHAT’S / 爆音シンフォニー(徳島) / ヘテロズ /\n                \n河口績",
-    "url": "https://para-dice.net/",
-    "venue": "扇町para-dice",
-    "note": ""
-  },
-  {
-    "date": "2026/08/09",
-    "day": "日",
-    "artist": "河口績 and more...",
-    "title": "MOGETS / THE WHAT’S / 爆音シンフォニー(徳島) / ヘテロズ /\n                \n河口績",
+    "title": "OPEN 17:30",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -3413,7 +3404,7 @@
   {
     "date": "2026/08/28",
     "day": "金",
-    "artist": "ネル",
+    "artist": "伊丹箱柾",
     "title": "OPEN 18:30",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
@@ -3441,6 +3432,15 @@
     "date": "2026/08/28",
     "day": "金",
     "artist": "二十人",
+    "title": "OPEN 18:30",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
+    "date": "2026/08/28",
+    "day": "金",
+    "artist": "※出演を予定していたネルはキャンセルとなりました",
     "title": "OPEN 18:30",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
@@ -3791,7 +3791,16 @@
   {
     "date": "2026/09/28",
     "day": "月",
-    "artist": "NDARICCA and more...",
+    "artist": "NDARICCA",
+    "title": "para-dice企画",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
+    "date": "2026/09/28",
+    "day": "月",
+    "artist": "mineo kawasaki and more...",
     "title": "para-dice企画",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
@@ -6683,6 +6692,24 @@
     "artist": "TAICHI",
     "title": "【THE SHOCK OF THE LIGHTNING】vol.6",
     "url": "https://vijon.jp/schedule/detail/53004",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2026/08/11",
+    "day": "火",
+    "artist": "MARU",
+    "title": "VORNCLUB AUDIO presents “MARU - BAND TOUR 2026 -”",
+    "url": "https://vijon.jp/schedule/detail/53449",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2026/08/11",
+    "day": "火",
+    "artist": "Guest：sowta",
+    "title": "VORNCLUB AUDIO presents “MARU - BAND TOUR 2026 -”",
+    "url": "https://vijon.jp/schedule/detail/53449",
     "venue": "北堀江club vijon",
     "note": ""
   },
@@ -12411,6 +12438,15 @@
     "note": ""
   },
   {
+    "date": "2026/08/14",
+    "day": "金",
+    "artist": "大きくなれ！ルッコでか三郎",
+    "title": "夏のデカ騒ぎ！！ ～暑いところ大変恐縮ですがもっと熱くします～",
+    "url": "https://osaka-varon.jp/schedule/detail/51231",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
     "date": "2026/08/26",
     "day": "水",
     "artist": "Campanella",
@@ -13725,6 +13761,105 @@
     "note": ""
   },
   {
+    "date": "2026/07/16",
+    "day": "木",
+    "artist": "AsteRythm",
+    "title": "アイドル好きで何がわるい",
+    "url": "https://osaka-zeela.jp/schedule/detail/50821",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2026/07/16",
+    "day": "木",
+    "artist": "GRIMO",
+    "title": "アイドル好きで何がわるい",
+    "url": "https://osaka-zeela.jp/schedule/detail/50821",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2026/07/16",
+    "day": "木",
+    "artist": "Lumi Prima",
+    "title": "アイドル好きで何がわるい",
+    "url": "https://osaka-zeela.jp/schedule/detail/50821",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2026/07/16",
+    "day": "木",
+    "artist": "lullllul",
+    "title": "アイドル好きで何がわるい",
+    "url": "https://osaka-zeela.jp/schedule/detail/50821",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2026/07/16",
+    "day": "木",
+    "artist": "SANUGLOW",
+    "title": "アイドル好きで何がわるい",
+    "url": "https://osaka-zeela.jp/schedule/detail/50821",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2026/07/16",
+    "day": "木",
+    "artist": "アブソプ",
+    "title": "アイドル好きで何がわるい",
+    "url": "https://osaka-zeela.jp/schedule/detail/50821",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2026/07/16",
+    "day": "木",
+    "artist": "TIPINKIT",
+    "title": "アイドル好きで何がわるい",
+    "url": "https://osaka-zeela.jp/schedule/detail/50821",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2026/07/16",
+    "day": "木",
+    "artist": "Fortuness",
+    "title": "アイドル好きで何がわるい",
+    "url": "https://osaka-zeela.jp/schedule/detail/50821",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2026/07/16",
+    "day": "木",
+    "artist": "アビスノア",
+    "title": "アイドル好きで何がわるい",
+    "url": "https://osaka-zeela.jp/schedule/detail/50821",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2026/07/16",
+    "day": "木",
+    "artist": "Serenade",
+    "title": "アイドル好きで何がわるい",
+    "url": "https://osaka-zeela.jp/schedule/detail/50821",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2026/07/16",
+    "day": "木",
+    "artist": "ハピネスクラッカー",
+    "title": "アイドル好きで何がわるい",
+    "url": "https://osaka-zeela.jp/schedule/detail/50821",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
     "date": "2026/07/17",
     "day": "金",
     "artist": "木嶋仁美",
@@ -14573,8 +14708,44 @@
   {
     "date": "2026/08/16",
     "day": "日",
-    "artist": "coming soon...",
-    "title": "HALL RENTAL",
+    "artist": "AVVENTØ",
+    "title": "Chaos of Music Vol.7",
+    "url": "https://osaka-zeela.jp/schedule/detail/47161",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2026/08/16",
+    "day": "日",
+    "artist": "T・BLUE",
+    "title": "Chaos of Music Vol.7",
+    "url": "https://osaka-zeela.jp/schedule/detail/47161",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2026/08/16",
+    "day": "日",
+    "artist": "T’ERUANGER",
+    "title": "Chaos of Music Vol.7",
+    "url": "https://osaka-zeela.jp/schedule/detail/47161",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2026/08/16",
+    "day": "日",
+    "artist": "Black Cherry Pie",
+    "title": "Chaos of Music Vol.7",
+    "url": "https://osaka-zeela.jp/schedule/detail/47161",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2026/08/16",
+    "day": "日",
+    "artist": "Lu-seana",
+    "title": "Chaos of Music Vol.7",
     "url": "https://osaka-zeela.jp/schedule/detail/47161",
     "venue": "Zeela",
     "note": ""
@@ -14873,6 +15044,141 @@
     "artist": "coming soon...",
     "title": "HALL RENTAL",
     "url": "https://osaka-zeela.jp/schedule/detail/53820",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2026/09/05",
+    "day": "土",
+    "artist": "tomomi",
+    "title": "BASS ON TOP pre.社会人サークルジョイントライブ BASS ON TOP CONNECT vol.6",
+    "url": "https://osaka-zeela.jp/schedule/detail/47732",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2026/09/05",
+    "day": "土",
+    "artist": "シンガーズカイ",
+    "title": "BASS ON TOP pre.社会人サークルジョイントライブ BASS ON TOP CONNECT vol.6",
+    "url": "https://osaka-zeela.jp/schedule/detail/47732",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2026/09/05",
+    "day": "土",
+    "artist": "食洗機と皿とマスヲ",
+    "title": "BASS ON TOP pre.社会人サークルジョイントライブ BASS ON TOP CONNECT vol.6",
+    "url": "https://osaka-zeela.jp/schedule/detail/47732",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2026/09/05",
+    "day": "土",
+    "artist": "Uniohead",
+    "title": "BASS ON TOP pre.社会人サークルジョイントライブ BASS ON TOP CONNECT vol.6",
+    "url": "https://osaka-zeela.jp/schedule/detail/47732",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2026/09/05",
+    "day": "土",
+    "artist": "Team RIN-NE ACROSS BORDERS",
+    "title": "BASS ON TOP pre.社会人サークルジョイントライブ BASS ON TOP CONNECT vol.6",
+    "url": "https://osaka-zeela.jp/schedule/detail/47732",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2026/09/05",
+    "day": "土",
+    "artist": "ちゃんとして時雨",
+    "title": "BASS ON TOP pre.社会人サークルジョイントライブ BASS ON TOP CONNECT vol.6",
+    "url": "https://osaka-zeela.jp/schedule/detail/47732",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2026/09/05",
+    "day": "土",
+    "artist": "LMPH",
+    "title": "BASS ON TOP pre.社会人サークルジョイントライブ BASS ON TOP CONNECT vol.6",
+    "url": "https://osaka-zeela.jp/schedule/detail/47732",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2026/09/05",
+    "day": "土",
+    "artist": "Adoism",
+    "title": "BASS ON TOP pre.社会人サークルジョイントライブ BASS ON TOP CONNECT vol.6",
+    "url": "https://osaka-zeela.jp/schedule/detail/47732",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2026/09/05",
+    "day": "土",
+    "artist": "桃色飯店",
+    "title": "BASS ON TOP pre.社会人サークルジョイントライブ BASS ON TOP CONNECT vol.6",
+    "url": "https://osaka-zeela.jp/schedule/detail/47732",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2026/09/05",
+    "day": "土",
+    "artist": "頭冷やしてこい氷枕",
+    "title": "BASS ON TOP pre.社会人サークルジョイントライブ BASS ON TOP CONNECT vol.6",
+    "url": "https://osaka-zeela.jp/schedule/detail/47732",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2026/09/05",
+    "day": "土",
+    "artist": "OTOTOBIぶぶ漬け支部",
+    "title": "BASS ON TOP pre.社会人サークルジョイントライブ BASS ON TOP CONNECT vol.6",
+    "url": "https://osaka-zeela.jp/schedule/detail/47732",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2026/09/05",
+    "day": "土",
+    "artist": "ゆりちゃんとももかちゃん",
+    "title": "BASS ON TOP pre.社会人サークルジョイントライブ BASS ON TOP CONNECT vol.6",
+    "url": "https://osaka-zeela.jp/schedule/detail/47732",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2026/09/05",
+    "day": "土",
+    "artist": "Yazzy",
+    "title": "BASS ON TOP pre.社会人サークルジョイントライブ BASS ON TOP CONNECT vol.6",
+    "url": "https://osaka-zeela.jp/schedule/detail/47732",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2026/09/05",
+    "day": "土",
+    "artist": "怪獣とキス",
+    "title": "BASS ON TOP pre.社会人サークルジョイントライブ BASS ON TOP CONNECT vol.6",
+    "url": "https://osaka-zeela.jp/schedule/detail/47732",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2026/09/05",
+    "day": "土",
+    "artist": "ハリトモ少女",
+    "title": "BASS ON TOP pre.社会人サークルジョイントライブ BASS ON TOP CONNECT vol.6",
+    "url": "https://osaka-zeela.jp/schedule/detail/47732",
     "venue": "Zeela",
     "note": ""
   },
@@ -15467,6 +15773,15 @@
     "artist": "and more...",
     "title": "Romansquall Pre. Mushup Tunes!! -NEO-",
     "url": "https://osaka-zeela.jp/schedule/detail/53454",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2026/11/29",
+    "day": "日",
+    "artist": "西月麗音",
+    "title": "西月麗音 ONE MAN TOUR「加速」",
+    "url": "https://osaka-zeela.jp/schedule/detail/52125",
     "venue": "Zeela",
     "note": ""
   },
