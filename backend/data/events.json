@@ -3530,17 +3530,8 @@
   {
     "date": "2026/09/10",
     "day": "木",
-    "artist": "社領遥樹",
-    "title": "OPEN 18:30",
-    "url": "https://para-dice.net/",
-    "venue": "扇町para-dice",
-    "note": ""
-  },
-  {
-    "date": "2026/09/10",
-    "day": "木",
     "artist": "Mo’ Mango",
-    "title": "OPEN 18:30",
+    "title": "OPEN 19:00",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -3549,7 +3540,7 @@
     "date": "2026/09/10",
     "day": "木",
     "artist": "那衣",
-    "title": "OPEN 18:30",
+    "title": "OPEN 19:00",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -3558,7 +3549,7 @@
     "date": "2026/09/10",
     "day": "木",
     "artist": "七歩",
-    "title": "OPEN 18:30",
+    "title": "OPEN 19:00",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -3567,7 +3558,16 @@
     "date": "2026/09/10",
     "day": "木",
     "artist": "ワタリガラス",
-    "title": "OPEN 18:30",
+    "title": "OPEN 19:00",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
+    "date": "2026/09/10",
+    "day": "木",
+    "artist": "※社領遥樹の出演は諸事情によりキャンセルとなりました。",
+    "title": "OPEN 19:00",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -7560,6 +7560,51 @@
     "note": ""
   },
   {
+    "date": "2026/09/30",
+    "day": "水",
+    "artist": "ヌーディーブランク",
+    "title": "ヌーディーブランク×club vijon pre.【SIDE BE SIDE】",
+    "url": "https://vijon.jp/schedule/detail/52943",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2026/09/30",
+    "day": "水",
+    "artist": "The Green Barks",
+    "title": "ヌーディーブランク×club vijon pre.【SIDE BE SIDE】",
+    "url": "https://vijon.jp/schedule/detail/52943",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2026/09/30",
+    "day": "水",
+    "artist": "AcroBox",
+    "title": "ヌーディーブランク×club vijon pre.【SIDE BE SIDE】",
+    "url": "https://vijon.jp/schedule/detail/52943",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2026/09/30",
+    "day": "水",
+    "artist": "Running Home Run",
+    "title": "ヌーディーブランク×club vijon pre.【SIDE BE SIDE】",
+    "url": "https://vijon.jp/schedule/detail/52943",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2026/09/30",
+    "day": "水",
+    "artist": "and more...",
+    "title": "ヌーディーブランク×club vijon pre.【SIDE BE SIDE】",
+    "url": "https://vijon.jp/schedule/detail/52943",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
     "date": "2026/10/04",
     "day": "日",
     "artist": "Monster Cat’ｓ",
@@ -7581,6 +7626,24 @@
     "date": "2026/10/08",
     "day": "木",
     "artist": "SiNT",
+    "title": "SiNT Pre.\"1st Albam 'Letter to Youth'Release Event\"",
+    "url": "https://vijon.jp/schedule/detail/49858",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2026/10/08",
+    "day": "木",
+    "artist": "市川大樹",
+    "title": "SiNT Pre.\"1st Albam 'Letter to Youth'Release Event\"",
+    "url": "https://vijon.jp/schedule/detail/49858",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2026/10/08",
+    "day": "木",
+    "artist": "scrambles",
     "title": "SiNT Pre.\"1st Albam 'Letter to Youth'Release Event\"",
     "url": "https://vijon.jp/schedule/detail/49858",
     "venue": "北堀江club vijon",
@@ -14445,6 +14508,51 @@
     "note": ""
   },
   {
+    "date": "2026/09/04",
+    "day": "金",
+    "artist": "冴我",
+    "title": "冴我主催公演「潜龍昇天」",
+    "url": "https://clubdrop.jp/schedule/detail/55016",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/09/04",
+    "day": "金",
+    "artist": "MiNO",
+    "title": "冴我主催公演「潜龍昇天」",
+    "url": "https://clubdrop.jp/schedule/detail/55016",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/09/04",
+    "day": "金",
+    "artist": "Untold Few Seconds",
+    "title": "冴我主催公演「潜龍昇天」",
+    "url": "https://clubdrop.jp/schedule/detail/55016",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/09/04",
+    "day": "金",
+    "artist": "VAR'MILION",
+    "title": "冴我主催公演「潜龍昇天」",
+    "url": "https://clubdrop.jp/schedule/detail/55016",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/09/04",
+    "day": "金",
+    "artist": "まさひろバンド",
+    "title": "冴我主催公演「潜龍昇天」",
+    "url": "https://clubdrop.jp/schedule/detail/55016",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
     "date": "2026/09/05",
     "day": "土",
     "artist": "詳細欄をご確認下さい",
@@ -14537,7 +14645,16 @@
   {
     "date": "2026/09/11",
     "day": "金",
-    "artist": "LOP!!ROP andmore!!",
+    "artist": "LOP!!ROP",
+    "title": "DROP×UnpRayable pre.BOMB CRASH DROP-アメリカ村 DROP 23rd ANNIVERSARY-",
+    "url": "https://clubdrop.jp/schedule/detail/52176",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/09/11",
+    "day": "金",
+    "artist": "ノーサイド・アウトサイダー andmore!!",
     "title": "DROP×UnpRayable pre.BOMB CRASH DROP-アメリカ村 DROP 23rd ANNIVERSARY-",
     "url": "https://clubdrop.jp/schedule/detail/52176",
     "venue": "アメリカ村DROP",
