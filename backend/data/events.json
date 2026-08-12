@@ -857,6 +857,15 @@
   {
     "date": "2026/08/29",
     "day": "",
+    "artist": "blondy",
+    "title": "my verse, your birth",
+    "url": "https://fireloop.net/schedule_now.shtml#0829",
+    "venue": "寺田町Fireloop",
+    "note": ""
+  },
+  {
+    "date": "2026/08/29",
+    "day": "",
     "artist": "and more",
     "title": "my verse, your birth",
     "url": "https://fireloop.net/schedule_now.shtml#0829",
@@ -7094,15 +7103,6 @@
   {
     "date": "2026/09/08",
     "day": "火",
-    "artist": "ふゆつぐバンド",
-    "title": "【北堀江コピバンナイト】vol.3",
-    "url": "https://vijon.jp/schedule/detail/53173",
-    "venue": "北堀江club vijon",
-    "note": ""
-  },
-  {
-    "date": "2026/09/08",
-    "day": "火",
     "artist": "かずバンド",
     "title": "【北堀江コピバンナイト】vol.3",
     "url": "https://vijon.jp/schedule/detail/53173",
@@ -7502,6 +7502,69 @@
     "artist": "KIARA",
     "title": "tear主催ライブ「Charm」",
     "url": "https://vijon.jp/schedule/detail/53012",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2026/09/28",
+    "day": "月",
+    "artist": "ノルネコ",
+    "title": "club vijon × ノルネコ pre.【The Skogkatter Theater『Norwegian Forest Cat』Chapter 1】",
+    "url": "https://vijon.jp/schedule/detail/53246",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2026/09/28",
+    "day": "月",
+    "artist": "HOLLOW TOWN",
+    "title": "club vijon × ノルネコ pre.【The Skogkatter Theater『Norwegian Forest Cat』Chapter 1】",
+    "url": "https://vijon.jp/schedule/detail/53246",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2026/09/28",
+    "day": "月",
+    "artist": "THEE VELTCONVEYOR",
+    "title": "club vijon × ノルネコ pre.【The Skogkatter Theater『Norwegian Forest Cat』Chapter 1】",
+    "url": "https://vijon.jp/schedule/detail/53246",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2026/09/28",
+    "day": "月",
+    "artist": "TaS",
+    "title": "club vijon × ノルネコ pre.【The Skogkatter Theater『Norwegian Forest Cat』Chapter 1】",
+    "url": "https://vijon.jp/schedule/detail/53246",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2026/09/28",
+    "day": "月",
+    "artist": "あまねこ",
+    "title": "club vijon × ノルネコ pre.【The Skogkatter Theater『Norwegian Forest Cat』Chapter 1】",
+    "url": "https://vijon.jp/schedule/detail/53246",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2026/09/28",
+    "day": "月",
+    "artist": "TAICHI",
+    "title": "club vijon × ノルネコ pre.【The Skogkatter Theater『Norwegian Forest Cat』Chapter 1】",
+    "url": "https://vijon.jp/schedule/detail/53246",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2026/09/28",
+    "day": "月",
+    "artist": "Touma",
+    "title": "club vijon × ノルネコ pre.【The Skogkatter Theater『Norwegian Forest Cat』Chapter 1】",
+    "url": "https://vijon.jp/schedule/detail/53246",
     "venue": "北堀江club vijon",
     "note": ""
   },
@@ -9948,7 +10011,7 @@
     "date": "2026/08/14",
     "day": "金",
     "artist": "SPRISE",
-    "title": "SCLIVE -盆梅祭- am HALL & BANGBOOサーキット　大阪東急REIホテル 2Fフロア / 特典会場】",
+    "title": "SCLIVE -盆梅祭-",
     "url": "https://bangboo.jp/schedule/detail/54871",
     "venue": "梅田BANGBOO",
     "note": ""
@@ -9957,7 +10020,7 @@
     "date": "2026/08/14",
     "day": "金",
     "artist": "アブソプ",
-    "title": "SCLIVE -盆梅祭- am HALL & BANGBOOサーキット　大阪東急REIホテル 2Fフロア / 特典会場】",
+    "title": "SCLIVE -盆梅祭-",
     "url": "https://bangboo.jp/schedule/detail/54871",
     "venue": "梅田BANGBOO",
     "note": ""
@@ -9966,7 +10029,7 @@
     "date": "2026/08/14",
     "day": "金",
     "artist": "SANUGLOW",
-    "title": "SCLIVE -盆梅祭- am HALL & BANGBOOサーキット　大阪東急REIホテル 2Fフロア / 特典会場】",
+    "title": "SCLIVE -盆梅祭-",
     "url": "https://bangboo.jp/schedule/detail/54871",
     "venue": "梅田BANGBOO",
     "note": ""
@@ -9975,7 +10038,7 @@
     "date": "2026/08/14",
     "day": "金",
     "artist": "Lumi Prima",
-    "title": "SCLIVE -盆梅祭- am HALL & BANGBOOサーキット　大阪東急REIホテル 2Fフロア / 特典会場】",
+    "title": "SCLIVE -盆梅祭-",
     "url": "https://bangboo.jp/schedule/detail/54871",
     "venue": "梅田BANGBOO",
     "note": ""
@@ -9984,7 +10047,7 @@
     "date": "2026/08/14",
     "day": "金",
     "artist": "GRINOAH",
-    "title": "SCLIVE -盆梅祭- am HALL & BANGBOOサーキット　大阪東急REIホテル 2Fフロア / 特典会場】",
+    "title": "SCLIVE -盆梅祭-",
     "url": "https://bangboo.jp/schedule/detail/54871",
     "venue": "梅田BANGBOO",
     "note": ""
@@ -9993,7 +10056,7 @@
     "date": "2026/08/14",
     "day": "金",
     "artist": "ワッツ◎さーくる",
-    "title": "SCLIVE -盆梅祭- am HALL & BANGBOOサーキット　大阪東急REIホテル 2Fフロア / 特典会場】",
+    "title": "SCLIVE -盆梅祭-",
     "url": "https://bangboo.jp/schedule/detail/54871",
     "venue": "梅田BANGBOO",
     "note": ""
@@ -10002,7 +10065,7 @@
     "date": "2026/08/14",
     "day": "金",
     "artist": "#PANnana",
-    "title": "SCLIVE -盆梅祭- am HALL & BANGBOOサーキット　大阪東急REIホテル 2Fフロア / 特典会場】",
+    "title": "SCLIVE -盆梅祭-",
     "url": "https://bangboo.jp/schedule/detail/54871",
     "venue": "梅田BANGBOO",
     "note": ""
@@ -10011,7 +10074,7 @@
     "date": "2026/08/14",
     "day": "金",
     "artist": "NEO BREAK",
-    "title": "SCLIVE -盆梅祭- am HALL & BANGBOOサーキット　大阪東急REIホテル 2Fフロア / 特典会場】",
+    "title": "SCLIVE -盆梅祭-",
     "url": "https://bangboo.jp/schedule/detail/54871",
     "venue": "梅田BANGBOO",
     "note": ""
@@ -10020,7 +10083,7 @@
     "date": "2026/08/14",
     "day": "金",
     "artist": "あおぞらをキミに",
-    "title": "SCLIVE -盆梅祭- am HALL & BANGBOOサーキット　大阪東急REIホテル 2Fフロア / 特典会場】",
+    "title": "SCLIVE -盆梅祭-",
     "url": "https://bangboo.jp/schedule/detail/54871",
     "venue": "梅田BANGBOO",
     "note": ""
@@ -10029,7 +10092,7 @@
     "date": "2026/08/14",
     "day": "金",
     "artist": "ボクセカ",
-    "title": "SCLIVE -盆梅祭- am HALL & BANGBOOサーキット　大阪東急REIホテル 2Fフロア / 特典会場】",
+    "title": "SCLIVE -盆梅祭-",
     "url": "https://bangboo.jp/schedule/detail/54871",
     "venue": "梅田BANGBOO",
     "note": ""
@@ -10038,7 +10101,7 @@
     "date": "2026/08/14",
     "day": "金",
     "artist": "アクアリウム。",
-    "title": "SCLIVE -盆梅祭- am HALL & BANGBOOサーキット　大阪東急REIホテル 2Fフロア / 特典会場】",
+    "title": "SCLIVE -盆梅祭-",
     "url": "https://bangboo.jp/schedule/detail/54871",
     "venue": "梅田BANGBOO",
     "note": ""
@@ -10047,7 +10110,7 @@
     "date": "2026/08/14",
     "day": "金",
     "artist": "めろでぃらびっと",
-    "title": "SCLIVE -盆梅祭- am HALL & BANGBOOサーキット　大阪東急REIホテル 2Fフロア / 特典会場】",
+    "title": "SCLIVE -盆梅祭-",
     "url": "https://bangboo.jp/schedule/detail/54871",
     "venue": "梅田BANGBOO",
     "note": ""
@@ -10056,7 +10119,7 @@
     "date": "2026/08/14",
     "day": "金",
     "artist": "+Alpha",
-    "title": "SCLIVE -盆梅祭- am HALL & BANGBOOサーキット　大阪東急REIホテル 2Fフロア / 特典会場】",
+    "title": "SCLIVE -盆梅祭-",
     "url": "https://bangboo.jp/schedule/detail/54871",
     "venue": "梅田BANGBOO",
     "note": ""
@@ -10065,7 +10128,7 @@
     "date": "2026/08/14",
     "day": "金",
     "artist": "LOTUS MARRY",
-    "title": "SCLIVE -盆梅祭- am HALL & BANGBOOサーキット　大阪東急REIホテル 2Fフロア / 特典会場】",
+    "title": "SCLIVE -盆梅祭-",
     "url": "https://bangboo.jp/schedule/detail/54871",
     "venue": "梅田BANGBOO",
     "note": ""
@@ -10074,7 +10137,7 @@
     "date": "2026/08/14",
     "day": "金",
     "artist": "ゼロキョリハーツ",
-    "title": "SCLIVE -盆梅祭- am HALL & BANGBOOサーキット　大阪東急REIホテル 2Fフロア / 特典会場】",
+    "title": "SCLIVE -盆梅祭-",
     "url": "https://bangboo.jp/schedule/detail/54871",
     "venue": "梅田BANGBOO",
     "note": ""
@@ -10083,7 +10146,7 @@
     "date": "2026/08/14",
     "day": "金",
     "artist": "HIGH SPY DOLL",
-    "title": "SCLIVE -盆梅祭- am HALL & BANGBOOサーキット　大阪東急REIホテル 2Fフロア / 特典会場】",
+    "title": "SCLIVE -盆梅祭-",
     "url": "https://bangboo.jp/schedule/detail/54871",
     "venue": "梅田BANGBOO",
     "note": ""
@@ -10092,7 +10155,7 @@
     "date": "2026/08/14",
     "day": "金",
     "artist": "caprice",
-    "title": "SCLIVE -盆梅祭- am HALL & BANGBOOサーキット　大阪東急REIホテル 2Fフロア / 特典会場】",
+    "title": "SCLIVE -盆梅祭-",
     "url": "https://bangboo.jp/schedule/detail/54871",
     "venue": "梅田BANGBOO",
     "note": ""
@@ -10101,7 +10164,7 @@
     "date": "2026/08/14",
     "day": "金",
     "artist": "AsteRythm",
-    "title": "SCLIVE -盆梅祭- am HALL & BANGBOOサーキット　大阪東急REIホテル 2Fフロア / 特典会場】",
+    "title": "SCLIVE -盆梅祭-",
     "url": "https://bangboo.jp/schedule/detail/54871",
     "venue": "梅田BANGBOO",
     "note": ""
@@ -10110,7 +10173,7 @@
     "date": "2026/08/14",
     "day": "金",
     "artist": "ParaMilia",
-    "title": "SCLIVE -盆梅祭- am HALL & BANGBOOサーキット　大阪東急REIホテル 2Fフロア / 特典会場】",
+    "title": "SCLIVE -盆梅祭-",
     "url": "https://bangboo.jp/schedule/detail/54871",
     "venue": "梅田BANGBOO",
     "note": ""
@@ -10119,7 +10182,7 @@
     "date": "2026/08/14",
     "day": "金",
     "artist": "むげんこんぜ",
-    "title": "SCLIVE -盆梅祭- am HALL & BANGBOOサーキット　大阪東急REIホテル 2Fフロア / 特典会場】",
+    "title": "SCLIVE -盆梅祭-",
     "url": "https://bangboo.jp/schedule/detail/54871",
     "venue": "梅田BANGBOO",
     "note": ""
@@ -10128,7 +10191,7 @@
     "date": "2026/08/14",
     "day": "金",
     "artist": "Charlotte",
-    "title": "SCLIVE -盆梅祭- am HALL & BANGBOOサーキット　大阪東急REIホテル 2Fフロア / 特典会場】",
+    "title": "SCLIVE -盆梅祭-",
     "url": "https://bangboo.jp/schedule/detail/54871",
     "venue": "梅田BANGBOO",
     "note": ""
@@ -10137,7 +10200,7 @@
     "date": "2026/08/14",
     "day": "金",
     "artist": "リボンのないぷれぜんと",
-    "title": "SCLIVE -盆梅祭- am HALL & BANGBOOサーキット　大阪東急REIホテル 2Fフロア / 特典会場】",
+    "title": "SCLIVE -盆梅祭-",
     "url": "https://bangboo.jp/schedule/detail/54871",
     "venue": "梅田BANGBOO",
     "note": ""
@@ -10146,7 +10209,7 @@
     "date": "2026/08/14",
     "day": "金",
     "artist": "CRYZ",
-    "title": "SCLIVE -盆梅祭- am HALL & BANGBOOサーキット　大阪東急REIホテル 2Fフロア / 特典会場】",
+    "title": "SCLIVE -盆梅祭-",
     "url": "https://bangboo.jp/schedule/detail/54871",
     "venue": "梅田BANGBOO",
     "note": ""
@@ -10155,7 +10218,7 @@
     "date": "2026/08/14",
     "day": "金",
     "artist": "うぃるめり!",
-    "title": "SCLIVE -盆梅祭- am HALL & BANGBOOサーキット　大阪東急REIホテル 2Fフロア / 特典会場】",
+    "title": "SCLIVE -盆梅祭-",
     "url": "https://bangboo.jp/schedule/detail/54871",
     "venue": "梅田BANGBOO",
     "note": ""
@@ -10164,7 +10227,7 @@
     "date": "2026/08/14",
     "day": "金",
     "artist": "ハピネスクラッカー",
-    "title": "SCLIVE -盆梅祭- am HALL & BANGBOOサーキット　大阪東急REIホテル 2Fフロア / 特典会場】",
+    "title": "SCLIVE -盆梅祭-",
     "url": "https://bangboo.jp/schedule/detail/54871",
     "venue": "梅田BANGBOO",
     "note": ""
@@ -10173,7 +10236,7 @@
     "date": "2026/08/14",
     "day": "金",
     "artist": "プリュネ♡トゥインクレット",
-    "title": "SCLIVE -盆梅祭- am HALL & BANGBOOサーキット　大阪東急REIホテル 2Fフロア / 特典会場】",
+    "title": "SCLIVE -盆梅祭-",
     "url": "https://bangboo.jp/schedule/detail/54871",
     "venue": "梅田BANGBOO",
     "note": ""
@@ -10182,7 +10245,7 @@
     "date": "2026/08/14",
     "day": "金",
     "artist": "ミケネコガールズ",
-    "title": "SCLIVE -盆梅祭- am HALL & BANGBOOサーキット　大阪東急REIホテル 2Fフロア / 特典会場】",
+    "title": "SCLIVE -盆梅祭-",
     "url": "https://bangboo.jp/schedule/detail/54871",
     "venue": "梅田BANGBOO",
     "note": ""
@@ -10191,7 +10254,7 @@
     "date": "2026/08/14",
     "day": "金",
     "artist": "コドモシンカ",
-    "title": "SCLIVE -盆梅祭- am HALL & BANGBOOサーキット　大阪東急REIホテル 2Fフロア / 特典会場】",
+    "title": "SCLIVE -盆梅祭-",
     "url": "https://bangboo.jp/schedule/detail/54871",
     "venue": "梅田BANGBOO",
     "note": ""
@@ -10200,7 +10263,7 @@
     "date": "2026/08/14",
     "day": "金",
     "artist": "妄想ヒロイン",
-    "title": "SCLIVE -盆梅祭- am HALL & BANGBOOサーキット　大阪東急REIホテル 2Fフロア / 特典会場】",
+    "title": "SCLIVE -盆梅祭-",
     "url": "https://bangboo.jp/schedule/detail/54871",
     "venue": "梅田BANGBOO",
     "note": ""
@@ -10209,7 +10272,7 @@
     "date": "2026/08/14",
     "day": "金",
     "artist": "alpha⁂Lux",
-    "title": "SCLIVE -盆梅祭- am HALL & BANGBOOサーキット　大阪東急REIホテル 2Fフロア / 特典会場】",
+    "title": "SCLIVE -盆梅祭-",
     "url": "https://bangboo.jp/schedule/detail/54871",
     "venue": "梅田BANGBOO",
     "note": ""
@@ -10218,7 +10281,7 @@
     "date": "2026/08/14",
     "day": "金",
     "artist": "RINARIA",
-    "title": "SCLIVE -盆梅祭- am HALL & BANGBOOサーキット　大阪東急REIホテル 2Fフロア / 特典会場】",
+    "title": "SCLIVE -盆梅祭-",
     "url": "https://bangboo.jp/schedule/detail/54871",
     "venue": "梅田BANGBOO",
     "note": ""
@@ -10227,7 +10290,7 @@
     "date": "2026/08/14",
     "day": "金",
     "artist": "青春シロップ",
-    "title": "SCLIVE -盆梅祭- am HALL & BANGBOOサーキット　大阪東急REIホテル 2Fフロア / 特典会場】",
+    "title": "SCLIVE -盆梅祭-",
     "url": "https://bangboo.jp/schedule/detail/54871",
     "venue": "梅田BANGBOO",
     "note": ""
@@ -10236,7 +10299,7 @@
     "date": "2026/08/14",
     "day": "金",
     "artist": "NaNiYoRi",
-    "title": "SCLIVE -盆梅祭- am HALL & BANGBOOサーキット　大阪東急REIホテル 2Fフロア / 特典会場】",
+    "title": "SCLIVE -盆梅祭-",
     "url": "https://bangboo.jp/schedule/detail/54871",
     "venue": "梅田BANGBOO",
     "note": ""
@@ -10245,7 +10308,7 @@
     "date": "2026/08/14",
     "day": "金",
     "artist": "柊ゆう",
-    "title": "SCLIVE -盆梅祭- am HALL & BANGBOOサーキット　大阪東急REIホテル 2Fフロア / 特典会場】",
+    "title": "SCLIVE -盆梅祭-",
     "url": "https://bangboo.jp/schedule/detail/54871",
     "venue": "梅田BANGBOO",
     "note": ""
@@ -10254,7 +10317,7 @@
     "date": "2026/08/14",
     "day": "金",
     "artist": "永遠のセツナ",
-    "title": "SCLIVE -盆梅祭- am HALL & BANGBOOサーキット　大阪東急REIホテル 2Fフロア / 特典会場】",
+    "title": "SCLIVE -盆梅祭-",
     "url": "https://bangboo.jp/schedule/detail/54871",
     "venue": "梅田BANGBOO",
     "note": ""
@@ -10263,7 +10326,7 @@
     "date": "2026/08/14",
     "day": "金",
     "artist": "Serenade",
-    "title": "SCLIVE -盆梅祭- am HALL & BANGBOOサーキット　大阪東急REIホテル 2Fフロア / 特典会場】",
+    "title": "SCLIVE -盆梅祭-",
     "url": "https://bangboo.jp/schedule/detail/54871",
     "venue": "梅田BANGBOO",
     "note": ""
@@ -10272,7 +10335,7 @@
     "date": "2026/08/14",
     "day": "金",
     "artist": "無花果とマシンガン",
-    "title": "SCLIVE -盆梅祭- am HALL & BANGBOOサーキット　大阪東急REIホテル 2Fフロア / 特典会場】",
+    "title": "SCLIVE -盆梅祭-",
     "url": "https://bangboo.jp/schedule/detail/54871",
     "venue": "梅田BANGBOO",
     "note": ""
@@ -10281,7 +10344,7 @@
     "date": "2026/08/14",
     "day": "金",
     "artist": "colorin'c",
-    "title": "SCLIVE -盆梅祭- am HALL & BANGBOOサーキット　大阪東急REIホテル 2Fフロア / 特典会場】",
+    "title": "SCLIVE -盆梅祭-",
     "url": "https://bangboo.jp/schedule/detail/54871",
     "venue": "梅田BANGBOO",
     "note": ""
@@ -10290,7 +10353,7 @@
     "date": "2026/08/14",
     "day": "金",
     "artist": "your fave",
-    "title": "SCLIVE -盆梅祭- am HALL & BANGBOOサーキット　大阪東急REIホテル 2Fフロア / 特典会場】",
+    "title": "SCLIVE -盆梅祭-",
     "url": "https://bangboo.jp/schedule/detail/54871",
     "venue": "梅田BANGBOO",
     "note": ""
@@ -10298,8 +10361,8 @@
   {
     "date": "2026/08/14",
     "day": "金",
-    "artist": "にぃよん!   https:",
-    "title": "SCLIVE -盆梅祭- am HALL & BANGBOOサーキット　大阪東急REIホテル 2Fフロア / 特典会場】",
+    "artist": "にぃよん!",
+    "title": "SCLIVE -盆梅祭-",
     "url": "https://bangboo.jp/schedule/detail/54871",
     "venue": "梅田BANGBOO",
     "note": ""
@@ -10307,17 +10370,8 @@
   {
     "date": "2026/08/14",
     "day": "金",
-    "artist": "t-dv.com",
-    "title": "SCLIVE -盆梅祭- am HALL & BANGBOOサーキット　大阪東急REIホテル 2Fフロア / 特典会場】",
-    "url": "https://bangboo.jp/schedule/detail/54871",
-    "venue": "梅田BANGBOO",
-    "note": ""
-  },
-  {
-    "date": "2026/08/14",
-    "day": "金",
-    "artist": "SCLIVEBonbaiMatsuri0814amHALLBANGBOO",
-    "title": "SCLIVE -盆梅祭- am HALL & BANGBOOサーキット　大阪東急REIホテル 2Fフロア / 特典会場】",
+    "artist": "きっと大切だった",
+    "title": "SCLIVE -盆梅祭-",
     "url": "https://bangboo.jp/schedule/detail/54871",
     "venue": "梅田BANGBOO",
     "note": ""
@@ -10742,6 +10796,15 @@
     "artist": "ガーベラマフラー",
     "title": "終生、顔を成し。&BANGBOO pre.3rd ep.RELEASE TOUR「共鳴交差点」BANGBOO2nd.anniversary-",
     "url": "https://bangboo.jp/schedule/detail/51598",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2026/08/20",
+    "day": "木",
+    "artist": "ネテルダイヤ、skill of light  SOCIAL×MATCH、Lyricalpopparadox、妖狐繚乱、マイフェアガール、RiiNa、MeltGem、無花果とマシンガン、新章大阪⭐︎春夏秋冬、Squall Line、",
+    "title": "ネテルダイヤpre.  【Diamond Polishers】  in梅田BANGBOO",
+    "url": "https://bangboo.jp/schedule/detail/52047",
     "venue": "梅田BANGBOO",
     "note": ""
   },
@@ -13545,6 +13608,150 @@
     "note": ""
   },
   {
+    "date": "2026/08/15",
+    "day": "土",
+    "artist": "PRISE",
+    "title": "SCLIVE",
+    "url": "https://clubdrop.jp/schedule/detail/53713",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/08/15",
+    "day": "土",
+    "artist": "NEO BREAK",
+    "title": "SCLIVE",
+    "url": "https://clubdrop.jp/schedule/detail/53713",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/08/15",
+    "day": "土",
+    "artist": "アブソプ",
+    "title": "SCLIVE",
+    "url": "https://clubdrop.jp/schedule/detail/53713",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/08/15",
+    "day": "土",
+    "artist": "アクアリウム。",
+    "title": "SCLIVE",
+    "url": "https://clubdrop.jp/schedule/detail/53713",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/08/15",
+    "day": "土",
+    "artist": "Lumi Prima",
+    "title": "SCLIVE",
+    "url": "https://clubdrop.jp/schedule/detail/53713",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/08/15",
+    "day": "土",
+    "artist": "リボンのないぷれぜんと",
+    "title": "SCLIVE",
+    "url": "https://clubdrop.jp/schedule/detail/53713",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/08/15",
+    "day": "土",
+    "artist": "めろでぃらびっと",
+    "title": "SCLIVE",
+    "url": "https://clubdrop.jp/schedule/detail/53713",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/08/15",
+    "day": "土",
+    "artist": "KiMiNiAiTAi",
+    "title": "SCLIVE",
+    "url": "https://clubdrop.jp/schedule/detail/53713",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/08/15",
+    "day": "土",
+    "artist": "うぃるめり！",
+    "title": "SCLIVE",
+    "url": "https://clubdrop.jp/schedule/detail/53713",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/08/15",
+    "day": "土",
+    "artist": "月とソーダ",
+    "title": "SCLIVE",
+    "url": "https://clubdrop.jp/schedule/detail/53713",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/08/15",
+    "day": "土",
+    "artist": "ネテルダイヤ",
+    "title": "SCLIVE",
+    "url": "https://clubdrop.jp/schedule/detail/53713",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/08/15",
+    "day": "土",
+    "artist": "LOTUS MARRY",
+    "title": "SCLIVE",
+    "url": "https://clubdrop.jp/schedule/detail/53713",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/08/15",
+    "day": "土",
+    "artist": "da-gashi☆",
+    "title": "SCLIVE",
+    "url": "https://clubdrop.jp/schedule/detail/53713",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/08/15",
+    "day": "土",
+    "artist": "ボクセカ",
+    "title": "SCLIVE",
+    "url": "https://clubdrop.jp/schedule/detail/53713",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/08/15",
+    "day": "土",
+    "artist": "ドレミファイン♪",
+    "title": "SCLIVE",
+    "url": "https://clubdrop.jp/schedule/detail/53713",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/08/15",
+    "day": "土",
+    "artist": "マギマギ研究生",
+    "title": "SCLIVE",
+    "url": "https://clubdrop.jp/schedule/detail/53713",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
     "date": "2026/08/16",
     "day": "日",
     "artist": "CHASED",
@@ -14691,8 +14898,35 @@
     "date": "2026/09/26",
     "day": "土",
     "artist": "Panic Monster !n Wonderland",
-    "title": "真夏のハロウィンTOUR in 大阪",
-    "url": "https://clubdrop.jp/schedule/detail/48832",
+    "title": "POP! POP!! POP!!! in 大阪",
+    "url": "https://clubdrop.jp/schedule/detail/55464",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/09/26",
+    "day": "土",
+    "artist": "アクアリウム。",
+    "title": "POP! POP!! POP!!! in 大阪",
+    "url": "https://clubdrop.jp/schedule/detail/55464",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/09/26",
+    "day": "土",
+    "artist": "colorin'c",
+    "title": "POP! POP!! POP!!! in 大阪",
+    "url": "https://clubdrop.jp/schedule/detail/55464",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/09/26",
+    "day": "土",
+    "artist": "SUGAR SPARK",
+    "title": "POP! POP!! POP!!! in 大阪",
+    "url": "https://clubdrop.jp/schedule/detail/55464",
     "venue": "アメリカ村DROP",
     "note": ""
   },
@@ -15942,6 +16176,15 @@
     "date": "2026/08/11",
     "day": "火",
     "artist": "むげんこんぜ",
+    "title": "山の日！",
+    "url": "https://osaka-varon.jp/schedule/detail/55360",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2026/08/11",
+    "day": "火",
+    "artist": "プリュネ♡トゥインクレット",
     "title": "山の日！",
     "url": "https://osaka-varon.jp/schedule/detail/55360",
     "venue": "VARON",
