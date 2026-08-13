@@ -3116,7 +3116,16 @@
   {
     "date": "2026/08/27",
     "day": "木",
-    "artist": "El Primo",
+    "artist": "※El Primoは諸事情によりキャンセルとなりました。",
+    "title": "OPEN 18:30",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
+    "date": "2026/08/27",
+    "day": "木",
+    "artist": "それに伴いタイムテーブルも変更しております。",
     "title": "OPEN 18:30",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
@@ -3717,6 +3726,69 @@
     "note": ""
   },
   {
+    "date": "2026/09/13",
+    "day": "日",
+    "artist": "para-dice企画",
+    "title": "para-dice企画",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
+    "date": "2026/09/13",
+    "day": "日",
+    "artist": "『 Powerslave 』",
+    "title": "para-dice企画",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
+    "date": "2026/09/13",
+    "day": "日",
+    "artist": "MELTME",
+    "title": "para-dice企画",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
+    "date": "2026/09/13",
+    "day": "日",
+    "artist": "LEEVE ROSELYN",
+    "title": "para-dice企画",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
+    "date": "2026/09/13",
+    "day": "日",
+    "artist": "追い風、朝",
+    "title": "para-dice企画",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
+    "date": "2026/09/13",
+    "day": "日",
+    "artist": "the dominant curve",
+    "title": "para-dice企画",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
+    "date": "2026/09/13",
+    "day": "日",
+    "artist": "How to draw A castle",
+    "title": "para-dice企画",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
     "date": "2026/09/14",
     "day": "月",
     "artist": "para-dice企画",
@@ -3955,6 +4027,69 @@
     "day": "月祝",
     "artist": "18:25 〜  立てる",
     "title": "",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
+    "date": "2026/09/22",
+    "day": "火祝",
+    "artist": "Waterplant Folk主催",
+    "title": "Waterplant Folk主催",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
+    "date": "2026/09/22",
+    "day": "火祝",
+    "artist": "「関西非生活音楽」",
+    "title": "Waterplant Folk主催",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
+    "date": "2026/09/22",
+    "day": "火祝",
+    "artist": "JIMONJIT",
+    "title": "Waterplant Folk主催",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
+    "date": "2026/09/22",
+    "day": "火祝",
+    "artist": "松枝熙",
+    "title": "Waterplant Folk主催",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
+    "date": "2026/09/22",
+    "day": "火祝",
+    "artist": "花蟷螂",
+    "title": "Waterplant Folk主催",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
+    "date": "2026/09/22",
+    "day": "火祝",
+    "artist": "ClockWorkThing",
+    "title": "Waterplant Folk主催",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
+    "date": "2026/09/22",
+    "day": "火祝",
+    "artist": "Waterplant Folk",
+    "title": "Waterplant Folk主催",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -5886,6 +6021,24 @@
     "note": ""
   },
   {
+    "date": "2026/08/13",
+    "day": "木",
+    "artist": "妖狐繚乱",
+    "title": "「妖狐繚乱  大鍛錬会」",
+    "url": "https://vijon.jp/schedule/detail/55455",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2026/08/13",
+    "day": "木",
+    "artist": "バーテンダー さばちゃん",
+    "title": "すなっく さばちゃん vol.3",
+    "url": "https://vijon.jp/schedule/detail/55292",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
     "date": "2026/08/14",
     "day": "金",
     "artist": "いろかにほへと",
@@ -5936,6 +6089,42 @@
     "artist": "Blow the instability　※出演予定でした ALICE. は諸事情により出演キャンセルとなり、  aftersink が代打での出演となりました。",
     "title": "club vijon×いろかにほへとpre.　【Crab Vijon】〜A子生誕お祝いパーティ〜",
     "url": "https://vijon.jp/schedule/detail/53462",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2026/08/15",
+    "day": "土",
+    "artist": "anemoreel",
+    "title": "Meet Me Dreamy in club vijion",
+    "url": "https://vijon.jp/schedule/detail/53947",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2026/08/15",
+    "day": "土",
+    "artist": "#PANnana",
+    "title": "Meet Me Dreamy in club vijion",
+    "url": "https://vijon.jp/schedule/detail/53947",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2026/08/15",
+    "day": "土",
+    "artist": "matatabi",
+    "title": "Meet Me Dreamy in club vijion",
+    "url": "https://vijon.jp/schedule/detail/53947",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2026/08/15",
+    "day": "土",
+    "artist": "ボクセカ",
+    "title": "Meet Me Dreamy in club vijion",
+    "url": "https://vijon.jp/schedule/detail/53947",
     "venue": "北堀江club vijon",
     "note": ""
   },
@@ -6834,7 +7023,7 @@
     "date": "2026/09/02",
     "day": "水",
     "artist": "ザ ニンクス",
-    "title": "ザ ニンクスpre.【クンニの日】",
+    "title": "ザ ニンクスpre.【㊗️ク〇ニの日〜フ〇ラの恩返し〜】",
     "url": "https://vijon.jp/schedule/detail/53836",
     "venue": "北堀江club vijon",
     "note": ""
@@ -6842,8 +7031,35 @@
   {
     "date": "2026/09/02",
     "day": "水",
-    "artist": "and more...",
-    "title": "ザ ニンクスpre.【クンニの日】",
+    "artist": "totemぽぉる",
+    "title": "ザ ニンクスpre.【㊗️ク〇ニの日〜フ〇ラの恩返し〜】",
+    "url": "https://vijon.jp/schedule/detail/53836",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2026/09/02",
+    "day": "水",
+    "artist": "くっつくパピー",
+    "title": "ザ ニンクスpre.【㊗️ク〇ニの日〜フ〇ラの恩返し〜】",
+    "url": "https://vijon.jp/schedule/detail/53836",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2026/09/02",
+    "day": "水",
+    "artist": "JUGEM's",
+    "title": "ザ ニンクスpre.【㊗️ク〇ニの日〜フ〇ラの恩返し〜】",
+    "url": "https://vijon.jp/schedule/detail/53836",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2026/09/02",
+    "day": "水",
+    "artist": "and more... ワイニー",
+    "title": "ザ ニンクスpre.【㊗️ク〇ニの日〜フ〇ラの恩返し〜】",
     "url": "https://vijon.jp/schedule/detail/53836",
     "venue": "北堀江club vijon",
     "note": ""
@@ -11142,6 +11358,96 @@
     "note": ""
   },
   {
+    "date": "2026/08/23",
+    "day": "日",
+    "artist": "ゼロキョリハーツ",
+    "title": "ゼロキョリハーツ〜東名阪ツアー対バン編in大阪",
+    "url": "https://bangboo.jp/schedule/detail/55466",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2026/08/23",
+    "day": "日",
+    "artist": "わんみゅーず！",
+    "title": "ゼロキョリハーツ〜東名阪ツアー対バン編in大阪",
+    "url": "https://bangboo.jp/schedule/detail/55466",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2026/08/23",
+    "day": "日",
+    "artist": "リリシック学園",
+    "title": "ゼロキョリハーツ〜東名阪ツアー対バン編in大阪",
+    "url": "https://bangboo.jp/schedule/detail/55466",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2026/08/23",
+    "day": "日",
+    "artist": "matatabi",
+    "title": "ゼロキョリハーツ〜東名阪ツアー対バン編in大阪",
+    "url": "https://bangboo.jp/schedule/detail/55466",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2026/08/23",
+    "day": "日",
+    "artist": "Melucharm",
+    "title": "ゼロキョリハーツ〜東名阪ツアー対バン編in大阪",
+    "url": "https://bangboo.jp/schedule/detail/55466",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2026/08/23",
+    "day": "日",
+    "artist": "#PANnana",
+    "title": "ゼロキョリハーツ〜東名阪ツアー対バン編in大阪",
+    "url": "https://bangboo.jp/schedule/detail/55466",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2026/08/23",
+    "day": "日",
+    "artist": "AsteRythm",
+    "title": "ゼロキョリハーツ〜東名阪ツアー対バン編in大阪",
+    "url": "https://bangboo.jp/schedule/detail/55466",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2026/08/23",
+    "day": "日",
+    "artist": "めろでぃらびっと 【並行A,C",
+    "title": "ゼロキョリハーツ〜東名阪ツアー対バン編in大阪",
+    "url": "https://bangboo.jp/schedule/detail/55466",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2026/08/23",
+    "day": "日",
+    "artist": "バーカン前、並行B",
+    "title": "ゼロキョリハーツ〜東名阪ツアー対バン編in大阪",
+    "url": "https://bangboo.jp/schedule/detail/55466",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2026/08/23",
+    "day": "日",
+    "artist": "フロア入り口EV前】",
+    "title": "ゼロキョリハーツ〜東名阪ツアー対バン編in大阪",
+    "url": "https://bangboo.jp/schedule/detail/55466",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
     "date": "2026/08/24",
     "day": "月",
     "artist": "浅野毅",
@@ -12438,6 +12744,69 @@
     "note": ""
   },
   {
+    "date": "2026/10/14",
+    "day": "水",
+    "artist": "Telepathy",
+    "title": "Telepathy&BANGBOO pre.【PANDA MAGNUM】vol.1 -MINAMI WHEEL EDITION-",
+    "url": "https://bangboo.jp/schedule/detail/54033",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2026/10/14",
+    "day": "水",
+    "artist": "揺らいで凪",
+    "title": "Telepathy&BANGBOO pre.【PANDA MAGNUM】vol.1 -MINAMI WHEEL EDITION-",
+    "url": "https://bangboo.jp/schedule/detail/54033",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2026/10/14",
+    "day": "水",
+    "artist": "QBIC",
+    "title": "Telepathy&BANGBOO pre.【PANDA MAGNUM】vol.1 -MINAMI WHEEL EDITION-",
+    "url": "https://bangboo.jp/schedule/detail/54033",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2026/10/14",
+    "day": "水",
+    "artist": "スクールガールズエンド",
+    "title": "Telepathy&BANGBOO pre.【PANDA MAGNUM】vol.1 -MINAMI WHEEL EDITION-",
+    "url": "https://bangboo.jp/schedule/detail/54033",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2026/10/14",
+    "day": "水",
+    "artist": "moodress",
+    "title": "Telepathy&BANGBOO pre.【PANDA MAGNUM】vol.1 -MINAMI WHEEL EDITION-",
+    "url": "https://bangboo.jp/schedule/detail/54033",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2026/10/14",
+    "day": "水",
+    "artist": "EMILY",
+    "title": "Telepathy&BANGBOO pre.【PANDA MAGNUM】vol.1 -MINAMI WHEEL EDITION-",
+    "url": "https://bangboo.jp/schedule/detail/54033",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2026/10/14",
+    "day": "水",
+    "artist": "and more",
+    "title": "Telepathy&BANGBOO pre.【PANDA MAGNUM】vol.1 -MINAMI WHEEL EDITION-",
+    "url": "https://bangboo.jp/schedule/detail/54033",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
     "date": "2026/10/23",
     "day": "金",
     "artist": "the twenties",
@@ -12452,6 +12821,69 @@
     "artist": "SHINSUKE OHNO",
     "title": "Osaka One-Man Show This Fall",
     "url": "https://bangboo.jp/schedule/detail/50840",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2026/10/26",
+    "day": "月",
+    "artist": "イヌガヨ",
+    "title": "【堂山わんこ大戦争】vol.2 -イヌガヨ vs BANGBOO- vs BANGBOO",
+    "url": "https://bangboo.jp/schedule/detail/54705",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2026/10/26",
+    "day": "月",
+    "artist": "JUNIOR BREATH",
+    "title": "【堂山わんこ大戦争】vol.2 -イヌガヨ vs BANGBOO- vs BANGBOO",
+    "url": "https://bangboo.jp/schedule/detail/54705",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2026/10/26",
+    "day": "月",
+    "artist": "Helpless Triangle",
+    "title": "【堂山わんこ大戦争】vol.2 -イヌガヨ vs BANGBOO- vs BANGBOO",
+    "url": "https://bangboo.jp/schedule/detail/54705",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2026/10/26",
+    "day": "月",
+    "artist": "狂想ドッペル",
+    "title": "【堂山わんこ大戦争】vol.2 -イヌガヨ vs BANGBOO- vs BANGBOO",
+    "url": "https://bangboo.jp/schedule/detail/54705",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2026/10/26",
+    "day": "月",
+    "artist": "THE BAMBOO SPIRITS CLUB",
+    "title": "【堂山わんこ大戦争】vol.2 -イヌガヨ vs BANGBOO- vs BANGBOO",
+    "url": "https://bangboo.jp/schedule/detail/54705",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2026/10/26",
+    "day": "月",
+    "artist": "メルシー",
+    "title": "【堂山わんこ大戦争】vol.2 -イヌガヨ vs BANGBOO- vs BANGBOO",
+    "url": "https://bangboo.jp/schedule/detail/54705",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2026/10/26",
+    "day": "月",
+    "artist": "and more",
+    "title": "【堂山わんこ大戦争】vol.2 -イヌガヨ vs BANGBOO- vs BANGBOO",
+    "url": "https://bangboo.jp/schedule/detail/54705",
     "venue": "梅田BANGBOO",
     "note": ""
   },
@@ -14769,6 +15201,429 @@
     "note": ""
   },
   {
+    "date": "2026/09/06",
+    "day": "日",
+    "artist": "AVACLUB",
+    "title": "\"IDOORLOVES\" -Special Summer Circuit-",
+    "url": "https://clubdrop.jp/schedule/detail/47291",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/09/06",
+    "day": "日",
+    "artist": "アブソプ",
+    "title": "\"IDOORLOVES\" -Special Summer Circuit-",
+    "url": "https://clubdrop.jp/schedule/detail/47291",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/09/06",
+    "day": "日",
+    "artist": "いざ参らん",
+    "title": "\"IDOORLOVES\" -Special Summer Circuit-",
+    "url": "https://clubdrop.jp/schedule/detail/47291",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/09/06",
+    "day": "日",
+    "artist": "丑03-USHIMITSU-",
+    "title": "\"IDOORLOVES\" -Special Summer Circuit-",
+    "url": "https://clubdrop.jp/schedule/detail/47291",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/09/06",
+    "day": "日",
+    "artist": "AIMIA",
+    "title": "\"IDOORLOVES\" -Special Summer Circuit-",
+    "url": "https://clubdrop.jp/schedule/detail/47291",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/09/06",
+    "day": "日",
+    "artist": "éclatcia",
+    "title": "\"IDOORLOVES\" -Special Summer Circuit-",
+    "url": "https://clubdrop.jp/schedule/detail/47291",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/09/06",
+    "day": "日",
+    "artist": "ELEVYZ",
+    "title": "\"IDOORLOVES\" -Special Summer Circuit-",
+    "url": "https://clubdrop.jp/schedule/detail/47291",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/09/06",
+    "day": "日",
+    "artist": "ENVY PARANOID",
+    "title": "\"IDOORLOVES\" -Special Summer Circuit-",
+    "url": "https://clubdrop.jp/schedule/detail/47291",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/09/06",
+    "day": "日",
+    "artist": "感情線は時をこえて",
+    "title": "\"IDOORLOVES\" -Special Summer Circuit-",
+    "url": "https://clubdrop.jp/schedule/detail/47291",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/09/06",
+    "day": "日",
+    "artist": "神薙-時うさぎ-",
+    "title": "\"IDOORLOVES\" -Special Summer Circuit-",
+    "url": "https://clubdrop.jp/schedule/detail/47291",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/09/06",
+    "day": "日",
+    "artist": "キグルミ",
+    "title": "\"IDOORLOVES\" -Special Summer Circuit-",
+    "url": "https://clubdrop.jp/schedule/detail/47291",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/09/06",
+    "day": "日",
+    "artist": "CRYZ",
+    "title": "\"IDOORLOVES\" -Special Summer Circuit-",
+    "url": "https://clubdrop.jp/schedule/detail/47291",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/09/06",
+    "day": "日",
+    "artist": "GRINOAH",
+    "title": "\"IDOORLOVES\" -Special Summer Circuit-",
+    "url": "https://clubdrop.jp/schedule/detail/47291",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/09/06",
+    "day": "日",
+    "artist": "GLIM of GRAND",
+    "title": "\"IDOORLOVES\" -Special Summer Circuit-",
+    "url": "https://clubdrop.jp/schedule/detail/47291",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/09/06",
+    "day": "日",
+    "artist": "cleomery",
+    "title": "\"IDOORLOVES\" -Special Summer Circuit-",
+    "url": "https://clubdrop.jp/schedule/detail/47291",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/09/06",
+    "day": "日",
+    "artist": "CØCØRIZE",
+    "title": "\"IDOORLOVES\" -Special Summer Circuit-",
+    "url": "https://clubdrop.jp/schedule/detail/47291",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/09/06",
+    "day": "日",
+    "artist": "Cosmoslay",
+    "title": "\"IDOORLOVES\" -Special Summer Circuit-",
+    "url": "https://clubdrop.jp/schedule/detail/47291",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/09/06",
+    "day": "日",
+    "artist": "CYCLONISTA",
+    "title": "\"IDOORLOVES\" -Special Summer Circuit-",
+    "url": "https://clubdrop.jp/schedule/detail/47291",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/09/06",
+    "day": "日",
+    "artist": "SANUGLOW",
+    "title": "\"IDOORLOVES\" -Special Summer Circuit-",
+    "url": "https://clubdrop.jp/schedule/detail/47291",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/09/06",
+    "day": "日",
+    "artist": "Charlotte",
+    "title": "\"IDOORLOVES\" -Special Summer Circuit-",
+    "url": "https://clubdrop.jp/schedule/detail/47291",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/09/06",
+    "day": "日",
+    "artist": "白黒アリス",
+    "title": "\"IDOORLOVES\" -Special Summer Circuit-",
+    "url": "https://clubdrop.jp/schedule/detail/47291",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/09/06",
+    "day": "日",
+    "artist": "SPRISE",
+    "title": "\"IDOORLOVES\" -Special Summer Circuit-",
+    "url": "https://clubdrop.jp/schedule/detail/47291",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/09/06",
+    "day": "日",
+    "artist": "セツナフロート",
+    "title": "\"IDOORLOVES\" -Special Summer Circuit-",
+    "url": "https://clubdrop.jp/schedule/detail/47291",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/09/06",
+    "day": "日",
+    "artist": "DaTuRa-ダチュラ-",
+    "title": "\"IDOORLOVES\" -Special Summer Circuit-",
+    "url": "https://clubdrop.jp/schedule/detail/47291",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/09/06",
+    "day": "日",
+    "artist": "tzmiki",
+    "title": "\"IDOORLOVES\" -Special Summer Circuit-",
+    "url": "https://clubdrop.jp/schedule/detail/47291",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/09/06",
+    "day": "日",
+    "artist": "ディノゾール",
+    "title": "\"IDOORLOVES\" -Special Summer Circuit-",
+    "url": "https://clubdrop.jp/schedule/detail/47291",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/09/06",
+    "day": "日",
+    "artist": "NINGENKYOU",
+    "title": "\"IDOORLOVES\" -Special Summer Circuit-",
+    "url": "https://clubdrop.jp/schedule/detail/47291",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/09/06",
+    "day": "日",
+    "artist": "NO❤AF",
+    "title": "\"IDOORLOVES\" -Special Summer Circuit-",
+    "url": "https://clubdrop.jp/schedule/detail/47291",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/09/06",
+    "day": "日",
+    "artist": "HATENO",
+    "title": "\"IDOORLOVES\" -Special Summer Circuit-",
+    "url": "https://clubdrop.jp/schedule/detail/47291",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/09/06",
+    "day": "日",
+    "artist": "PULSAR_CLIMAX",
+    "title": "\"IDOORLOVES\" -Special Summer Circuit-",
+    "url": "https://clubdrop.jp/schedule/detail/47291",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/09/06",
+    "day": "日",
+    "artist": "PLYDE",
+    "title": "\"IDOORLOVES\" -Special Summer Circuit-",
+    "url": "https://clubdrop.jp/schedule/detail/47291",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/09/06",
+    "day": "日",
+    "artist": "BLUEGOATS",
+    "title": "\"IDOORLOVES\" -Special Summer Circuit-",
+    "url": "https://clubdrop.jp/schedule/detail/47291",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/09/06",
+    "day": "日",
+    "artist": "MAGMAZ",
+    "title": "\"IDOORLOVES\" -Special Summer Circuit-",
+    "url": "https://clubdrop.jp/schedule/detail/47291",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/09/06",
+    "day": "日",
+    "artist": "matatabi",
+    "title": "\"IDOORLOVES\" -Special Summer Circuit-",
+    "url": "https://clubdrop.jp/schedule/detail/47291",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/09/06",
+    "day": "日",
+    "artist": "maleficium",
+    "title": "\"IDOORLOVES\" -Special Summer Circuit-",
+    "url": "https://clubdrop.jp/schedule/detail/47291",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/09/06",
+    "day": "日",
+    "artist": "MAZE",
+    "title": "\"IDOORLOVES\" -Special Summer Circuit-",
+    "url": "https://clubdrop.jp/schedule/detail/47291",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/09/06",
+    "day": "日",
+    "artist": "Merry Mellow",
+    "title": "\"IDOORLOVES\" -Special Summer Circuit-",
+    "url": "https://clubdrop.jp/schedule/detail/47291",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/09/06",
+    "day": "日",
+    "artist": "Y∀KiN",
+    "title": "\"IDOORLOVES\" -Special Summer Circuit-",
+    "url": "https://clubdrop.jp/schedule/detail/47291",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/09/06",
+    "day": "日",
+    "artist": "YUGUREMI",
+    "title": "\"IDOORLOVES\" -Special Summer Circuit-",
+    "url": "https://clubdrop.jp/schedule/detail/47291",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/09/06",
+    "day": "日",
+    "artist": "世ノ果テデ人形ハ唯哂フ。",
+    "title": "\"IDOORLOVES\" -Special Summer Circuit-",
+    "url": "https://clubdrop.jp/schedule/detail/47291",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/09/06",
+    "day": "日",
+    "artist": "LUVRiX",
+    "title": "\"IDOORLOVES\" -Special Summer Circuit-",
+    "url": "https://clubdrop.jp/schedule/detail/47291",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/09/06",
+    "day": "日",
+    "artist": "LyricalPopParadox",
+    "title": "\"IDOORLOVES\" -Special Summer Circuit-",
+    "url": "https://clubdrop.jp/schedule/detail/47291",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/09/06",
+    "day": "日",
+    "artist": "RETRORAIN",
+    "title": "\"IDOORLOVES\" -Special Summer Circuit-",
+    "url": "https://clubdrop.jp/schedule/detail/47291",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/09/06",
+    "day": "日",
+    "artist": "LØISLOID",
+    "title": "\"IDOORLOVES\" -Special Summer Circuit-",
+    "url": "https://clubdrop.jp/schedule/detail/47291",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/09/06",
+    "day": "日",
+    "artist": "LΩPARA",
+    "title": "\"IDOORLOVES\" -Special Summer Circuit-",
+    "url": "https://clubdrop.jp/schedule/detail/47291",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/09/06",
+    "day": "日",
+    "artist": "lonlium",
+    "title": "\"IDOORLOVES\" -Special Summer Circuit-",
+    "url": "https://clubdrop.jp/schedule/detail/47291",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/09/06",
+    "day": "日",
+    "artist": "and more!!",
+    "title": "\"IDOORLOVES\" -Special Summer Circuit-",
+    "url": "https://clubdrop.jp/schedule/detail/47291",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
     "date": "2026/09/08",
     "day": "火",
     "artist": "MARBLENOTE",
@@ -14852,16 +15707,7 @@
   {
     "date": "2026/09/11",
     "day": "金",
-    "artist": "LOP!!ROP",
-    "title": "DROP×UnpRayable pre.BOMB CRASH DROP-アメリカ村 DROP 23rd ANNIVERSARY-",
-    "url": "https://clubdrop.jp/schedule/detail/52176",
-    "venue": "アメリカ村DROP",
-    "note": ""
-  },
-  {
-    "date": "2026/09/11",
-    "day": "金",
-    "artist": "ノーサイド・アウトサイダー andmore!!",
+    "artist": "ノーサイド・アウトサイダー",
     "title": "DROP×UnpRayable pre.BOMB CRASH DROP-アメリカ村 DROP 23rd ANNIVERSARY-",
     "url": "https://clubdrop.jp/schedule/detail/52176",
     "venue": "アメリカ村DROP",
@@ -18803,8 +19649,107 @@
   {
     "date": "2026/08/26",
     "day": "水",
-    "artist": "coming soon...",
-    "title": "HALL RENTAL",
+    "artist": "曇りのち晴れ",
+    "title": "桃山学院高校軽音部OBOGライブ",
+    "url": "https://osaka-zeela.jp/schedule/detail/51798",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2026/08/26",
+    "day": "水",
+    "artist": "Farfalla",
+    "title": "桃山学院高校軽音部OBOGライブ",
+    "url": "https://osaka-zeela.jp/schedule/detail/51798",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2026/08/26",
+    "day": "水",
+    "artist": "Bang",
+    "title": "桃山学院高校軽音部OBOGライブ",
+    "url": "https://osaka-zeela.jp/schedule/detail/51798",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2026/08/26",
+    "day": "水",
+    "artist": "ずともも",
+    "title": "桃山学院高校軽音部OBOGライブ",
+    "url": "https://osaka-zeela.jp/schedule/detail/51798",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2026/08/26",
+    "day": "水",
+    "artist": "金木犀",
+    "title": "桃山学院高校軽音部OBOGライブ",
+    "url": "https://osaka-zeela.jp/schedule/detail/51798",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2026/08/26",
+    "day": "水",
+    "artist": "integra∫",
+    "title": "桃山学院高校軽音部OBOGライブ",
+    "url": "https://osaka-zeela.jp/schedule/detail/51798",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2026/08/26",
+    "day": "水",
+    "artist": "アジカン",
+    "title": "桃山学院高校軽音部OBOGライブ",
+    "url": "https://osaka-zeela.jp/schedule/detail/51798",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2026/08/26",
+    "day": "水",
+    "artist": "桃しか",
+    "title": "桃山学院高校軽音部OBOGライブ",
+    "url": "https://osaka-zeela.jp/schedule/detail/51798",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2026/08/26",
+    "day": "水",
+    "artist": "星椛",
+    "title": "桃山学院高校軽音部OBOGライブ",
+    "url": "https://osaka-zeela.jp/schedule/detail/51798",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2026/08/26",
+    "day": "水",
+    "artist": "Vibrant colors",
+    "title": "桃山学院高校軽音部OBOGライブ",
+    "url": "https://osaka-zeela.jp/schedule/detail/51798",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2026/08/26",
+    "day": "水",
+    "artist": "asymMetrY",
+    "title": "桃山学院高校軽音部OBOGライブ",
+    "url": "https://osaka-zeela.jp/schedule/detail/51798",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2026/08/26",
+    "day": "水",
+    "artist": "BIG EE BOMBERS",
+    "title": "桃山学院高校軽音部OBOGライブ",
     "url": "https://osaka-zeela.jp/schedule/detail/51798",
     "venue": "Zeela",
     "note": ""
