@@ -2072,8 +2072,8 @@
   {
     "date": "2026/09/17",
     "day": "木",
-    "artist": "扇町para-dice",
-    "title": "扇町para-dice",
+    "artist": "para-dice企画",
+    "title": "para-dice企画",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -2082,7 +2082,7 @@
     "date": "2026/09/17",
     "day": "木",
     "artist": "『 FFF 』",
-    "title": "扇町para-dice",
+    "title": "para-dice企画",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -2091,7 +2091,7 @@
     "date": "2026/09/17",
     "day": "木",
     "artist": "ナカノノナカノナカノ",
-    "title": "扇町para-dice",
+    "title": "para-dice企画",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -2100,7 +2100,7 @@
     "date": "2026/09/17",
     "day": "木",
     "artist": "梅本卓馬",
-    "title": "扇町para-dice",
+    "title": "para-dice企画",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -2109,7 +2109,7 @@
     "date": "2026/09/17",
     "day": "木",
     "artist": "ラウンドヘッド",
-    "title": "扇町para-dice",
+    "title": "para-dice企画",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -2118,7 +2118,7 @@
     "date": "2026/09/17",
     "day": "木",
     "artist": "torobi",
-    "title": "扇町para-dice",
+    "title": "para-dice企画",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -2127,7 +2127,7 @@
     "date": "2026/09/17",
     "day": "木",
     "artist": "dracaena",
-    "title": "扇町para-dice",
+    "title": "para-dice企画",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -2217,6 +2217,51 @@
     "date": "2026/09/19",
     "day": "土",
     "artist": "スカンピンエクスペリエンス",
+    "title": "OPEN 17:30",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
+    "date": "2026/09/20",
+    "day": "日",
+    "artist": "武田 鳴",
+    "title": "OPEN 17:30",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
+    "date": "2026/09/20",
+    "day": "日",
+    "artist": "Kohei Okutani",
+    "title": "OPEN 17:30",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
+    "date": "2026/09/20",
+    "day": "日",
+    "artist": "生まれたての鯨",
+    "title": "OPEN 17:30",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
+    "date": "2026/09/20",
+    "day": "日",
+    "artist": "PPHHXX",
+    "title": "OPEN 17:30",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
+    "date": "2026/09/20",
+    "day": "日",
+    "artist": "OLDTIMER",
     "title": "OPEN 17:30",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
@@ -2317,6 +2362,60 @@
     "day": "火祝",
     "artist": "Waterplant Folk",
     "title": "Waterplant Folk主催",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
+    "date": "2026/09/23",
+    "day": "水祝",
+    "artist": "para-dice企画",
+    "title": "para-dice企画",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
+    "date": "2026/09/23",
+    "day": "水祝",
+    "artist": "『 JAWBREAKER 』",
+    "title": "para-dice企画",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
+    "date": "2026/09/23",
+    "day": "水祝",
+    "artist": "THE SUNBURST",
+    "title": "para-dice企画",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
+    "date": "2026/09/23",
+    "day": "水祝",
+    "artist": "THEE HEDGEHOGS",
+    "title": "para-dice企画",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
+    "date": "2026/09/23",
+    "day": "水祝",
+    "artist": "Slipout Blank",
+    "title": "para-dice企画",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
+    "date": "2026/09/23",
+    "day": "水祝",
+    "artist": "fuzzy stereo",
+    "title": "para-dice企画",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -7168,6 +7267,42 @@
     "day": "土",
     "artist": "問・チケット発売)TIGET",
     "title": "あくあいゆい",
+    "url": "http://www.knave.co.jp/schedule/s_2026_10.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2026/10/21",
+    "day": "水",
+    "artist": "PapiLio",
+    "title": "LoversRock",
+    "url": "http://www.knave.co.jp/schedule/s_2026_10.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2026/10/21",
+    "day": "水",
+    "artist": "福寿たいき",
+    "title": "LoversRock",
+    "url": "http://www.knave.co.jp/schedule/s_2026_10.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2026/10/21",
+    "day": "水",
+    "artist": "Ei",
+    "title": "LoversRock",
+    "url": "http://www.knave.co.jp/schedule/s_2026_10.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2026/10/21",
+    "day": "水",
+    "artist": "佐久間丈幸",
+    "title": "LoversRock",
     "url": "http://www.knave.co.jp/schedule/s_2026_10.html",
     "venue": "knave",
     "note": ""
