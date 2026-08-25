@@ -7382,25 +7382,7 @@
   {
     "date": "2026/08/25",
     "day": "火",
-    "artist": "スープレックスプレイテニス",
-    "title": "【playgrounds】 vol.4",
-    "url": "https://vijon.jp/schedule/detail/53846",
-    "venue": "北堀江club vijon",
-    "note": ""
-  },
-  {
-    "date": "2026/08/25",
-    "day": "火",
-    "artist": "NEAREQUAL",
-    "title": "【playgrounds】 vol.4",
-    "url": "https://vijon.jp/schedule/detail/53846",
-    "venue": "北堀江club vijon",
-    "note": ""
-  },
-  {
-    "date": "2026/08/25",
-    "day": "火",
-    "artist": "ノタロネ",
+    "artist": "NEAREQUAL ※出演予定でしたスープレックスプレイテニス、ノタロネ はメンバー体調不良の為出演キャンセルとなりました。",
     "title": "【playgrounds】 vol.4",
     "url": "https://vijon.jp/schedule/detail/53846",
     "venue": "北堀江club vijon",
@@ -10485,6 +10467,150 @@
     "note": ""
   },
   {
+    "date": "2026/10/24",
+    "day": "土",
+    "artist": "a frankenlouie",
+    "title": "club vijon 24th Anniversary.【HANAR SONIC 2026】DAY1 -HA-",
+    "url": "https://vijon.jp/schedule/detail/54009",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2026/10/24",
+    "day": "土",
+    "artist": "rale one stance",
+    "title": "club vijon 24th Anniversary.【HANAR SONIC 2026】DAY1 -HA-",
+    "url": "https://vijon.jp/schedule/detail/54009",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2026/10/24",
+    "day": "土",
+    "artist": "Stardust Alone",
+    "title": "club vijon 24th Anniversary.【HANAR SONIC 2026】DAY1 -HA-",
+    "url": "https://vijon.jp/schedule/detail/54009",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2026/10/24",
+    "day": "土",
+    "artist": "DOG☆STAR",
+    "title": "club vijon 24th Anniversary.【HANAR SONIC 2026】DAY1 -HA-",
+    "url": "https://vijon.jp/schedule/detail/54009",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2026/10/24",
+    "day": "土",
+    "artist": "THE PENGUIN BASE",
+    "title": "club vijon 24th Anniversary.【HANAR SONIC 2026】DAY1 -HA-",
+    "url": "https://vijon.jp/schedule/detail/54009",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2026/10/24",
+    "day": "土",
+    "artist": "monocalring",
+    "title": "club vijon 24th Anniversary.【HANAR SONIC 2026】DAY1 -HA-",
+    "url": "https://vijon.jp/schedule/detail/54009",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2026/10/24",
+    "day": "土",
+    "artist": "Melissa Barry",
+    "title": "club vijon 24th Anniversary.【HANAR SONIC 2026】DAY1 -HA-",
+    "url": "https://vijon.jp/schedule/detail/54009",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2026/10/24",
+    "day": "土",
+    "artist": "...and more",
+    "title": "club vijon 24th Anniversary.【HANAR SONIC 2026】DAY1 -HA-",
+    "url": "https://vijon.jp/schedule/detail/54009",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2026/10/25",
+    "day": "日",
+    "artist": "メタボリックシンジゲート",
+    "title": "club vijon 24th Anniversary.【HANAR SONIC 2026】DAY2 -NA-　～東京カメレオン『万彩のファンファーレ・鱗都のラプソディ』Release Live in OSAKA～",
+    "url": "https://vijon.jp/schedule/detail/54010",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2026/10/25",
+    "day": "日",
+    "artist": "ハヤシライフ",
+    "title": "club vijon 24th Anniversary.【HANAR SONIC 2026】DAY2 -NA-　～東京カメレオン『万彩のファンファーレ・鱗都のラプソディ』Release Live in OSAKA～",
+    "url": "https://vijon.jp/schedule/detail/54010",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2026/10/25",
+    "day": "日",
+    "artist": "soratobiwo",
+    "title": "club vijon 24th Anniversary.【HANAR SONIC 2026】DAY2 -NA-　～東京カメレオン『万彩のファンファーレ・鱗都のラプソディ』Release Live in OSAKA～",
+    "url": "https://vijon.jp/schedule/detail/54010",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2026/10/25",
+    "day": "日",
+    "artist": "TIGER&DRAGON",
+    "title": "club vijon 24th Anniversary.【HANAR SONIC 2026】DAY2 -NA-　～東京カメレオン『万彩のファンファーレ・鱗都のラプソディ』Release Live in OSAKA～",
+    "url": "https://vijon.jp/schedule/detail/54010",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2026/10/25",
+    "day": "日",
+    "artist": "asano raincoat",
+    "title": "club vijon 24th Anniversary.【HANAR SONIC 2026】DAY2 -NA-　～東京カメレオン『万彩のファンファーレ・鱗都のラプソディ』Release Live in OSAKA～",
+    "url": "https://vijon.jp/schedule/detail/54010",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2026/10/25",
+    "day": "日",
+    "artist": "東京カメレオン",
+    "title": "club vijon 24th Anniversary.【HANAR SONIC 2026】DAY2 -NA-　～東京カメレオン『万彩のファンファーレ・鱗都のラプソディ』Release Live in OSAKA～",
+    "url": "https://vijon.jp/schedule/detail/54010",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2026/10/25",
+    "day": "日",
+    "artist": "アトリエコード",
+    "title": "club vijon 24th Anniversary.【HANAR SONIC 2026】DAY2 -NA-　～東京カメレオン『万彩のファンファーレ・鱗都のラプソディ』Release Live in OSAKA～",
+    "url": "https://vijon.jp/schedule/detail/54010",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2026/10/25",
+    "day": "日",
+    "artist": "...and more",
+    "title": "club vijon 24th Anniversary.【HANAR SONIC 2026】DAY2 -NA-　～東京カメレオン『万彩のファンファーレ・鱗都のラプソディ』Release Live in OSAKA～",
+    "url": "https://vijon.jp/schedule/detail/54010",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
     "date": "2026/10/26",
     "day": "月",
     "artist": "アキラ",
@@ -10868,6 +10994,51 @@
     "artist": "夏井さら",
     "title": "「MONSTER PARADE in 大阪」",
     "url": "https://vijon.jp/schedule/detail/55156",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2026/11/08",
+    "day": "日",
+    "artist": "MISSIW",
+    "title": "小原涼アルバム レコ発ツアー 「My Live Life -SMILEY-」",
+    "url": "https://vijon.jp/schedule/detail/55540",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2026/11/08",
+    "day": "日",
+    "artist": "朱璃晶絵",
+    "title": "小原涼アルバム レコ発ツアー 「My Live Life -SMILEY-」",
+    "url": "https://vijon.jp/schedule/detail/55540",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2026/11/08",
+    "day": "日",
+    "artist": "苺菓しえり",
+    "title": "小原涼アルバム レコ発ツアー 「My Live Life -SMILEY-」",
+    "url": "https://vijon.jp/schedule/detail/55540",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2026/11/08",
+    "day": "日",
+    "artist": "あくる",
+    "title": "小原涼アルバム レコ発ツアー 「My Live Life -SMILEY-」",
+    "url": "https://vijon.jp/schedule/detail/55540",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2026/11/08",
+    "day": "日",
+    "artist": "鈴川愛依",
+    "title": "小原涼アルバム レコ発ツアー 「My Live Life -SMILEY-」",
+    "url": "https://vijon.jp/schedule/detail/55540",
     "venue": "北堀江club vijon",
     "note": ""
   },
@@ -13536,6 +13707,15 @@
     "note": ""
   },
   {
+    "date": "2026/09/02",
+    "day": "水",
+    "artist": "キューハチパーセント",
+    "title": "『キューハチパーセント！定期公演Vol.2』",
+    "url": "https://bangboo.jp/schedule/detail/51378",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
     "date": "2026/09/03",
     "day": "木",
     "artist": "ハピネスクラッカー！",
@@ -14663,7 +14843,7 @@
   {
     "date": "2026/10/19",
     "day": "月",
-    "artist": "and more",
+    "artist": "A peace of cake",
     "title": "【awesome youth vol.3】",
     "url": "https://bangboo.jp/schedule/detail/54583",
     "venue": "梅田BANGBOO",
@@ -17001,6 +17181,24 @@
     "note": ""
   },
   {
+    "date": "2026/08/29",
+    "day": "土",
+    "artist": "LΩPARA",
+    "title": "LΩPARA 3DAYS 2MAN SERIES『RUN IT』- RAID 03 -[AZ-ON]",
+    "url": "https://clubdrop.jp/schedule/detail/55738",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/08/29",
+    "day": "土",
+    "artist": "AZ-ON",
+    "title": "LΩPARA 3DAYS 2MAN SERIES『RUN IT』- RAID 03 -[AZ-ON]",
+    "url": "https://clubdrop.jp/schedule/detail/55738",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
     "date": "2026/08/30",
     "day": "日",
     "artist": "ボクセカ",
@@ -17426,6 +17624,15 @@
   {
     "date": "2026/09/06",
     "day": "日",
+    "artist": "KAMuRO",
+    "title": "\"IDOORLOVES\" -Special Summer Circuit-",
+    "url": "https://clubdrop.jp/schedule/detail/47291",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/09/06",
+    "day": "日",
     "artist": "感情線は時をこえて",
     "title": "\"IDOORLOVES\" -Special Summer Circuit-",
     "url": "https://clubdrop.jp/schedule/detail/47291",
@@ -17445,6 +17652,15 @@
     "date": "2026/09/06",
     "day": "日",
     "artist": "キグルミ",
+    "title": "\"IDOORLOVES\" -Special Summer Circuit-",
+    "url": "https://clubdrop.jp/schedule/detail/47291",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/09/06",
+    "day": "日",
+    "artist": "きっと大切だった",
     "title": "\"IDOORLOVES\" -Special Summer Circuit-",
     "url": "https://clubdrop.jp/schedule/detail/47291",
     "venue": "アメリカ村DROP",
@@ -17579,7 +17795,25 @@
   {
     "date": "2026/09/06",
     "day": "日",
+    "artist": "tune time capsule",
+    "title": "\"IDOORLOVES\" -Special Summer Circuit-",
+    "url": "https://clubdrop.jp/schedule/detail/47291",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/09/06",
+    "day": "日",
     "artist": "ディノゾール",
+    "title": "\"IDOORLOVES\" -Special Summer Circuit-",
+    "url": "https://clubdrop.jp/schedule/detail/47291",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/09/06",
+    "day": "日",
+    "artist": "9DayzGlitchClubTokyo",
     "title": "\"IDOORLOVES\" -Special Summer Circuit-",
     "url": "https://clubdrop.jp/schedule/detail/47291",
     "venue": "アメリカ村DROP",
@@ -17766,11 +18000,218 @@
     "note": ""
   },
   {
-    "date": "2026/09/06",
-    "day": "日",
-    "artist": "and more!!",
-    "title": "\"IDOORLOVES\" -Special Summer Circuit-",
-    "url": "https://clubdrop.jp/schedule/detail/47291",
+    "date": "2026/09/07",
+    "day": "月",
+    "artist": "デカいボーカルあかん",
+    "title": "Mao Chari FESTIVAL",
+    "url": "https://clubdrop.jp/schedule/detail/51198",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/09/07",
+    "day": "月",
+    "artist": "あいうえおか",
+    "title": "Mao Chari FESTIVAL",
+    "url": "https://clubdrop.jp/schedule/detail/51198",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/09/07",
+    "day": "月",
+    "artist": "パチカスヤニカスジェネレーション",
+    "title": "Mao Chari FESTIVAL",
+    "url": "https://clubdrop.jp/schedule/detail/51198",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/09/07",
+    "day": "月",
+    "artist": "wether report",
+    "title": "Mao Chari FESTIVAL",
+    "url": "https://clubdrop.jp/schedule/detail/51198",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/09/07",
+    "day": "月",
+    "artist": "相姦性理論",
+    "title": "Mao Chari FESTIVAL",
+    "url": "https://clubdrop.jp/schedule/detail/51198",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/09/07",
+    "day": "月",
+    "artist": "拝啓、まおちゃり",
+    "title": "Mao Chari FESTIVAL",
+    "url": "https://clubdrop.jp/schedule/detail/51198",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/09/07",
+    "day": "月",
+    "artist": "ギリギリアウト",
+    "title": "Mao Chari FESTIVAL",
+    "url": "https://clubdrop.jp/schedule/detail/51198",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/09/07",
+    "day": "月",
+    "artist": "滅",
+    "title": "Mao Chari FESTIVAL",
+    "url": "https://clubdrop.jp/schedule/detail/51198",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/09/07",
+    "day": "月",
+    "artist": "即帰宅TKG!!",
+    "title": "Mao Chari FESTIVAL",
+    "url": "https://clubdrop.jp/schedule/detail/51198",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/09/07",
+    "day": "月",
+    "artist": "ManchupigtaillS",
+    "title": "Mao Chari FESTIVAL",
+    "url": "https://clubdrop.jp/schedule/detail/51198",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/09/07",
+    "day": "月",
+    "artist": "PK shampoo.docx",
+    "title": "Mao Chari FESTIVAL",
+    "url": "https://clubdrop.jp/schedule/detail/51198",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/09/07",
+    "day": "月",
+    "artist": "ねえねえ坂口さん",
+    "title": "Mao Chari FESTIVAL",
+    "url": "https://clubdrop.jp/schedule/detail/51198",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/09/07",
+    "day": "月",
+    "artist": "ギャルがりを、奏でる",
+    "title": "Mao Chari FESTIVAL",
+    "url": "https://clubdrop.jp/schedule/detail/51198",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/09/07",
+    "day": "月",
+    "artist": "キューティーハマー",
+    "title": "Mao Chari FESTIVAL",
+    "url": "https://clubdrop.jp/schedule/detail/51198",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/09/07",
+    "day": "月",
+    "artist": "ケンタデラロッチャ",
+    "title": "Mao Chari FESTIVAL",
+    "url": "https://clubdrop.jp/schedule/detail/51198",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/09/07",
+    "day": "月",
+    "artist": "まおちゃりらっぶ",
+    "title": "Mao Chari FESTIVAL",
+    "url": "https://clubdrop.jp/schedule/detail/51198",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/09/07",
+    "day": "月",
+    "artist": "ボリューミー",
+    "title": "Mao Chari FESTIVAL",
+    "url": "https://clubdrop.jp/schedule/detail/51198",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/09/07",
+    "day": "月",
+    "artist": "長渕和義",
+    "title": "Mao Chari FESTIVAL",
+    "url": "https://clubdrop.jp/schedule/detail/51198",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/09/07",
+    "day": "月",
+    "artist": "羊牧場",
+    "title": "Mao Chari FESTIVAL",
+    "url": "https://clubdrop.jp/schedule/detail/51198",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/09/07",
+    "day": "月",
+    "artist": "けいたのTシャツチー牛のにおいする",
+    "title": "Mao Chari FESTIVAL",
+    "url": "https://clubdrop.jp/schedule/detail/51198",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/09/07",
+    "day": "月",
+    "artist": "The LAST Notes",
+    "title": "Mao Chari FESTIVAL",
+    "url": "https://clubdrop.jp/schedule/detail/51198",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/09/07",
+    "day": "月",
+    "artist": "げろめん",
+    "title": "Mao Chari FESTIVAL",
+    "url": "https://clubdrop.jp/schedule/detail/51198",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/09/07",
+    "day": "月",
+    "artist": "浮気するくらいならぶっころして！",
+    "title": "Mao Chari FESTIVAL",
+    "url": "https://clubdrop.jp/schedule/detail/51198",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/09/07",
+    "day": "月",
+    "artist": "76.4 ジャイボのジャイアン餃子",
+    "title": "Mao Chari FESTIVAL",
+    "url": "https://clubdrop.jp/schedule/detail/51198",
     "venue": "アメリカ村DROP",
     "note": ""
   },
@@ -17888,6 +18329,78 @@
     "artist": "スプリーガル",
     "title": "優利香×pod'z共同主催バンドツアー\"YAP ROCK TOUR\"〜大阪ファイナルバンド2man編〜",
     "url": "https://clubdrop.jp/schedule/detail/50193",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/09/20",
+    "day": "日",
+    "artist": "フライヤーをご覧ください☆",
+    "title": "HYPER_JUNCTION 2026",
+    "url": "https://clubdrop.jp/schedule/detail/49425",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/09/21",
+    "day": "月",
+    "artist": "AZ-ON",
+    "title": "【対バン編】狐宵メリィ企画 百鬼夜紅 -其の参-",
+    "url": "https://clubdrop.jp/schedule/detail/55719",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/09/21",
+    "day": "月",
+    "artist": "鳴ル神",
+    "title": "【対バン編】狐宵メリィ企画 百鬼夜紅 -其の参-",
+    "url": "https://clubdrop.jp/schedule/detail/55719",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/09/21",
+    "day": "月",
+    "artist": "DIAVEL",
+    "title": "【対バン編】狐宵メリィ企画 百鬼夜紅 -其の参-",
+    "url": "https://clubdrop.jp/schedule/detail/55719",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/09/22",
+    "day": "火",
+    "artist": "O.A ふたりごと。",
+    "title": "海月ゆき。生誕祭「泡沫、白昼夢。」",
+    "url": "https://clubdrop.jp/schedule/detail/47526",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/09/22",
+    "day": "火",
+    "artist": "LΩPARA",
+    "title": "海月ゆき。生誕祭「泡沫、白昼夢。」",
+    "url": "https://clubdrop.jp/schedule/detail/47526",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/09/22",
+    "day": "火",
+    "artist": "0番線と夜明け前",
+    "title": "海月ゆき。生誕祭「泡沫、白昼夢。」",
+    "url": "https://clubdrop.jp/schedule/detail/47526",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/09/22",
+    "day": "火",
+    "artist": "cleomery",
+    "title": "海月ゆき。生誕祭「泡沫、白昼夢。」",
+    "url": "https://clubdrop.jp/schedule/detail/47526",
     "venue": "アメリカ村DROP",
     "note": ""
   },
@@ -20237,6 +20750,15 @@
     "artist": "電脳ヒメカ",
     "title": "電脳ヒメカ ONEMAN LIVE 「定期公演おためしヒメカちゃん-2026-」Vol.13",
     "url": "https://osaka-varon.jp/schedule/detail/49007",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2026/08/29",
+    "day": "土",
+    "artist": "DJ Pluxus",
+    "title": "KAIF SLAVIC PARTY — FIRST TIME IN OSAKA",
+    "url": "https://osaka-varon.jp/schedule/detail/55347",
     "venue": "VARON",
     "note": ""
   },
