@@ -4421,6 +4421,15 @@
   {
     "date": "2026/09/21",
     "day": "月祝",
+    "artist": "ホイップ&パンケーキ",
+    "title": "",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
+    "date": "2026/09/21",
+    "day": "月祝",
     "artist": "Arty",
     "title": "",
     "url": "https://para-dice.net/",
@@ -4430,7 +4439,7 @@
   {
     "date": "2026/09/21",
     "day": "月祝",
-    "artist": "18:25 〜  立てる",
+    "artist": "18:45 〜  立てる",
     "title": "",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
@@ -4457,7 +4466,7 @@
   {
     "date": "2026/09/22",
     "day": "火祝",
-    "artist": "JIMONJIT",
+    "artist": "JIMONJITO",
     "title": "Waterplant Folk主催",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
@@ -4844,17 +4853,8 @@
   {
     "date": "2026/10/02",
     "day": "金",
-    "artist": "moodress",
-    "title": "moodress / carrel bites / JACKSTRAW / madohi",
-    "url": "https://para-dice.net/",
-    "venue": "扇町para-dice",
-    "note": ""
-  },
-  {
-    "date": "2026/10/02",
-    "day": "金",
     "artist": "carrel bites",
-    "title": "moodress / carrel bites / JACKSTRAW / madohi",
+    "title": "OPEN 18:30",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -4863,7 +4863,7 @@
     "date": "2026/10/02",
     "day": "金",
     "artist": "JACKSTRAW",
-    "title": "moodress / carrel bites / JACKSTRAW / madohi",
+    "title": "OPEN 18:30",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -4871,8 +4871,17 @@
   {
     "date": "2026/10/02",
     "day": "金",
-    "artist": "madohi and more...",
-    "title": "moodress / carrel bites / JACKSTRAW / madohi",
+    "artist": "madohi",
+    "title": "OPEN 18:30",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
+    "date": "2026/10/02",
+    "day": "金",
+    "artist": "moodress",
+    "title": "OPEN 18:30",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -5177,8 +5186,17 @@
   {
     "date": "2026/10/16",
     "day": "金",
+    "artist": "フジコー",
+    "title": "フジコー(九九る式) / リリスバンド / 京橋光(f.カリニャンクール) / 虚舟 dub experience / HAMAYANEN",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
+    "date": "2026/10/16",
+    "day": "金",
     "artist": "リリスバンド",
-    "title": "リリスバンド / 京橋光(f.カリニャンクール) / 虚舟 dub experience / HAMAYANEN",
+    "title": "フジコー(九九る式) / リリスバンド / 京橋光(f.カリニャンクール) / 虚舟 dub experience / HAMAYANEN",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -5187,7 +5205,7 @@
     "date": "2026/10/16",
     "day": "金",
     "artist": "京橋光",
-    "title": "リリスバンド / 京橋光(f.カリニャンクール) / 虚舟 dub experience / HAMAYANEN",
+    "title": "フジコー(九九る式) / リリスバンド / 京橋光(f.カリニャンクール) / 虚舟 dub experience / HAMAYANEN",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -5196,7 +5214,7 @@
     "date": "2026/10/16",
     "day": "金",
     "artist": "虚舟 dub experience",
-    "title": "リリスバンド / 京橋光(f.カリニャンクール) / 虚舟 dub experience / HAMAYANEN",
+    "title": "フジコー(九九る式) / リリスバンド / 京橋光(f.カリニャンクール) / 虚舟 dub experience / HAMAYANEN",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -5204,8 +5222,8 @@
   {
     "date": "2026/10/16",
     "day": "金",
-    "artist": "HAMAYANEN and more...",
-    "title": "リリスバンド / 京橋光(f.カリニャンクール) / 虚舟 dub experience / HAMAYANEN",
+    "artist": "HAMAYANEN",
+    "title": "フジコー(九九る式) / リリスバンド / 京橋光(f.カリニャンクール) / 虚舟 dub experience / HAMAYANEN",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -5420,7 +5438,7 @@
   {
     "date": "2026/10/22",
     "day": "木",
-    "artist": "DietGRRRL and more...",
+    "artist": "DietGRRRL",
     "title": "ナタリーはぜかわ / PPP / 自転車SO業舎 / 河口紡 / DietGRRRL",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
@@ -5456,7 +5474,7 @@
   {
     "date": "2026/10/23",
     "day": "金",
-    "artist": "strange world's end and more...",
+    "artist": "strange world's end",
     "title": "NovaFlash / 黒色青年 / the dominant curve / strange world's end",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
@@ -8370,6 +8388,24 @@
     "note": ""
   },
   {
+    "date": "2026/09/08",
+    "day": "火",
+    "artist": "さやかバンド",
+    "title": "【北堀江コピバンナイト】vol.3",
+    "url": "https://vijon.jp/schedule/detail/53173",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2026/09/08",
+    "day": "火",
+    "artist": "けんとバンド",
+    "title": "【北堀江コピバンナイト】vol.3",
+    "url": "https://vijon.jp/schedule/detail/53173",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
     "date": "2026/09/11",
     "day": "金",
     "artist": "アイ飢エ",
@@ -8429,6 +8465,51 @@
     "artist": "カンプキンサギ",
     "title": "【wasted youth】周年直前SP - アイ飢エ2nd EP Release Tour 夜明けを探して -",
     "url": "https://vijon.jp/schedule/detail/53676",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2026/09/12",
+    "day": "土",
+    "artist": "Hello ∵ Mallo",
+    "title": "Hello ∵ Malloデビュー前LIVE！",
+    "url": "https://vijon.jp/schedule/detail/55022",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2026/09/12",
+    "day": "土",
+    "artist": "Lunouir Tiara",
+    "title": "Hello ∵ Malloデビュー前LIVE！",
+    "url": "https://vijon.jp/schedule/detail/55022",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2026/09/12",
+    "day": "土",
+    "artist": "MellBell",
+    "title": "Hello ∵ Malloデビュー前LIVE！",
+    "url": "https://vijon.jp/schedule/detail/55022",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2026/09/12",
+    "day": "土",
+    "artist": "パイナップルクラブ",
+    "title": "Hello ∵ Malloデビュー前LIVE！",
+    "url": "https://vijon.jp/schedule/detail/55022",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2026/09/12",
+    "day": "土",
+    "artist": "プラリオン",
+    "title": "Hello ∵ Malloデビュー前LIVE！",
+    "url": "https://vijon.jp/schedule/detail/55022",
     "venue": "北堀江club vijon",
     "note": ""
   },
@@ -8858,7 +8939,7 @@
   {
     "date": "2026/09/24",
     "day": "木",
-    "artist": "and more…",
+    "artist": "Stage-Flight",
     "title": "建人と健斗のアツイヨル",
     "url": "https://vijon.jp/schedule/detail/53858",
     "venue": "北堀江club vijon",
@@ -9135,6 +9216,60 @@
     "note": ""
   },
   {
+    "date": "2026/10/01",
+    "day": "木",
+    "artist": "ココラシカ",
+    "title": "【playgrounds】 vol.6 - club vijon 24th anniversary -",
+    "url": "https://vijon.jp/schedule/detail/55287",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2026/10/01",
+    "day": "木",
+    "artist": "holoyoi",
+    "title": "【playgrounds】 vol.6 - club vijon 24th anniversary -",
+    "url": "https://vijon.jp/schedule/detail/55287",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2026/10/01",
+    "day": "木",
+    "artist": "A peace of cake",
+    "title": "【playgrounds】 vol.6 - club vijon 24th anniversary -",
+    "url": "https://vijon.jp/schedule/detail/55287",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2026/10/01",
+    "day": "木",
+    "artist": "カラメルパーラー",
+    "title": "【playgrounds】 vol.6 - club vijon 24th anniversary -",
+    "url": "https://vijon.jp/schedule/detail/55287",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2026/10/01",
+    "day": "木",
+    "artist": "Sweets",
+    "title": "【playgrounds】 vol.6 - club vijon 24th anniversary -",
+    "url": "https://vijon.jp/schedule/detail/55287",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2026/10/01",
+    "day": "木",
+    "artist": "and more...",
+    "title": "【playgrounds】 vol.6 - club vijon 24th anniversary -",
+    "url": "https://vijon.jp/schedule/detail/55287",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
     "date": "2026/10/02",
     "day": "金",
     "artist": "VAR'MILION",
@@ -9182,7 +9317,7 @@
   {
     "date": "2026/10/02",
     "day": "金",
-    "artist": "and more... MISODOLL",
+    "artist": "城山彩涼 MISODOLL",
     "title": "VAR'MILION 5th Anniversary × club vijon 24th Anniversary ～ForeverNIGHT～",
     "url": "https://vijon.jp/schedule/detail/53426",
     "venue": "北堀江club vijon",
@@ -9254,7 +9389,7 @@
   {
     "date": "2026/10/07",
     "day": "水",
-    "artist": "...and more",
+    "artist": "こころ模様",
     "title": "club vijon 24th Anniversary pre.【Memento Moment】",
     "url": "https://vijon.jp/schedule/detail/52624",
     "venue": "北堀江club vijon",
@@ -9308,439 +9443,7 @@
   {
     "date": "2026/10/10",
     "day": "土",
-    "artist": "UNFAIR RULE",
-    "title": "Maxell presents FM802 MINAMI WHEEL 2026",
-    "url": "https://vijon.jp/schedule/detail/53993",
-    "venue": "北堀江club vijon",
-    "note": ""
-  },
-  {
-    "date": "2026/10/10",
-    "day": "土",
-    "artist": "EVE OF THE LAIN",
-    "title": "Maxell presents FM802 MINAMI WHEEL 2026",
-    "url": "https://vijon.jp/schedule/detail/53993",
-    "venue": "北堀江club vijon",
-    "note": ""
-  },
-  {
-    "date": "2026/10/10",
-    "day": "土",
-    "artist": "Wash My Friday",
-    "title": "Maxell presents FM802 MINAMI WHEEL 2026",
-    "url": "https://vijon.jp/schedule/detail/53993",
-    "venue": "北堀江club vijon",
-    "note": ""
-  },
-  {
-    "date": "2026/10/10",
-    "day": "土",
-    "artist": "Esteban",
-    "title": "Maxell presents FM802 MINAMI WHEEL 2026",
-    "url": "https://vijon.jp/schedule/detail/53993",
-    "venue": "北堀江club vijon",
-    "note": ""
-  },
-  {
-    "date": "2026/10/10",
-    "day": "土",
-    "artist": "OSHIKIKEIGO",
-    "title": "Maxell presents FM802 MINAMI WHEEL 2026",
-    "url": "https://vijon.jp/schedule/detail/53993",
-    "venue": "北堀江club vijon",
-    "note": ""
-  },
-  {
-    "date": "2026/10/10",
-    "day": "土",
-    "artist": "カライドスコープ",
-    "title": "Maxell presents FM802 MINAMI WHEEL 2026",
-    "url": "https://vijon.jp/schedule/detail/53993",
-    "venue": "北堀江club vijon",
-    "note": ""
-  },
-  {
-    "date": "2026/10/10",
-    "day": "土",
-    "artist": "Gum-9",
-    "title": "Maxell presents FM802 MINAMI WHEEL 2026",
-    "url": "https://vijon.jp/schedule/detail/53993",
-    "venue": "北堀江club vijon",
-    "note": ""
-  },
-  {
-    "date": "2026/10/10",
-    "day": "土",
-    "artist": "KI_EN",
-    "title": "Maxell presents FM802 MINAMI WHEEL 2026",
-    "url": "https://vijon.jp/schedule/detail/53993",
-    "venue": "北堀江club vijon",
-    "note": ""
-  },
-  {
-    "date": "2026/10/10",
-    "day": "土",
-    "artist": "クレイジーウォウウォ!!",
-    "title": "Maxell presents FM802 MINAMI WHEEL 2026",
-    "url": "https://vijon.jp/schedule/detail/53993",
-    "venue": "北堀江club vijon",
-    "note": ""
-  },
-  {
-    "date": "2026/10/10",
-    "day": "土",
-    "artist": "幻想痛",
-    "title": "Maxell presents FM802 MINAMI WHEEL 2026",
-    "url": "https://vijon.jp/schedule/detail/53993",
-    "venue": "北堀江club vijon",
-    "note": ""
-  },
-  {
-    "date": "2026/10/10",
-    "day": "土",
-    "artist": "コロブチカ",
-    "title": "Maxell presents FM802 MINAMI WHEEL 2026",
-    "url": "https://vijon.jp/schedule/detail/53993",
-    "venue": "北堀江club vijon",
-    "note": ""
-  },
-  {
-    "date": "2026/10/10",
-    "day": "土",
-    "artist": "sanetii",
-    "title": "Maxell presents FM802 MINAMI WHEEL 2026",
-    "url": "https://vijon.jp/schedule/detail/53993",
-    "venue": "北堀江club vijon",
-    "note": ""
-  },
-  {
-    "date": "2026/10/10",
-    "day": "土",
-    "artist": "三四少女",
-    "title": "Maxell presents FM802 MINAMI WHEEL 2026",
-    "url": "https://vijon.jp/schedule/detail/53993",
-    "venue": "北堀江club vijon",
-    "note": ""
-  },
-  {
-    "date": "2026/10/10",
-    "day": "土",
-    "artist": "TheΣ",
-    "title": "Maxell presents FM802 MINAMI WHEEL 2026",
-    "url": "https://vijon.jp/schedule/detail/53993",
-    "venue": "北堀江club vijon",
-    "note": ""
-  },
-  {
-    "date": "2026/10/10",
-    "day": "土",
-    "artist": "ざらばんし",
-    "title": "Maxell presents FM802 MINAMI WHEEL 2026",
-    "url": "https://vijon.jp/schedule/detail/53993",
-    "venue": "北堀江club vijon",
-    "note": ""
-  },
-  {
-    "date": "2026/10/10",
-    "day": "土",
-    "artist": "至福ぽんちょ",
-    "title": "Maxell presents FM802 MINAMI WHEEL 2026",
-    "url": "https://vijon.jp/schedule/detail/53993",
-    "venue": "北堀江club vijon",
-    "note": ""
-  },
-  {
-    "date": "2026/10/10",
-    "day": "土",
-    "artist": "終活クラブ",
-    "title": "Maxell presents FM802 MINAMI WHEEL 2026",
-    "url": "https://vijon.jp/schedule/detail/53993",
-    "venue": "北堀江club vijon",
-    "note": ""
-  },
-  {
-    "date": "2026/10/10",
-    "day": "土",
-    "artist": "JIJIM",
-    "title": "Maxell presents FM802 MINAMI WHEEL 2026",
-    "url": "https://vijon.jp/schedule/detail/53993",
-    "venue": "北堀江club vijon",
-    "note": ""
-  },
-  {
-    "date": "2026/10/10",
-    "day": "土",
-    "artist": "水平線",
-    "title": "Maxell presents FM802 MINAMI WHEEL 2026",
-    "url": "https://vijon.jp/schedule/detail/53993",
-    "venue": "北堀江club vijon",
-    "note": ""
-  },
-  {
-    "date": "2026/10/10",
-    "day": "土",
-    "artist": "ステレオドロシー",
-    "title": "Maxell presents FM802 MINAMI WHEEL 2026",
-    "url": "https://vijon.jp/schedule/detail/53993",
-    "venue": "北堀江club vijon",
-    "note": ""
-  },
-  {
-    "date": "2026/10/10",
-    "day": "土",
-    "artist": "スーパー登山部",
-    "title": "Maxell presents FM802 MINAMI WHEEL 2026",
-    "url": "https://vijon.jp/schedule/detail/53993",
-    "venue": "北堀江club vijon",
-    "note": ""
-  },
-  {
-    "date": "2026/10/10",
-    "day": "土",
-    "artist": "セブンス・ベガ",
-    "title": "Maxell presents FM802 MINAMI WHEEL 2026",
-    "url": "https://vijon.jp/schedule/detail/53993",
-    "venue": "北堀江club vijon",
-    "note": ""
-  },
-  {
-    "date": "2026/10/10",
-    "day": "土",
-    "artist": "Chimothy→",
-    "title": "Maxell presents FM802 MINAMI WHEEL 2026",
-    "url": "https://vijon.jp/schedule/detail/53993",
-    "venue": "北堀江club vijon",
-    "note": ""
-  },
-  {
-    "date": "2026/10/10",
-    "day": "土",
-    "artist": "Tyrkouaz",
-    "title": "Maxell presents FM802 MINAMI WHEEL 2026",
-    "url": "https://vijon.jp/schedule/detail/53993",
-    "venue": "北堀江club vijon",
-    "note": ""
-  },
-  {
-    "date": "2026/10/10",
-    "day": "土",
-    "artist": "デビューまでスラストンズ",
-    "title": "Maxell presents FM802 MINAMI WHEEL 2026",
-    "url": "https://vijon.jp/schedule/detail/53993",
-    "venue": "北堀江club vijon",
-    "note": ""
-  },
-  {
-    "date": "2026/10/10",
-    "day": "土",
-    "artist": "Doona",
-    "title": "Maxell presents FM802 MINAMI WHEEL 2026",
-    "url": "https://vijon.jp/schedule/detail/53993",
-    "venue": "北堀江club vijon",
-    "note": ""
-  },
-  {
-    "date": "2026/10/10",
-    "day": "土",
-    "artist": "なきごと",
-    "title": "Maxell presents FM802 MINAMI WHEEL 2026",
-    "url": "https://vijon.jp/schedule/detail/53993",
-    "venue": "北堀江club vijon",
-    "note": ""
-  },
-  {
-    "date": "2026/10/10",
-    "day": "土",
-    "artist": "Natsudaidai",
-    "title": "Maxell presents FM802 MINAMI WHEEL 2026",
-    "url": "https://vijon.jp/schedule/detail/53993",
-    "venue": "北堀江club vijon",
-    "note": ""
-  },
-  {
-    "date": "2026/10/10",
-    "day": "土",
-    "artist": "niina",
-    "title": "Maxell presents FM802 MINAMI WHEEL 2026",
-    "url": "https://vijon.jp/schedule/detail/53993",
-    "venue": "北堀江club vijon",
-    "note": ""
-  },
-  {
-    "date": "2026/10/10",
-    "day": "土",
-    "artist": "猫背のネイビーセゾン",
-    "title": "Maxell presents FM802 MINAMI WHEEL 2026",
-    "url": "https://vijon.jp/schedule/detail/53993",
-    "venue": "北堀江club vijon",
-    "note": ""
-  },
-  {
-    "date": "2026/10/10",
-    "day": "土",
-    "artist": "NELKE",
-    "title": "Maxell presents FM802 MINAMI WHEEL 2026",
-    "url": "https://vijon.jp/schedule/detail/53993",
-    "venue": "北堀江club vijon",
-    "note": ""
-  },
-  {
-    "date": "2026/10/10",
-    "day": "土",
-    "artist": "ハク。",
-    "title": "Maxell presents FM802 MINAMI WHEEL 2026",
-    "url": "https://vijon.jp/schedule/detail/53993",
-    "venue": "北堀江club vijon",
-    "note": ""
-  },
-  {
-    "date": "2026/10/10",
-    "day": "土",
-    "artist": "harha",
-    "title": "Maxell presents FM802 MINAMI WHEEL 2026",
-    "url": "https://vijon.jp/schedule/detail/53993",
-    "venue": "北堀江club vijon",
-    "note": ""
-  },
-  {
-    "date": "2026/10/10",
-    "day": "土",
-    "artist": "FUJIBASE",
-    "title": "Maxell presents FM802 MINAMI WHEEL 2026",
-    "url": "https://vijon.jp/schedule/detail/53993",
-    "venue": "北堀江club vijon",
-    "note": ""
-  },
-  {
-    "date": "2026/10/10",
-    "day": "土",
-    "artist": "Fluffy",
-    "title": "Maxell presents FM802 MINAMI WHEEL 2026",
-    "url": "https://vijon.jp/schedule/detail/53993",
-    "venue": "北堀江club vijon",
-    "note": ""
-  },
-  {
-    "date": "2026/10/10",
-    "day": "土",
-    "artist": "Baby Canta",
-    "title": "Maxell presents FM802 MINAMI WHEEL 2026",
-    "url": "https://vijon.jp/schedule/detail/53993",
-    "venue": "北堀江club vijon",
-    "note": ""
-  },
-  {
-    "date": "2026/10/10",
-    "day": "土",
-    "artist": "the Po",
-    "title": "Maxell presents FM802 MINAMI WHEEL 2026",
-    "url": "https://vijon.jp/schedule/detail/53993",
-    "venue": "北堀江club vijon",
-    "note": ""
-  },
-  {
-    "date": "2026/10/10",
-    "day": "土",
-    "artist": "ミーマイナー",
-    "title": "Maxell presents FM802 MINAMI WHEEL 2026",
-    "url": "https://vijon.jp/schedule/detail/53993",
-    "venue": "北堀江club vijon",
-    "note": ""
-  },
-  {
-    "date": "2026/10/10",
-    "day": "土",
-    "artist": "Maverick Mom",
-    "title": "Maxell presents FM802 MINAMI WHEEL 2026",
-    "url": "https://vijon.jp/schedule/detail/53993",
-    "venue": "北堀江club vijon",
-    "note": ""
-  },
-  {
-    "date": "2026/10/10",
-    "day": "土",
-    "artist": "Messy last girl",
-    "title": "Maxell presents FM802 MINAMI WHEEL 2026",
-    "url": "https://vijon.jp/schedule/detail/53993",
-    "venue": "北堀江club vijon",
-    "note": ""
-  },
-  {
-    "date": "2026/10/10",
-    "day": "土",
-    "artist": "MONONOKE",
-    "title": "Maxell presents FM802 MINAMI WHEEL 2026",
-    "url": "https://vijon.jp/schedule/detail/53993",
-    "venue": "北堀江club vijon",
-    "note": ""
-  },
-  {
-    "date": "2026/10/10",
-    "day": "土",
-    "artist": "MON7A",
-    "title": "Maxell presents FM802 MINAMI WHEEL 2026",
-    "url": "https://vijon.jp/schedule/detail/53993",
-    "venue": "北堀江club vijon",
-    "note": ""
-  },
-  {
-    "date": "2026/10/10",
-    "day": "土",
-    "artist": "『ユイカ』",
-    "title": "Maxell presents FM802 MINAMI WHEEL 2026",
-    "url": "https://vijon.jp/schedule/detail/53993",
-    "venue": "北堀江club vijon",
-    "note": ""
-  },
-  {
-    "date": "2026/10/10",
-    "day": "土",
-    "artist": "Lavt",
-    "title": "Maxell presents FM802 MINAMI WHEEL 2026",
-    "url": "https://vijon.jp/schedule/detail/53993",
-    "venue": "北堀江club vijon",
-    "note": ""
-  },
-  {
-    "date": "2026/10/10",
-    "day": "土",
-    "artist": "Laughing Hick",
-    "title": "Maxell presents FM802 MINAMI WHEEL 2026",
-    "url": "https://vijon.jp/schedule/detail/53993",
-    "venue": "北堀江club vijon",
-    "note": ""
-  },
-  {
-    "date": "2026/10/10",
-    "day": "土",
-    "artist": "Luov",
-    "title": "Maxell presents FM802 MINAMI WHEEL 2026",
-    "url": "https://vijon.jp/schedule/detail/53993",
-    "venue": "北堀江club vijon",
-    "note": ""
-  },
-  {
-    "date": "2026/10/10",
-    "day": "土",
-    "artist": "Leina",
-    "title": "Maxell presents FM802 MINAMI WHEEL 2026",
-    "url": "https://vijon.jp/schedule/detail/53993",
-    "venue": "北堀江club vijon",
-    "note": ""
-  },
-  {
-    "date": "2026/10/10",
-    "day": "土",
-    "artist": "レトロマイガール！！",
-    "title": "Maxell presents FM802 MINAMI WHEEL 2026",
-    "url": "https://vijon.jp/schedule/detail/53993",
-    "venue": "北堀江club vijon",
-    "note": ""
-  },
-  {
-    "date": "2026/10/10",
-    "day": "土",
-    "artist": "ん・フェニ and more!! ※50 音順",
+    "artist": "画像参照",
     "title": "Maxell presents FM802 MINAMI WHEEL 2026",
     "url": "https://vijon.jp/schedule/detail/53993",
     "venue": "北堀江club vijon",
@@ -9749,439 +9452,7 @@
   {
     "date": "2026/10/11",
     "day": "日",
-    "artist": "UNFAIR RULE",
-    "title": "Maxell presents FM802 MINAMI WHEEL 2026",
-    "url": "https://vijon.jp/schedule/detail/53994",
-    "venue": "北堀江club vijon",
-    "note": ""
-  },
-  {
-    "date": "2026/10/11",
-    "day": "日",
-    "artist": "EVE OF THE LAIN",
-    "title": "Maxell presents FM802 MINAMI WHEEL 2026",
-    "url": "https://vijon.jp/schedule/detail/53994",
-    "venue": "北堀江club vijon",
-    "note": ""
-  },
-  {
-    "date": "2026/10/11",
-    "day": "日",
-    "artist": "Wash My Friday",
-    "title": "Maxell presents FM802 MINAMI WHEEL 2026",
-    "url": "https://vijon.jp/schedule/detail/53994",
-    "venue": "北堀江club vijon",
-    "note": ""
-  },
-  {
-    "date": "2026/10/11",
-    "day": "日",
-    "artist": "Esteban",
-    "title": "Maxell presents FM802 MINAMI WHEEL 2026",
-    "url": "https://vijon.jp/schedule/detail/53994",
-    "venue": "北堀江club vijon",
-    "note": ""
-  },
-  {
-    "date": "2026/10/11",
-    "day": "日",
-    "artist": "OSHIKIKEIGO",
-    "title": "Maxell presents FM802 MINAMI WHEEL 2026",
-    "url": "https://vijon.jp/schedule/detail/53994",
-    "venue": "北堀江club vijon",
-    "note": ""
-  },
-  {
-    "date": "2026/10/11",
-    "day": "日",
-    "artist": "カライドスコープ",
-    "title": "Maxell presents FM802 MINAMI WHEEL 2026",
-    "url": "https://vijon.jp/schedule/detail/53994",
-    "venue": "北堀江club vijon",
-    "note": ""
-  },
-  {
-    "date": "2026/10/11",
-    "day": "日",
-    "artist": "Gum-9",
-    "title": "Maxell presents FM802 MINAMI WHEEL 2026",
-    "url": "https://vijon.jp/schedule/detail/53994",
-    "venue": "北堀江club vijon",
-    "note": ""
-  },
-  {
-    "date": "2026/10/11",
-    "day": "日",
-    "artist": "KI_EN",
-    "title": "Maxell presents FM802 MINAMI WHEEL 2026",
-    "url": "https://vijon.jp/schedule/detail/53994",
-    "venue": "北堀江club vijon",
-    "note": ""
-  },
-  {
-    "date": "2026/10/11",
-    "day": "日",
-    "artist": "クレイジーウォウウォ!!",
-    "title": "Maxell presents FM802 MINAMI WHEEL 2026",
-    "url": "https://vijon.jp/schedule/detail/53994",
-    "venue": "北堀江club vijon",
-    "note": ""
-  },
-  {
-    "date": "2026/10/11",
-    "day": "日",
-    "artist": "幻想痛",
-    "title": "Maxell presents FM802 MINAMI WHEEL 2026",
-    "url": "https://vijon.jp/schedule/detail/53994",
-    "venue": "北堀江club vijon",
-    "note": ""
-  },
-  {
-    "date": "2026/10/11",
-    "day": "日",
-    "artist": "コロブチカ",
-    "title": "Maxell presents FM802 MINAMI WHEEL 2026",
-    "url": "https://vijon.jp/schedule/detail/53994",
-    "venue": "北堀江club vijon",
-    "note": ""
-  },
-  {
-    "date": "2026/10/11",
-    "day": "日",
-    "artist": "sanetii",
-    "title": "Maxell presents FM802 MINAMI WHEEL 2026",
-    "url": "https://vijon.jp/schedule/detail/53994",
-    "venue": "北堀江club vijon",
-    "note": ""
-  },
-  {
-    "date": "2026/10/11",
-    "day": "日",
-    "artist": "三四少女",
-    "title": "Maxell presents FM802 MINAMI WHEEL 2026",
-    "url": "https://vijon.jp/schedule/detail/53994",
-    "venue": "北堀江club vijon",
-    "note": ""
-  },
-  {
-    "date": "2026/10/11",
-    "day": "日",
-    "artist": "TheΣ",
-    "title": "Maxell presents FM802 MINAMI WHEEL 2026",
-    "url": "https://vijon.jp/schedule/detail/53994",
-    "venue": "北堀江club vijon",
-    "note": ""
-  },
-  {
-    "date": "2026/10/11",
-    "day": "日",
-    "artist": "ざらばんし",
-    "title": "Maxell presents FM802 MINAMI WHEEL 2026",
-    "url": "https://vijon.jp/schedule/detail/53994",
-    "venue": "北堀江club vijon",
-    "note": ""
-  },
-  {
-    "date": "2026/10/11",
-    "day": "日",
-    "artist": "至福ぽんちょ",
-    "title": "Maxell presents FM802 MINAMI WHEEL 2026",
-    "url": "https://vijon.jp/schedule/detail/53994",
-    "venue": "北堀江club vijon",
-    "note": ""
-  },
-  {
-    "date": "2026/10/11",
-    "day": "日",
-    "artist": "終活クラブ",
-    "title": "Maxell presents FM802 MINAMI WHEEL 2026",
-    "url": "https://vijon.jp/schedule/detail/53994",
-    "venue": "北堀江club vijon",
-    "note": ""
-  },
-  {
-    "date": "2026/10/11",
-    "day": "日",
-    "artist": "JIJIM",
-    "title": "Maxell presents FM802 MINAMI WHEEL 2026",
-    "url": "https://vijon.jp/schedule/detail/53994",
-    "venue": "北堀江club vijon",
-    "note": ""
-  },
-  {
-    "date": "2026/10/11",
-    "day": "日",
-    "artist": "水平線",
-    "title": "Maxell presents FM802 MINAMI WHEEL 2026",
-    "url": "https://vijon.jp/schedule/detail/53994",
-    "venue": "北堀江club vijon",
-    "note": ""
-  },
-  {
-    "date": "2026/10/11",
-    "day": "日",
-    "artist": "ステレオドロシー",
-    "title": "Maxell presents FM802 MINAMI WHEEL 2026",
-    "url": "https://vijon.jp/schedule/detail/53994",
-    "venue": "北堀江club vijon",
-    "note": ""
-  },
-  {
-    "date": "2026/10/11",
-    "day": "日",
-    "artist": "スーパー登山部",
-    "title": "Maxell presents FM802 MINAMI WHEEL 2026",
-    "url": "https://vijon.jp/schedule/detail/53994",
-    "venue": "北堀江club vijon",
-    "note": ""
-  },
-  {
-    "date": "2026/10/11",
-    "day": "日",
-    "artist": "セブンス・ベガ",
-    "title": "Maxell presents FM802 MINAMI WHEEL 2026",
-    "url": "https://vijon.jp/schedule/detail/53994",
-    "venue": "北堀江club vijon",
-    "note": ""
-  },
-  {
-    "date": "2026/10/11",
-    "day": "日",
-    "artist": "Chimothy→",
-    "title": "Maxell presents FM802 MINAMI WHEEL 2026",
-    "url": "https://vijon.jp/schedule/detail/53994",
-    "venue": "北堀江club vijon",
-    "note": ""
-  },
-  {
-    "date": "2026/10/11",
-    "day": "日",
-    "artist": "Tyrkouaz",
-    "title": "Maxell presents FM802 MINAMI WHEEL 2026",
-    "url": "https://vijon.jp/schedule/detail/53994",
-    "venue": "北堀江club vijon",
-    "note": ""
-  },
-  {
-    "date": "2026/10/11",
-    "day": "日",
-    "artist": "デビューまでスラストンズ",
-    "title": "Maxell presents FM802 MINAMI WHEEL 2026",
-    "url": "https://vijon.jp/schedule/detail/53994",
-    "venue": "北堀江club vijon",
-    "note": ""
-  },
-  {
-    "date": "2026/10/11",
-    "day": "日",
-    "artist": "Doona",
-    "title": "Maxell presents FM802 MINAMI WHEEL 2026",
-    "url": "https://vijon.jp/schedule/detail/53994",
-    "venue": "北堀江club vijon",
-    "note": ""
-  },
-  {
-    "date": "2026/10/11",
-    "day": "日",
-    "artist": "なきごと",
-    "title": "Maxell presents FM802 MINAMI WHEEL 2026",
-    "url": "https://vijon.jp/schedule/detail/53994",
-    "venue": "北堀江club vijon",
-    "note": ""
-  },
-  {
-    "date": "2026/10/11",
-    "day": "日",
-    "artist": "Natsudaidai",
-    "title": "Maxell presents FM802 MINAMI WHEEL 2026",
-    "url": "https://vijon.jp/schedule/detail/53994",
-    "venue": "北堀江club vijon",
-    "note": ""
-  },
-  {
-    "date": "2026/10/11",
-    "day": "日",
-    "artist": "niina",
-    "title": "Maxell presents FM802 MINAMI WHEEL 2026",
-    "url": "https://vijon.jp/schedule/detail/53994",
-    "venue": "北堀江club vijon",
-    "note": ""
-  },
-  {
-    "date": "2026/10/11",
-    "day": "日",
-    "artist": "猫背のネイビーセゾン",
-    "title": "Maxell presents FM802 MINAMI WHEEL 2026",
-    "url": "https://vijon.jp/schedule/detail/53994",
-    "venue": "北堀江club vijon",
-    "note": ""
-  },
-  {
-    "date": "2026/10/11",
-    "day": "日",
-    "artist": "NELKE",
-    "title": "Maxell presents FM802 MINAMI WHEEL 2026",
-    "url": "https://vijon.jp/schedule/detail/53994",
-    "venue": "北堀江club vijon",
-    "note": ""
-  },
-  {
-    "date": "2026/10/11",
-    "day": "日",
-    "artist": "ハク。",
-    "title": "Maxell presents FM802 MINAMI WHEEL 2026",
-    "url": "https://vijon.jp/schedule/detail/53994",
-    "venue": "北堀江club vijon",
-    "note": ""
-  },
-  {
-    "date": "2026/10/11",
-    "day": "日",
-    "artist": "harha",
-    "title": "Maxell presents FM802 MINAMI WHEEL 2026",
-    "url": "https://vijon.jp/schedule/detail/53994",
-    "venue": "北堀江club vijon",
-    "note": ""
-  },
-  {
-    "date": "2026/10/11",
-    "day": "日",
-    "artist": "FUJIBASE",
-    "title": "Maxell presents FM802 MINAMI WHEEL 2026",
-    "url": "https://vijon.jp/schedule/detail/53994",
-    "venue": "北堀江club vijon",
-    "note": ""
-  },
-  {
-    "date": "2026/10/11",
-    "day": "日",
-    "artist": "Fluffy",
-    "title": "Maxell presents FM802 MINAMI WHEEL 2026",
-    "url": "https://vijon.jp/schedule/detail/53994",
-    "venue": "北堀江club vijon",
-    "note": ""
-  },
-  {
-    "date": "2026/10/11",
-    "day": "日",
-    "artist": "Baby Canta",
-    "title": "Maxell presents FM802 MINAMI WHEEL 2026",
-    "url": "https://vijon.jp/schedule/detail/53994",
-    "venue": "北堀江club vijon",
-    "note": ""
-  },
-  {
-    "date": "2026/10/11",
-    "day": "日",
-    "artist": "the Po",
-    "title": "Maxell presents FM802 MINAMI WHEEL 2026",
-    "url": "https://vijon.jp/schedule/detail/53994",
-    "venue": "北堀江club vijon",
-    "note": ""
-  },
-  {
-    "date": "2026/10/11",
-    "day": "日",
-    "artist": "ミーマイナー",
-    "title": "Maxell presents FM802 MINAMI WHEEL 2026",
-    "url": "https://vijon.jp/schedule/detail/53994",
-    "venue": "北堀江club vijon",
-    "note": ""
-  },
-  {
-    "date": "2026/10/11",
-    "day": "日",
-    "artist": "Maverick Mom",
-    "title": "Maxell presents FM802 MINAMI WHEEL 2026",
-    "url": "https://vijon.jp/schedule/detail/53994",
-    "venue": "北堀江club vijon",
-    "note": ""
-  },
-  {
-    "date": "2026/10/11",
-    "day": "日",
-    "artist": "Messy last girl",
-    "title": "Maxell presents FM802 MINAMI WHEEL 2026",
-    "url": "https://vijon.jp/schedule/detail/53994",
-    "venue": "北堀江club vijon",
-    "note": ""
-  },
-  {
-    "date": "2026/10/11",
-    "day": "日",
-    "artist": "MONONOKE",
-    "title": "Maxell presents FM802 MINAMI WHEEL 2026",
-    "url": "https://vijon.jp/schedule/detail/53994",
-    "venue": "北堀江club vijon",
-    "note": ""
-  },
-  {
-    "date": "2026/10/11",
-    "day": "日",
-    "artist": "MON7A",
-    "title": "Maxell presents FM802 MINAMI WHEEL 2026",
-    "url": "https://vijon.jp/schedule/detail/53994",
-    "venue": "北堀江club vijon",
-    "note": ""
-  },
-  {
-    "date": "2026/10/11",
-    "day": "日",
-    "artist": "『ユイカ』",
-    "title": "Maxell presents FM802 MINAMI WHEEL 2026",
-    "url": "https://vijon.jp/schedule/detail/53994",
-    "venue": "北堀江club vijon",
-    "note": ""
-  },
-  {
-    "date": "2026/10/11",
-    "day": "日",
-    "artist": "Lavt",
-    "title": "Maxell presents FM802 MINAMI WHEEL 2026",
-    "url": "https://vijon.jp/schedule/detail/53994",
-    "venue": "北堀江club vijon",
-    "note": ""
-  },
-  {
-    "date": "2026/10/11",
-    "day": "日",
-    "artist": "Laughing Hick",
-    "title": "Maxell presents FM802 MINAMI WHEEL 2026",
-    "url": "https://vijon.jp/schedule/detail/53994",
-    "venue": "北堀江club vijon",
-    "note": ""
-  },
-  {
-    "date": "2026/10/11",
-    "day": "日",
-    "artist": "Luov",
-    "title": "Maxell presents FM802 MINAMI WHEEL 2026",
-    "url": "https://vijon.jp/schedule/detail/53994",
-    "venue": "北堀江club vijon",
-    "note": ""
-  },
-  {
-    "date": "2026/10/11",
-    "day": "日",
-    "artist": "Leina",
-    "title": "Maxell presents FM802 MINAMI WHEEL 2026",
-    "url": "https://vijon.jp/schedule/detail/53994",
-    "venue": "北堀江club vijon",
-    "note": ""
-  },
-  {
-    "date": "2026/10/11",
-    "day": "日",
-    "artist": "レトロマイガール！！",
-    "title": "Maxell presents FM802 MINAMI WHEEL 2026",
-    "url": "https://vijon.jp/schedule/detail/53994",
-    "venue": "北堀江club vijon",
-    "note": ""
-  },
-  {
-    "date": "2026/10/11",
-    "day": "日",
-    "artist": "ん・フェニ and more!! ※50 音順",
+    "artist": "画像参照",
     "title": "Maxell presents FM802 MINAMI WHEEL 2026",
     "url": "https://vijon.jp/schedule/detail/53994",
     "venue": "北堀江club vijon",
@@ -10190,441 +9461,54 @@
   {
     "date": "2026/10/12",
     "day": "月",
-    "artist": "UNFAIR RULE",
+    "artist": "画像参照",
     "title": "Maxell presents FM802 MINAMI WHEEL 2026",
     "url": "https://vijon.jp/schedule/detail/53995",
     "venue": "北堀江club vijon",
     "note": ""
   },
   {
-    "date": "2026/10/12",
+    "date": "2026/10/19",
     "day": "月",
-    "artist": "EVE OF THE LAIN",
-    "title": "Maxell presents FM802 MINAMI WHEEL 2026",
-    "url": "https://vijon.jp/schedule/detail/53995",
+    "artist": "ノーサイド・アウトサイダー",
+    "title": "club vijon pre. 【OTOSELECT】club vijon 24th anniversary",
+    "url": "https://vijon.jp/schedule/detail/54751",
     "venue": "北堀江club vijon",
     "note": ""
   },
   {
-    "date": "2026/10/12",
+    "date": "2026/10/19",
     "day": "月",
-    "artist": "Wash My Friday",
-    "title": "Maxell presents FM802 MINAMI WHEEL 2026",
-    "url": "https://vijon.jp/schedule/detail/53995",
+    "artist": "MOMO",
+    "title": "club vijon pre. 【OTOSELECT】club vijon 24th anniversary",
+    "url": "https://vijon.jp/schedule/detail/54751",
     "venue": "北堀江club vijon",
     "note": ""
   },
   {
-    "date": "2026/10/12",
+    "date": "2026/10/19",
     "day": "月",
-    "artist": "Esteban",
-    "title": "Maxell presents FM802 MINAMI WHEEL 2026",
-    "url": "https://vijon.jp/schedule/detail/53995",
+    "artist": "おシャベリな感情",
+    "title": "club vijon pre. 【OTOSELECT】club vijon 24th anniversary",
+    "url": "https://vijon.jp/schedule/detail/54751",
     "venue": "北堀江club vijon",
     "note": ""
   },
   {
-    "date": "2026/10/12",
+    "date": "2026/10/19",
     "day": "月",
-    "artist": "OSHIKIKEIGO",
-    "title": "Maxell presents FM802 MINAMI WHEEL 2026",
-    "url": "https://vijon.jp/schedule/detail/53995",
+    "artist": "Laugh Na Mama",
+    "title": "club vijon pre. 【OTOSELECT】club vijon 24th anniversary",
+    "url": "https://vijon.jp/schedule/detail/54751",
     "venue": "北堀江club vijon",
     "note": ""
   },
   {
-    "date": "2026/10/12",
+    "date": "2026/10/19",
     "day": "月",
-    "artist": "カライドスコープ",
-    "title": "Maxell presents FM802 MINAMI WHEEL 2026",
-    "url": "https://vijon.jp/schedule/detail/53995",
-    "venue": "北堀江club vijon",
-    "note": ""
-  },
-  {
-    "date": "2026/10/12",
-    "day": "月",
-    "artist": "Gum-9",
-    "title": "Maxell presents FM802 MINAMI WHEEL 2026",
-    "url": "https://vijon.jp/schedule/detail/53995",
-    "venue": "北堀江club vijon",
-    "note": ""
-  },
-  {
-    "date": "2026/10/12",
-    "day": "月",
-    "artist": "KI_EN",
-    "title": "Maxell presents FM802 MINAMI WHEEL 2026",
-    "url": "https://vijon.jp/schedule/detail/53995",
-    "venue": "北堀江club vijon",
-    "note": ""
-  },
-  {
-    "date": "2026/10/12",
-    "day": "月",
-    "artist": "クレイジーウォウウォ!!",
-    "title": "Maxell presents FM802 MINAMI WHEEL 2026",
-    "url": "https://vijon.jp/schedule/detail/53995",
-    "venue": "北堀江club vijon",
-    "note": ""
-  },
-  {
-    "date": "2026/10/12",
-    "day": "月",
-    "artist": "幻想痛",
-    "title": "Maxell presents FM802 MINAMI WHEEL 2026",
-    "url": "https://vijon.jp/schedule/detail/53995",
-    "venue": "北堀江club vijon",
-    "note": ""
-  },
-  {
-    "date": "2026/10/12",
-    "day": "月",
-    "artist": "コロブチカ",
-    "title": "Maxell presents FM802 MINAMI WHEEL 2026",
-    "url": "https://vijon.jp/schedule/detail/53995",
-    "venue": "北堀江club vijon",
-    "note": ""
-  },
-  {
-    "date": "2026/10/12",
-    "day": "月",
-    "artist": "sanetii",
-    "title": "Maxell presents FM802 MINAMI WHEEL 2026",
-    "url": "https://vijon.jp/schedule/detail/53995",
-    "venue": "北堀江club vijon",
-    "note": ""
-  },
-  {
-    "date": "2026/10/12",
-    "day": "月",
-    "artist": "三四少女",
-    "title": "Maxell presents FM802 MINAMI WHEEL 2026",
-    "url": "https://vijon.jp/schedule/detail/53995",
-    "venue": "北堀江club vijon",
-    "note": ""
-  },
-  {
-    "date": "2026/10/12",
-    "day": "月",
-    "artist": "TheΣ",
-    "title": "Maxell presents FM802 MINAMI WHEEL 2026",
-    "url": "https://vijon.jp/schedule/detail/53995",
-    "venue": "北堀江club vijon",
-    "note": ""
-  },
-  {
-    "date": "2026/10/12",
-    "day": "月",
-    "artist": "ざらばんし",
-    "title": "Maxell presents FM802 MINAMI WHEEL 2026",
-    "url": "https://vijon.jp/schedule/detail/53995",
-    "venue": "北堀江club vijon",
-    "note": ""
-  },
-  {
-    "date": "2026/10/12",
-    "day": "月",
-    "artist": "至福ぽんちょ",
-    "title": "Maxell presents FM802 MINAMI WHEEL 2026",
-    "url": "https://vijon.jp/schedule/detail/53995",
-    "venue": "北堀江club vijon",
-    "note": ""
-  },
-  {
-    "date": "2026/10/12",
-    "day": "月",
-    "artist": "終活クラブ",
-    "title": "Maxell presents FM802 MINAMI WHEEL 2026",
-    "url": "https://vijon.jp/schedule/detail/53995",
-    "venue": "北堀江club vijon",
-    "note": ""
-  },
-  {
-    "date": "2026/10/12",
-    "day": "月",
-    "artist": "JIJIM",
-    "title": "Maxell presents FM802 MINAMI WHEEL 2026",
-    "url": "https://vijon.jp/schedule/detail/53995",
-    "venue": "北堀江club vijon",
-    "note": ""
-  },
-  {
-    "date": "2026/10/12",
-    "day": "月",
-    "artist": "水平線",
-    "title": "Maxell presents FM802 MINAMI WHEEL 2026",
-    "url": "https://vijon.jp/schedule/detail/53995",
-    "venue": "北堀江club vijon",
-    "note": ""
-  },
-  {
-    "date": "2026/10/12",
-    "day": "月",
-    "artist": "ステレオドロシー",
-    "title": "Maxell presents FM802 MINAMI WHEEL 2026",
-    "url": "https://vijon.jp/schedule/detail/53995",
-    "venue": "北堀江club vijon",
-    "note": ""
-  },
-  {
-    "date": "2026/10/12",
-    "day": "月",
-    "artist": "スーパー登山部",
-    "title": "Maxell presents FM802 MINAMI WHEEL 2026",
-    "url": "https://vijon.jp/schedule/detail/53995",
-    "venue": "北堀江club vijon",
-    "note": ""
-  },
-  {
-    "date": "2026/10/12",
-    "day": "月",
-    "artist": "セブンス・ベガ",
-    "title": "Maxell presents FM802 MINAMI WHEEL 2026",
-    "url": "https://vijon.jp/schedule/detail/53995",
-    "venue": "北堀江club vijon",
-    "note": ""
-  },
-  {
-    "date": "2026/10/12",
-    "day": "月",
-    "artist": "Chimothy→",
-    "title": "Maxell presents FM802 MINAMI WHEEL 2026",
-    "url": "https://vijon.jp/schedule/detail/53995",
-    "venue": "北堀江club vijon",
-    "note": ""
-  },
-  {
-    "date": "2026/10/12",
-    "day": "月",
-    "artist": "Tyrkouaz",
-    "title": "Maxell presents FM802 MINAMI WHEEL 2026",
-    "url": "https://vijon.jp/schedule/detail/53995",
-    "venue": "北堀江club vijon",
-    "note": ""
-  },
-  {
-    "date": "2026/10/12",
-    "day": "月",
-    "artist": "デビューまでスラストンズ",
-    "title": "Maxell presents FM802 MINAMI WHEEL 2026",
-    "url": "https://vijon.jp/schedule/detail/53995",
-    "venue": "北堀江club vijon",
-    "note": ""
-  },
-  {
-    "date": "2026/10/12",
-    "day": "月",
-    "artist": "Doona",
-    "title": "Maxell presents FM802 MINAMI WHEEL 2026",
-    "url": "https://vijon.jp/schedule/detail/53995",
-    "venue": "北堀江club vijon",
-    "note": ""
-  },
-  {
-    "date": "2026/10/12",
-    "day": "月",
-    "artist": "なきごと",
-    "title": "Maxell presents FM802 MINAMI WHEEL 2026",
-    "url": "https://vijon.jp/schedule/detail/53995",
-    "venue": "北堀江club vijon",
-    "note": ""
-  },
-  {
-    "date": "2026/10/12",
-    "day": "月",
-    "artist": "Natsudaidai",
-    "title": "Maxell presents FM802 MINAMI WHEEL 2026",
-    "url": "https://vijon.jp/schedule/detail/53995",
-    "venue": "北堀江club vijon",
-    "note": ""
-  },
-  {
-    "date": "2026/10/12",
-    "day": "月",
-    "artist": "niina",
-    "title": "Maxell presents FM802 MINAMI WHEEL 2026",
-    "url": "https://vijon.jp/schedule/detail/53995",
-    "venue": "北堀江club vijon",
-    "note": ""
-  },
-  {
-    "date": "2026/10/12",
-    "day": "月",
-    "artist": "猫背のネイビーセゾン",
-    "title": "Maxell presents FM802 MINAMI WHEEL 2026",
-    "url": "https://vijon.jp/schedule/detail/53995",
-    "venue": "北堀江club vijon",
-    "note": ""
-  },
-  {
-    "date": "2026/10/12",
-    "day": "月",
-    "artist": "NELKE",
-    "title": "Maxell presents FM802 MINAMI WHEEL 2026",
-    "url": "https://vijon.jp/schedule/detail/53995",
-    "venue": "北堀江club vijon",
-    "note": ""
-  },
-  {
-    "date": "2026/10/12",
-    "day": "月",
-    "artist": "ハク。",
-    "title": "Maxell presents FM802 MINAMI WHEEL 2026",
-    "url": "https://vijon.jp/schedule/detail/53995",
-    "venue": "北堀江club vijon",
-    "note": ""
-  },
-  {
-    "date": "2026/10/12",
-    "day": "月",
-    "artist": "harha",
-    "title": "Maxell presents FM802 MINAMI WHEEL 2026",
-    "url": "https://vijon.jp/schedule/detail/53995",
-    "venue": "北堀江club vijon",
-    "note": ""
-  },
-  {
-    "date": "2026/10/12",
-    "day": "月",
-    "artist": "FUJIBASE",
-    "title": "Maxell presents FM802 MINAMI WHEEL 2026",
-    "url": "https://vijon.jp/schedule/detail/53995",
-    "venue": "北堀江club vijon",
-    "note": ""
-  },
-  {
-    "date": "2026/10/12",
-    "day": "月",
-    "artist": "Fluffy",
-    "title": "Maxell presents FM802 MINAMI WHEEL 2026",
-    "url": "https://vijon.jp/schedule/detail/53995",
-    "venue": "北堀江club vijon",
-    "note": ""
-  },
-  {
-    "date": "2026/10/12",
-    "day": "月",
-    "artist": "Baby Canta",
-    "title": "Maxell presents FM802 MINAMI WHEEL 2026",
-    "url": "https://vijon.jp/schedule/detail/53995",
-    "venue": "北堀江club vijon",
-    "note": ""
-  },
-  {
-    "date": "2026/10/12",
-    "day": "月",
-    "artist": "the Po",
-    "title": "Maxell presents FM802 MINAMI WHEEL 2026",
-    "url": "https://vijon.jp/schedule/detail/53995",
-    "venue": "北堀江club vijon",
-    "note": ""
-  },
-  {
-    "date": "2026/10/12",
-    "day": "月",
-    "artist": "ミーマイナー",
-    "title": "Maxell presents FM802 MINAMI WHEEL 2026",
-    "url": "https://vijon.jp/schedule/detail/53995",
-    "venue": "北堀江club vijon",
-    "note": ""
-  },
-  {
-    "date": "2026/10/12",
-    "day": "月",
-    "artist": "Maverick Mom",
-    "title": "Maxell presents FM802 MINAMI WHEEL 2026",
-    "url": "https://vijon.jp/schedule/detail/53995",
-    "venue": "北堀江club vijon",
-    "note": ""
-  },
-  {
-    "date": "2026/10/12",
-    "day": "月",
-    "artist": "Messy last girl",
-    "title": "Maxell presents FM802 MINAMI WHEEL 2026",
-    "url": "https://vijon.jp/schedule/detail/53995",
-    "venue": "北堀江club vijon",
-    "note": ""
-  },
-  {
-    "date": "2026/10/12",
-    "day": "月",
-    "artist": "MONONOKE",
-    "title": "Maxell presents FM802 MINAMI WHEEL 2026",
-    "url": "https://vijon.jp/schedule/detail/53995",
-    "venue": "北堀江club vijon",
-    "note": ""
-  },
-  {
-    "date": "2026/10/12",
-    "day": "月",
-    "artist": "MON7A",
-    "title": "Maxell presents FM802 MINAMI WHEEL 2026",
-    "url": "https://vijon.jp/schedule/detail/53995",
-    "venue": "北堀江club vijon",
-    "note": ""
-  },
-  {
-    "date": "2026/10/12",
-    "day": "月",
-    "artist": "『ユイカ』",
-    "title": "Maxell presents FM802 MINAMI WHEEL 2026",
-    "url": "https://vijon.jp/schedule/detail/53995",
-    "venue": "北堀江club vijon",
-    "note": ""
-  },
-  {
-    "date": "2026/10/12",
-    "day": "月",
-    "artist": "Lavt",
-    "title": "Maxell presents FM802 MINAMI WHEEL 2026",
-    "url": "https://vijon.jp/schedule/detail/53995",
-    "venue": "北堀江club vijon",
-    "note": ""
-  },
-  {
-    "date": "2026/10/12",
-    "day": "月",
-    "artist": "Laughing Hick",
-    "title": "Maxell presents FM802 MINAMI WHEEL 2026",
-    "url": "https://vijon.jp/schedule/detail/53995",
-    "venue": "北堀江club vijon",
-    "note": ""
-  },
-  {
-    "date": "2026/10/12",
-    "day": "月",
-    "artist": "Luov",
-    "title": "Maxell presents FM802 MINAMI WHEEL 2026",
-    "url": "https://vijon.jp/schedule/detail/53995",
-    "venue": "北堀江club vijon",
-    "note": ""
-  },
-  {
-    "date": "2026/10/12",
-    "day": "月",
-    "artist": "Leina",
-    "title": "Maxell presents FM802 MINAMI WHEEL 2026",
-    "url": "https://vijon.jp/schedule/detail/53995",
-    "venue": "北堀江club vijon",
-    "note": ""
-  },
-  {
-    "date": "2026/10/12",
-    "day": "月",
-    "artist": "レトロマイガール！！",
-    "title": "Maxell presents FM802 MINAMI WHEEL 2026",
-    "url": "https://vijon.jp/schedule/detail/53995",
-    "venue": "北堀江club vijon",
-    "note": ""
-  },
-  {
-    "date": "2026/10/12",
-    "day": "月",
-    "artist": "ん・フェニ and more!! ※50 音順",
-    "title": "Maxell presents FM802 MINAMI WHEEL 2026",
-    "url": "https://vijon.jp/schedule/detail/53995",
+    "artist": "and more...",
+    "title": "club vijon pre. 【OTOSELECT】club vijon 24th anniversary",
+    "url": "https://vijon.jp/schedule/detail/54751",
     "venue": "北堀江club vijon",
     "note": ""
   },
@@ -13637,26 +12521,17 @@
   {
     "date": "2026/08/30",
     "day": "日",
-    "artist": "AZ-ON",
-    "title": "PANIC in the PARTY",
-    "url": "https://bangboo.jp/schedule/detail/55502",
-    "venue": "梅田BANGBOO",
-    "note": ""
-  },
-  {
-    "date": "2026/08/30",
-    "day": "日",
-    "artist": "MAZE",
-    "title": "PANIC in the PARTY",
-    "url": "https://bangboo.jp/schedule/detail/55502",
-    "venue": "梅田BANGBOO",
-    "note": ""
-  },
-  {
-    "date": "2026/08/30",
-    "day": "日",
     "artist": "AIBECK",
-    "title": "PANIC in the PARTY",
+    "title": "三位一体攻撃 TRINITY ATTACK",
+    "url": "https://bangboo.jp/schedule/detail/55502",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2026/08/30",
+    "day": "日",
+    "artist": "AZ-ON",
+    "title": "三位一体攻撃 TRINITY ATTACK",
     "url": "https://bangboo.jp/schedule/detail/55502",
     "venue": "梅田BANGBOO",
     "note": ""
@@ -13665,7 +12540,7 @@
     "date": "2026/08/30",
     "day": "日",
     "artist": "LEIWAN",
-    "title": "PANIC in the PARTY",
+    "title": "三位一体攻撃 TRINITY ATTACK",
     "url": "https://bangboo.jp/schedule/detail/55502",
     "venue": "梅田BANGBOO",
     "note": ""
@@ -13674,6 +12549,15 @@
     "date": "2026/08/30",
     "day": "日",
     "artist": "鳴ル神",
+    "title": "鳴ル神 pre. 共鳴",
+    "url": "https://bangboo.jp/schedule/detail/46754",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2026/08/30",
+    "day": "日",
+    "artist": "MAZE",
     "title": "鳴ル神 pre. 共鳴",
     "url": "https://bangboo.jp/schedule/detail/46754",
     "venue": "梅田BANGBOO",
@@ -15152,6 +14036,15 @@
     "artist": "crescentの花",
     "title": "crescentの花結成9周年ワンマンLiVE ビバ!!クレッシェンド｢GRAND SLAM｣",
     "url": "https://bangboo.jp/schedule/detail/51424",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2026/12/04",
+    "day": "金",
+    "artist": "YRD Leo",
+    "title": "YRD Leo SOLO LIVE 2026 「REUNION 2」",
+    "url": "https://bangboo.jp/schedule/detail/55775",
     "venue": "梅田BANGBOO",
     "note": ""
   },
@@ -18468,6 +17361,51 @@
     "note": ""
   },
   {
+    "date": "2026/09/10",
+    "day": "木",
+    "artist": "みきこ",
+    "title": "Hello,the Music#3",
+    "url": "https://clubdrop.jp/schedule/detail/52789",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/09/10",
+    "day": "木",
+    "artist": "咲那",
+    "title": "Hello,the Music#3",
+    "url": "https://clubdrop.jp/schedule/detail/52789",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/09/10",
+    "day": "木",
+    "artist": "カラサワ ユア",
+    "title": "Hello,the Music#3",
+    "url": "https://clubdrop.jp/schedule/detail/52789",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/09/10",
+    "day": "木",
+    "artist": "りお",
+    "title": "Hello,the Music#3",
+    "url": "https://clubdrop.jp/schedule/detail/52789",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/09/10",
+    "day": "木",
+    "artist": "今岡ヒロトfromキセイチュウ and more!!",
+    "title": "Hello,the Music#3",
+    "url": "https://clubdrop.jp/schedule/detail/52789",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
     "date": "2026/09/11",
     "day": "金",
     "artist": "UnpRayable",
@@ -21366,6 +20304,69 @@
     "note": ""
   },
   {
+    "date": "2026/09/04",
+    "day": "金",
+    "artist": "アクアリウム。",
+    "title": "アイドル好きで何がわるい",
+    "url": "https://osaka-varon.jp/schedule/detail/49561",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2026/09/04",
+    "day": "金",
+    "artist": "MeluCharm",
+    "title": "アイドル好きで何がわるい",
+    "url": "https://osaka-varon.jp/schedule/detail/49561",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2026/09/04",
+    "day": "金",
+    "artist": "sync-sens",
+    "title": "アイドル好きで何がわるい",
+    "url": "https://osaka-varon.jp/schedule/detail/49561",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2026/09/04",
+    "day": "金",
+    "artist": "めろでぃらびっと",
+    "title": "アイドル好きで何がわるい",
+    "url": "https://osaka-varon.jp/schedule/detail/49561",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2026/09/04",
+    "day": "金",
+    "artist": "うぃるめり！",
+    "title": "アイドル好きで何がわるい",
+    "url": "https://osaka-varon.jp/schedule/detail/49561",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2026/09/04",
+    "day": "金",
+    "artist": "ハピネスクラッカー！",
+    "title": "アイドル好きで何がわるい",
+    "url": "https://osaka-varon.jp/schedule/detail/49561",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2026/09/04",
+    "day": "金",
+    "artist": "SANUGLOW",
+    "title": "アイドル好きで何がわるい",
+    "url": "https://osaka-varon.jp/schedule/detail/49561",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
     "date": "2026/09/06",
     "day": "日",
     "artist": "月とソーダ",
@@ -21695,6 +20696,96 @@
     "artist": "﻿CIGARS SODA",
     "title": "祝★デビュー『CIGARS•SODA 2026』",
     "url": "https://osaka-varon.jp/schedule/detail/51053",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2026/09/20",
+    "day": "日",
+    "artist": "京橋店スタッフバンド ピンクバロン",
+    "title": "BASS ON TOP京橋店 20TH Anniversary event 〜高架下物語〜",
+    "url": "https://osaka-varon.jp/schedule/detail/49160",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2026/09/20",
+    "day": "日",
+    "artist": "OBABABA",
+    "title": "BASS ON TOP京橋店 20TH Anniversary event 〜高架下物語〜",
+    "url": "https://osaka-varon.jp/schedule/detail/49160",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2026/09/20",
+    "day": "日",
+    "artist": "３匹の羊",
+    "title": "BASS ON TOP京橋店 20TH Anniversary event 〜高架下物語〜",
+    "url": "https://osaka-varon.jp/schedule/detail/49160",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2026/09/20",
+    "day": "日",
+    "artist": "Cider Cycle",
+    "title": "BASS ON TOP京橋店 20TH Anniversary event 〜高架下物語〜",
+    "url": "https://osaka-varon.jp/schedule/detail/49160",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2026/09/20",
+    "day": "日",
+    "artist": "MIDNIGHT DRINKERS",
+    "title": "BASS ON TOP京橋店 20TH Anniversary event 〜高架下物語〜",
+    "url": "https://osaka-varon.jp/schedule/detail/49160",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2026/09/20",
+    "day": "日",
+    "artist": "Crazy Horse",
+    "title": "BASS ON TOP京橋店 20TH Anniversary event 〜高架下物語〜",
+    "url": "https://osaka-varon.jp/schedule/detail/49160",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2026/09/20",
+    "day": "日",
+    "artist": "ランガラーズ",
+    "title": "BASS ON TOP京橋店 20TH Anniversary event 〜高架下物語〜",
+    "url": "https://osaka-varon.jp/schedule/detail/49160",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2026/09/20",
+    "day": "日",
+    "artist": "BELLE",
+    "title": "BASS ON TOP京橋店 20TH Anniversary event 〜高架下物語〜",
+    "url": "https://osaka-varon.jp/schedule/detail/49160",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2026/09/20",
+    "day": "日",
+    "artist": "Xeno Your Zero",
+    "title": "BASS ON TOP京橋店 20TH Anniversary event 〜高架下物語〜",
+    "url": "https://osaka-varon.jp/schedule/detail/49160",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2026/09/20",
+    "day": "日",
+    "artist": "BERONICA",
+    "title": "BASS ON TOP京橋店 20TH Anniversary event 〜高架下物語〜",
+    "url": "https://osaka-varon.jp/schedule/detail/49160",
     "venue": "VARON",
     "note": ""
   },
@@ -24167,8 +23258,107 @@
   {
     "date": "2026/09/01",
     "day": "火",
-    "artist": "coming soon...",
-    "title": "HALL RENTAL",
+    "artist": "寄り道ブルーベリー。",
+    "title": "ACAFES 2026",
+    "url": "https://osaka-zeela.jp/schedule/detail/53913",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2026/09/01",
+    "day": "火",
+    "artist": "非情口",
+    "title": "ACAFES 2026",
+    "url": "https://osaka-zeela.jp/schedule/detail/53913",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2026/09/01",
+    "day": "火",
+    "artist": "Soarin'",
+    "title": "ACAFES 2026",
+    "url": "https://osaka-zeela.jp/schedule/detail/53913",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2026/09/01",
+    "day": "火",
+    "artist": "ロイホ企画",
+    "title": "ACAFES 2026",
+    "url": "https://osaka-zeela.jp/schedule/detail/53913",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2026/09/01",
+    "day": "火",
+    "artist": "charActor",
+    "title": "ACAFES 2026",
+    "url": "https://osaka-zeela.jp/schedule/detail/53913",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2026/09/01",
+    "day": "火",
+    "artist": "hit five road",
+    "title": "ACAFES 2026",
+    "url": "https://osaka-zeela.jp/schedule/detail/53913",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2026/09/01",
+    "day": "火",
+    "artist": "Silvion",
+    "title": "ACAFES 2026",
+    "url": "https://osaka-zeela.jp/schedule/detail/53913",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2026/09/01",
+    "day": "火",
+    "artist": "MELTY♡PALLET",
+    "title": "ACAFES 2026",
+    "url": "https://osaka-zeela.jp/schedule/detail/53913",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2026/09/01",
+    "day": "火",
+    "artist": "4K",
+    "title": "ACAFES 2026",
+    "url": "https://osaka-zeela.jp/schedule/detail/53913",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2026/09/01",
+    "day": "火",
+    "artist": "弦日々奏",
+    "title": "ACAFES 2026",
+    "url": "https://osaka-zeela.jp/schedule/detail/53913",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2026/09/01",
+    "day": "火",
+    "artist": "JOY！企画",
+    "title": "ACAFES 2026",
+    "url": "https://osaka-zeela.jp/schedule/detail/53913",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2026/09/01",
+    "day": "火",
+    "artist": "海鳴り",
+    "title": "ACAFES 2026",
     "url": "https://osaka-zeela.jp/schedule/detail/53913",
     "venue": "Zeela",
     "note": ""
@@ -24204,15 +23394,6 @@
     "date": "2026/09/02",
     "day": "水",
     "artist": "AMERICAN YO-GA GENERATIONS",
-    "title": "BASS ON TOP presents  We are Live project vol.72 -2006 GENERATION-",
-    "url": "https://osaka-zeela.jp/schedule/detail/52314",
-    "venue": "Zeela",
-    "note": ""
-  },
-  {
-    "date": "2026/09/02",
-    "day": "水",
-    "artist": "オーラルケア",
     "title": "BASS ON TOP presents  We are Live project vol.72 -2006 GENERATION-",
     "url": "https://osaka-zeela.jp/schedule/detail/52314",
     "venue": "Zeela",
@@ -24293,7 +23474,7 @@
   {
     "date": "2026/09/02",
     "day": "水",
-    "artist": "和歌山シガレッツ   大阪産業大学軽音楽部",
+    "artist": "和歌山シガレッツ 大阪産業大学軽音楽部",
     "title": "BASS ON TOP presents  We are Live project vol.72 -2006 GENERATION-",
     "url": "https://osaka-zeela.jp/schedule/detail/52314",
     "venue": "Zeela",
@@ -24312,15 +23493,6 @@
     "date": "2026/09/02",
     "day": "水",
     "artist": "神戸親和大学軽音楽部",
-    "title": "BASS ON TOP presents  We are Live project vol.72 -2006 GENERATION-",
-    "url": "https://osaka-zeela.jp/schedule/detail/52314",
-    "venue": "Zeela",
-    "note": ""
-  },
-  {
-    "date": "2026/09/02",
-    "day": "水",
-    "artist": "関西国際大学JAZZ部",
     "title": "BASS ON TOP presents  We are Live project vol.72 -2006 GENERATION-",
     "url": "https://osaka-zeela.jp/schedule/detail/52314",
     "venue": "Zeela",
@@ -24755,6 +23927,42 @@
     "artist": "Vo：苑",
     "title": "MASAKI NIGHT～極みツアー2026～",
     "url": "https://osaka-zeela.jp/schedule/detail/49170",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2026/09/09",
+    "day": "水",
+    "artist": "KISUMI",
+    "title": "Just for that night LIVE ～その夜ひとときだけのライブ～",
+    "url": "https://osaka-zeela.jp/schedule/detail/53311",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2026/09/09",
+    "day": "水",
+    "artist": "Pura Dell.",
+    "title": "Just for that night LIVE ～その夜ひとときだけのライブ～",
+    "url": "https://osaka-zeela.jp/schedule/detail/53311",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2026/09/09",
+    "day": "水",
+    "artist": "L:crow",
+    "title": "Just for that night LIVE ～その夜ひとときだけのライブ～",
+    "url": "https://osaka-zeela.jp/schedule/detail/53311",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2026/09/09",
+    "day": "水",
+    "artist": "Ebioka Middle School Trio",
+    "title": "Just for that night LIVE ～その夜ひとときだけのライブ～",
+    "url": "https://osaka-zeela.jp/schedule/detail/53311",
     "venue": "Zeela",
     "note": ""
   },
@@ -26276,6 +25484,15 @@
     "artist": "XANVALA",
     "title": "XANVALA HALLOWEEN TOUR \"ZOMVALA 2026\"",
     "url": "https://osaka-zeela.jp/schedule/detail/49682",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2026/11/01",
+    "day": "日",
+    "artist": "ゴホウビ",
+    "title": "GOHOBI ONEMAN LIVE TOUR 2026 “STITCH THE SUNSET”",
+    "url": "https://osaka-zeela.jp/schedule/detail/50278",
     "venue": "Zeela",
     "note": ""
   },
@@ -29916,6 +29133,51 @@
     "note": ""
   },
   {
+    "date": "2026/10/12",
+    "day": "月",
+    "artist": "HALu",
+    "title": "girlstalk SP",
+    "url": "http://www.knave.co.jp/schedule/s_2026_10.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2026/10/12",
+    "day": "月",
+    "artist": "かじなな",
+    "title": "girlstalk SP",
+    "url": "http://www.knave.co.jp/schedule/s_2026_10.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2026/10/12",
+    "day": "月",
+    "artist": "源嶋葵衣",
+    "title": "girlstalk SP",
+    "url": "http://www.knave.co.jp/schedule/s_2026_10.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2026/10/12",
+    "day": "月",
+    "artist": "凪",
+    "title": "girlstalk SP",
+    "url": "http://www.knave.co.jp/schedule/s_2026_10.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2026/10/12",
+    "day": "月",
+    "artist": "and more...",
+    "title": "girlstalk SP",
+    "url": "http://www.knave.co.jp/schedule/s_2026_10.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
     "date": "2026/10/13",
     "day": "火",
     "artist": "なみだ藍",
@@ -30027,6 +29289,15 @@
     "date": "2026/10/15",
     "day": "木",
     "artist": "ケシカルカッコ",
+    "title": "NaturalWoman SP",
+    "url": "http://www.knave.co.jp/schedule/s_2026_10.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2026/10/15",
+    "day": "木",
+    "artist": "Yukky",
     "title": "NaturalWoman SP",
     "url": "http://www.knave.co.jp/schedule/s_2026_10.html",
     "venue": "knave",
@@ -30181,6 +29452,51 @@
     "day": "水",
     "artist": "佐久間丈幸",
     "title": "LoversRock",
+    "url": "http://www.knave.co.jp/schedule/s_2026_10.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2026/10/22",
+    "day": "木",
+    "artist": "yukaDD",
+    "title": "NaturalWoman SP",
+    "url": "http://www.knave.co.jp/schedule/s_2026_10.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2026/10/22",
+    "day": "木",
+    "artist": "Ritomo",
+    "title": "NaturalWoman SP",
+    "url": "http://www.knave.co.jp/schedule/s_2026_10.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2026/10/22",
+    "day": "木",
+    "artist": "山口華穂",
+    "title": "NaturalWoman SP",
+    "url": "http://www.knave.co.jp/schedule/s_2026_10.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2026/10/22",
+    "day": "木",
+    "artist": "KURUMI",
+    "title": "NaturalWoman SP",
+    "url": "http://www.knave.co.jp/schedule/s_2026_10.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2026/10/22",
+    "day": "木",
+    "artist": "友愛",
+    "title": "NaturalWoman SP",
     "url": "http://www.knave.co.jp/schedule/s_2026_10.html",
     "venue": "knave",
     "note": ""
