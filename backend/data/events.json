@@ -4871,15 +4871,6 @@
   {
     "date": "2026/09/08",
     "day": "火",
-    "artist": "まなやだバンド",
-    "title": "【北堀江コピバンナイト】vol.3",
-    "url": "https://vijon.jp/schedule/detail/53173",
-    "venue": "北堀江club vijon",
-    "note": ""
-  },
-  {
-    "date": "2026/09/08",
-    "day": "火",
     "artist": "はくバンド",
     "title": "【北堀江コピバンナイト】vol.3",
     "url": "https://vijon.jp/schedule/detail/53173",
@@ -5789,7 +5780,7 @@
   {
     "date": "2026/09/30",
     "day": "水",
-    "artist": "and more...",
+    "artist": "Turtle Frog",
     "title": "ヌーディーブランク×club vijon pre.【SIDE BE SIDE】",
     "url": "https://vijon.jp/schedule/detail/52943",
     "venue": "北堀江club vijon",
@@ -5843,7 +5834,16 @@
   {
     "date": "2026/10/01",
     "day": "木",
-    "artist": "and more...",
+    "artist": "ヒグレノソラニ",
+    "title": "【playgrounds】 vol.6 - club vijon 24th anniversary -",
+    "url": "https://vijon.jp/schedule/detail/55287",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2026/10/01",
+    "day": "木",
+    "artist": "ユメノツヅキ",
     "title": "【playgrounds】 vol.6 - club vijon 24th anniversary -",
     "url": "https://vijon.jp/schedule/detail/55287",
     "venue": "北堀江club vijon",
@@ -7821,6 +7821,15 @@
     "note": ""
   },
   {
+    "date": "2026/09/22",
+    "day": "火",
+    "artist": "ゼロキョリハーツ",
+    "title": "【ゼロキョリハーツ日向えいる、うるなの卒業公演】",
+    "url": "https://bangboo.jp/schedule/detail/50333",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
     "date": "2026/09/23",
     "day": "水",
     "artist": "白黒アリス",
@@ -8069,6 +8078,24 @@
     "artist": "Lumi Prima",
     "title": "SCLIVE",
     "url": "https://bangboo.jp/schedule/detail/53887",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2026/09/30",
+    "day": "水",
+    "artist": "Maze Raid++",
+    "title": "「Sucré･Box! 朱煌 響プロデュース公演 」",
+    "url": "https://bangboo.jp/schedule/detail/52923",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2026/09/30",
+    "day": "水",
+    "artist": "Sucré･Box!",
+    "title": "「Sucré･Box! 朱煌 響プロデュース公演 」",
+    "url": "https://bangboo.jp/schedule/detail/52923",
     "venue": "梅田BANGBOO",
     "note": ""
   },
@@ -10242,6 +10269,123 @@
     "note": ""
   },
   {
+    "date": "2026/09/12",
+    "day": "土",
+    "artist": "DJ：Aoi",
+    "title": "あにくら中学校～20歳からの義務教育～",
+    "url": "https://clubdrop.jp/schedule/detail/51612",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/09/12",
+    "day": "土",
+    "artist": "一凛",
+    "title": "あにくら中学校～20歳からの義務教育～",
+    "url": "https://clubdrop.jp/schedule/detail/51612",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/09/12",
+    "day": "土",
+    "artist": "ｴﾝｼﾞ",
+    "title": "あにくら中学校～20歳からの義務教育～",
+    "url": "https://clubdrop.jp/schedule/detail/51612",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/09/12",
+    "day": "土",
+    "artist": "かあむ",
+    "title": "あにくら中学校～20歳からの義務教育～",
+    "url": "https://clubdrop.jp/schedule/detail/51612",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/09/12",
+    "day": "土",
+    "artist": "しろし～",
+    "title": "あにくら中学校～20歳からの義務教育～",
+    "url": "https://clubdrop.jp/schedule/detail/51612",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/09/12",
+    "day": "土",
+    "artist": "夜月",
+    "title": "あにくら中学校～20歳からの義務教育～",
+    "url": "https://clubdrop.jp/schedule/detail/51612",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/09/12",
+    "day": "土",
+    "artist": "VJ：ヒロポン",
+    "title": "あにくら中学校～20歳からの義務教育～",
+    "url": "https://clubdrop.jp/schedule/detail/51612",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/09/12",
+    "day": "土",
+    "artist": "いしてがわ  4Nno-SK  校長",
+    "title": "あにくら中学校～20歳からの義務教育～",
+    "url": "https://clubdrop.jp/schedule/detail/51612",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/09/12",
+    "day": "土",
+    "artist": "ジャリboy",
+    "title": "あにくら中学校～20歳からの義務教育～",
+    "url": "https://clubdrop.jp/schedule/detail/51612",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/09/12",
+    "day": "土",
+    "artist": "すな",
+    "title": "あにくら中学校～20歳からの義務教育～",
+    "url": "https://clubdrop.jp/schedule/detail/51612",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/09/12",
+    "day": "土",
+    "artist": "ЯETEЦ",
+    "title": "あにくら中学校～20歳からの義務教育～",
+    "url": "https://clubdrop.jp/schedule/detail/51612",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/09/12",
+    "day": "土",
+    "artist": "猫宮まる  ゴン  みーﾁｬﾝ",
+    "title": "あにくら中学校～20歳からの義務教育～",
+    "url": "https://clubdrop.jp/schedule/detail/51612",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/09/12",
+    "day": "土",
+    "artist": "39-miku-",
+    "title": "あにくら中学校～20歳からの義務教育～",
+    "url": "https://clubdrop.jp/schedule/detail/51612",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
     "date": "2026/09/13",
     "day": "日",
     "artist": "アブソプ",
@@ -10571,6 +10715,186 @@
     "artist": "your fave",
     "title": "不定期公演 ティアランド 〜Trinity Princess〜",
     "url": "https://clubdrop.jp/schedule/detail/54325",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/09/17",
+    "day": "木",
+    "artist": "AIWO",
+    "title": "#ﾆｷﾌﾟﾚ『オオサカｯ!! -20260917-』",
+    "url": "https://clubdrop.jp/schedule/detail/50573",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/09/17",
+    "day": "木",
+    "artist": "cleomery",
+    "title": "#ﾆｷﾌﾟﾚ『オオサカｯ!! -20260917-』",
+    "url": "https://clubdrop.jp/schedule/detail/50573",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/09/17",
+    "day": "木",
+    "artist": "ENVY PARANOID",
+    "title": "#ﾆｷﾌﾟﾚ『オオサカｯ!! -20260917-』",
+    "url": "https://clubdrop.jp/schedule/detail/50573",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/09/17",
+    "day": "木",
+    "artist": "HATENO",
+    "title": "#ﾆｷﾌﾟﾚ『オオサカｯ!! -20260917-』",
+    "url": "https://clubdrop.jp/schedule/detail/50573",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/09/17",
+    "day": "木",
+    "artist": ".LiNIXLiNE.",
+    "title": "#ﾆｷﾌﾟﾚ『オオサカｯ!! -20260917-』",
+    "url": "https://clubdrop.jp/schedule/detail/50573",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/09/17",
+    "day": "木",
+    "artist": "matatabi",
+    "title": "#ﾆｷﾌﾟﾚ『オオサカｯ!! -20260917-』",
+    "url": "https://clubdrop.jp/schedule/detail/50573",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/09/17",
+    "day": "木",
+    "artist": "meluQ",
+    "title": "#ﾆｷﾌﾟﾚ『オオサカｯ!! -20260917-』",
+    "url": "https://clubdrop.jp/schedule/detail/50573",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/09/17",
+    "day": "木",
+    "artist": "Merry Mellow",
+    "title": "#ﾆｷﾌﾟﾚ『オオサカｯ!! -20260917-』",
+    "url": "https://clubdrop.jp/schedule/detail/50573",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/09/17",
+    "day": "木",
+    "artist": "PURE ME",
+    "title": "#ﾆｷﾌﾟﾚ『オオサカｯ!! -20260917-』",
+    "url": "https://clubdrop.jp/schedule/detail/50573",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/09/17",
+    "day": "木",
+    "artist": "感情線は時をこえて",
+    "title": "#ﾆｷﾌﾟﾚ『オオサカｯ!! -20260917-』",
+    "url": "https://clubdrop.jp/schedule/detail/50573",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/09/17",
+    "day": "木",
+    "artist": "キューハチパーセント！",
+    "title": "#ﾆｷﾌﾟﾚ『オオサカｯ!! -20260917-』",
+    "url": "https://clubdrop.jp/schedule/detail/50573",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/09/17",
+    "day": "木",
+    "artist": "クモリノチ。",
+    "title": "#ﾆｷﾌﾟﾚ『オオサカｯ!! -20260917-』",
+    "url": "https://clubdrop.jp/schedule/detail/50573",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/09/17",
+    "day": "木",
+    "artist": "新章 大阪☆春夏秋冬",
+    "title": "#ﾆｷﾌﾟﾚ『オオサカｯ!! -20260917-』",
+    "url": "https://clubdrop.jp/schedule/detail/50573",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/09/17",
+    "day": "木",
+    "artist": "宇宙∞プラネクシア",
+    "title": "#ﾆｷﾌﾟﾚ『オオサカｯ!! -20260917-』",
+    "url": "https://clubdrop.jp/schedule/detail/50573",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/09/17",
+    "day": "木",
+    "artist": "神薙-時うさぎ- …全15組!!",
+    "title": "#ﾆｷﾌﾟﾚ『オオサカｯ!! -20260917-』",
+    "url": "https://clubdrop.jp/schedule/detail/50573",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/09/18",
+    "day": "金",
+    "artist": "Axelight",
+    "title": "#ﾆｷﾌﾟﾚ『オオサカｯ!! -20260918DROP編 -』",
+    "url": "https://clubdrop.jp/schedule/detail/50574",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/09/18",
+    "day": "金",
+    "artist": "HATENO",
+    "title": "#ﾆｷﾌﾟﾚ『オオサカｯ!! -20260918DROP編 -』",
+    "url": "https://clubdrop.jp/schedule/detail/50574",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/09/18",
+    "day": "金",
+    "artist": ".LiNIXLiNE.",
+    "title": "#ﾆｷﾌﾟﾚ『オオサカｯ!! -20260918DROP編 -』",
+    "url": "https://clubdrop.jp/schedule/detail/50574",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/09/18",
+    "day": "金",
+    "artist": "meluQ",
+    "title": "#ﾆｷﾌﾟﾚ『オオサカｯ!! -20260918DROP編 -』",
+    "url": "https://clubdrop.jp/schedule/detail/50574",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/09/18",
+    "day": "金",
+    "artist": "いつかの夜に僕たちが、",
+    "title": "#ﾆｷﾌﾟﾚ『オオサカｯ!! -20260918DROP編 -』",
+    "url": "https://clubdrop.jp/schedule/detail/50574",
     "venue": "アメリカ村DROP",
     "note": ""
   },
@@ -11453,6 +11777,51 @@
     "artist": "魔訶不思議変革者-デスデス",
     "title": "魔訶不思議あどべんちゃあ4",
     "url": "https://clubdrop.jp/schedule/detail/54320",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/10/27",
+    "day": "火",
+    "artist": "終音☆眠",
+    "title": "狂猫祭！ 第二幕 -Halloween Party Night-",
+    "url": "https://clubdrop.jp/schedule/detail/53832",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/10/27",
+    "day": "火",
+    "artist": "DUALCREED",
+    "title": "狂猫祭！ 第二幕 -Halloween Party Night-",
+    "url": "https://clubdrop.jp/schedule/detail/53832",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/10/27",
+    "day": "火",
+    "artist": "Magistina Saga",
+    "title": "狂猫祭！ 第二幕 -Halloween Party Night-",
+    "url": "https://clubdrop.jp/schedule/detail/53832",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/10/27",
+    "day": "火",
+    "artist": "イビツ マル",
+    "title": "狂猫祭！ 第二幕 -Halloween Party Night-",
+    "url": "https://clubdrop.jp/schedule/detail/53832",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/10/27",
+    "day": "火",
+    "artist": "VAR'MILION",
+    "title": "狂猫祭！ 第二幕 -Halloween Party Night-",
+    "url": "https://clubdrop.jp/schedule/detail/53832",
     "venue": "アメリカ村DROP",
     "note": ""
   },
@@ -16722,6 +17091,51 @@
     "note": ""
   },
   {
+    "date": "2026/10/15",
+    "day": "木",
+    "artist": "ロマンス失敗学",
+    "title": "Zeela presents \"Catch up\"",
+    "url": "https://osaka-zeela.jp/schedule/detail/54192",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2026/10/15",
+    "day": "木",
+    "artist": "Lyka",
+    "title": "Zeela presents \"Catch up\"",
+    "url": "https://osaka-zeela.jp/schedule/detail/54192",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2026/10/15",
+    "day": "木",
+    "artist": "路地裏のバレリーナ",
+    "title": "Zeela presents \"Catch up\"",
+    "url": "https://osaka-zeela.jp/schedule/detail/54192",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2026/10/15",
+    "day": "木",
+    "artist": "Jammrin'",
+    "title": "Zeela presents \"Catch up\"",
+    "url": "https://osaka-zeela.jp/schedule/detail/54192",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2026/10/15",
+    "day": "木",
+    "artist": "Relially",
+    "title": "Zeela presents \"Catch up\"",
+    "url": "https://osaka-zeela.jp/schedule/detail/54192",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
     "date": "2026/10/16",
     "day": "金",
     "artist": "EVE OF THE LAIN",
@@ -17696,15 +18110,6 @@
   {
     "date": "2026/09/09",
     "day": "水",
-    "artist": "眞塩藍咲",
-    "title": "LoversRock",
-    "url": "http://www.knave.co.jp/schedule/s_2026_09.html",
-    "venue": "knave",
-    "note": ""
-  },
-  {
-    "date": "2026/09/09",
-    "day": "水",
     "artist": "杏月アカリ",
     "title": "LoversRock",
     "url": "http://www.knave.co.jp/schedule/s_2026_09.html",
@@ -17724,6 +18129,24 @@
     "date": "2026/09/09",
     "day": "水",
     "artist": "アキコ.",
+    "title": "LoversRock",
+    "url": "http://www.knave.co.jp/schedule/s_2026_09.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2026/09/09",
+    "day": "水",
+    "artist": "※眞塩藍咲は怪我により",
+    "title": "LoversRock",
+    "url": "http://www.knave.co.jp/schedule/s_2026_09.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2026/09/09",
+    "day": "水",
+    "artist": "急遽出演キャンセルとなりました。",
     "title": "LoversRock",
     "url": "http://www.knave.co.jp/schedule/s_2026_09.html",
     "venue": "knave",
@@ -18110,7 +18533,25 @@
   {
     "date": "2026/09/18",
     "day": "金",
-    "artist": "問)knave 06-6535-0691",
+    "artist": "ツイキャスライブ視聴購入ページ",
+    "title": "unclose presents",
+    "url": "http://www.knave.co.jp/schedule/s_2026_09.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2026/09/18",
+    "day": "金",
+    "artist": "https:",
+    "title": "unclose presents",
+    "url": "http://www.knave.co.jp/schedule/s_2026_09.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2026/09/18",
+    "day": "金",
+    "artist": "twitcasting.tv",
     "title": "unclose presents",
     "url": "http://www.knave.co.jp/schedule/s_2026_09.html",
     "venue": "knave",
