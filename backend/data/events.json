@@ -703,7 +703,7 @@
   },
   {
     "date": "2026/09/21",
-    "day": "",
+    "day": "月",
     "artist": "Sazanami",
     "title": "ラグランジュ点にて",
     "url": "https://fireloop.net/schedule_now.shtml#0921",
@@ -712,7 +712,7 @@
   },
   {
     "date": "2026/09/21",
-    "day": "",
+    "day": "月",
     "artist": "moodress",
     "title": "ラグランジュ点にて",
     "url": "https://fireloop.net/schedule_now.shtml#0921",
@@ -721,7 +721,7 @@
   },
   {
     "date": "2026/09/21",
-    "day": "",
+    "day": "月",
     "artist": "揺らいで凪",
     "title": "ラグランジュ点にて",
     "url": "https://fireloop.net/schedule_now.shtml#0921",
@@ -5825,7 +5825,7 @@
   {
     "date": "2026/09/18",
     "day": "金",
-    "artist": "and more...  かいわれ大根の日なのでかいわれ大根のなにか",
+    "artist": "344  かいわれ大根の日なのでかいわれ大根のなにか",
     "title": "居酒屋黒木 vol.17 ～中秋編～",
     "url": "https://vijon.jp/schedule/detail/56212",
     "venue": "北堀江club vijon",
@@ -7232,6 +7232,51 @@
     "artist": "Junk Unit",
     "title": "【MORE WHEEL 2026】",
     "url": "https://vijon.jp/schedule/detail/55588",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2026/10/15",
+    "day": "木",
+    "artist": "I r i s ?",
+    "title": "I r i s ? pre. Concept Live ？目録 - ハテナモクロク - vol.6",
+    "url": "https://vijon.jp/schedule/detail/52687",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2026/10/15",
+    "day": "木",
+    "artist": "歪-HIZUMI-",
+    "title": "I r i s ? pre. Concept Live ？目録 - ハテナモクロク - vol.6",
+    "url": "https://vijon.jp/schedule/detail/52687",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2026/10/15",
+    "day": "木",
+    "artist": "madohi",
+    "title": "I r i s ? pre. Concept Live ？目録 - ハテナモクロク - vol.6",
+    "url": "https://vijon.jp/schedule/detail/52687",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2026/10/15",
+    "day": "木",
+    "artist": "Conamonoise",
+    "title": "I r i s ? pre. Concept Live ？目録 - ハテナモクロク - vol.6",
+    "url": "https://vijon.jp/schedule/detail/52687",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2026/10/15",
+    "day": "木",
+    "artist": "文章乞食",
+    "title": "I r i s ? pre. Concept Live ？目録 - ハテナモクロク - vol.6",
+    "url": "https://vijon.jp/schedule/detail/52687",
     "venue": "北堀江club vijon",
     "note": ""
   },
@@ -9480,8 +9525,35 @@
     "date": "2026/09/22",
     "day": "火",
     "artist": "ゼロキョリハーツ",
-    "title": "【ゼロキョリハーツ日向えいる、うるなの卒業公演】",
-    "url": "https://bangboo.jp/schedule/detail/50333",
+    "title": "ゼロキョリハーツ日向えいる、うるなの卒業公演　うるるん対バン編",
+    "url": "https://bangboo.jp/schedule/detail/56238",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2026/09/22",
+    "day": "火",
+    "artist": "キラキュアップ",
+    "title": "ゼロキョリハーツ日向えいる、うるなの卒業公演　うるるん対バン編",
+    "url": "https://bangboo.jp/schedule/detail/56238",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2026/09/22",
+    "day": "火",
+    "artist": "リリシック学園",
+    "title": "ゼロキョリハーツ日向えいる、うるなの卒業公演　うるるん対バン編",
+    "url": "https://bangboo.jp/schedule/detail/56238",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2026/09/22",
+    "day": "火",
+    "artist": "わんみゅーず！",
+    "title": "ゼロキョリハーツ日向えいる、うるなの卒業公演　うるるん対バン編",
+    "url": "https://bangboo.jp/schedule/detail/56238",
     "venue": "梅田BANGBOO",
     "note": ""
   },
@@ -10382,6 +10454,42 @@
     "artist": "OISHASAN'S",
     "title": "ЯO-Guy SONIC part2",
     "url": "https://bangboo.jp/schedule/detail/48977",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2026/10/12",
+    "day": "月",
+    "artist": "すーぱーぷーばぁー!!",
+    "title": "FOUR COLORS",
+    "url": "https://bangboo.jp/schedule/detail/49609",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2026/10/12",
+    "day": "月",
+    "artist": "キューハチパーセント！",
+    "title": "FOUR COLORS",
+    "url": "https://bangboo.jp/schedule/detail/49609",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2026/10/12",
+    "day": "月",
+    "artist": "BUGTTE！",
+    "title": "FOUR COLORS",
+    "url": "https://bangboo.jp/schedule/detail/49609",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2026/10/12",
+    "day": "月",
+    "artist": "ЯiM:MiR",
+    "title": "FOUR COLORS",
+    "url": "https://bangboo.jp/schedule/detail/49609",
     "venue": "梅田BANGBOO",
     "note": ""
   },
@@ -13010,6 +13118,51 @@
     "artist": "いつかの夜に僕たちが、",
     "title": "#ﾆｷﾌﾟﾚ『オオサカｯ!! -20260918DROP編 -』",
     "url": "https://clubdrop.jp/schedule/detail/50574",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/09/19",
+    "day": "土",
+    "artist": "AZ-ON",
+    "title": "PANIPAworks. Presents 「PANIC in the PARTY」",
+    "url": "https://clubdrop.jp/schedule/detail/56114",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/09/19",
+    "day": "土",
+    "artist": "DIAVEL",
+    "title": "PANIPAworks. Presents 「PANIC in the PARTY」",
+    "url": "https://clubdrop.jp/schedule/detail/56114",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/09/19",
+    "day": "土",
+    "artist": "YA’ABURNEE",
+    "title": "PANIPAworks. Presents 「PANIC in the PARTY」",
+    "url": "https://clubdrop.jp/schedule/detail/56114",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/09/19",
+    "day": "土",
+    "artist": "カミサマパレード",
+    "title": "PANIPAworks. Presents 「PANIC in the PARTY」",
+    "url": "https://clubdrop.jp/schedule/detail/56114",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/09/19",
+    "day": "土",
+    "artist": "白黒アリス",
+    "title": "PANIPAworks. Presents 「PANIC in the PARTY」",
+    "url": "https://clubdrop.jp/schedule/detail/56114",
     "venue": "アメリカ村DROP",
     "note": ""
   },
@@ -16272,6 +16425,204 @@
     "note": ""
   },
   {
+    "date": "2026/09/26",
+    "day": "土",
+    "artist": "ティラミス",
+    "title": "『ティラミス単独公演〜朝活編 〜』",
+    "url": "https://osaka-varon.jp/schedule/detail/48571",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2026/09/26",
+    "day": "土",
+    "artist": "ワッツ◎さーくる",
+    "title": "Kawaii?Night",
+    "url": "https://osaka-varon.jp/schedule/detail/56237",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2026/09/26",
+    "day": "土",
+    "artist": "あたまのなかは8ビット!?",
+    "title": "Kawaii?Night",
+    "url": "https://osaka-varon.jp/schedule/detail/56237",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2026/09/26",
+    "day": "土",
+    "artist": "Qu♡Aly",
+    "title": "Kawaii?Night",
+    "url": "https://osaka-varon.jp/schedule/detail/56237",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2026/09/26",
+    "day": "土",
+    "artist": "Chance Movement",
+    "title": "Kawaii?Night",
+    "url": "https://osaka-varon.jp/schedule/detail/56237",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2026/09/26",
+    "day": "土",
+    "artist": "NEO BREAK",
+    "title": "Kawaii?Night",
+    "url": "https://osaka-varon.jp/schedule/detail/56237",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2026/09/26",
+    "day": "土",
+    "artist": "Fille mimi",
+    "title": "Kawaii?Night",
+    "url": "https://osaka-varon.jp/schedule/detail/56237",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2026/09/26",
+    "day": "土",
+    "artist": "alpha⁂Lux",
+    "title": "Kawaii?Night",
+    "url": "https://osaka-varon.jp/schedule/detail/56237",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2026/09/26",
+    "day": "土",
+    "artist": "キラピュアップ",
+    "title": "Kawaii?Night",
+    "url": "https://osaka-varon.jp/schedule/detail/56237",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2026/09/26",
+    "day": "土",
+    "artist": "CLANCROWN",
+    "title": "Kawaii?Night",
+    "url": "https://osaka-varon.jp/schedule/detail/56237",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2026/09/26",
+    "day": "土",
+    "artist": "SUGAR SPARK",
+    "title": "Kawaii?Night",
+    "url": "https://osaka-varon.jp/schedule/detail/56237",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2026/09/26",
+    "day": "土",
+    "artist": "tune time capsule",
+    "title": "Kawaii?Night",
+    "url": "https://osaka-varon.jp/schedule/detail/56237",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2026/09/26",
+    "day": "土",
+    "artist": "てんぽぷりも♪",
+    "title": "Kawaii?Night",
+    "url": "https://osaka-varon.jp/schedule/detail/56237",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2026/09/26",
+    "day": "土",
+    "artist": "ドレミファイン♪",
+    "title": "Kawaii?Night",
+    "url": "https://osaka-varon.jp/schedule/detail/56237",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2026/09/26",
+    "day": "土",
+    "artist": "Nody",
+    "title": "Kawaii?Night",
+    "url": "https://osaka-varon.jp/schedule/detail/56237",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2026/09/26",
+    "day": "土",
+    "artist": "HIGH SPY DOLL",
+    "title": "Kawaii?Night",
+    "url": "https://osaka-varon.jp/schedule/detail/56237",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2026/09/26",
+    "day": "土",
+    "artist": "ParaMilia",
+    "title": "Kawaii?Night",
+    "url": "https://osaka-varon.jp/schedule/detail/56237",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2026/09/26",
+    "day": "土",
+    "artist": "プリュネ♡トゥインクレット",
+    "title": "Kawaii?Night",
+    "url": "https://osaka-varon.jp/schedule/detail/56237",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2026/09/26",
+    "day": "土",
+    "artist": "ボクセカ",
+    "title": "Kawaii?Night",
+    "url": "https://osaka-varon.jp/schedule/detail/56237",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2026/09/26",
+    "day": "土",
+    "artist": "MeluCharm",
+    "title": "Kawaii?Night",
+    "url": "https://osaka-varon.jp/schedule/detail/56237",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2026/09/26",
+    "day": "土",
+    "artist": "むげんこんぜ",
+    "title": "Kawaii?Night",
+    "url": "https://osaka-varon.jp/schedule/detail/56237",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2026/09/26",
+    "day": "土",
+    "artist": "LuvHz",
+    "title": "Kawaii?Night",
+    "url": "https://osaka-varon.jp/schedule/detail/56237",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
     "date": "2026/09/27",
     "day": "日",
     "artist": "Axelight",
@@ -16673,6 +17024,24 @@
     "artist": "Rizz",
     "title": "En×DUMBSTRUCK Super Power!!!",
     "url": "https://osaka-varon.jp/schedule/detail/52596",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2026/10/11",
+    "day": "日",
+    "artist": "OneOnceOver",
+    "title": "Day Dreamer -MINAMI WHEEL EDDITION-",
+    "url": "https://osaka-varon.jp/schedule/detail/53864",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2026/10/11",
+    "day": "日",
+    "artist": "Stardust Alone",
+    "title": "Day Dreamer -MINAMI WHEEL EDDITION-",
+    "url": "https://osaka-varon.jp/schedule/detail/53864",
     "venue": "VARON",
     "note": ""
   },
@@ -21240,6 +21609,69 @@
     "note": ""
   },
   {
+    "date": "2026/10/30",
+    "day": "金",
+    "artist": "三隅一輝",
+    "title": "MUSIC × CROSS  Vol.5-Halloween SP-",
+    "url": "https://osaka-zeela.jp/schedule/detail/54635",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2026/10/30",
+    "day": "金",
+    "artist": "CRUSH",
+    "title": "MUSIC × CROSS  Vol.5-Halloween SP-",
+    "url": "https://osaka-zeela.jp/schedule/detail/54635",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2026/10/30",
+    "day": "金",
+    "artist": "ROYAL VAMP ROSE",
+    "title": "MUSIC × CROSS  Vol.5-Halloween SP-",
+    "url": "https://osaka-zeela.jp/schedule/detail/54635",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2026/10/30",
+    "day": "金",
+    "artist": "幽獄パレード",
+    "title": "MUSIC × CROSS  Vol.5-Halloween SP-",
+    "url": "https://osaka-zeela.jp/schedule/detail/54635",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2026/10/30",
+    "day": "金",
+    "artist": "キミトソラ",
+    "title": "MUSIC × CROSS  Vol.5-Halloween SP-",
+    "url": "https://osaka-zeela.jp/schedule/detail/54635",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2026/10/30",
+    "day": "金",
+    "artist": "RoiAm",
+    "title": "MUSIC × CROSS  Vol.5-Halloween SP-",
+    "url": "https://osaka-zeela.jp/schedule/detail/54635",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2026/10/30",
+    "day": "金",
+    "artist": "etc",
+    "title": "MUSIC × CROSS  Vol.5-Halloween SP-",
+    "url": "https://osaka-zeela.jp/schedule/detail/54635",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
     "date": "2026/10/31",
     "day": "土",
     "artist": "coming soon...",
@@ -24399,6 +24831,357 @@
     "note": ""
   },
   {
+    "date": "2026/11/02",
+    "day": "月",
+    "artist": "心悠",
+    "title": "girlstalk SP",
+    "url": "http://www.knave.co.jp/schedule/s_2026_11.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2026/11/02",
+    "day": "月",
+    "artist": "大池香奈",
+    "title": "girlstalk SP",
+    "url": "http://www.knave.co.jp/schedule/s_2026_11.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2026/11/02",
+    "day": "月",
+    "artist": "莉奈",
+    "title": "girlstalk SP",
+    "url": "http://www.knave.co.jp/schedule/s_2026_11.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2026/11/02",
+    "day": "月",
+    "artist": "and more...",
+    "title": "girlstalk SP",
+    "url": "http://www.knave.co.jp/schedule/s_2026_11.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2026/11/03",
+    "day": "火",
+    "artist": "直訳ロッカー王様・66歳になりました記念",
+    "title": "RSG presents",
+    "url": "http://www.knave.co.jp/schedule/s_2026_11.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2026/11/03",
+    "day": "火",
+    "artist": "「大人の文化祭Vol.9」",
+    "title": "RSG presents",
+    "url": "http://www.knave.co.jp/schedule/s_2026_11.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2026/11/03",
+    "day": "火",
+    "artist": "ライブ＆セッション in 南堀江knave",
+    "title": "RSG presents",
+    "url": "http://www.knave.co.jp/schedule/s_2026_11.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2026/11/03",
+    "day": "火",
+    "artist": "王様",
+    "title": "RSG presents",
+    "url": "http://www.knave.co.jp/schedule/s_2026_11.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2026/11/03",
+    "day": "火",
+    "artist": "RSG",
+    "title": "RSG presents",
+    "url": "http://www.knave.co.jp/schedule/s_2026_11.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2026/11/03",
+    "day": "火",
+    "artist": "ScatRaw",
+    "title": "RSG presents",
+    "url": "http://www.knave.co.jp/schedule/s_2026_11.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2026/11/03",
+    "day": "火",
+    "artist": "The Pink Mantis-桃色蟷螂",
+    "title": "RSG presents",
+    "url": "http://www.knave.co.jp/schedule/s_2026_11.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2026/11/04",
+    "day": "水",
+    "artist": "小野亜里沙",
+    "title": "NaturalWoman",
+    "url": "http://www.knave.co.jp/schedule/s_2026_11.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2026/11/04",
+    "day": "水",
+    "artist": "杏月アカリ",
+    "title": "NaturalWoman",
+    "url": "http://www.knave.co.jp/schedule/s_2026_11.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2026/11/04",
+    "day": "水",
+    "artist": "結唄花",
+    "title": "NaturalWoman",
+    "url": "http://www.knave.co.jp/schedule/s_2026_11.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2026/11/04",
+    "day": "水",
+    "artist": "Ei",
+    "title": "NaturalWoman",
+    "url": "http://www.knave.co.jp/schedule/s_2026_11.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2026/11/04",
+    "day": "水",
+    "artist": "ちょす",
+    "title": "NaturalWoman",
+    "url": "http://www.knave.co.jp/schedule/s_2026_11.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2026/11/05",
+    "day": "木",
+    "artist": "EQUALIZE",
+    "title": "The RedLight SP",
+    "url": "http://www.knave.co.jp/schedule/s_2026_11.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2026/11/05",
+    "day": "木",
+    "artist": "Neo'n'eaT",
+    "title": "The RedLight SP",
+    "url": "http://www.knave.co.jp/schedule/s_2026_11.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2026/11/05",
+    "day": "木",
+    "artist": "AILYAWP",
+    "title": "The RedLight SP",
+    "url": "http://www.knave.co.jp/schedule/s_2026_11.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2026/11/06",
+    "day": "金",
+    "artist": "ちゃむりん",
+    "title": "NaturalWoman",
+    "url": "http://www.knave.co.jp/schedule/s_2026_11.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2026/11/06",
+    "day": "金",
+    "artist": "瀧本結月",
+    "title": "NaturalWoman",
+    "url": "http://www.knave.co.jp/schedule/s_2026_11.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2026/11/06",
+    "day": "金",
+    "artist": "おそえ",
+    "title": "NaturalWoman",
+    "url": "http://www.knave.co.jp/schedule/s_2026_11.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2026/11/06",
+    "day": "金",
+    "artist": "有近朋恵",
+    "title": "NaturalWoman",
+    "url": "http://www.knave.co.jp/schedule/s_2026_11.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2026/11/09",
+    "day": "月",
+    "artist": "中井優月",
+    "title": "NaturalWoman",
+    "url": "http://www.knave.co.jp/schedule/s_2026_11.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2026/11/09",
+    "day": "月",
+    "artist": "Tiiy",
+    "title": "NaturalWoman",
+    "url": "http://www.knave.co.jp/schedule/s_2026_11.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2026/11/09",
+    "day": "月",
+    "artist": "葵音",
+    "title": "NaturalWoman",
+    "url": "http://www.knave.co.jp/schedule/s_2026_11.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2026/11/09",
+    "day": "月",
+    "artist": "華蘭",
+    "title": "NaturalWoman",
+    "url": "http://www.knave.co.jp/schedule/s_2026_11.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2026/11/10",
+    "day": "火",
+    "artist": "biki",
+    "title": "NaturalWoman",
+    "url": "http://www.knave.co.jp/schedule/s_2026_11.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2026/11/10",
+    "day": "火",
+    "artist": "寺川佐希",
+    "title": "NaturalWoman",
+    "url": "http://www.knave.co.jp/schedule/s_2026_11.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2026/11/10",
+    "day": "火",
+    "artist": "青葉らら",
+    "title": "NaturalWoman",
+    "url": "http://www.knave.co.jp/schedule/s_2026_11.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2026/11/10",
+    "day": "火",
+    "artist": "藤木陽音",
+    "title": "NaturalWoman",
+    "url": "http://www.knave.co.jp/schedule/s_2026_11.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2026/11/11",
+    "day": "水",
+    "artist": "asano raincoat",
+    "title": "Bitter&Sweet",
+    "url": "http://www.knave.co.jp/schedule/s_2026_11.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2026/11/11",
+    "day": "水",
+    "artist": "番茶一杯",
+    "title": "Bitter&Sweet",
+    "url": "http://www.knave.co.jp/schedule/s_2026_11.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2026/11/11",
+    "day": "水",
+    "artist": "ノラ",
+    "title": "Bitter&Sweet",
+    "url": "http://www.knave.co.jp/schedule/s_2026_11.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2026/11/11",
+    "day": "水",
+    "artist": "Jammycomb",
+    "title": "Bitter&Sweet",
+    "url": "http://www.knave.co.jp/schedule/s_2026_11.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2026/11/12",
+    "day": "木",
+    "artist": "鳥居れな",
+    "title": "NaturalWoman",
+    "url": "http://www.knave.co.jp/schedule/s_2026_11.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2026/11/12",
+    "day": "木",
+    "artist": "岩内幸乃",
+    "title": "NaturalWoman",
+    "url": "http://www.knave.co.jp/schedule/s_2026_11.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2026/11/12",
+    "day": "木",
+    "artist": "冬木希",
+    "title": "NaturalWoman",
+    "url": "http://www.knave.co.jp/schedule/s_2026_11.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2026/11/12",
+    "day": "木",
+    "artist": "湶音遭",
+    "title": "NaturalWoman",
+    "url": "http://www.knave.co.jp/schedule/s_2026_11.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
     "date": "2026/11/13",
     "day": "金",
     "artist": "ロクセンチはラブハンドルズがおすき",
@@ -24453,6 +25236,78 @@
     "note": ""
   },
   {
+    "date": "2026/11/16",
+    "day": "月",
+    "artist": "洸",
+    "title": "LoversRock",
+    "url": "http://www.knave.co.jp/schedule/s_2026_11.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2026/11/16",
+    "day": "月",
+    "artist": "網谷俊輝",
+    "title": "LoversRock",
+    "url": "http://www.knave.co.jp/schedule/s_2026_11.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2026/11/16",
+    "day": "月",
+    "artist": "笹岡俊介",
+    "title": "LoversRock",
+    "url": "http://www.knave.co.jp/schedule/s_2026_11.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2026/11/16",
+    "day": "月",
+    "artist": "GRATEFUL DAYS",
+    "title": "LoversRock",
+    "url": "http://www.knave.co.jp/schedule/s_2026_11.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2026/11/20",
+    "day": "金",
+    "artist": "藤川彩",
+    "title": "girlstalk",
+    "url": "http://www.knave.co.jp/schedule/s_2026_11.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2026/11/20",
+    "day": "金",
+    "artist": "小川泉",
+    "title": "girlstalk",
+    "url": "http://www.knave.co.jp/schedule/s_2026_11.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2026/11/20",
+    "day": "金",
+    "artist": "理星",
+    "title": "girlstalk",
+    "url": "http://www.knave.co.jp/schedule/s_2026_11.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2026/11/20",
+    "day": "金",
+    "artist": "and more...",
+    "title": "girlstalk",
+    "url": "http://www.knave.co.jp/schedule/s_2026_11.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
     "date": "2026/11/22",
     "day": "日",
     "artist": "RETURNS",
@@ -24498,6 +25353,78 @@
     "note": ""
   },
   {
+    "date": "2026/11/25",
+    "day": "水",
+    "artist": "寿理",
+    "title": "NaturalWoman SP",
+    "url": "http://www.knave.co.jp/schedule/s_2026_11.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2026/11/25",
+    "day": "水",
+    "artist": "永恵美遥",
+    "title": "NaturalWoman SP",
+    "url": "http://www.knave.co.jp/schedule/s_2026_11.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2026/11/25",
+    "day": "水",
+    "artist": "斉藤れいか",
+    "title": "NaturalWoman SP",
+    "url": "http://www.knave.co.jp/schedule/s_2026_11.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2026/11/25",
+    "day": "水",
+    "artist": "ケシカルカッコ",
+    "title": "NaturalWoman SP",
+    "url": "http://www.knave.co.jp/schedule/s_2026_11.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2026/11/26",
+    "day": "木",
+    "artist": "星唯蘭",
+    "title": "girlstalk",
+    "url": "http://www.knave.co.jp/schedule/s_2026_11.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2026/11/26",
+    "day": "木",
+    "artist": "仁村あひる",
+    "title": "girlstalk",
+    "url": "http://www.knave.co.jp/schedule/s_2026_11.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2026/11/26",
+    "day": "木",
+    "artist": "Kurara",
+    "title": "girlstalk",
+    "url": "http://www.knave.co.jp/schedule/s_2026_11.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2026/11/26",
+    "day": "木",
+    "artist": "and more...",
+    "title": "girlstalk",
+    "url": "http://www.knave.co.jp/schedule/s_2026_11.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
     "date": "2026/11/27",
     "day": "金",
     "artist": "AYANE",
@@ -24538,6 +25465,42 @@
     "day": "金",
     "artist": "500※受付時に学生証要提示",
     "title": "AYANE \"H.E.A.R\" ACOUSTIC LIVE 2026",
+    "url": "http://www.knave.co.jp/schedule/s_2026_11.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2026/11/30",
+    "day": "月",
+    "artist": "きばやし",
+    "title": "NaturalWoman SP",
+    "url": "http://www.knave.co.jp/schedule/s_2026_11.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2026/11/30",
+    "day": "月",
+    "artist": "Yukky",
+    "title": "NaturalWoman SP",
+    "url": "http://www.knave.co.jp/schedule/s_2026_11.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2026/11/30",
+    "day": "月",
+    "artist": "河村麻未",
+    "title": "NaturalWoman SP",
+    "url": "http://www.knave.co.jp/schedule/s_2026_11.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2026/11/30",
+    "day": "月",
+    "artist": "and more...",
+    "title": "NaturalWoman SP",
     "url": "http://www.knave.co.jp/schedule/s_2026_11.html",
     "venue": "knave",
     "note": ""
@@ -24610,69 +25573,6 @@
     "day": "火",
     "artist": "000(受付にて学生証提示）",
     "title": "KURUMI presents",
-    "url": "http://www.knave.co.jp/schedule/s_2026_11.html",
-    "venue": "knave",
-    "note": ""
-  },
-  {
-    "date": "2026/11/03",
-    "day": "火",
-    "artist": "直訳ロッカー王様・66歳になりました記念",
-    "title": "RSG presents",
-    "url": "http://www.knave.co.jp/schedule/s_2026_11.html",
-    "venue": "knave",
-    "note": ""
-  },
-  {
-    "date": "2026/11/03",
-    "day": "火",
-    "artist": "「大人の文化祭Vol.9」",
-    "title": "RSG presents",
-    "url": "http://www.knave.co.jp/schedule/s_2026_11.html",
-    "venue": "knave",
-    "note": ""
-  },
-  {
-    "date": "2026/11/03",
-    "day": "火",
-    "artist": "ライブ＆セッション in 南堀江knave",
-    "title": "RSG presents",
-    "url": "http://www.knave.co.jp/schedule/s_2026_11.html",
-    "venue": "knave",
-    "note": ""
-  },
-  {
-    "date": "2026/11/03",
-    "day": "火",
-    "artist": "王様",
-    "title": "RSG presents",
-    "url": "http://www.knave.co.jp/schedule/s_2026_11.html",
-    "venue": "knave",
-    "note": ""
-  },
-  {
-    "date": "2026/11/03",
-    "day": "火",
-    "artist": "RSG",
-    "title": "RSG presents",
-    "url": "http://www.knave.co.jp/schedule/s_2026_11.html",
-    "venue": "knave",
-    "note": ""
-  },
-  {
-    "date": "2026/11/03",
-    "day": "火",
-    "artist": "ScatRaw",
-    "title": "RSG presents",
-    "url": "http://www.knave.co.jp/schedule/s_2026_11.html",
-    "venue": "knave",
-    "note": ""
-  },
-  {
-    "date": "2026/11/03",
-    "day": "火",
-    "artist": "The Pink Mantis-桃色蟷螂",
-    "title": "RSG presents",
     "url": "http://www.knave.co.jp/schedule/s_2026_11.html",
     "venue": "knave",
     "note": ""
