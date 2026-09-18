@@ -3224,7 +3224,7 @@
   {
     "date": "2026/10/03",
     "day": "土",
-    "artist": "犬街倶楽部",
+    "artist": "senju",
     "title": "",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
@@ -3233,7 +3233,7 @@
   {
     "date": "2026/10/03",
     "day": "土",
-    "artist": "senju",
+    "artist": "犬街倶楽部",
     "title": "",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
@@ -3251,15 +3251,6 @@
   {
     "date": "2026/10/03",
     "day": "土",
-    "artist": "ろうほう",
-    "title": "",
-    "url": "https://para-dice.net/",
-    "venue": "扇町para-dice",
-    "note": ""
-  },
-  {
-    "date": "2026/10/03",
-    "day": "土",
     "artist": "bluekeys",
     "title": "",
     "url": "https://para-dice.net/",
@@ -3269,7 +3260,7 @@
   {
     "date": "2026/10/03",
     "day": "土",
-    "artist": "...and more?",
+    "artist": "ろうほう",
     "title": "",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
@@ -3278,16 +3269,7 @@
   {
     "date": "2026/10/03",
     "day": "土",
-    "artist": "open",
-    "title": "",
-    "url": "https://para-dice.net/",
-    "venue": "扇町para-dice",
-    "note": ""
-  },
-  {
-    "date": "2026/10/03",
-    "day": "土",
-    "artist": "start TBA",
+    "artist": "STRAT 18:00",
     "title": "",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
@@ -3584,8 +3566,17 @@
   {
     "date": "2026/10/14",
     "day": "水",
+    "artist": "スモーキンデスペラード",
+    "title": "OPEN 18:30",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
+    "date": "2026/10/14",
+    "day": "水",
     "artist": "社領遥樹",
-    "title": "社領遥樹 / 車輪 / エチュバリア / 西山昂志(GOLDFISH ADVENTURE) / スモーキンデスペラード",
+    "title": "OPEN 18:30",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -3594,16 +3585,7 @@
     "date": "2026/10/14",
     "day": "水",
     "artist": "車輪",
-    "title": "社領遥樹 / 車輪 / エチュバリア / 西山昂志(GOLDFISH ADVENTURE) / スモーキンデスペラード",
-    "url": "https://para-dice.net/",
-    "venue": "扇町para-dice",
-    "note": ""
-  },
-  {
-    "date": "2026/10/14",
-    "day": "水",
-    "artist": "エチュバリア",
-    "title": "社領遥樹 / 車輪 / エチュバリア / 西山昂志(GOLDFISH ADVENTURE) / スモーキンデスペラード",
+    "title": "OPEN 18:30",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -3612,7 +3594,7 @@
     "date": "2026/10/14",
     "day": "水",
     "artist": "西山昂志",
-    "title": "社領遥樹 / 車輪 / エチュバリア / 西山昂志(GOLDFISH ADVENTURE) / スモーキンデスペラード",
+    "title": "OPEN 18:30",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -3620,8 +3602,8 @@
   {
     "date": "2026/10/14",
     "day": "水",
-    "artist": "スモーキンデスペラード and more...",
-    "title": "社領遥樹 / 車輪 / エチュバリア / 西山昂志(GOLDFISH ADVENTURE) / スモーキンデスペラード",
+    "artist": "エチュバリア",
+    "title": "OPEN 18:30",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -4044,7 +4026,7 @@
     "date": "2026/10/28",
     "day": "水",
     "artist": "DEERHOUNDS",
-    "title": "DEERHOUNDS / タイラキタ / 望月あづさ",
+    "title": "DEERHOUNDS / タイラキタ / 望月あづさ / dummyclub",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -4053,7 +4035,7 @@
     "date": "2026/10/28",
     "day": "水",
     "artist": "タイラキタ",
-    "title": "DEERHOUNDS / タイラキタ / 望月あづさ",
+    "title": "DEERHOUNDS / タイラキタ / 望月あづさ / dummyclub",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -4061,8 +4043,17 @@
   {
     "date": "2026/10/28",
     "day": "水",
-    "artist": "望月あづさ and more...",
-    "title": "DEERHOUNDS / タイラキタ / 望月あづさ",
+    "artist": "望月あづさ",
+    "title": "DEERHOUNDS / タイラキタ / 望月あづさ / dummyclub",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
+    "date": "2026/10/28",
+    "day": "水",
+    "artist": "dummyclub and more...",
+    "title": "DEERHOUNDS / タイラキタ / 望月あづさ / dummyclub",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -4196,8 +4187,8 @@
   {
     "date": "2026/11/01",
     "day": "日",
-    "artist": "鈴木知文×マコト",
-    "title": "鈴木知文×マコト(東京) / 頷けば灰 / Redboot2 / 一心十 / イワタショウゴBAND / BATINE",
+    "artist": "BATINE",
+    "title": "OPEN 16:30",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -4206,7 +4197,7 @@
     "date": "2026/11/01",
     "day": "日",
     "artist": "頷けば灰",
-    "title": "鈴木知文×マコト(東京) / 頷けば灰 / Redboot2 / 一心十 / イワタショウゴBAND / BATINE",
+    "title": "OPEN 16:30",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -4215,7 +4206,7 @@
     "date": "2026/11/01",
     "day": "日",
     "artist": "Redboot2",
-    "title": "鈴木知文×マコト(東京) / 頷けば灰 / Redboot2 / 一心十 / イワタショウゴBAND / BATINE",
+    "title": "OPEN 16:30",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -4224,7 +4215,16 @@
     "date": "2026/11/01",
     "day": "日",
     "artist": "一心十",
-    "title": "鈴木知文×マコト(東京) / 頷けば灰 / Redboot2 / 一心十 / イワタショウゴBAND / BATINE",
+    "title": "OPEN 16:30",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
+    "date": "2026/11/01",
+    "day": "日",
+    "artist": "鈴木知文×マコト",
+    "title": "OPEN 16:30",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -4233,16 +4233,7 @@
     "date": "2026/11/01",
     "day": "日",
     "artist": "イワタショウゴBAND",
-    "title": "鈴木知文×マコト(東京) / 頷けば灰 / Redboot2 / 一心十 / イワタショウゴBAND / BATINE",
-    "url": "https://para-dice.net/",
-    "venue": "扇町para-dice",
-    "note": ""
-  },
-  {
-    "date": "2026/11/01",
-    "day": "日",
-    "artist": "BATINE",
-    "title": "鈴木知文×マコト(東京) / 頷けば灰 / Redboot2 / 一心十 / イワタショウゴBAND / BATINE",
+    "title": "OPEN 16:30",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -4251,7 +4242,7 @@
     "date": "2026/11/02",
     "day": "月",
     "artist": "NA",
-    "title": "NA/DA / まろく / ホシノコウスケ / torobi",
+    "title": "NA/DA / まろく / ホシノコウスケ / torobi / 佐藤椅子",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -4260,7 +4251,7 @@
     "date": "2026/11/02",
     "day": "月",
     "artist": "DA",
-    "title": "NA/DA / まろく / ホシノコウスケ / torobi",
+    "title": "NA/DA / まろく / ホシノコウスケ / torobi / 佐藤椅子",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -4269,7 +4260,7 @@
     "date": "2026/11/02",
     "day": "月",
     "artist": "まろく",
-    "title": "NA/DA / まろく / ホシノコウスケ / torobi",
+    "title": "NA/DA / まろく / ホシノコウスケ / torobi / 佐藤椅子",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -4278,7 +4269,7 @@
     "date": "2026/11/02",
     "day": "月",
     "artist": "ホシノコウスケ",
-    "title": "NA/DA / まろく / ホシノコウスケ / torobi",
+    "title": "NA/DA / まろく / ホシノコウスケ / torobi / 佐藤椅子",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -4286,8 +4277,17 @@
   {
     "date": "2026/11/02",
     "day": "月",
-    "artist": "torobi and more...",
-    "title": "NA/DA / まろく / ホシノコウスケ / torobi",
+    "artist": "torobi",
+    "title": "NA/DA / まろく / ホシノコウスケ / torobi / 佐藤椅子",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
+    "date": "2026/11/02",
+    "day": "月",
+    "artist": "佐藤椅子",
+    "title": "NA/DA / まろく / ホシノコウスケ / torobi / 佐藤椅子",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -4557,7 +4557,7 @@
     "date": "2026/11/13",
     "day": "金",
     "artist": "イマイカリクニヒコ",
-    "title": "イマイカリクニヒコ / Chao's mall / カリニャンクール",
+    "title": "イマイカリクニヒコ / Chao's mall / カリニャンクール / Q.E / The Folking Poors(Japan)",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -4566,7 +4566,7 @@
     "date": "2026/11/13",
     "day": "金",
     "artist": "Chao's mall",
-    "title": "イマイカリクニヒコ / Chao's mall / カリニャンクール",
+    "title": "イマイカリクニヒコ / Chao's mall / カリニャンクール / Q.E / The Folking Poors(Japan)",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -4574,8 +4574,35 @@
   {
     "date": "2026/11/13",
     "day": "金",
-    "artist": "カリニャンクール  and more...",
-    "title": "イマイカリクニヒコ / Chao's mall / カリニャンクール",
+    "artist": "カリニャンクール",
+    "title": "イマイカリクニヒコ / Chao's mall / カリニャンクール / Q.E / The Folking Poors(Japan)",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
+    "date": "2026/11/13",
+    "day": "金",
+    "artist": "Q.E",
+    "title": "イマイカリクニヒコ / Chao's mall / カリニャンクール / Q.E / The Folking Poors(Japan)",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
+    "date": "2026/11/13",
+    "day": "金",
+    "artist": "The Folking Poors",
+    "title": "イマイカリクニヒコ / Chao's mall / カリニャンクール / Q.E / The Folking Poors(Japan)",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
+    "date": "2026/11/14",
+    "day": "土",
+    "artist": "Edgar",
+    "title": "Edgar(USA) / mango. / ki-wi /  BONE AND SKIN / HiSui",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -4584,7 +4611,7 @@
     "date": "2026/11/14",
     "day": "土",
     "artist": "mango.",
-    "title": "mango. / ki-wi / 夕鳴 / BONE AND SKIN / HiSui",
+    "title": "Edgar(USA) / mango. / ki-wi /  BONE AND SKIN / HiSui",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -4593,16 +4620,7 @@
     "date": "2026/11/14",
     "day": "土",
     "artist": "ki-wi",
-    "title": "mango. / ki-wi / 夕鳴 / BONE AND SKIN / HiSui",
-    "url": "https://para-dice.net/",
-    "venue": "扇町para-dice",
-    "note": ""
-  },
-  {
-    "date": "2026/11/14",
-    "day": "土",
-    "artist": "夕鳴",
-    "title": "mango. / ki-wi / 夕鳴 / BONE AND SKIN / HiSui",
+    "title": "Edgar(USA) / mango. / ki-wi /  BONE AND SKIN / HiSui",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -4611,7 +4629,7 @@
     "date": "2026/11/14",
     "day": "土",
     "artist": "BONE AND SKIN",
-    "title": "mango. / ki-wi / 夕鳴 / BONE AND SKIN / HiSui",
+    "title": "Edgar(USA) / mango. / ki-wi /  BONE AND SKIN / HiSui",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -4620,7 +4638,7 @@
     "date": "2026/11/14",
     "day": "土",
     "artist": "HiSui and more...",
-    "title": "mango. / ki-wi / 夕鳴 / BONE AND SKIN / HiSui",
+    "title": "Edgar(USA) / mango. / ki-wi /  BONE AND SKIN / HiSui",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -4700,8 +4718,17 @@
   {
     "date": "2026/11/20",
     "day": "金",
+    "artist": "Comical Fighters",
+    "title": "Comical Fighters / 田口智章(Muscle of the Soul) / kyoshū",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
+    "date": "2026/11/20",
+    "day": "金",
     "artist": "田口智章",
-    "title": "田口智章(Muscle of the Soul) / kyoshū",
+    "title": "Comical Fighters / 田口智章(Muscle of the Soul) / kyoshū",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -4710,7 +4737,7 @@
     "date": "2026/11/20",
     "day": "金",
     "artist": "kyoshū and more...",
-    "title": "田口智章(Muscle of the Soul) / kyoshū",
+    "title": "Comical Fighters / 田口智章(Muscle of the Soul) / kyoshū",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -4961,8 +4988,26 @@
   {
     "date": "2026/11/26",
     "day": "木",
-    "artist": "CURIOUS  and more...",
-    "title": "CURIOUS",
+    "artist": "CURIOUS",
+    "title": "CURIOUS / MegaloFizzy / キュンキュンズ",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
+    "date": "2026/11/26",
+    "day": "木",
+    "artist": "MegaloFizzy",
+    "title": "CURIOUS / MegaloFizzy / キュンキュンズ",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
+    "date": "2026/11/26",
+    "day": "木",
+    "artist": "キュンキュンズ and more...",
+    "title": "CURIOUS / MegaloFizzy / キュンキュンズ",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -4997,8 +5042,8 @@
   {
     "date": "2026/11/29",
     "day": "日",
-    "artist": "マッドショットガン",
-    "title": "マッドショットガン / 村瀬裕子",
+    "artist": "loveless signal",
+    "title": "loveless signal / マッドショットガン / 村瀬裕子 / 夕鳴",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -5006,8 +5051,26 @@
   {
     "date": "2026/11/29",
     "day": "日",
-    "artist": "村瀬裕子 and more...",
-    "title": "マッドショットガン / 村瀬裕子",
+    "artist": "マッドショットガン",
+    "title": "loveless signal / マッドショットガン / 村瀬裕子 / 夕鳴",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
+    "date": "2026/11/29",
+    "day": "日",
+    "artist": "村瀬裕子",
+    "title": "loveless signal / マッドショットガン / 村瀬裕子 / 夕鳴",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
+    "date": "2026/11/29",
+    "day": "日",
+    "artist": "夕鳴  and more...",
+    "title": "loveless signal / マッドショットガン / 村瀬裕子 / 夕鳴",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -5927,6 +5990,213 @@
     "artist": "344  かいわれ大根の日なのでかいわれ大根のなにか",
     "title": "居酒屋黒木 vol.17 ～中秋編～",
     "url": "https://vijon.jp/schedule/detail/56212",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2026/09/19",
+    "day": "土",
+    "artist": "+Alpha",
+    "title": "「+Alpha × #PANnana ツーマンライブ」",
+    "url": "https://vijon.jp/schedule/detail/55674",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2026/09/19",
+    "day": "土",
+    "artist": "#PANnana",
+    "title": "「+Alpha × #PANnana ツーマンライブ」",
+    "url": "https://vijon.jp/schedule/detail/55674",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2026/09/19",
+    "day": "土",
+    "artist": "なにわぱれっと",
+    "title": "『Meet Me Dreamy in club vijion』",
+    "url": "https://vijon.jp/schedule/detail/56280",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2026/09/19",
+    "day": "土",
+    "artist": "プラチナリボン",
+    "title": "『Meet Me Dreamy in club vijion』",
+    "url": "https://vijon.jp/schedule/detail/56280",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2026/09/19",
+    "day": "土",
+    "artist": "CLANCROWN",
+    "title": "『Meet Me Dreamy in club vijion』",
+    "url": "https://vijon.jp/schedule/detail/56280",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2026/09/19",
+    "day": "土",
+    "artist": "matatabi",
+    "title": "『Meet Me Dreamy in club vijion』",
+    "url": "https://vijon.jp/schedule/detail/56280",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2026/09/20",
+    "day": "日",
+    "artist": "■出演者 さいばー",
+    "title": "ベーオンセッション特別編 aikoオンリーコピーセッション",
+    "url": "https://vijon.jp/schedule/detail/52486",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2026/09/20",
+    "day": "日",
+    "artist": "さお",
+    "title": "ベーオンセッション特別編 aikoオンリーコピーセッション",
+    "url": "https://vijon.jp/schedule/detail/52486",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2026/09/20",
+    "day": "日",
+    "artist": "さほちん",
+    "title": "ベーオンセッション特別編 aikoオンリーコピーセッション",
+    "url": "https://vijon.jp/schedule/detail/52486",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2026/09/20",
+    "day": "日",
+    "artist": "世紀",
+    "title": "ベーオンセッション特別編 aikoオンリーコピーセッション",
+    "url": "https://vijon.jp/schedule/detail/52486",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2026/09/20",
+    "day": "日",
+    "artist": "じだらく",
+    "title": "ベーオンセッション特別編 aikoオンリーコピーセッション",
+    "url": "https://vijon.jp/schedule/detail/52486",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2026/09/20",
+    "day": "日",
+    "artist": "すーじー",
+    "title": "ベーオンセッション特別編 aikoオンリーコピーセッション",
+    "url": "https://vijon.jp/schedule/detail/52486",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2026/09/20",
+    "day": "日",
+    "artist": "chisa",
+    "title": "ベーオンセッション特別編 aikoオンリーコピーセッション",
+    "url": "https://vijon.jp/schedule/detail/52486",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2026/09/20",
+    "day": "日",
+    "artist": "なかじぃ",
+    "title": "ベーオンセッション特別編 aikoオンリーコピーセッション",
+    "url": "https://vijon.jp/schedule/detail/52486",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2026/09/20",
+    "day": "日",
+    "artist": "なつみ",
+    "title": "ベーオンセッション特別編 aikoオンリーコピーセッション",
+    "url": "https://vijon.jp/schedule/detail/52486",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2026/09/20",
+    "day": "日",
+    "artist": "ひでもん",
+    "title": "ベーオンセッション特別編 aikoオンリーコピーセッション",
+    "url": "https://vijon.jp/schedule/detail/52486",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2026/09/20",
+    "day": "日",
+    "artist": "ペンバリー",
+    "title": "ベーオンセッション特別編 aikoオンリーコピーセッション",
+    "url": "https://vijon.jp/schedule/detail/52486",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2026/09/20",
+    "day": "日",
+    "artist": "MID",
+    "title": "ベーオンセッション特別編 aikoオンリーコピーセッション",
+    "url": "https://vijon.jp/schedule/detail/52486",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2026/09/20",
+    "day": "日",
+    "artist": "Mari",
+    "title": "ベーオンセッション特別編 aikoオンリーコピーセッション",
+    "url": "https://vijon.jp/schedule/detail/52486",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2026/09/20",
+    "day": "日",
+    "artist": "Mayu",
+    "title": "ベーオンセッション特別編 aikoオンリーコピーセッション",
+    "url": "https://vijon.jp/schedule/detail/52486",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2026/09/20",
+    "day": "日",
+    "artist": "ゆーー",
+    "title": "ベーオンセッション特別編 aikoオンリーコピーセッション",
+    "url": "https://vijon.jp/schedule/detail/52486",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2026/09/20",
+    "day": "日",
+    "artist": "よこやん",
+    "title": "ベーオンセッション特別編 aikoオンリーコピーセッション",
+    "url": "https://vijon.jp/schedule/detail/52486",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2026/09/20",
+    "day": "日",
+    "artist": "りょうこ",
+    "title": "ベーオンセッション特別編 aikoオンリーコピーセッション",
+    "url": "https://vijon.jp/schedule/detail/52486",
     "venue": "北堀江club vijon",
     "note": ""
   },
@@ -6966,6 +7236,105 @@
     "note": ""
   },
   {
+    "date": "2026/10/03",
+    "day": "土",
+    "artist": "GUEST",
+    "title": "“CAOFF WEST 217”＜カオフ・ウエスト 217＞",
+    "url": "https://vijon.jp/schedule/detail/56275",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2026/10/03",
+    "day": "土",
+    "artist": "DJ：onion(ででんぱ",
+    "title": "“CAOFF WEST 217”＜カオフ・ウエスト 217＞",
+    "url": "https://vijon.jp/schedule/detail/56275",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2026/10/03",
+    "day": "土",
+    "artist": "AniLab)",
+    "title": "“CAOFF WEST 217”＜カオフ・ウエスト 217＞",
+    "url": "https://vijon.jp/schedule/detail/56275",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2026/10/03",
+    "day": "土",
+    "artist": "みらちゃん☆(すきっこ♪いいんかい",
+    "title": "“CAOFF WEST 217”＜カオフ・ウエスト 217＞",
+    "url": "https://vijon.jp/schedule/detail/56275",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2026/10/03",
+    "day": "土",
+    "artist": "Neon Geesis)",
+    "title": "“CAOFF WEST 217”＜カオフ・ウエスト 217＞",
+    "url": "https://vijon.jp/schedule/detail/56275",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2026/10/03",
+    "day": "土",
+    "artist": "おじさん(オタモク",
+    "title": "“CAOFF WEST 217”＜カオフ・ウエスト 217＞",
+    "url": "https://vijon.jp/schedule/detail/56275",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2026/10/03",
+    "day": "土",
+    "artist": "クラえもん",
+    "title": "“CAOFF WEST 217”＜カオフ・ウエスト 217＞",
+    "url": "https://vijon.jp/schedule/detail/56275",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2026/10/03",
+    "day": "土",
+    "artist": "ゼロイチユニオン",
+    "title": "“CAOFF WEST 217”＜カオフ・ウエスト 217＞",
+    "url": "https://vijon.jp/schedule/detail/56275",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2026/10/03",
+    "day": "土",
+    "artist": "レイワニ)",
+    "title": "“CAOFF WEST 217”＜カオフ・ウエスト 217＞",
+    "url": "https://vijon.jp/schedule/detail/56275",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2026/10/03",
+    "day": "土",
+    "artist": "VJ：団長",
+    "title": "“CAOFF WEST 217”＜カオフ・ウエスト 217＞",
+    "url": "https://vijon.jp/schedule/detail/56275",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2026/10/03",
+    "day": "土",
+    "artist": "&CAOFF CREW",
+    "title": "“CAOFF WEST 217”＜カオフ・ウエスト 217＞",
+    "url": "https://vijon.jp/schedule/detail/56275",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
     "date": "2026/10/04",
     "day": "日",
     "artist": "Monster Cat’ｓ",
@@ -7637,6 +8006,69 @@
     "artist": "ふれふら",
     "title": "club vijon 24th Anniversary.【HANAR SONIC 2026】DAY1 -HA-",
     "url": "https://vijon.jp/schedule/detail/54009",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2026/10/24",
+    "day": "土",
+    "artist": "NA2MI",
+    "title": "【HANAR SONIC MANIA】",
+    "url": "https://vijon.jp/schedule/detail/55784",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2026/10/24",
+    "day": "土",
+    "artist": "0t.",
+    "title": "【HANAR SONIC MANIA】",
+    "url": "https://vijon.jp/schedule/detail/55784",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2026/10/24",
+    "day": "土",
+    "artist": "あまちゃん",
+    "title": "【HANAR SONIC MANIA】",
+    "url": "https://vijon.jp/schedule/detail/55784",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2026/10/24",
+    "day": "土",
+    "artist": "YUA",
+    "title": "【HANAR SONIC MANIA】",
+    "url": "https://vijon.jp/schedule/detail/55784",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2026/10/24",
+    "day": "土",
+    "artist": "ましろゆりか",
+    "title": "【HANAR SONIC MANIA】",
+    "url": "https://vijon.jp/schedule/detail/55784",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2026/10/24",
+    "day": "土",
+    "artist": "kyon",
+    "title": "【HANAR SONIC MANIA】",
+    "url": "https://vijon.jp/schedule/detail/55784",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2026/10/24",
+    "day": "土",
+    "artist": "ポール",
+    "title": "【HANAR SONIC MANIA】",
+    "url": "https://vijon.jp/schedule/detail/55784",
     "venue": "北堀江club vijon",
     "note": ""
   },
@@ -8856,6 +9288,33 @@
     "note": ""
   },
   {
+    "date": "2026/12/17",
+    "day": "木",
+    "artist": "余生",
+    "title": "３MAN LIVE",
+    "url": "https://vijon.jp/schedule/detail/54340",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2026/12/17",
+    "day": "木",
+    "artist": "With Rangeer",
+    "title": "３MAN LIVE",
+    "url": "https://vijon.jp/schedule/detail/54340",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2026/12/17",
+    "day": "木",
+    "artist": "空から降ってきたアジたち",
+    "title": "３MAN LIVE",
+    "url": "https://vijon.jp/schedule/detail/54340",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
     "date": "2027/01/11",
     "day": "月",
     "artist": "わんちゃんわんわんねこにゃんにゃん",
@@ -9839,15 +10298,6 @@
   {
     "date": "2026/09/23",
     "day": "水",
-    "artist": "主催:白黒アリス  ゲスト:アンチテーゼ",
-    "title": "白黒アリス ょゎぃめる生誕祭",
-    "url": "https://bangboo.jp/schedule/detail/49375",
-    "venue": "梅田BANGBOO",
-    "note": ""
-  },
-  {
-    "date": "2026/09/23",
-    "day": "水",
     "artist": "カミサマパレード",
     "title": "白黒アリス ょゎぃめる生誕祭",
     "url": "https://bangboo.jp/schedule/detail/49375",
@@ -9869,6 +10319,15 @@
     "artist": "Nenashi",
     "title": "Nenashi ''Moment'' Album Release Party  supported by ORB",
     "url": "https://bangboo.jp/schedule/detail/52989",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2026/09/26",
+    "day": "土",
+    "artist": "SPRISE",
+    "title": "SPRISE 定期公演 『新幸福論』",
+    "url": "https://bangboo.jp/schedule/detail/56110",
     "venue": "梅田BANGBOO",
     "note": ""
   },
@@ -13545,6 +14004,105 @@
     "note": ""
   },
   {
+    "date": "2026/09/21",
+    "day": "月",
+    "artist": "柳透",
+    "title": "めっちゃ騒いじゃOSAKA Powered by めちゃメタ",
+    "url": "https://clubdrop.jp/schedule/detail/54089",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/09/21",
+    "day": "月",
+    "artist": "m96",
+    "title": "めっちゃ騒いじゃOSAKA Powered by めちゃメタ",
+    "url": "https://clubdrop.jp/schedule/detail/54089",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/09/21",
+    "day": "月",
+    "artist": "Daifuku",
+    "title": "めっちゃ騒いじゃOSAKA Powered by めちゃメタ",
+    "url": "https://clubdrop.jp/schedule/detail/54089",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/09/21",
+    "day": "月",
+    "artist": "薙坂和樹",
+    "title": "めっちゃ騒いじゃOSAKA Powered by めちゃメタ",
+    "url": "https://clubdrop.jp/schedule/detail/54089",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/09/21",
+    "day": "月",
+    "artist": "akky",
+    "title": "めっちゃ騒いじゃOSAKA Powered by めちゃメタ",
+    "url": "https://clubdrop.jp/schedule/detail/54089",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/09/21",
+    "day": "月",
+    "artist": "ライノホーン川井",
+    "title": "めっちゃ騒いじゃOSAKA Powered by めちゃメタ",
+    "url": "https://clubdrop.jp/schedule/detail/54089",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/09/21",
+    "day": "月",
+    "artist": "タソ",
+    "title": "めっちゃ騒いじゃOSAKA Powered by めちゃメタ",
+    "url": "https://clubdrop.jp/schedule/detail/54089",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/09/21",
+    "day": "月",
+    "artist": "_404_NOTFOUND",
+    "title": "めっちゃ騒いじゃOSAKA Powered by めちゃメタ",
+    "url": "https://clubdrop.jp/schedule/detail/54089",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/09/21",
+    "day": "月",
+    "artist": "ジャリＢｏｙ",
+    "title": "めっちゃ騒いじゃOSAKA Powered by めちゃメタ",
+    "url": "https://clubdrop.jp/schedule/detail/54089",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/09/21",
+    "day": "月",
+    "artist": "BLITZ",
+    "title": "めっちゃ騒いじゃOSAKA Powered by めちゃメタ",
+    "url": "https://clubdrop.jp/schedule/detail/54089",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/09/21",
+    "day": "月",
+    "artist": "こたろーちゃん",
+    "title": "めっちゃ騒いじゃOSAKA Powered by めちゃメタ",
+    "url": "https://clubdrop.jp/schedule/detail/54089",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
     "date": "2026/09/22",
     "day": "火",
     "artist": "O.A ふたりごと。",
@@ -13577,6 +14135,15 @@
     "artist": "cleomery",
     "title": "海月ゆき。生誕祭「泡沫、白昼夢。」",
     "url": "https://clubdrop.jp/schedule/detail/47526",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/09/23",
+    "day": "水",
+    "artist": "AZ-ON",
+    "title": "AZ-ON pre.「遊戯祭 -シルバーウィーク衣装交換編-」",
+    "url": "https://clubdrop.jp/schedule/detail/56298",
     "venue": "アメリカ村DROP",
     "note": ""
   },
@@ -19775,6 +20342,24 @@
   {
     "date": "2026/09/27",
     "day": "日",
+    "artist": "LØISLOID",
+    "title": "EMPIRE　TWO",
+    "url": "https://osaka-zeela.jp/schedule/detail/56274",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2026/09/27",
+    "day": "日",
+    "artist": "ENVY PARANOID",
+    "title": "EMPIRE　TWO",
+    "url": "https://osaka-zeela.jp/schedule/detail/56274",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2026/09/27",
+    "day": "日",
     "artist": "mm limit",
     "title": "maemitsu生誕2026 「まだやれんのかって！？」",
     "url": "https://osaka-zeela.jp/schedule/detail/47463",
@@ -20738,7 +21323,7 @@
   {
     "date": "2026/10/04",
     "day": "日",
-    "artist": "ironworker",
+    "artist": "IRON WORKER",
     "title": "nostalgic祭 vol.25",
     "url": "https://osaka-zeela.jp/schedule/detail/47957",
     "venue": "Zeela",
@@ -21017,8 +21602,80 @@
   {
     "date": "2026/10/11",
     "day": "日",
-    "artist": "coming soon...",
-    "title": "HALL RENTAL",
+    "artist": "SAKE-WIPPIN'",
+    "title": "モシャス Lv.10",
+    "url": "https://osaka-zeela.jp/schedule/detail/47859",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2026/10/11",
+    "day": "日",
+    "artist": "SHOW-YOU",
+    "title": "モシャス Lv.10",
+    "url": "https://osaka-zeela.jp/schedule/detail/47859",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2026/10/11",
+    "day": "日",
+    "artist": "かごめごめ",
+    "title": "モシャス Lv.10",
+    "url": "https://osaka-zeela.jp/schedule/detail/47859",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2026/10/11",
+    "day": "日",
+    "artist": "グリーンピースパラダイス",
+    "title": "モシャス Lv.10",
+    "url": "https://osaka-zeela.jp/schedule/detail/47859",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2026/10/11",
+    "day": "日",
+    "artist": "地平線大紀行",
+    "title": "モシャス Lv.10",
+    "url": "https://osaka-zeela.jp/schedule/detail/47859",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2026/10/11",
+    "day": "日",
+    "artist": "pluie noire",
+    "title": "モシャス Lv.10",
+    "url": "https://osaka-zeela.jp/schedule/detail/47859",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2026/10/11",
+    "day": "日",
+    "artist": "phase 2.5",
+    "title": "モシャス Lv.10",
+    "url": "https://osaka-zeela.jp/schedule/detail/47859",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2026/10/11",
+    "day": "日",
+    "artist": "Mo mooe 5",
+    "title": "モシャス Lv.10",
+    "url": "https://osaka-zeela.jp/schedule/detail/47859",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2026/10/11",
+    "day": "日",
+    "artist": "HungRy Piglet",
+    "title": "モシャス Lv.10",
     "url": "https://osaka-zeela.jp/schedule/detail/47859",
     "venue": "Zeela",
     "note": ""
@@ -22025,7 +22682,79 @@
   {
     "date": "2026/10/31",
     "day": "土",
-    "artist": "coming soon...",
+    "artist": "〇〇ごっこ",
+    "title": "Dの食卓2 BAND Halloween Trick or Music！",
+    "url": "https://osaka-zeela.jp/schedule/detail/48524",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2026/10/31",
+    "day": "土",
+    "artist": "なにわの怪盗団",
+    "title": "Dの食卓2 BAND Halloween Trick or Music！",
+    "url": "https://osaka-zeela.jp/schedule/detail/48524",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2026/10/31",
+    "day": "土",
+    "artist": "男sing SAMURAI",
+    "title": "Dの食卓2 BAND Halloween Trick or Music！",
+    "url": "https://osaka-zeela.jp/schedule/detail/48524",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2026/10/31",
+    "day": "土",
+    "artist": "Intence Rook",
+    "title": "Dの食卓2 BAND Halloween Trick or Music！",
+    "url": "https://osaka-zeela.jp/schedule/detail/48524",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2026/10/31",
+    "day": "土",
+    "artist": "超セイヤ伝説",
+    "title": "Dの食卓2 BAND Halloween Trick or Music！",
+    "url": "https://osaka-zeela.jp/schedule/detail/48524",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2026/10/31",
+    "day": "土",
+    "artist": "絶不調衆",
+    "title": "Dの食卓2 BAND Halloween Trick or Music！",
+    "url": "https://osaka-zeela.jp/schedule/detail/48524",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2026/10/31",
+    "day": "土",
+    "artist": "スンッとしてニパァ！",
+    "title": "Dの食卓2 BAND Halloween Trick or Music！",
+    "url": "https://osaka-zeela.jp/schedule/detail/48524",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2026/10/31",
+    "day": "土",
+    "artist": "K.S.G FOXBAND",
+    "title": "Dの食卓2 BAND Halloween Trick or Music！",
+    "url": "https://osaka-zeela.jp/schedule/detail/48524",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2026/10/31",
+    "day": "土",
+    "artist": "Ema Mujica",
     "title": "Dの食卓2 BAND Halloween Trick or Music！",
     "url": "https://osaka-zeela.jp/schedule/detail/48524",
     "venue": "Zeela",
