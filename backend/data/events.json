@@ -3449,8 +3449,17 @@
   {
     "date": "2026/10/09",
     "day": "金",
-    "artist": "Fluffy Machine",
-    "title": "Fluffy Machine(スイス) / テルルス / 海組 / \n                \nMCSHIGE Rockingchair",
+    "artist": "MCSHIGE Rockingchair",
+    "title": "OPEN 18:30",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
+    "date": "2026/10/09",
+    "day": "金",
+    "artist": "Running Home Run",
+    "title": "OPEN 18:30",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -3459,7 +3468,7 @@
     "date": "2026/10/09",
     "day": "金",
     "artist": "テルルス",
-    "title": "Fluffy Machine(スイス) / テルルス / 海組 / \n                \nMCSHIGE Rockingchair",
+    "title": "OPEN 18:30",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -3468,7 +3477,7 @@
     "date": "2026/10/09",
     "day": "金",
     "artist": "海組",
-    "title": "Fluffy Machine(スイス) / テルルス / 海組 / \n                \nMCSHIGE Rockingchair",
+    "title": "OPEN 18:30",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -3476,8 +3485,8 @@
   {
     "date": "2026/10/09",
     "day": "金",
-    "artist": "MCSHIGE Rockingchair  and more...",
-    "title": "Fluffy Machine(スイス) / テルルス / 海組 / \n                \nMCSHIGE Rockingchair",
+    "artist": "Fluffy Machine",
+    "title": "OPEN 18:30",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -3531,7 +3540,25 @@
     "date": "2026/10/12",
     "day": "月祝",
     "artist": "TOKIMEKI☆JAMBOJAMBO",
-    "title": "TOKIMEKI☆JAMBOJAMBO / mango. / El Primo / \n                \nHiSui",
+    "title": "OPEN 17:30",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
+    "date": "2026/10/12",
+    "day": "月祝",
+    "artist": "教育",
+    "title": "OPEN 17:30",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
+    "date": "2026/10/12",
+    "day": "月祝",
+    "artist": "HiSui",
+    "title": "OPEN 17:30",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -3540,7 +3567,7 @@
     "date": "2026/10/12",
     "day": "月祝",
     "artist": "mango.",
-    "title": "TOKIMEKI☆JAMBOJAMBO / mango. / El Primo / \n                \nHiSui",
+    "title": "OPEN 17:30",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -3549,16 +3576,7 @@
     "date": "2026/10/12",
     "day": "月祝",
     "artist": "El Primo",
-    "title": "TOKIMEKI☆JAMBOJAMBO / mango. / El Primo / \n                \nHiSui",
-    "url": "https://para-dice.net/",
-    "venue": "扇町para-dice",
-    "note": ""
-  },
-  {
-    "date": "2026/10/12",
-    "day": "月祝",
-    "artist": "HiSui  and more...",
-    "title": "TOKIMEKI☆JAMBOJAMBO / mango. / El Primo / \n                \nHiSui",
+    "title": "OPEN 17:30",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -5990,6 +6008,15 @@
     "artist": "344  かいわれ大根の日なのでかいわれ大根のなにか",
     "title": "居酒屋黒木 vol.17 ～中秋編～",
     "url": "https://vijon.jp/schedule/detail/56212",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2026/09/19",
+    "day": "土",
+    "artist": "ハピネスクラッカー",
+    "title": "緊急開催!!ハピクラ定期公演!!!!",
+    "url": "https://vijon.jp/schedule/detail/55955",
     "venue": "北堀江club vijon",
     "note": ""
   },
@@ -10494,6 +10521,96 @@
     "note": ""
   },
   {
+    "date": "2026/09/29",
+    "day": "火",
+    "artist": "ネテルダイヤ",
+    "title": "ONE SHOT",
+    "url": "https://bangboo.jp/schedule/detail/53000",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2026/09/29",
+    "day": "火",
+    "artist": "SKILL of light",
+    "title": "ONE SHOT",
+    "url": "https://bangboo.jp/schedule/detail/53000",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2026/09/29",
+    "day": "火",
+    "artist": "Riina",
+    "title": "ONE SHOT",
+    "url": "https://bangboo.jp/schedule/detail/53000",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2026/09/29",
+    "day": "火",
+    "artist": "卯月ひなみ",
+    "title": "ONE SHOT",
+    "url": "https://bangboo.jp/schedule/detail/53000",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2026/09/29",
+    "day": "火",
+    "artist": "LunouirTiara",
+    "title": "ONE SHOT",
+    "url": "https://bangboo.jp/schedule/detail/53000",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2026/09/29",
+    "day": "火",
+    "artist": "皐月かえで",
+    "title": "ONE SHOT",
+    "url": "https://bangboo.jp/schedule/detail/53000",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2026/09/29",
+    "day": "火",
+    "artist": "UNOW",
+    "title": "ONE SHOT",
+    "url": "https://bangboo.jp/schedule/detail/53000",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2026/09/29",
+    "day": "火",
+    "artist": "Arch Angel",
+    "title": "ONE SHOT",
+    "url": "https://bangboo.jp/schedule/detail/53000",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2026/09/29",
+    "day": "火",
+    "artist": "Fortuness",
+    "title": "ONE SHOT",
+    "url": "https://bangboo.jp/schedule/detail/53000",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2026/09/29",
+    "day": "火",
+    "artist": "lyricalpopparadox",
+    "title": "ONE SHOT",
+    "url": "https://bangboo.jp/schedule/detail/53000",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
     "date": "2026/09/30",
     "day": "水",
     "artist": "Maze Raid++",
@@ -14213,6 +14330,60 @@
   {
     "date": "2026/09/25",
     "day": "金",
+    "artist": "妖狐繚乱",
+    "title": "Moonlight VOL19 feat.Fate Piece LAND",
+    "url": "https://clubdrop.jp/schedule/detail/52138",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/09/25",
+    "day": "金",
+    "artist": "カリフラワー冒険記",
+    "title": "Moonlight VOL19 feat.Fate Piece LAND",
+    "url": "https://clubdrop.jp/schedule/detail/52138",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/09/25",
+    "day": "金",
+    "artist": "マイフェアガール",
+    "title": "Moonlight VOL19 feat.Fate Piece LAND",
+    "url": "https://clubdrop.jp/schedule/detail/52138",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/09/25",
+    "day": "金",
+    "artist": "CØCØRIZE",
+    "title": "Moonlight VOL19 feat.Fate Piece LAND",
+    "url": "https://clubdrop.jp/schedule/detail/52138",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/09/25",
+    "day": "金",
+    "artist": "CozMICぱれーど",
+    "title": "Moonlight VOL19 feat.Fate Piece LAND",
+    "url": "https://clubdrop.jp/schedule/detail/52138",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/09/25",
+    "day": "金",
+    "artist": "i Moon",
+    "title": "Moonlight VOL19 feat.Fate Piece LAND",
+    "url": "https://clubdrop.jp/schedule/detail/52138",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/09/25",
+    "day": "金",
     "artist": "Cats Rule The World",
     "title": "力戦奮闘-AMERICAMURA DROP 23th ANNIVERSARY-",
     "url": "https://clubdrop.jp/schedule/detail/53838",
@@ -15008,6 +15179,60 @@
     "artist": "りょう",
     "title": "ちょっと遅めのタニシ生誕ライブ",
     "url": "https://clubdrop.jp/schedule/detail/53253",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/10/17",
+    "day": "土",
+    "artist": "Lumi Prima",
+    "title": "Lumi Prima ハロウィン単独公演 Angel編",
+    "url": "https://clubdrop.jp/schedule/detail/47589",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/10/17",
+    "day": "土",
+    "artist": "SANUGLOW",
+    "title": "SANUGLOW ハロウィン単独公演 Angel編",
+    "url": "https://clubdrop.jp/schedule/detail/56301",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/10/17",
+    "day": "土",
+    "artist": "GRINOAH",
+    "title": "GRINOAH ハロウィン単独公演 Angel編",
+    "url": "https://clubdrop.jp/schedule/detail/56302",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/10/17",
+    "day": "土",
+    "artist": "アブソプ",
+    "title": "アブソプ ハロウィン単独公演 Angel編",
+    "url": "https://clubdrop.jp/schedule/detail/56317",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/10/17",
+    "day": "土",
+    "artist": "SPRISE",
+    "title": "SPRISE ハロウィン単独公演 Angel編",
+    "url": "https://clubdrop.jp/schedule/detail/56303",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/10/17",
+    "day": "土",
+    "artist": "and more...",
+    "title": "SAMHAIN",
+    "url": "https://clubdrop.jp/schedule/detail/56305",
     "venue": "アメリカ村DROP",
     "note": ""
   },
@@ -17186,6 +17411,195 @@
     "artist": "ニーチェ",
     "title": "ニーチェ 2nd Anniversary ONEMAN 『Reign-レイン-』",
     "url": "https://osaka-varon.jp/schedule/detail/49538",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2026/09/23",
+    "day": "水",
+    "artist": "I.VILL",
+    "title": "偶像狂騒 ××××無規制××××",
+    "url": "https://osaka-varon.jp/schedule/detail/48570",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2026/09/23",
+    "day": "水",
+    "artist": "alpha⁂Lux",
+    "title": "偶像狂騒 ××××無規制××××",
+    "url": "https://osaka-varon.jp/schedule/detail/48570",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2026/09/23",
+    "day": "水",
+    "artist": "狂鳴-ｷｮｳﾒｲ-",
+    "title": "偶像狂騒 ××××無規制××××",
+    "url": "https://osaka-varon.jp/schedule/detail/48570",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2026/09/23",
+    "day": "水",
+    "artist": "Qu♡Aly",
+    "title": "偶像狂騒 ××××無規制××××",
+    "url": "https://osaka-varon.jp/schedule/detail/48570",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2026/09/23",
+    "day": "水",
+    "artist": "COzMICぱれーど",
+    "title": "偶像狂騒 ××××無規制××××",
+    "url": "https://osaka-varon.jp/schedule/detail/48570",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2026/09/23",
+    "day": "水",
+    "artist": "SUGAR SPARK",
+    "title": "偶像狂騒 ××××無規制××××",
+    "url": "https://osaka-varon.jp/schedule/detail/48570",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2026/09/23",
+    "day": "水",
+    "artist": "瀬口こころ",
+    "title": "偶像狂騒 ××××無規制××××",
+    "url": "https://osaka-varon.jp/schedule/detail/48570",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2026/09/23",
+    "day": "水",
+    "artist": "てんぽぷりも♪",
+    "title": "偶像狂騒 ××××無規制××××",
+    "url": "https://osaka-varon.jp/schedule/detail/48570",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2026/09/23",
+    "day": "水",
+    "artist": "ドレミファイン♪",
+    "title": "偶像狂騒 ××××無規制××××",
+    "url": "https://osaka-varon.jp/schedule/detail/48570",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2026/09/23",
+    "day": "水",
+    "artist": "NEO BREAK",
+    "title": "偶像狂騒 ××××無規制××××",
+    "url": "https://osaka-varon.jp/schedule/detail/48570",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2026/09/23",
+    "day": "水",
+    "artist": "にゃあにゃあ",
+    "title": "偶像狂騒 ××××無規制××××",
+    "url": "https://osaka-varon.jp/schedule/detail/48570",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2026/09/23",
+    "day": "水",
+    "artist": "プリュネ♡トゥインクレット",
+    "title": "偶像狂騒 ××××無規制××××",
+    "url": "https://osaka-varon.jp/schedule/detail/48570",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2026/09/23",
+    "day": "水",
+    "artist": "ボクセカ",
+    "title": "偶像狂騒 ××××無規制××××",
+    "url": "https://osaka-varon.jp/schedule/detail/48570",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2026/09/23",
+    "day": "水",
+    "artist": "マイフェアガ→ル",
+    "title": "偶像狂騒 ××××無規制××××",
+    "url": "https://osaka-varon.jp/schedule/detail/48570",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2026/09/23",
+    "day": "水",
+    "artist": "matatabi",
+    "title": "偶像狂騒 ××××無規制××××",
+    "url": "https://osaka-varon.jp/schedule/detail/48570",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2026/09/23",
+    "day": "水",
+    "artist": "UNOW",
+    "title": "偶像狂騒 ××××無規制××××",
+    "url": "https://osaka-varon.jp/schedule/detail/48570",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2026/09/23",
+    "day": "水",
+    "artist": "妖狐繚乱",
+    "title": "偶像狂騒 ××××無規制××××",
+    "url": "https://osaka-varon.jp/schedule/detail/48570",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2026/09/23",
+    "day": "水",
+    "artist": "リボンのないぷれぜんと",
+    "title": "偶像狂騒 ××××無規制××××",
+    "url": "https://osaka-varon.jp/schedule/detail/48570",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2026/09/23",
+    "day": "水",
+    "artist": "ワッツ◎さーくる",
+    "title": "激アイラバ5マン",
+    "url": "https://osaka-varon.jp/schedule/detail/56272",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2026/09/23",
+    "day": "水",
+    "artist": "脳内パステル",
+    "title": "激アイラバ5マン",
+    "url": "https://osaka-varon.jp/schedule/detail/56272",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2026/09/23",
+    "day": "水",
+    "artist": "あおぞらをキミに",
+    "title": "激アイラバ5マン",
+    "url": "https://osaka-varon.jp/schedule/detail/56272",
     "venue": "VARON",
     "note": ""
   },
@@ -20138,6 +20552,15 @@
     "artist": "無敵の笑顔で荒らすZeela",
     "title": "オッティ × クサムラ同期企画",
     "url": "https://osaka-zeela.jp/schedule/detail/47746",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2026/09/23",
+    "day": "水",
+    "artist": "武内享",
+    "title": "【15周年！大阪レインボー】",
+    "url": "https://osaka-zeela.jp/schedule/detail/49851",
     "venue": "Zeela",
     "note": ""
   },
@@ -23112,9 +23535,72 @@
     "note": ""
   },
   {
+    "date": "2026/11/16",
+    "day": "月",
+    "artist": "OXU",
+    "title": "Zeela presents MAGIC HOUR -Zeela 13th Anniversary-",
+    "url": "https://osaka-zeela.jp/schedule/detail/53968",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2026/11/16",
+    "day": "月",
+    "artist": "チセツナガラ",
+    "title": "Zeela presents MAGIC HOUR -Zeela 13th Anniversary-",
+    "url": "https://osaka-zeela.jp/schedule/detail/53968",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2026/11/16",
+    "day": "月",
+    "artist": "灯火日和",
+    "title": "Zeela presents MAGIC HOUR -Zeela 13th Anniversary-",
+    "url": "https://osaka-zeela.jp/schedule/detail/53968",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2026/11/16",
+    "day": "月",
+    "artist": "JANOMES",
+    "title": "Zeela presents MAGIC HOUR -Zeela 13th Anniversary-",
+    "url": "https://osaka-zeela.jp/schedule/detail/53968",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2026/11/16",
+    "day": "月",
+    "artist": "Shaftray",
+    "title": "Zeela presents MAGIC HOUR -Zeela 13th Anniversary-",
+    "url": "https://osaka-zeela.jp/schedule/detail/53968",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2026/11/16",
+    "day": "月",
+    "artist": "Wing-Stong",
+    "title": "Zeela presents MAGIC HOUR -Zeela 13th Anniversary-",
+    "url": "https://osaka-zeela.jp/schedule/detail/53968",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
     "date": "2026/11/20",
     "day": "金",
-    "artist": "YU'S ※全箇所2マン",
+    "artist": "YU'S",
+    "title": "YU'S tour 2026 \"Just for you\"",
+    "url": "https://osaka-zeela.jp/schedule/detail/53465",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2026/11/20",
+    "day": "金",
+    "artist": "PURPLE BUBBLE",
     "title": "YU'S tour 2026 \"Just for you\"",
     "url": "https://osaka-zeela.jp/schedule/detail/53465",
     "venue": "Zeela",
@@ -23180,6 +23666,15 @@
     "artist": "なきごと",
     "title": "Zeela13周年記念企画 -VS-",
     "url": "https://osaka-zeela.jp/schedule/detail/54634",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2026/12/18",
+    "day": "金",
+    "artist": "Half time Old　※各地対バンあり",
+    "title": "Half time Old presents \"戦ってるんだ\" ツーマンツアー 2026-2027",
+    "url": "https://osaka-zeela.jp/schedule/detail/51927",
     "venue": "Zeela",
     "note": ""
   },
@@ -26325,6 +26820,42 @@
     "note": ""
   },
   {
+    "date": "2026/11/14",
+    "day": "土",
+    "artist": "→ Underground Parade ←",
+    "title": "Neu:NOIZ Tour 2026",
+    "url": "http://www.knave.co.jp/schedule/s_2026_11.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2026/11/14",
+    "day": "土",
+    "artist": "Neu:NOIZ",
+    "title": "Neu:NOIZ Tour 2026",
+    "url": "http://www.knave.co.jp/schedule/s_2026_11.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2026/11/14",
+    "day": "土",
+    "artist": "一般発売近日",
+    "title": "Neu:NOIZ Tour 2026",
+    "url": "http://www.knave.co.jp/schedule/s_2026_11.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2026/11/14",
+    "day": "土",
+    "artist": "問)knave06-6535-0691",
+    "title": "Neu:NOIZ Tour 2026",
+    "url": "http://www.knave.co.jp/schedule/s_2026_11.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
     "date": "2026/11/16",
     "day": "月",
     "artist": "洸",
@@ -26669,6 +27200,60 @@
   {
     "date": "2026/12/06",
     "day": "日",
+    "artist": "Sweets",
+    "title": "Sweets presents NO LIVE NO LIFE Vol.2",
+    "url": "http://www.knave.co.jp/schedule/s_2026_11.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2026/12/06",
+    "day": "日",
+    "artist": "追加アーティスト後日発表",
+    "title": "Sweets presents NO LIVE NO LIFE Vol.2",
+    "url": "http://www.knave.co.jp/schedule/s_2026_11.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2026/12/06",
+    "day": "日",
+    "artist": "※未就学児童入場料無料",
+    "title": "Sweets presents NO LIVE NO LIFE Vol.2",
+    "url": "http://www.knave.co.jp/schedule/s_2026_11.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2026/12/06",
+    "day": "日",
+    "artist": "小学生以上要チケット代",
+    "title": "Sweets presents NO LIVE NO LIFE Vol.2",
+    "url": "http://www.knave.co.jp/schedule/s_2026_11.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2026/12/06",
+    "day": "日",
+    "artist": "※学割￥1",
+    "title": "Sweets presents NO LIVE NO LIFE Vol.2",
+    "url": "http://www.knave.co.jp/schedule/s_2026_11.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2026/12/06",
+    "day": "日",
+    "artist": "900(受付にて学生証提示）",
+    "title": "Sweets presents NO LIVE NO LIFE Vol.2",
+    "url": "http://www.knave.co.jp/schedule/s_2026_11.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2026/12/06",
+    "day": "日",
     "artist": "『君の街で灯るように』 大阪編",
     "title": "灯火日和&Gum Girl 共催イベント",
     "url": "http://www.knave.co.jp/schedule/s_2026_11.html",
@@ -26697,33 +27282,6 @@
     "date": "2026/12/06",
     "day": "日",
     "artist": "LUCY IN THE ROOM",
-    "title": "灯火日和&Gum Girl 共催イベント",
-    "url": "http://www.knave.co.jp/schedule/s_2026_11.html",
-    "venue": "knave",
-    "note": ""
-  },
-  {
-    "date": "2026/12/06",
-    "day": "日",
-    "artist": "※未就学児童入場料無料",
-    "title": "灯火日和&Gum Girl 共催イベント",
-    "url": "http://www.knave.co.jp/schedule/s_2026_11.html",
-    "venue": "knave",
-    "note": ""
-  },
-  {
-    "date": "2026/12/06",
-    "day": "日",
-    "artist": "小学生以上要チケット代",
-    "title": "灯火日和&Gum Girl 共催イベント",
-    "url": "http://www.knave.co.jp/schedule/s_2026_11.html",
-    "venue": "knave",
-    "note": ""
-  },
-  {
-    "date": "2026/12/06",
-    "day": "日",
-    "artist": "※学割￥1",
     "title": "灯火日和&Gum Girl 共催イベント",
     "url": "http://www.knave.co.jp/schedule/s_2026_11.html",
     "venue": "knave",
