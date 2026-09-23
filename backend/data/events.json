@@ -1170,6 +1170,42 @@
     "note": ""
   },
   {
+    "date": "2026/10/14",
+    "day": "水",
+    "artist": "the whimsical glider",
+    "title": "GOOD FLIGHT",
+    "url": "https://fireloop.net/schedule_now.shtml#1014",
+    "venue": "寺田町Fireloop",
+    "note": ""
+  },
+  {
+    "date": "2026/10/14",
+    "day": "水",
+    "artist": "TURBO LIGHTER",
+    "title": "GOOD FLIGHT",
+    "url": "https://fireloop.net/schedule_now.shtml#1014",
+    "venue": "寺田町Fireloop",
+    "note": ""
+  },
+  {
+    "date": "2026/10/14",
+    "day": "水",
+    "artist": "ichiru",
+    "title": "GOOD FLIGHT",
+    "url": "https://fireloop.net/schedule_now.shtml#1014",
+    "venue": "寺田町Fireloop",
+    "note": ""
+  },
+  {
+    "date": "2026/10/14",
+    "day": "水",
+    "artist": "and more!!",
+    "title": "GOOD FLIGHT",
+    "url": "https://fireloop.net/schedule_now.shtml#1014",
+    "venue": "寺田町Fireloop",
+    "note": ""
+  },
+  {
     "date": "2026/10/16",
     "day": "金",
     "artist": "デリバリー神様",
@@ -1346,6 +1382,42 @@
     "artist": "urema",
     "title": "Blue Flower Tone",
     "url": "https://fireloop.net/schedule_now.shtml#1018",
+    "venue": "寺田町Fireloop",
+    "note": ""
+  },
+  {
+    "date": "2026/10/23",
+    "day": "金",
+    "artist": "夕鳴",
+    "title": "rollaction",
+    "url": "https://fireloop.net/schedule_now.shtml#1023",
+    "venue": "寺田町Fireloop",
+    "note": ""
+  },
+  {
+    "date": "2026/10/23",
+    "day": "金",
+    "artist": "Mourning work",
+    "title": "rollaction",
+    "url": "https://fireloop.net/schedule_now.shtml#1023",
+    "venue": "寺田町Fireloop",
+    "note": ""
+  },
+  {
+    "date": "2026/10/23",
+    "day": "金",
+    "artist": "yoake no seirei",
+    "title": "rollaction",
+    "url": "https://fireloop.net/schedule_now.shtml#1023",
+    "venue": "寺田町Fireloop",
+    "note": ""
+  },
+  {
+    "date": "2026/10/23",
+    "day": "金",
+    "artist": "El Primo",
+    "title": "rollaction",
+    "url": "https://fireloop.net/schedule_now.shtml#1023",
     "venue": "寺田町Fireloop",
     "note": ""
   },
@@ -1805,6 +1877,24 @@
     "artist": "Keg's Tower",
     "title": "An Evening with Keg's Tower",
     "url": "https://fireloop.net/schedule_now.shtml#1115",
+    "venue": "寺田町Fireloop",
+    "note": ""
+  },
+  {
+    "date": "2026/11/17",
+    "day": "火",
+    "artist": "ソナチネ",
+    "title": "あのシネマ",
+    "url": "https://fireloop.net/schedule_now.shtml#1117",
+    "venue": "寺田町Fireloop",
+    "note": ""
+  },
+  {
+    "date": "2026/11/17",
+    "day": "火",
+    "artist": "and more!",
+    "title": "あのシネマ",
+    "url": "https://fireloop.net/schedule_now.shtml#1117",
     "venue": "寺田町Fireloop",
     "note": ""
   },
@@ -2846,7 +2936,7 @@
   {
     "date": "2026/09/23",
     "day": "水祝",
-    "artist": "THE SUNBURST",
+    "artist": "19:00〜 19:30 THE SUNBURST",
     "title": "para-dice企画",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
@@ -2855,7 +2945,7 @@
   {
     "date": "2026/09/23",
     "day": "水祝",
-    "artist": "THEE HEDGEHOGS",
+    "artist": "19:40〜 20:10 THEE HEDGEHOGS",
     "title": "para-dice企画",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
@@ -2864,7 +2954,7 @@
   {
     "date": "2026/09/23",
     "day": "水祝",
-    "artist": "Slipout Blank",
+    "artist": "20:20〜 20:50 fuzzy stereo",
     "title": "para-dice企画",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
@@ -2873,7 +2963,25 @@
   {
     "date": "2026/09/23",
     "day": "水祝",
-    "artist": "fuzzy stereo",
+    "artist": "※Slipout Blankは出演キャンセルとなりました。",
+    "title": "para-dice企画",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
+    "date": "2026/09/23",
+    "day": "水祝",
+    "artist": "オープン",
+    "title": "para-dice企画",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
+    "date": "2026/09/23",
+    "day": "水祝",
+    "artist": "スタート時間に変更がございます。ご了承ください。",
     "title": "para-dice企画",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
@@ -3773,8 +3881,17 @@
   {
     "date": "2026/10/17",
     "day": "土",
+    "artist": "dogon",
+    "title": "OPEN 18:30",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
+    "date": "2026/10/17",
+    "day": "土",
     "artist": "ロクゲンサン",
-    "title": "ロクゲンサン / Lone Otter / 青い紫陽花 / dogon",
+    "title": "OPEN 18:30",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -3783,7 +3900,7 @@
     "date": "2026/10/17",
     "day": "土",
     "artist": "Lone Otter",
-    "title": "ロクゲンサン / Lone Otter / 青い紫陽花 / dogon",
+    "title": "OPEN 18:30",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -3792,16 +3909,7 @@
     "date": "2026/10/17",
     "day": "土",
     "artist": "青い紫陽花",
-    "title": "ロクゲンサン / Lone Otter / 青い紫陽花 / dogon",
-    "url": "https://para-dice.net/",
-    "venue": "扇町para-dice",
-    "note": ""
-  },
-  {
-    "date": "2026/10/17",
-    "day": "土",
-    "artist": "dogon and more...",
-    "title": "ロクゲンサン / Lone Otter / 青い紫陽花 / dogon",
+    "title": "OPEN 18:30",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -8066,6 +8174,15 @@
   {
     "date": "2026/10/08",
     "day": "木",
+    "artist": "瀧本結月",
+    "title": "SiNT Pre.\"1st Albam 'Letter to Youth'Release Event\"",
+    "url": "https://vijon.jp/schedule/detail/49858",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2026/10/08",
+    "day": "木",
     "artist": "scrambles",
     "title": "SiNT Pre.\"1st Albam 'Letter to Youth'Release Event\"",
     "url": "https://vijon.jp/schedule/detail/49858",
@@ -8075,7 +8192,7 @@
   {
     "date": "2026/10/08",
     "day": "木",
-    "artist": "and more...",
+    "artist": "KALASU",
     "title": "SiNT Pre.\"1st Albam 'Letter to Youth'Release Event\"",
     "url": "https://vijon.jp/schedule/detail/49858",
     "venue": "北堀江club vijon",
@@ -8492,6 +8609,60 @@
     "artist": "サカグチアミ",
     "title": "【dawn】- club vijon SUPER SAIKOU 24th anniversary -",
     "url": "https://vijon.jp/schedule/detail/54650",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2026/10/22",
+    "day": "木",
+    "artist": "Bloom in Zero",
+    "title": "club vijon×Bloom in Zero pre.【ZERΦLIA】",
+    "url": "https://vijon.jp/schedule/detail/51932",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2026/10/22",
+    "day": "木",
+    "artist": "FAMILIA",
+    "title": "club vijon×Bloom in Zero pre.【ZERΦLIA】",
+    "url": "https://vijon.jp/schedule/detail/51932",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2026/10/22",
+    "day": "木",
+    "artist": "チョモンズ",
+    "title": "club vijon×Bloom in Zero pre.【ZERΦLIA】",
+    "url": "https://vijon.jp/schedule/detail/51932",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2026/10/22",
+    "day": "木",
+    "artist": "All Terminals",
+    "title": "club vijon×Bloom in Zero pre.【ZERΦLIA】",
+    "url": "https://vijon.jp/schedule/detail/51932",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2026/10/22",
+    "day": "木",
+    "artist": "アレノアレルギー",
+    "title": "club vijon×Bloom in Zero pre.【ZERΦLIA】",
+    "url": "https://vijon.jp/schedule/detail/51932",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2026/10/22",
+    "day": "木",
+    "artist": "ノルネコ",
+    "title": "club vijon×Bloom in Zero pre.【ZERΦLIA】",
+    "url": "https://vijon.jp/schedule/detail/51932",
     "venue": "北堀江club vijon",
     "note": ""
   },
@@ -10994,6 +11165,51 @@
     "artist": "しおかわ鍼灸接骨治療院の人タッチ",
     "title": "しおかわ鍼灸接骨治療院　開院２５周年記念　ライブパーティー",
     "url": "https://bangboo.jp/schedule/detail/48514",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2026/09/26",
+    "day": "土",
+    "artist": "めろでぃらびっと",
+    "title": "DaDaDa",
+    "url": "https://bangboo.jp/schedule/detail/56390",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2026/09/26",
+    "day": "土",
+    "artist": "ゼロキョリハーツ",
+    "title": "DaDaDa",
+    "url": "https://bangboo.jp/schedule/detail/56390",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2026/09/26",
+    "day": "土",
+    "artist": "うぃるめり！",
+    "title": "DaDaDa",
+    "url": "https://bangboo.jp/schedule/detail/56390",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2026/09/26",
+    "day": "土",
+    "artist": "神薙-時うさぎ-",
+    "title": "DaDaDa",
+    "url": "https://bangboo.jp/schedule/detail/56390",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2026/09/26",
+    "day": "土",
+    "artist": "Charlotte",
+    "title": "DaDaDa",
+    "url": "https://bangboo.jp/schedule/detail/56390",
     "venue": "梅田BANGBOO",
     "note": ""
   },
@@ -15111,10 +15327,28 @@
     "note": ""
   },
   {
+    "date": "2026/09/23",
+    "day": "水",
+    "artist": "鳴ル神",
+    "title": "『超無銭!! 三位一体攻撃 TRINITY ATTACK』",
+    "url": "https://clubdrop.jp/schedule/detail/47527",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/09/23",
+    "day": "水",
+    "artist": "9DayzGlitchClubTokyo",
+    "title": "『超無銭!! 三位一体攻撃 TRINITY ATTACK』",
+    "url": "https://clubdrop.jp/schedule/detail/47527",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
     "date": "2026/09/24",
     "day": "木",
     "artist": "阿王",
-    "title": "Section U.G&SynchMob presents VOLTAGE LEGION",
+    "title": "Section U.G&SynchMob presents VOLTAGE LEGION-DROP 23th ANNIVERSARY-",
     "url": "https://clubdrop.jp/schedule/detail/53369",
     "venue": "アメリカ村DROP",
     "note": ""
@@ -15123,7 +15357,7 @@
     "date": "2026/09/24",
     "day": "木",
     "artist": "LAST SCREAM DAYZ",
-    "title": "Section U.G&SynchMob presents VOLTAGE LEGION",
+    "title": "Section U.G&SynchMob presents VOLTAGE LEGION-DROP 23th ANNIVERSARY-",
     "url": "https://clubdrop.jp/schedule/detail/53369",
     "venue": "アメリカ村DROP",
     "note": ""
@@ -15132,7 +15366,7 @@
     "date": "2026/09/24",
     "day": "木",
     "artist": "ixSCREAMCORPSE",
-    "title": "Section U.G&SynchMob presents VOLTAGE LEGION",
+    "title": "Section U.G&SynchMob presents VOLTAGE LEGION-DROP 23th ANNIVERSARY-",
     "url": "https://clubdrop.jp/schedule/detail/53369",
     "venue": "アメリカ村DROP",
     "note": ""
@@ -15141,7 +15375,7 @@
     "date": "2026/09/24",
     "day": "木",
     "artist": "All City",
-    "title": "Section U.G&SynchMob presents VOLTAGE LEGION",
+    "title": "Section U.G&SynchMob presents VOLTAGE LEGION-DROP 23th ANNIVERSARY-",
     "url": "https://clubdrop.jp/schedule/detail/53369",
     "venue": "アメリカ村DROP",
     "note": ""
@@ -15150,7 +15384,7 @@
     "date": "2026/09/24",
     "day": "木",
     "artist": "KILL My NEMESIS",
-    "title": "Section U.G&SynchMob presents VOLTAGE LEGION",
+    "title": "Section U.G&SynchMob presents VOLTAGE LEGION-DROP 23th ANNIVERSARY-",
     "url": "https://clubdrop.jp/schedule/detail/53369",
     "venue": "アメリカ村DROP",
     "note": ""
@@ -15159,7 +15393,7 @@
     "date": "2026/09/24",
     "day": "木",
     "artist": "ODMR",
-    "title": "Section U.G&SynchMob presents VOLTAGE LEGION",
+    "title": "Section U.G&SynchMob presents VOLTAGE LEGION-DROP 23th ANNIVERSARY-",
     "url": "https://clubdrop.jp/schedule/detail/53369",
     "venue": "アメリカ村DROP",
     "note": ""
@@ -15168,7 +15402,7 @@
     "date": "2026/09/24",
     "day": "木",
     "artist": "Reign Starving the Orca",
-    "title": "Section U.G&SynchMob presents VOLTAGE LEGION",
+    "title": "Section U.G&SynchMob presents VOLTAGE LEGION-DROP 23th ANNIVERSARY-",
     "url": "https://clubdrop.jp/schedule/detail/53369",
     "venue": "アメリカ村DROP",
     "note": ""
@@ -26507,7 +26741,7 @@
   {
     "date": "2026/09/25",
     "day": "金",
-    "artist": "dull cløver",
+    "artist": "※dull cløverは出演キャンセルとなりました。",
     "title": "girlstalk",
     "url": "http://www.knave.co.jp/schedule/s_2026_09.html",
     "venue": "knave",
