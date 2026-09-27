@@ -1035,15 +1035,6 @@
     "note": ""
   },
   {
-    "date": "2026/10/04",
-    "day": "",
-    "artist": "Accelerator",
-    "title": "今なら・・・",
-    "url": "https://fireloop.net/schedule_now.shtml#1004",
-    "venue": "寺田町Fireloop",
-    "note": ""
-  },
-  {
     "date": "2026/10/06",
     "day": "火",
     "artist": "ノタロネ",
@@ -1175,6 +1166,24 @@
     "artist": "Lyka",
     "title": "Help! I'm Lost",
     "url": "https://fireloop.net/schedule_now.shtml#1008",
+    "venue": "寺田町Fireloop",
+    "note": ""
+  },
+  {
+    "date": "2026/10/11",
+    "day": "",
+    "artist": "ぜんぶ君のせいだ。",
+    "title": "??カ国 ??都市 日の本も飛び出し〜増変侵喰愛rosion〜TOUR",
+    "url": "https://fireloop.net/schedule_now.shtml#1011",
+    "venue": "寺田町Fireloop",
+    "note": ""
+  },
+  {
+    "date": "2026/10/11",
+    "day": "",
+    "artist": "幽世脅嚇",
+    "title": "??カ国 ??都市 日の本も飛び出し〜増変侵喰愛rosion〜TOUR",
+    "url": "https://fireloop.net/schedule_now.shtml#1011",
     "venue": "寺田町Fireloop",
     "note": ""
   },
@@ -4854,7 +4863,7 @@
     "date": "2026/11/13",
     "day": "金",
     "artist": "イマイカリクニヒコ",
-    "title": "イマイカリクニヒコ / Chao's mall / カリニャンクール / Q.E / The Folking Poors(Japan)",
+    "title": "OPEN 18:30",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -4862,8 +4871,8 @@
   {
     "date": "2026/11/13",
     "day": "金",
-    "artist": "Chao's mall",
-    "title": "イマイカリクニヒコ / Chao's mall / カリニャンクール / Q.E / The Folking Poors(Japan)",
+    "artist": "Chao's Mall",
+    "title": "OPEN 18:30",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -4872,7 +4881,7 @@
     "date": "2026/11/13",
     "day": "金",
     "artist": "カリニャンクール",
-    "title": "イマイカリクニヒコ / Chao's mall / カリニャンクール / Q.E / The Folking Poors(Japan)",
+    "title": "OPEN 18:30",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -4881,7 +4890,7 @@
     "date": "2026/11/13",
     "day": "金",
     "artist": "Q.E",
-    "title": "イマイカリクニヒコ / Chao's mall / カリニャンクール / Q.E / The Folking Poors(Japan)",
+    "title": "OPEN 18:30",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -4890,7 +4899,7 @@
     "date": "2026/11/13",
     "day": "金",
     "artist": "The Folking Poors",
-    "title": "イマイカリクニヒコ / Chao's mall / カリニャンクール / Q.E / The Folking Poors(Japan)",
+    "title": "OPEN 18:30",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -4963,6 +4972,51 @@
     "day": "火",
     "artist": "TBA",
     "title": "",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
+    "date": "2026/11/18",
+    "day": "水",
+    "artist": "おだゆき",
+    "title": "OPEN 18:00",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
+    "date": "2026/11/18",
+    "day": "水",
+    "artist": "吾妻光記",
+    "title": "OPEN 18:00",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
+    "date": "2026/11/18",
+    "day": "水",
+    "artist": "YAKIMON kids",
+    "title": "OPEN 18:00",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
+    "date": "2026/11/18",
+    "day": "水",
+    "artist": "naonari ueda",
+    "title": "OPEN 18:00",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
+    "date": "2026/11/18",
+    "day": "水",
+    "artist": "エチュバリア",
+    "title": "OPEN 18:00",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -7535,15 +7589,6 @@
   {
     "date": "2026/09/27",
     "day": "日",
-    "artist": "柊ゆう",
-    "title": "REDSUNDAY",
-    "url": "https://vijon.jp/schedule/detail/56369",
-    "venue": "北堀江club vijon",
-    "note": ""
-  },
-  {
-    "date": "2026/09/27",
-    "day": "日",
     "artist": "天色のメロディー",
     "title": "REDSUNDAY",
     "url": "https://vijon.jp/schedule/detail/56369",
@@ -8021,7 +8066,16 @@
   {
     "date": "2026/10/04",
     "day": "日",
-    "artist": "...and more",
+    "artist": "RIZZ",
+    "title": "Monster Cat's 東名阪福 HANG OVER TOUR 2026",
+    "url": "https://vijon.jp/schedule/detail/50693",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2026/10/04",
+    "day": "日",
+    "artist": "4WORD",
     "title": "Monster Cat's 東名阪福 HANG OVER TOUR 2026",
     "url": "https://vijon.jp/schedule/detail/50693",
     "venue": "北堀江club vijon",
@@ -8843,6 +8897,24 @@
     "artist": "文章乞食",
     "title": "I r i s ? pre. Concept Live ？目録 - ハテナモクロク - vol.6",
     "url": "https://vijon.jp/schedule/detail/52687",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2026/10/16",
+    "day": "金",
+    "artist": "STARAXIS",
+    "title": "StarAxis X Solamente Osaka TwoMan Live",
+    "url": "https://vijon.jp/schedule/detail/55504",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2026/10/16",
+    "day": "金",
+    "artist": "Solamente",
+    "title": "StarAxis X Solamente Osaka TwoMan Live",
+    "url": "https://vijon.jp/schedule/detail/55504",
     "venue": "北堀江club vijon",
     "note": ""
   },
@@ -12479,6 +12551,60 @@
     "artist": "MelloDramatico",
     "title": "Yosac OWL × BANGBOO pre.  「October Disco」vol.1",
     "url": "https://bangboo.jp/schedule/detail/53692",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2026/10/06",
+    "day": "火",
+    "artist": "キューハチパーセント！",
+    "title": "『キューハチパーセント！定期公演Vol.3』",
+    "url": "https://bangboo.jp/schedule/detail/51360",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2026/10/06",
+    "day": "火",
+    "artist": "ゆら",
+    "title": "『キューハチパーセント！定期公演Vol.3』",
+    "url": "https://bangboo.jp/schedule/detail/51360",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2026/10/06",
+    "day": "火",
+    "artist": "にな",
+    "title": "『キューハチパーセント！定期公演Vol.3』",
+    "url": "https://bangboo.jp/schedule/detail/51360",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2026/10/06",
+    "day": "火",
+    "artist": "きょう",
+    "title": "『キューハチパーセント！定期公演Vol.3』",
+    "url": "https://bangboo.jp/schedule/detail/51360",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2026/10/06",
+    "day": "火",
+    "artist": "あんり",
+    "title": "『キューハチパーセント！定期公演Vol.3』",
+    "url": "https://bangboo.jp/schedule/detail/51360",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2026/10/06",
+    "day": "火",
+    "artist": "れみ",
+    "title": "『キューハチパーセント！定期公演Vol.3』",
+    "url": "https://bangboo.jp/schedule/detail/51360",
     "venue": "梅田BANGBOO",
     "note": ""
   },
@@ -17064,6 +17190,15 @@
     "note": ""
   },
   {
+    "date": "2026/10/26",
+    "day": "月",
+    "artist": "サクヤコノハナ",
+    "title": "『サクヤコノハナ 単独定期公演 Vol.313~チェヨン 22nd Anniverasary♡~』",
+    "url": "https://clubdrop.jp/schedule/detail/52064",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
     "date": "2026/10/27",
     "day": "火",
     "artist": "終音☆眠",
@@ -20840,6 +20975,87 @@
     "artist": "SOCIAL×MATCH",
     "title": "｢CHIKUWA Birthday LIVE！｣",
     "url": "https://osaka-varon.jp/schedule/detail/52601",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2026/10/29",
+    "day": "木",
+    "artist": "LΩPARA",
+    "title": "\"HOWLING FOR NOTHING\"",
+    "url": "https://osaka-varon.jp/schedule/detail/53357",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2026/10/29",
+    "day": "木",
+    "artist": "LØISLOID",
+    "title": "\"HOWLING FOR NOTHING\"",
+    "url": "https://osaka-varon.jp/schedule/detail/53357",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2026/10/29",
+    "day": "木",
+    "artist": "CRYZ",
+    "title": "\"HOWLING FOR NOTHING\"",
+    "url": "https://osaka-varon.jp/schedule/detail/53357",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2026/10/29",
+    "day": "木",
+    "artist": "I.VILL",
+    "title": "\"HOWLING FOR NOTHING\"",
+    "url": "https://osaka-varon.jp/schedule/detail/53357",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2026/10/29",
+    "day": "木",
+    "artist": "LyricalPopParadox",
+    "title": "\"HOWLING FOR NOTHING\"",
+    "url": "https://osaka-varon.jp/schedule/detail/53357",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2026/10/29",
+    "day": "木",
+    "artist": "アブソプ",
+    "title": "\"HOWLING FOR NOTHING\"",
+    "url": "https://osaka-varon.jp/schedule/detail/53357",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2026/10/29",
+    "day": "木",
+    "artist": "ディノゾール",
+    "title": "\"HOWLING FOR NOTHING\"",
+    "url": "https://osaka-varon.jp/schedule/detail/53357",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2026/10/29",
+    "day": "木",
+    "artist": "ネテルダイヤ",
+    "title": "\"HOWLING FOR NOTHING\"",
+    "url": "https://osaka-varon.jp/schedule/detail/53357",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2026/10/29",
+    "day": "木",
+    "artist": "妖狐繚乱",
+    "title": "\"HOWLING FOR NOTHING\"",
+    "url": "https://osaka-varon.jp/schedule/detail/53357",
     "venue": "VARON",
     "note": ""
   },
@@ -25992,6 +26208,33 @@
     "note": ""
   },
   {
+    "date": "2026/11/24",
+    "day": "火",
+    "artist": "Bye-Bye-Handの方程式",
+    "title": "Zeela 13th Anniversary 『無礼講』",
+    "url": "https://osaka-zeela.jp/schedule/detail/54631",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2026/11/24",
+    "day": "火",
+    "artist": "Chimothy→",
+    "title": "Zeela 13th Anniversary 『無礼講』",
+    "url": "https://osaka-zeela.jp/schedule/detail/54631",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2026/11/24",
+    "day": "火",
+    "artist": "Hello Hello",
+    "title": "Zeela 13th Anniversary 『無礼講』",
+    "url": "https://osaka-zeela.jp/schedule/detail/54631",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
     "date": "2026/11/25",
     "day": "水",
     "artist": "Romansquall",
@@ -28377,6 +28620,42 @@
     "note": ""
   },
   {
+    "date": "2026/10/18",
+    "day": "日",
+    "artist": "２MAN LIVE SHOW",
+    "title": "マミヨバンド × もりつぐバンド",
+    "url": "http://www.knave.co.jp/schedule/s_2026_10.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2026/10/18",
+    "day": "日",
+    "artist": "マミヨバンド",
+    "title": "マミヨバンド × もりつぐバンド",
+    "url": "http://www.knave.co.jp/schedule/s_2026_10.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2026/10/18",
+    "day": "日",
+    "artist": "もりつぐバンド",
+    "title": "マミヨバンド × もりつぐバンド",
+    "url": "http://www.knave.co.jp/schedule/s_2026_10.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2026/10/18",
+    "day": "日",
+    "artist": "問）クラウドファンディングサイト",
+    "title": "マミヨバンド × もりつぐバンド",
+    "url": "http://www.knave.co.jp/schedule/s_2026_10.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
     "date": "2026/10/19",
     "day": "月",
     "artist": "下尾礼子",
@@ -29097,6 +29376,24 @@
     "note": ""
   },
   {
+    "date": "2025/11/07",
+    "day": "金",
+    "artist": "『LIVE PARTY 2026』",
+    "title": "TAPUA VOICE ACADEMY 発表会",
+    "url": "http://www.knave.co.jp/schedule/s_2026_11.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2025/11/07",
+    "day": "金",
+    "artist": "問)タプアヴォイスアカデミー",
+    "title": "TAPUA VOICE ACADEMY 発表会",
+    "url": "http://www.knave.co.jp/schedule/s_2026_11.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
     "date": "2026/11/09",
     "day": "月",
     "artist": "中井優月",
@@ -29675,60 +29972,6 @@
   {
     "date": "2026/12/06",
     "day": "日",
-    "artist": "Sweets",
-    "title": "Sweets presents NO LIVE NO LIFE Vol.2",
-    "url": "http://www.knave.co.jp/schedule/s_2026_12.html",
-    "venue": "knave",
-    "note": ""
-  },
-  {
-    "date": "2026/12/06",
-    "day": "日",
-    "artist": "追加アーティスト後日発表",
-    "title": "Sweets presents NO LIVE NO LIFE Vol.2",
-    "url": "http://www.knave.co.jp/schedule/s_2026_12.html",
-    "venue": "knave",
-    "note": ""
-  },
-  {
-    "date": "2026/12/06",
-    "day": "日",
-    "artist": "※未就学児童入場料無料",
-    "title": "Sweets presents NO LIVE NO LIFE Vol.2",
-    "url": "http://www.knave.co.jp/schedule/s_2026_12.html",
-    "venue": "knave",
-    "note": ""
-  },
-  {
-    "date": "2026/12/06",
-    "day": "日",
-    "artist": "小学生以上要チケット代",
-    "title": "Sweets presents NO LIVE NO LIFE Vol.2",
-    "url": "http://www.knave.co.jp/schedule/s_2026_12.html",
-    "venue": "knave",
-    "note": ""
-  },
-  {
-    "date": "2026/12/06",
-    "day": "日",
-    "artist": "※学割￥1",
-    "title": "Sweets presents NO LIVE NO LIFE Vol.2",
-    "url": "http://www.knave.co.jp/schedule/s_2026_12.html",
-    "venue": "knave",
-    "note": ""
-  },
-  {
-    "date": "2026/12/06",
-    "day": "日",
-    "artist": "900(受付にて学生証提示）",
-    "title": "Sweets presents NO LIVE NO LIFE Vol.2",
-    "url": "http://www.knave.co.jp/schedule/s_2026_12.html",
-    "venue": "knave",
-    "note": ""
-  },
-  {
-    "date": "2026/12/06",
-    "day": "日",
     "artist": "『君の街で灯るように』 大阪編",
     "title": "灯火日和&Gum Girl 共催イベント",
     "url": "http://www.knave.co.jp/schedule/s_2026_12.html",
@@ -29757,6 +30000,33 @@
     "date": "2026/12/06",
     "day": "日",
     "artist": "LUCY IN THE ROOM",
+    "title": "灯火日和&Gum Girl 共催イベント",
+    "url": "http://www.knave.co.jp/schedule/s_2026_12.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2026/12/06",
+    "day": "日",
+    "artist": "※未就学児童入場料無料",
+    "title": "灯火日和&Gum Girl 共催イベント",
+    "url": "http://www.knave.co.jp/schedule/s_2026_12.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2026/12/06",
+    "day": "日",
+    "artist": "小学生以上要チケット代",
+    "title": "灯火日和&Gum Girl 共催イベント",
+    "url": "http://www.knave.co.jp/schedule/s_2026_12.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2026/12/06",
+    "day": "日",
+    "artist": "※学割￥1",
     "title": "灯火日和&Gum Girl 共催イベント",
     "url": "http://www.knave.co.jp/schedule/s_2026_12.html",
     "venue": "knave",
