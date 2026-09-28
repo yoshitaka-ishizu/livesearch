@@ -3764,8 +3764,17 @@
   {
     "date": "2026/10/10",
     "day": "土",
+    "artist": "『 中止 』",
+    "title": "",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
+    "date": "2026/10/10",
+    "day": "土",
     "artist": "クロメ企画",
-    "title": "クロメ企画",
+    "title": "",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -3774,7 +3783,7 @@
     "date": "2026/10/10",
     "day": "土",
     "artist": "大阪ワンマンライブ",
-    "title": "クロメ企画",
+    "title": "",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -4275,10 +4284,64 @@
     "note": ""
   },
   {
-    "date": "2026/10/25",
-    "day": "日",
-    "artist": "Yusuke Terauchi",
-    "title": "Yusuke Terauchi (Band set) / Mt.Mt. / NTGSS / 堀川サタデーズ",
+    "date": "2026/10/24",
+    "day": "土",
+    "artist": "『 THE BURGERS JAPAN TOUR 2026 』",
+    "title": "『 THE BURGERS JAPAN TOUR 2026",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
+    "date": "2026/10/24",
+    "day": "土",
+    "artist": "The Burgers",
+    "title": "『 THE BURGERS JAPAN TOUR 2026",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
+    "date": "2026/10/24",
+    "day": "土",
+    "artist": "THE SMOG",
+    "title": "『 THE BURGERS JAPAN TOUR 2026",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
+    "date": "2026/10/24",
+    "day": "土",
+    "artist": "BLAAM!",
+    "title": "『 THE BURGERS JAPAN TOUR 2026",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
+    "date": "2026/10/24",
+    "day": "土",
+    "artist": "THE SELECTORS",
+    "title": "『 THE BURGERS JAPAN TOUR 2026",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
+    "date": "2026/10/24",
+    "day": "土",
+    "artist": "DJ MOKUO",
+    "title": "『 THE BURGERS JAPAN TOUR 2026",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
+    "date": "2026/10/24",
+    "day": "土",
+    "artist": "DJ VON SENTIMENTAL",
+    "title": "『 THE BURGERS JAPAN TOUR 2026",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -4286,8 +4349,35 @@
   {
     "date": "2026/10/25",
     "day": "日",
-    "artist": "Mt.Mt.",
-    "title": "Yusuke Terauchi (Band set) / Mt.Mt. / NTGSS / 堀川サタデーズ",
+    "artist": "para-dice企画",
+    "title": "para-dice企画",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
+    "date": "2026/10/25",
+    "day": "日",
+    "artist": "『 Powerslave 』",
+    "title": "para-dice企画",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
+    "date": "2026/10/25",
+    "day": "日",
+    "artist": "Yusuke Terauchi",
+    "title": "para-dice企画",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
+    "date": "2026/10/25",
+    "day": "日",
+    "artist": "THE TEENAGE SOCKS",
+    "title": "para-dice企画",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -4296,7 +4386,7 @@
     "date": "2026/10/25",
     "day": "日",
     "artist": "NTGSS",
-    "title": "Yusuke Terauchi (Band set) / Mt.Mt. / NTGSS / 堀川サタデーズ",
+    "title": "para-dice企画",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -4304,8 +4394,17 @@
   {
     "date": "2026/10/25",
     "day": "日",
-    "artist": "堀川サタデーズ and more...",
-    "title": "Yusuke Terauchi (Band set) / Mt.Mt. / NTGSS / 堀川サタデーズ",
+    "artist": "Mt.Mt.",
+    "title": "para-dice企画",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
+    "date": "2026/10/25",
+    "day": "日",
+    "artist": "堀川サタデーズ",
+    "title": "para-dice企画",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -4385,17 +4484,8 @@
   {
     "date": "2026/10/30",
     "day": "金",
-    "artist": "ごま",
-    "title": "ごま / Rie Lee / 亜偉瑠 / 雨つつ。 / KAJO",
-    "url": "https://para-dice.net/",
-    "venue": "扇町para-dice",
-    "note": ""
-  },
-  {
-    "date": "2026/10/30",
-    "day": "金",
-    "artist": "Rie Lee",
-    "title": "ごま / Rie Lee / 亜偉瑠 / 雨つつ。 / KAJO",
+    "artist": "雨つつ。",
+    "title": "OPEN 18:30",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -4404,7 +4494,7 @@
     "date": "2026/10/30",
     "day": "金",
     "artist": "亜偉瑠",
-    "title": "ごま / Rie Lee / 亜偉瑠 / 雨つつ。 / KAJO",
+    "title": "OPEN 18:30",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -4412,8 +4502,17 @@
   {
     "date": "2026/10/30",
     "day": "金",
-    "artist": "雨つつ。",
-    "title": "ごま / Rie Lee / 亜偉瑠 / 雨つつ。 / KAJO",
+    "artist": "ごま",
+    "title": "OPEN 18:30",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
+    "date": "2026/10/30",
+    "day": "金",
+    "artist": "Rie Lee",
+    "title": "OPEN 18:30",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -4422,7 +4521,7 @@
     "date": "2026/10/30",
     "day": "金",
     "artist": "KAJO",
-    "title": "ごま / Rie Lee / 亜偉瑠 / 雨つつ。 / KAJO",
+    "title": "OPEN 18:30",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -5060,7 +5159,16 @@
   {
     "date": "2026/11/19",
     "day": "木",
-    "artist": "藤山拓 and more...",
+    "artist": "藤山拓",
+    "title": "para-dice企画",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
+    "date": "2026/11/19",
+    "day": "木",
+    "artist": "レレレ",
     "title": "para-dice企画",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
@@ -11837,15 +11945,6 @@
   {
     "date": "2026/09/28",
     "day": "月",
-    "artist": "ワッツ◎さーくる",
-    "title": "SCLIVE",
-    "url": "https://bangboo.jp/schedule/detail/53887",
-    "venue": "梅田BANGBOO",
-    "note": ""
-  },
-  {
-    "date": "2026/09/28",
-    "day": "月",
     "artist": "アブソプ",
     "title": "SCLIVE",
     "url": "https://bangboo.jp/schedule/detail/53887",
@@ -11954,15 +12053,6 @@
   {
     "date": "2026/09/28",
     "day": "月",
-    "artist": "Fille mim",
-    "title": "SCLIVE",
-    "url": "https://bangboo.jp/schedule/detail/53887",
-    "venue": "梅田BANGBOO",
-    "note": ""
-  },
-  {
-    "date": "2026/09/28",
-    "day": "月",
     "artist": "ぼや〜ぢゅ",
     "title": "SCLIVE",
     "url": "https://bangboo.jp/schedule/detail/53887",
@@ -11972,7 +12062,7 @@
   {
     "date": "2026/09/28",
     "day": "月",
-    "artist": "ALONYS",
+    "artist": "Lumi Prima",
     "title": "SCLIVE",
     "url": "https://bangboo.jp/schedule/detail/53887",
     "venue": "梅田BANGBOO",
@@ -11981,7 +12071,16 @@
   {
     "date": "2026/09/28",
     "day": "月",
-    "artist": "Lumi Prima",
+    "artist": "永遠のセツナ",
+    "title": "SCLIVE",
+    "url": "https://bangboo.jp/schedule/detail/53887",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2026/09/28",
+    "day": "月",
+    "artist": "Serenade",
     "title": "SCLIVE",
     "url": "https://bangboo.jp/schedule/detail/53887",
     "venue": "梅田BANGBOO",
@@ -12819,6 +12918,15 @@
     "date": "2026/10/12",
     "day": "月",
     "artist": "ЯiM:MiR",
+    "title": "FOUR COLORS",
+    "url": "https://bangboo.jp/schedule/detail/49609",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2026/10/12",
+    "day": "月",
+    "artist": "ちょこみんと",
     "title": "FOUR COLORS",
     "url": "https://bangboo.jp/schedule/detail/49609",
     "venue": "梅田BANGBOO",
@@ -16463,15 +16571,6 @@
   {
     "date": "2026/09/29",
     "day": "火",
-    "artist": "LOISLOID",
-    "title": "白黒アリス主催 - 暴楽章  無銭戦線 -",
-    "url": "https://clubdrop.jp/schedule/detail/54070",
-    "venue": "アメリカ村DROP",
-    "note": ""
-  },
-  {
-    "date": "2026/09/29",
-    "day": "火",
     "artist": "天女神樂",
     "title": "白黒アリス主催 - 暴楽章  無銭戦線 -",
     "url": "https://clubdrop.jp/schedule/detail/54070",
@@ -16824,15 +16923,6 @@
     "date": "2026/10/05",
     "day": "月",
     "artist": "Bitch Sylvia Never Ends",
-    "title": "Re:SPREE vol.5",
-    "url": "https://clubdrop.jp/schedule/detail/52647",
-    "venue": "アメリカ村DROP",
-    "note": ""
-  },
-  {
-    "date": "2026/10/05",
-    "day": "月",
-    "artist": "and more!!",
     "title": "Re:SPREE vol.5",
     "url": "https://clubdrop.jp/schedule/detail/52647",
     "venue": "アメリカ村DROP",
@@ -17463,7 +17553,7 @@
     "date": "2026/11/08",
     "day": "日",
     "artist": "もりひ",
-    "title": "Joumey",
+    "title": "Journey",
     "url": "https://clubdrop.jp/schedule/detail/54438",
     "venue": "アメリカ村DROP",
     "note": ""
