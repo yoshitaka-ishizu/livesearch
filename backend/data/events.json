@@ -6473,7 +6473,7 @@
   {
     "date": "2026/10/13",
     "day": "火",
-    "artist": "ナイトライダーズ and more…",
+    "artist": "ナイトライダーズ",
     "title": "【IKINARI WHEEL】",
     "url": "https://vijon.jp/schedule/detail/52443",
     "venue": "北堀江club vijon",
@@ -8384,6 +8384,51 @@
     "artist": "RE:INa",
     "title": "umbrella presents 【アマヤドリ】",
     "url": "https://vijon.jp/schedule/detail/54344",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2026/11/27",
+    "day": "金",
+    "artist": "ワンダー久道",
+    "title": "club vijon pre. 【OSAKA CONNECTION】",
+    "url": "https://vijon.jp/schedule/detail/54355",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2026/11/27",
+    "day": "金",
+    "artist": "Burnt Orange",
+    "title": "club vijon pre. 【OSAKA CONNECTION】",
+    "url": "https://vijon.jp/schedule/detail/54355",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2026/11/27",
+    "day": "金",
+    "artist": "Rabbit horn's",
+    "title": "club vijon pre. 【OSAKA CONNECTION】",
+    "url": "https://vijon.jp/schedule/detail/54355",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2026/11/27",
+    "day": "金",
+    "artist": "IVYS.",
+    "title": "club vijon pre. 【OSAKA CONNECTION】",
+    "url": "https://vijon.jp/schedule/detail/54355",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2026/11/27",
+    "day": "金",
+    "artist": "SOL BEHIND THE CROWD  ※ワンダー久道の配信はございません。",
+    "title": "club vijon pre. 【OSAKA CONNECTION】",
+    "url": "https://vijon.jp/schedule/detail/54355",
     "venue": "北堀江club vijon",
     "note": ""
   },
@@ -10334,6 +10379,42 @@
   {
     "date": "2026/10/31",
     "day": "土",
+    "artist": "神薙-時うさぎ-",
+    "title": "DaTuRa-ダチュラ-presents. 「The HalloweenParty」",
+    "url": "https://bangboo.jp/schedule/detail/56810",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2026/10/31",
+    "day": "土",
+    "artist": "ボクセカ",
+    "title": "DaTuRa-ダチュラ-presents. 「The HalloweenParty」",
+    "url": "https://bangboo.jp/schedule/detail/56810",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2026/10/31",
+    "day": "土",
+    "artist": "鳴ル神",
+    "title": "DaTuRa-ダチュラ-presents. 「The HalloweenParty」",
+    "url": "https://bangboo.jp/schedule/detail/56810",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2026/10/31",
+    "day": "土",
+    "artist": "DaTuRa-ダチュラ-",
+    "title": "DaTuRa-ダチュラ-presents. 「The HalloweenParty」",
+    "url": "https://bangboo.jp/schedule/detail/56810",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2026/10/31",
+    "day": "土",
     "artist": "DaTuRa",
     "title": "DaTuRa-ダチュラ-Presents ハロウィンワンマン 大阪編 『Trick or DaTuRa』",
     "url": "https://bangboo.jp/schedule/detail/49370",
@@ -11900,7 +11981,25 @@
   {
     "date": "2026/10/11",
     "day": "日",
-    "artist": "Wisteria andmore!!",
+    "artist": "Wisteria",
+    "title": "MIDNIGHT DROP WHEEL-MINAMI WHEEL 2026 EDITION-黒鹿祭reboot",
+    "url": "https://clubdrop.jp/schedule/detail/56396",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/10/11",
+    "day": "日",
+    "artist": "Sezko",
+    "title": "MIDNIGHT DROP WHEEL-MINAMI WHEEL 2026 EDITION-黒鹿祭reboot",
+    "url": "https://clubdrop.jp/schedule/detail/56396",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/10/11",
+    "day": "日",
+    "artist": "わんちゃんわんわんねこにゃんにゃん",
     "title": "MIDNIGHT DROP WHEEL-MINAMI WHEEL 2026 EDITION-黒鹿祭reboot",
     "url": "https://clubdrop.jp/schedule/detail/56396",
     "venue": "アメリカ村DROP",
@@ -12685,7 +12784,7 @@
     "day": "金",
     "artist": "KINJI",
     "title": "KINJI PRESENTS 百鬼夜行 大壱夜",
-    "url": "https://clubdrop.jp/schedule/detail/54356",
+    "url": "https://clubdrop.jp/schedule/detail/56792",
     "venue": "アメリカ村DROP",
     "note": ""
   },
@@ -12694,7 +12793,7 @@
     "day": "金",
     "artist": "SUBLIMINALS",
     "title": "KINJI PRESENTS 百鬼夜行 大壱夜",
-    "url": "https://clubdrop.jp/schedule/detail/54356",
+    "url": "https://clubdrop.jp/schedule/detail/56792",
     "venue": "アメリカ村DROP",
     "note": ""
   },
@@ -12703,16 +12802,25 @@
     "day": "金",
     "artist": "Addiction end in thrive",
     "title": "KINJI PRESENTS 百鬼夜行 大壱夜",
-    "url": "https://clubdrop.jp/schedule/detail/54356",
+    "url": "https://clubdrop.jp/schedule/detail/56792",
     "venue": "アメリカ村DROP",
     "note": ""
   },
   {
     "date": "2026/10/30",
     "day": "金",
-    "artist": "Bear Knuckle",
+    "artist": "Bear KnuckleHACT",
     "title": "KINJI PRESENTS 百鬼夜行 大壱夜",
-    "url": "https://clubdrop.jp/schedule/detail/54356",
+    "url": "https://clubdrop.jp/schedule/detail/56792",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/10/30",
+    "day": "金",
+    "artist": "LOOPMIND",
+    "title": "KINJI PRESENTS 百鬼夜行 大壱夜",
+    "url": "https://clubdrop.jp/schedule/detail/56792",
     "venue": "アメリカ村DROP",
     "note": ""
   },
@@ -13082,6 +13190,24 @@
     "artist": "and more!!",
     "title": "クレフィーRoad to 1st OneMan tour  RED & ライトニングブリザードNew e.p. 「辞世」 Release Tour",
     "url": "https://clubdrop.jp/schedule/detail/55170",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/11/14",
+    "day": "土",
+    "artist": "AZ-ON",
+    "title": "【大阪編】AZ-ON × lonlium pre. “SHINGARI” tour",
+    "url": "https://clubdrop.jp/schedule/detail/55363",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/11/14",
+    "day": "土",
+    "artist": "lonlium",
+    "title": "【大阪編】AZ-ON × lonlium pre. “SHINGARI” tour",
+    "url": "https://clubdrop.jp/schedule/detail/55363",
     "venue": "アメリカ村DROP",
     "note": ""
   },
@@ -14004,6 +14130,51 @@
     "note": ""
   },
   {
+    "date": "2026/10/15",
+    "day": "木",
+    "artist": "むげんこんぜ",
+    "title": "むげんこんぜ定期公演ワンマンライブ \"ばいざとりっぷ\"vol.7",
+    "url": "https://osaka-varon.jp/schedule/detail/47299",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2026/10/15",
+    "day": "木",
+    "artist": "プラチナリボン",
+    "title": "むげんこんぜ定期公演ワンマンライブ \"ばいざとりっぷ\"vol.7",
+    "url": "https://osaka-varon.jp/schedule/detail/47299",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2026/10/15",
+    "day": "木",
+    "artist": "COzMICぱれーど",
+    "title": "むげんこんぜ定期公演ワンマンライブ \"ばいざとりっぷ\"vol.7",
+    "url": "https://osaka-varon.jp/schedule/detail/47299",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2026/10/15",
+    "day": "木",
+    "artist": "てんぽぷりも♪",
+    "title": "むげんこんぜ定期公演ワンマンライブ \"ばいざとりっぷ\"vol.7",
+    "url": "https://osaka-varon.jp/schedule/detail/47299",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2026/10/15",
+    "day": "木",
+    "artist": "ple-a-story",
+    "title": "むげんこんぜ定期公演ワンマンライブ \"ばいざとりっぷ\"vol.7",
+    "url": "https://osaka-varon.jp/schedule/detail/47299",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
     "date": "2026/10/16",
     "day": "金",
     "artist": "Launcher No.8",
@@ -14571,6 +14742,51 @@
     "note": ""
   },
   {
+    "date": "2026/11/04",
+    "day": "水",
+    "artist": "ASTROCITY",
+    "title": "DUMBSTRUCK  vol.45",
+    "url": "https://osaka-varon.jp/schedule/detail/53792",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2026/11/04",
+    "day": "水",
+    "artist": "MADPLANT",
+    "title": "DUMBSTRUCK  vol.45",
+    "url": "https://osaka-varon.jp/schedule/detail/53792",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2026/11/04",
+    "day": "水",
+    "artist": "SkaPunCelt",
+    "title": "DUMBSTRUCK  vol.45",
+    "url": "https://osaka-varon.jp/schedule/detail/53792",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2026/11/04",
+    "day": "水",
+    "artist": "The Brew",
+    "title": "DUMBSTRUCK  vol.45",
+    "url": "https://osaka-varon.jp/schedule/detail/53792",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2026/11/04",
+    "day": "水",
+    "artist": "BLUNT",
+    "title": "DUMBSTRUCK  vol.45",
+    "url": "https://osaka-varon.jp/schedule/detail/53792",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
     "date": "2026/11/05",
     "day": "木",
     "artist": "ディノゾール",
@@ -14774,6 +14990,24 @@
     "artist": "meluQ",
     "title": "夜想華宴",
     "url": "https://osaka-varon.jp/schedule/detail/56735",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2026/12/02",
+    "day": "水",
+    "artist": "Haklo",
+    "title": "Haklo 2nd single「CLAYMORE」 Release Tour  -kiss of death -",
+    "url": "https://osaka-varon.jp/schedule/detail/53794",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2026/12/02",
+    "day": "水",
+    "artist": "And more....",
+    "title": "Haklo 2nd single「CLAYMORE」 Release Tour  -kiss of death -",
+    "url": "https://osaka-varon.jp/schedule/detail/53794",
     "venue": "VARON",
     "note": ""
   },
@@ -16050,7 +16284,7 @@
     "date": "2026/10/11",
     "day": "日",
     "artist": "SAKE-WIPPIN'",
-    "title": "モシャス Lv.10",
+    "title": "モシャス Lv.10 女王たちの旋律",
     "url": "https://osaka-zeela.jp/schedule/detail/47859",
     "venue": "Zeela",
     "note": ""
@@ -16059,7 +16293,7 @@
     "date": "2026/10/11",
     "day": "日",
     "artist": "SHOW-YOU",
-    "title": "モシャス Lv.10",
+    "title": "モシャス Lv.10 女王たちの旋律",
     "url": "https://osaka-zeela.jp/schedule/detail/47859",
     "venue": "Zeela",
     "note": ""
@@ -16068,7 +16302,7 @@
     "date": "2026/10/11",
     "day": "日",
     "artist": "かごめごめ",
-    "title": "モシャス Lv.10",
+    "title": "モシャス Lv.10 女王たちの旋律",
     "url": "https://osaka-zeela.jp/schedule/detail/47859",
     "venue": "Zeela",
     "note": ""
@@ -16077,7 +16311,7 @@
     "date": "2026/10/11",
     "day": "日",
     "artist": "グリーンピースパラダイス",
-    "title": "モシャス Lv.10",
+    "title": "モシャス Lv.10 女王たちの旋律",
     "url": "https://osaka-zeela.jp/schedule/detail/47859",
     "venue": "Zeela",
     "note": ""
@@ -16086,7 +16320,7 @@
     "date": "2026/10/11",
     "day": "日",
     "artist": "地平線大紀行",
-    "title": "モシャス Lv.10",
+    "title": "モシャス Lv.10 女王たちの旋律",
     "url": "https://osaka-zeela.jp/schedule/detail/47859",
     "venue": "Zeela",
     "note": ""
@@ -16095,7 +16329,7 @@
     "date": "2026/10/11",
     "day": "日",
     "artist": "pluie noire",
-    "title": "モシャス Lv.10",
+    "title": "モシャス Lv.10 女王たちの旋律",
     "url": "https://osaka-zeela.jp/schedule/detail/47859",
     "venue": "Zeela",
     "note": ""
@@ -16104,7 +16338,7 @@
     "date": "2026/10/11",
     "day": "日",
     "artist": "phase 2.5",
-    "title": "モシャス Lv.10",
+    "title": "モシャス Lv.10 女王たちの旋律",
     "url": "https://osaka-zeela.jp/schedule/detail/47859",
     "venue": "Zeela",
     "note": ""
@@ -16113,7 +16347,7 @@
     "date": "2026/10/11",
     "day": "日",
     "artist": "Mo mooe 5",
-    "title": "モシャス Lv.10",
+    "title": "モシャス Lv.10 女王たちの旋律",
     "url": "https://osaka-zeela.jp/schedule/detail/47859",
     "venue": "Zeela",
     "note": ""
@@ -16122,7 +16356,7 @@
     "date": "2026/10/11",
     "day": "日",
     "artist": "HungRy Piglet",
-    "title": "モシャス Lv.10",
+    "title": "モシャス Lv.10 女王たちの旋律",
     "url": "https://osaka-zeela.jp/schedule/detail/47859",
     "venue": "Zeela",
     "note": ""
@@ -19579,6 +19813,15 @@
     "day": "金",
     "artist": "問)タプアヴォイスアカデミー",
     "title": "TAPUA VOICE ACADEMY 発表会",
+    "url": "http://www.knave.co.jp/schedule/s_2026_11.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2025/11/08",
+    "day": "土",
+    "artist": "問)Smile Music Lab",
+    "title": "Smile Music Lab 発表会",
     "url": "http://www.knave.co.jp/schedule/s_2026_11.html",
     "venue": "knave",
     "note": ""
