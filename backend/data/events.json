@@ -801,15 +801,6 @@
     "note": ""
   },
   {
-    "date": "2026/10/28",
-    "day": "水",
-    "artist": "and more…",
-    "title": "Hardenbergia vol.4",
-    "url": "https://fireloop.net/schedule_now.shtml#1028",
-    "venue": "寺田町Fireloop",
-    "note": ""
-  },
-  {
     "date": "2026/10/29",
     "day": "木",
     "artist": "Bob",
@@ -1103,6 +1094,51 @@
     "artist": "LAURELS",
     "title": "お前を愛しに行くツアー",
     "url": "https://fireloop.net/schedule_now.shtml#1104",
+    "venue": "寺田町Fireloop",
+    "note": ""
+  },
+  {
+    "date": "2026/11/05",
+    "day": "木",
+    "artist": "Pitch Blue",
+    "title": "SunnySideDiary 1st full album",
+    "url": "https://fireloop.net/schedule_now.shtml#1105",
+    "venue": "寺田町Fireloop",
+    "note": ""
+  },
+  {
+    "date": "2026/11/05",
+    "day": "木",
+    "artist": "neke",
+    "title": "SunnySideDiary 1st full album",
+    "url": "https://fireloop.net/schedule_now.shtml#1105",
+    "venue": "寺田町Fireloop",
+    "note": ""
+  },
+  {
+    "date": "2026/11/05",
+    "day": "木",
+    "artist": "beckel",
+    "title": "SunnySideDiary 1st full album",
+    "url": "https://fireloop.net/schedule_now.shtml#1105",
+    "venue": "寺田町Fireloop",
+    "note": ""
+  },
+  {
+    "date": "2026/11/05",
+    "day": "木",
+    "artist": "mahiro",
+    "title": "SunnySideDiary 1st full album",
+    "url": "https://fireloop.net/schedule_now.shtml#1105",
+    "venue": "寺田町Fireloop",
+    "note": ""
+  },
+  {
+    "date": "2026/11/05",
+    "day": "木",
+    "artist": "SunnySideDiary",
+    "title": "SunnySideDiary 1st full album",
+    "url": "https://fireloop.net/schedule_now.shtml#1105",
     "venue": "寺田町Fireloop",
     "note": ""
   },
@@ -1476,6 +1512,42 @@
     "note": ""
   },
   {
+    "date": "2026/11/18",
+    "day": "水",
+    "artist": "luvliminall",
+    "title": "- Still Standing, Still Dreaming -",
+    "url": "https://fireloop.net/schedule_now.shtml#1118",
+    "venue": "寺田町Fireloop",
+    "note": ""
+  },
+  {
+    "date": "2026/11/18",
+    "day": "水",
+    "artist": "FLAMYNGS",
+    "title": "- Still Standing, Still Dreaming -",
+    "url": "https://fireloop.net/schedule_now.shtml#1118",
+    "venue": "寺田町Fireloop",
+    "note": ""
+  },
+  {
+    "date": "2026/11/18",
+    "day": "水",
+    "artist": "YOWLL",
+    "title": "- Still Standing, Still Dreaming -",
+    "url": "https://fireloop.net/schedule_now.shtml#1118",
+    "venue": "寺田町Fireloop",
+    "note": ""
+  },
+  {
+    "date": "2026/11/18",
+    "day": "水",
+    "artist": "swim in syuwar",
+    "title": "- Still Standing, Still Dreaming -",
+    "url": "https://fireloop.net/schedule_now.shtml#1118",
+    "venue": "寺田町Fireloop",
+    "note": ""
+  },
+  {
     "date": "2026/11/19",
     "day": "木",
     "artist": "ここで生きてるず",
@@ -1823,6 +1895,15 @@
     "artist": "グッド・バイ",
     "title": "「かがやき e.p」リリース記念",
     "url": "https://fireloop.net/schedule_now.shtml#1216",
+    "venue": "寺田町Fireloop",
+    "note": ""
+  },
+  {
+    "date": "2026/12/18",
+    "day": "金",
+    "artist": "Hue's",
+    "title": "",
+    "url": "https://fireloop.net/schedule_now.shtml#1218",
     "venue": "寺田町Fireloop",
     "note": ""
   },
@@ -6482,6 +6563,15 @@
   {
     "date": "2026/10/14",
     "day": "水",
+    "artist": "SKILL of light",
+    "title": "【うまof the ダイヤ】 in clubvijon",
+    "url": "https://vijon.jp/schedule/detail/55056",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2026/10/14",
+    "day": "水",
     "artist": "ネテルダイヤ",
     "title": "【うまof the ダイヤ】 in clubvijon",
     "url": "https://vijon.jp/schedule/detail/55056",
@@ -6491,7 +6581,7 @@
   {
     "date": "2026/10/14",
     "day": "水",
-    "artist": "Skill of light",
+    "artist": "チーム土倉",
     "title": "【うまof the ダイヤ】 in clubvijon",
     "url": "https://vijon.jp/schedule/detail/55056",
     "venue": "北堀江club vijon",
@@ -6500,7 +6590,7 @@
   {
     "date": "2026/10/14",
     "day": "水",
-    "artist": "土倉チーム",
+    "artist": "チームゆうあ",
     "title": "【うまof the ダイヤ】 in clubvijon",
     "url": "https://vijon.jp/schedule/detail/55056",
     "venue": "北堀江club vijon",
@@ -6509,16 +6599,7 @@
   {
     "date": "2026/10/14",
     "day": "水",
-    "artist": "ゆうあチーム",
-    "title": "【うまof the ダイヤ】 in clubvijon",
-    "url": "https://vijon.jp/schedule/detail/55056",
-    "venue": "北堀江club vijon",
-    "note": ""
-  },
-  {
-    "date": "2026/10/14",
-    "day": "水",
-    "artist": "うまおチーム",
+    "artist": "チームうまお",
     "title": "【うまof the ダイヤ】 in clubvijon",
     "url": "https://vijon.jp/schedule/detail/55056",
     "venue": "北堀江club vijon",
@@ -18207,6 +18288,15 @@
     "note": ""
   },
   {
+    "date": "2026/11/12",
+    "day": "木",
+    "artist": "Masaki Yata  shun  ラニーノーズ + SECRET GUEST",
+    "title": "Masaki Yata presents Zeela 13th Anniversary \"SPECIAL TALK LIVE\"",
+    "url": "https://osaka-zeela.jp/schedule/detail/54786",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
     "date": "2026/11/13",
     "day": "金",
     "artist": "ホシミッツ",
@@ -20864,7 +20954,7 @@
   {
     "date": "2026/11/26",
     "day": "木",
-    "artist": "星唯蘭",
+    "artist": "星唯蘭／二村あひる／Kurara／",
     "title": "girlstalk",
     "url": "http://www.knave.co.jp/schedule/s_2026_11.html",
     "venue": "knave",
@@ -20873,7 +20963,7 @@
   {
     "date": "2026/11/26",
     "day": "木",
-    "artist": "仁村あひる",
+    "artist": "下尾礼子／coco",
     "title": "girlstalk",
     "url": "http://www.knave.co.jp/schedule/s_2026_11.html",
     "venue": "knave",
@@ -20882,25 +20972,7 @@
   {
     "date": "2026/11/26",
     "day": "木",
-    "artist": "Kurara",
-    "title": "girlstalk",
-    "url": "http://www.knave.co.jp/schedule/s_2026_11.html",
-    "venue": "knave",
-    "note": ""
-  },
-  {
-    "date": "2026/11/26",
-    "day": "木",
-    "artist": "下尾礼子",
-    "title": "girlstalk",
-    "url": "http://www.knave.co.jp/schedule/s_2026_11.html",
-    "venue": "knave",
-    "note": ""
-  },
-  {
-    "date": "2026/11/26",
-    "day": "木",
-    "artist": "coco",
+    "artist": "狐月",
     "title": "girlstalk",
     "url": "http://www.knave.co.jp/schedule/s_2026_11.html",
     "venue": "knave",
