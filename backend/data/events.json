@@ -9380,7 +9380,16 @@
   {
     "date": "2026/11/24",
     "day": "火",
-    "artist": "文章乞食 　 てらけん",
+    "artist": "文章乞食",
+    "title": "club vijon pre. 【T.N.C-V】vol.1",
+    "url": "https://vijon.jp/schedule/detail/56108",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2026/11/24",
+    "day": "火",
+    "artist": "クロヴィ 　 てらけん",
     "title": "club vijon pre. 【T.N.C-V】vol.1",
     "url": "https://vijon.jp/schedule/detail/56108",
     "venue": "北堀江club vijon",
@@ -13952,7 +13961,7 @@
   {
     "date": "2026/12/11",
     "day": "金",
-    "artist": "古着屋Blue Beads",
+    "artist": "古着屋Glue Beads",
     "title": "THE GAME SHOP × BANGBOO pre. 2nd. Anniversary FINAL PARTY【BANGBOO BOMB vol.2】",
     "url": "https://bangboo.jp/schedule/detail/54797",
     "venue": "梅田BANGBOO",
@@ -16544,8 +16553,35 @@
   {
     "date": "2026/11/18",
     "day": "水",
-    "artist": "出演者募集中！",
-    "title": "OTONOVA 2027 関西予選",
+    "artist": "UPSET",
+    "title": "アメリカ村DROP×OTONOVA 会場代表決定戦",
+    "url": "https://clubdrop.jp/schedule/detail/54913",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/11/18",
+    "day": "水",
+    "artist": "PELON",
+    "title": "アメリカ村DROP×OTONOVA 会場代表決定戦",
+    "url": "https://clubdrop.jp/schedule/detail/54913",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/11/18",
+    "day": "水",
+    "artist": "メモラブル",
+    "title": "アメリカ村DROP×OTONOVA 会場代表決定戦",
+    "url": "https://clubdrop.jp/schedule/detail/54913",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/11/18",
+    "day": "水",
+    "artist": "low blood sugar",
+    "title": "アメリカ村DROP×OTONOVA 会場代表決定戦",
     "url": "https://clubdrop.jp/schedule/detail/54913",
     "venue": "アメリカ村DROP",
     "note": ""
@@ -16830,6 +16866,51 @@
     "note": ""
   },
   {
+    "date": "2026/12/02",
+    "day": "水",
+    "artist": "Tiiy",
+    "title": "MAKE IT BETTER #001",
+    "url": "https://clubdrop.jp/schedule/detail/56268",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/12/02",
+    "day": "水",
+    "artist": "Disconnect Cendrillon",
+    "title": "MAKE IT BETTER #001",
+    "url": "https://clubdrop.jp/schedule/detail/56268",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/12/02",
+    "day": "水",
+    "artist": "AIK",
+    "title": "MAKE IT BETTER #001",
+    "url": "https://clubdrop.jp/schedule/detail/56268",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/12/02",
+    "day": "水",
+    "artist": "午前0時のWARUAGAKI",
+    "title": "MAKE IT BETTER #001",
+    "url": "https://clubdrop.jp/schedule/detail/56268",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/12/02",
+    "day": "水",
+    "artist": "ANYDOUBT andmore...",
+    "title": "MAKE IT BETTER #001",
+    "url": "https://clubdrop.jp/schedule/detail/56268",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
     "date": "2026/12/10",
     "day": "木",
     "artist": "MAGMAZ",
@@ -17015,6 +17096,15 @@
     "artist": "カイジューバイミー",
     "title": "カイジューバイミー全国ツアー2026-2027 『紅き星屑ども』〜転がる夜には福きたる〜",
     "url": "https://clubdrop.jp/schedule/detail/55008",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2027/01/30",
+    "day": "土",
+    "artist": "なんキニ！",
+    "title": "なんキニ！ 진짜開心アジアツアー",
+    "url": "https://clubdrop.jp/schedule/detail/57080",
     "venue": "アメリカ村DROP",
     "note": ""
   },
