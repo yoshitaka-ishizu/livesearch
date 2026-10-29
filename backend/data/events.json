@@ -4403,26 +4403,8 @@
   {
     "date": "2026/11/26",
     "day": "木",
-    "artist": "CURIOUS",
-    "title": "CURIOUS / MegaloFizzy / キュンキュンズ / 逢坂裕真『obishi」 / THEE HEDGEHOGS / carrel bites",
-    "url": "https://para-dice.net/",
-    "venue": "扇町para-dice",
-    "note": ""
-  },
-  {
-    "date": "2026/11/26",
-    "day": "木",
-    "artist": "MegaloFizzy",
-    "title": "CURIOUS / MegaloFizzy / キュンキュンズ / 逢坂裕真『obishi」 / THEE HEDGEHOGS / carrel bites",
-    "url": "https://para-dice.net/",
-    "venue": "扇町para-dice",
-    "note": ""
-  },
-  {
-    "date": "2026/11/26",
-    "day": "木",
-    "artist": "キュンキュンズ",
-    "title": "CURIOUS / MegaloFizzy / キュンキュンズ / 逢坂裕真『obishi」 / THEE HEDGEHOGS / carrel bites",
+    "artist": "carrel bites",
+    "title": "OPEN 18:00",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -4431,7 +4413,7 @@
     "date": "2026/11/26",
     "day": "木",
     "artist": "逢坂裕真『obishi」",
-    "title": "CURIOUS / MegaloFizzy / キュンキュンズ / 逢坂裕真『obishi」 / THEE HEDGEHOGS / carrel bites",
+    "title": "OPEN 18:00",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -4440,7 +4422,7 @@
     "date": "2026/11/26",
     "day": "木",
     "artist": "THEE HEDGEHOGS",
-    "title": "CURIOUS / MegaloFizzy / キュンキュンズ / 逢坂裕真『obishi」 / THEE HEDGEHOGS / carrel bites",
+    "title": "OPEN 18:00",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -4448,8 +4430,26 @@
   {
     "date": "2026/11/26",
     "day": "木",
-    "artist": "carrel bites",
-    "title": "CURIOUS / MegaloFizzy / キュンキュンズ / 逢坂裕真『obishi」 / THEE HEDGEHOGS / carrel bites",
+    "artist": "MegaloFizzy",
+    "title": "OPEN 18:00",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
+    "date": "2026/11/26",
+    "day": "木",
+    "artist": "キュンキュンズ",
+    "title": "OPEN 18:00",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
+    "date": "2026/11/26",
+    "day": "木",
+    "artist": "CURIOUS",
+    "title": "OPEN 18:00",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -5303,7 +5303,7 @@
   {
     "date": "2026/12/16",
     "day": "水",
-    "artist": "京橋光 and more...",
+    "artist": "京橋光",
     "title": "PPP / SSS / Mo’ Mango / ヨギ サネキ / わをん(Rukka) / 京橋光(f.カリニャンクール)",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
@@ -5564,8 +5564,17 @@
   {
     "date": "2026/12/22",
     "day": "火",
+    "artist": "みのようへいと明明後日",
+    "title": "みのようへいと明明後日 / ude / moodress / 今村モータース",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
+    "date": "2026/12/22",
+    "day": "火",
     "artist": "ude",
-    "title": "ude / moodress / 今村モータース",
+    "title": "みのようへいと明明後日 / ude / moodress / 今村モータース",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -5574,7 +5583,7 @@
     "date": "2026/12/22",
     "day": "火",
     "artist": "moodress",
-    "title": "ude / moodress / 今村モータース",
+    "title": "みのようへいと明明後日 / ude / moodress / 今村モータース",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -5583,7 +5592,7 @@
     "date": "2026/12/22",
     "day": "火",
     "artist": "今村モータース and more...",
-    "title": "ude / moodress / 今村モータース",
+    "title": "みのようへいと明明後日 / ude / moodress / 今村モータース",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -8361,6 +8370,60 @@
     "note": ""
   },
   {
+    "date": "2026/10/30",
+    "day": "金",
+    "artist": "30sec.",
+    "title": "【SUPER YOFUKASHI】- club vijon24th anniversary -",
+    "url": "https://vijon.jp/schedule/detail/55299",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2026/10/30",
+    "day": "金",
+    "artist": "アンイルミ",
+    "title": "【SUPER YOFUKASHI】- club vijon24th anniversary -",
+    "url": "https://vijon.jp/schedule/detail/55299",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2026/10/30",
+    "day": "金",
+    "artist": "はるナIKATGKAT",
+    "title": "【SUPER YOFUKASHI】- club vijon24th anniversary -",
+    "url": "https://vijon.jp/schedule/detail/55299",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2026/10/30",
+    "day": "金",
+    "artist": "DJわたし",
+    "title": "【SUPER YOFUKASHI】- club vijon24th anniversary -",
+    "url": "https://vijon.jp/schedule/detail/55299",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2026/10/30",
+    "day": "金",
+    "artist": "ATSUKI",
+    "title": "【SUPER YOFUKASHI】- club vijon24th anniversary -",
+    "url": "https://vijon.jp/schedule/detail/55299",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2026/10/30",
+    "day": "金",
+    "artist": "つむ。",
+    "title": "【SUPER YOFUKASHI】- club vijon24th anniversary -",
+    "url": "https://vijon.jp/schedule/detail/55299",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
     "date": "2026/10/31",
     "day": "土",
     "artist": "ユノローグ",
@@ -9210,6 +9273,15 @@
     "date": "2026/11/08",
     "day": "日",
     "artist": "夏井さら",
+    "title": "「MONSTER PARADE in 大阪」",
+    "url": "https://vijon.jp/schedule/detail/55156",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2026/11/08",
+    "day": "日",
+    "artist": "磯野未来",
     "title": "「MONSTER PARADE in 大阪」",
     "url": "https://vijon.jp/schedule/detail/55156",
     "venue": "北堀江club vijon",
@@ -20754,6 +20826,60 @@
     "note": ""
   },
   {
+    "date": "2027/01/08",
+    "day": "金",
+    "artist": "JunkUnit",
+    "title": "VARON×BASSONTOP OSAKI pre.俺の見たいバンド集めました vol.67 TAHNKS EVENT 6th ANNIVERSARY BASH!! DAY1",
+    "url": "https://osaka-varon.jp/schedule/detail/55720",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2027/01/08",
+    "day": "金",
+    "artist": "みみみ食堂",
+    "title": "VARON×BASSONTOP OSAKI pre.俺の見たいバンド集めました vol.67 TAHNKS EVENT 6th ANNIVERSARY BASH!! DAY1",
+    "url": "https://osaka-varon.jp/schedule/detail/55720",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2027/01/08",
+    "day": "金",
+    "artist": "Neil DiMC",
+    "title": "VARON×BASSONTOP OSAKI pre.俺の見たいバンド集めました vol.67 TAHNKS EVENT 6th ANNIVERSARY BASH!! DAY1",
+    "url": "https://osaka-varon.jp/schedule/detail/55720",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2027/01/08",
+    "day": "金",
+    "artist": "asano raincoat",
+    "title": "VARON×BASSONTOP OSAKI pre.俺の見たいバンド集めました vol.67 TAHNKS EVENT 6th ANNIVERSARY BASH!! DAY1",
+    "url": "https://osaka-varon.jp/schedule/detail/55720",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2027/01/08",
+    "day": "金",
+    "artist": "Roughroad Legacy",
+    "title": "VARON×BASSONTOP OSAKI pre.俺の見たいバンド集めました vol.67 TAHNKS EVENT 6th ANNIVERSARY BASH!! DAY1",
+    "url": "https://osaka-varon.jp/schedule/detail/55720",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2027/01/08",
+    "day": "金",
+    "artist": "いたづら and more...",
+    "title": "VARON×BASSONTOP OSAKI pre.俺の見たいバンド集めました vol.67 TAHNKS EVENT 6th ANNIVERSARY BASH!! DAY1",
+    "url": "https://osaka-varon.jp/schedule/detail/55720",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
     "date": "2027/01/15",
     "day": "金",
     "artist": "OneOnceOver",
@@ -20777,6 +20903,51 @@
     "artist": "QLIP",
     "title": "OneOnceOver presents『Magic Glow Live Tour 2026』－Tour Final－",
     "url": "https://osaka-varon.jp/schedule/detail/51962",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2027/01/28",
+    "day": "木",
+    "artist": "UnpRayable",
+    "title": "VARON×BASSONTOP OSAKI pre.俺の見たいバンド集めました vol.68 TAHNKS EVENT 6th ANNIVERSARY BASH!! DAY2",
+    "url": "https://osaka-varon.jp/schedule/detail/56249",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2027/01/28",
+    "day": "木",
+    "artist": "Parallel Frank",
+    "title": "VARON×BASSONTOP OSAKI pre.俺の見たいバンド集めました vol.68 TAHNKS EVENT 6th ANNIVERSARY BASH!! DAY2",
+    "url": "https://osaka-varon.jp/schedule/detail/56249",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2027/01/28",
+    "day": "木",
+    "artist": "トラケミスト",
+    "title": "VARON×BASSONTOP OSAKI pre.俺の見たいバンド集めました vol.68 TAHNKS EVENT 6th ANNIVERSARY BASH!! DAY2",
+    "url": "https://osaka-varon.jp/schedule/detail/56249",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2027/01/28",
+    "day": "木",
+    "artist": "Wisteria",
+    "title": "VARON×BASSONTOP OSAKI pre.俺の見たいバンド集めました vol.68 TAHNKS EVENT 6th ANNIVERSARY BASH!! DAY2",
+    "url": "https://osaka-varon.jp/schedule/detail/56249",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2027/01/28",
+    "day": "木",
+    "artist": "MANATY and more...",
+    "title": "VARON×BASSONTOP OSAKI pre.俺の見たいバンド集めました vol.68 TAHNKS EVENT 6th ANNIVERSARY BASH!! DAY2",
+    "url": "https://osaka-varon.jp/schedule/detail/56249",
     "venue": "VARON",
     "note": ""
   },
@@ -24233,6 +24404,24 @@
     "artist": "and more...",
     "title": "Romansquall Pre. Mushup Tunes!! -NEO- ～Zeela 13th Anniversary～",
     "url": "https://osaka-zeela.jp/schedule/detail/53454",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2026/11/26",
+    "day": "木",
+    "artist": "LOCAL CONNECT",
+    "title": "WALK THIS WAY 〜Zeela 13th Anniversary〜",
+    "url": "https://osaka-zeela.jp/schedule/detail/54203",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2026/11/26",
+    "day": "木",
+    "artist": "osage",
+    "title": "WALK THIS WAY 〜Zeela 13th Anniversary〜",
+    "url": "https://osaka-zeela.jp/schedule/detail/54203",
     "venue": "Zeela",
     "note": ""
   },
