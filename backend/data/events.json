@@ -542,7 +542,7 @@
   {
     "date": "2026/11/13",
     "day": "金",
-    "artist": "/シンガロンパレード",
+    "artist": "シンガロンパレード",
     "title": "Dog Ear",
     "url": "https://fireloop.net/schedule_now.shtml#1113",
     "venue": "寺田町Fireloop",
@@ -838,7 +838,7 @@
   },
   {
     "date": "2026/11/22",
-    "day": "日",
+    "day": "",
     "artist": "azure",
     "title": "“Do you believe in magic?”",
     "url": "https://fireloop.net/schedule_now.shtml#1122",
@@ -847,7 +847,7 @@
   },
   {
     "date": "2026/11/22",
-    "day": "日",
+    "day": "",
     "artist": "すなお",
     "title": "“Do you believe in magic?”",
     "url": "https://fireloop.net/schedule_now.shtml#1122",
@@ -856,7 +856,7 @@
   },
   {
     "date": "2026/11/22",
-    "day": "日",
+    "day": "",
     "artist": "オートコード",
     "title": "“Do you believe in magic?”",
     "url": "https://fireloop.net/schedule_now.shtml#1122",
@@ -5069,15 +5069,6 @@
   {
     "date": "2026/11/07",
     "day": "土",
-    "artist": "Lumi Prima",
-    "title": "BLUESATURDAY",
-    "url": "https://vijon.jp/schedule/detail/57076",
-    "venue": "北堀江club vijon",
-    "note": ""
-  },
-  {
-    "date": "2026/11/07",
-    "day": "土",
     "artist": "リボンのないぷれぜんと",
     "title": "BLUESATURDAY",
     "url": "https://vijon.jp/schedule/detail/57076",
@@ -5150,9 +5141,72 @@
   {
     "date": "2026/11/07",
     "day": "土",
+    "artist": "ple-a-story",
+    "title": "BLUESATURDAY",
+    "url": "https://vijon.jp/schedule/detail/57076",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2026/11/07",
+    "day": "土",
     "artist": "GRINOAH",
     "title": "GRINOAH単独公演",
     "url": "https://vijon.jp/schedule/detail/57078",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2026/11/07",
+    "day": "土",
+    "artist": "GUEST",
+    "title": "“CAOFF WEST 218”＜カオフ・ウエスト 218＞",
+    "url": "https://vijon.jp/schedule/detail/57397",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2026/11/07",
+    "day": "土",
+    "artist": "ぱーれい(ノミタイナ",
+    "title": "“CAOFF WEST 218”＜カオフ・ウエスト 218＞",
+    "url": "https://vijon.jp/schedule/detail/57397",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2026/11/07",
+    "day": "土",
+    "artist": "chair freaks)",
+    "title": "“CAOFF WEST 218”＜カオフ・ウエスト 218＞",
+    "url": "https://vijon.jp/schedule/detail/57397",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2026/11/07",
+    "day": "土",
+    "artist": "Zong",
+    "title": "“CAOFF WEST 218”＜カオフ・ウエスト 218＞",
+    "url": "https://vijon.jp/schedule/detail/57397",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2026/11/07",
+    "day": "土",
+    "artist": "白鳥 -hackt- (マニアブル",
+    "title": "“CAOFF WEST 218”＜カオフ・ウエスト 218＞",
+    "url": "https://vijon.jp/schedule/detail/57397",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2026/11/07",
+    "day": "土",
+    "artist": "卍 West Funk)",
+    "title": "“CAOFF WEST 218”＜カオフ・ウエスト 218＞",
+    "url": "https://vijon.jp/schedule/detail/57397",
     "venue": "北堀江club vijon",
     "note": ""
   },
@@ -6183,6 +6237,114 @@
     "note": ""
   },
   {
+    "date": "2026/12/04",
+    "day": "金",
+    "artist": "B'low",
+    "title": "BASS ON TOP PRESENTS 【MUSIC BOTTLE THE BEST】",
+    "url": "https://vijon.jp/schedule/detail/55561",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2026/12/04",
+    "day": "金",
+    "artist": "五月雨",
+    "title": "BASS ON TOP PRESENTS 【MUSIC BOTTLE THE BEST】",
+    "url": "https://vijon.jp/schedule/detail/55561",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2026/12/04",
+    "day": "金",
+    "artist": "oversleep",
+    "title": "BASS ON TOP PRESENTS 【MUSIC BOTTLE THE BEST】",
+    "url": "https://vijon.jp/schedule/detail/55561",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2026/12/04",
+    "day": "金",
+    "artist": "HOMEBASE",
+    "title": "BASS ON TOP PRESENTS 【MUSIC BOTTLE THE BEST】",
+    "url": "https://vijon.jp/schedule/detail/55561",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2026/12/04",
+    "day": "金",
+    "artist": "adpw",
+    "title": "BASS ON TOP PRESENTS 【MUSIC BOTTLE THE BEST】",
+    "url": "https://vijon.jp/schedule/detail/55561",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2026/12/04",
+    "day": "金",
+    "artist": "oddball",
+    "title": "BASS ON TOP PRESENTS 【MUSIC BOTTLE THE BEST】",
+    "url": "https://vijon.jp/schedule/detail/55561",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2026/12/04",
+    "day": "金",
+    "artist": "sugiyama",
+    "title": "BASS ON TOP PRESENTS 【MUSIC BOTTLE THE BEST】",
+    "url": "https://vijon.jp/schedule/detail/55561",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2026/12/04",
+    "day": "金",
+    "artist": "REDYBIRD",
+    "title": "BASS ON TOP PRESENTS 【MUSIC BOTTLE THE BEST】",
+    "url": "https://vijon.jp/schedule/detail/55561",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2026/12/04",
+    "day": "金",
+    "artist": "SIMO-KEN",
+    "title": "BASS ON TOP PRESENTS 【MUSIC BOTTLE THE BEST】",
+    "url": "https://vijon.jp/schedule/detail/55561",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2026/12/04",
+    "day": "金",
+    "artist": "043 yomi",
+    "title": "BASS ON TOP PRESENTS 【MUSIC BOTTLE THE BEST】",
+    "url": "https://vijon.jp/schedule/detail/55561",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2026/12/04",
+    "day": "金",
+    "artist": "VELORA",
+    "title": "BASS ON TOP PRESENTS 【MUSIC BOTTLE THE BEST】",
+    "url": "https://vijon.jp/schedule/detail/55561",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2026/12/04",
+    "day": "金",
+    "artist": "obishi",
+    "title": "BASS ON TOP PRESENTS 【MUSIC BOTTLE THE BEST】",
+    "url": "https://vijon.jp/schedule/detail/55561",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
     "date": "2026/12/05",
     "day": "土",
     "artist": "笑っしょい",
@@ -6791,6 +6953,42 @@
     "artist": "わんちゃんわんわんねこにゃんにゃん",
     "title": "わんちゃんわんわんねこにゃんにゃん 6th ANNIVERSARY TOUR 【BOUQUET】～今愛を～",
     "url": "https://vijon.jp/schedule/detail/54762",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2027/01/25",
+    "day": "月",
+    "artist": "メとメ",
+    "title": "【FOREVER YOUNG】",
+    "url": "https://vijon.jp/schedule/detail/56266",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2027/01/25",
+    "day": "月",
+    "artist": "シベリアンハスキー",
+    "title": "【FOREVER YOUNG】",
+    "url": "https://vijon.jp/schedule/detail/56266",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2027/01/25",
+    "day": "月",
+    "artist": "komsume",
+    "title": "【FOREVER YOUNG】",
+    "url": "https://vijon.jp/schedule/detail/56266",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2027/01/25",
+    "day": "月",
+    "artist": "台所きっちん",
+    "title": "【FOREVER YOUNG】",
+    "url": "https://vijon.jp/schedule/detail/56266",
     "venue": "北堀江club vijon",
     "note": ""
   },
@@ -9182,15 +9380,6 @@
   {
     "date": "2026/11/09",
     "day": "月",
-    "artist": "IGNIS",
-    "title": "RYOMA IKEDA presents 俺の弾いたバンド集めました-りょうまBDスペシャル-",
-    "url": "https://clubdrop.jp/schedule/detail/55379",
-    "venue": "アメリカ村DROP",
-    "note": ""
-  },
-  {
-    "date": "2026/11/09",
-    "day": "月",
     "artist": "キミトアイトハ",
     "title": "RYOMA IKEDA presents 俺の弾いたバンド集めました-りょうまBDスペシャル-",
     "url": "https://clubdrop.jp/schedule/detail/55379",
@@ -9245,9 +9434,126 @@
   {
     "date": "2026/11/09",
     "day": "月",
-    "artist": "やまぐちあゆみフード招猫飯店",
+    "artist": "やまぐちあゆみフード招猫飯店 ※出演予定のIGNISは出演キャンセルになりました",
     "title": "RYOMA IKEDA presents 俺の弾いたバンド集めました-りょうまBDスペシャル-",
     "url": "https://clubdrop.jp/schedule/detail/55379",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/11/09",
+    "day": "月",
+    "artist": "竜馬",
+    "title": "LUXURY DJ EVENT イケ♂パラ 17限目〜今日は竜馬の誕生日！はい！グイグイよしこい！グイグイよしこい！〜",
+    "url": "https://clubdrop.jp/schedule/detail/55753",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/11/09",
+    "day": "月",
+    "artist": "わたり",
+    "title": "LUXURY DJ EVENT イケ♂パラ 17限目〜今日は竜馬の誕生日！はい！グイグイよしこい！グイグイよしこい！〜",
+    "url": "https://clubdrop.jp/schedule/detail/55753",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/11/09",
+    "day": "月",
+    "artist": "恵咲",
+    "title": "LUXURY DJ EVENT イケ♂パラ 17限目〜今日は竜馬の誕生日！はい！グイグイよしこい！グイグイよしこい！〜",
+    "url": "https://clubdrop.jp/schedule/detail/55753",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/11/09",
+    "day": "月",
+    "artist": "梶岡祐亮",
+    "title": "LUXURY DJ EVENT イケ♂パラ 17限目〜今日は竜馬の誕生日！はい！グイグイよしこい！グイグイよしこい！〜",
+    "url": "https://clubdrop.jp/schedule/detail/55753",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/11/09",
+    "day": "月",
+    "artist": "キグチサトル",
+    "title": "LUXURY DJ EVENT イケ♂パラ 17限目〜今日は竜馬の誕生日！はい！グイグイよしこい！グイグイよしこい！〜",
+    "url": "https://clubdrop.jp/schedule/detail/55753",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/11/09",
+    "day": "月",
+    "artist": "カセヤ",
+    "title": "LUXURY DJ EVENT イケ♂パラ 17限目〜今日は竜馬の誕生日！はい！グイグイよしこい！グイグイよしこい！〜",
+    "url": "https://clubdrop.jp/schedule/detail/55753",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/11/09",
+    "day": "月",
+    "artist": "りんたろー",
+    "title": "LUXURY DJ EVENT イケ♂パラ 17限目〜今日は竜馬の誕生日！はい！グイグイよしこい！グイグイよしこい！〜",
+    "url": "https://clubdrop.jp/schedule/detail/55753",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/11/09",
+    "day": "月",
+    "artist": "大和",
+    "title": "LUXURY DJ EVENT イケ♂パラ 17限目〜今日は竜馬の誕生日！はい！グイグイよしこい！グイグイよしこい！〜",
+    "url": "https://clubdrop.jp/schedule/detail/55753",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/11/09",
+    "day": "月",
+    "artist": "FINDCREW KOKI",
+    "title": "LUXURY DJ EVENT イケ♂パラ 17限目〜今日は竜馬の誕生日！はい！グイグイよしこい！グイグイよしこい！〜",
+    "url": "https://clubdrop.jp/schedule/detail/55753",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/11/09",
+    "day": "月",
+    "artist": "としろー&おゆき",
+    "title": "LUXURY DJ EVENT イケ♂パラ 17限目〜今日は竜馬の誕生日！はい！グイグイよしこい！グイグイよしこい！〜",
+    "url": "https://clubdrop.jp/schedule/detail/55753",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/11/09",
+    "day": "月",
+    "artist": "さめ",
+    "title": "LUXURY DJ EVENT イケ♂パラ 17限目〜今日は竜馬の誕生日！はい！グイグイよしこい！グイグイよしこい！〜",
+    "url": "https://clubdrop.jp/schedule/detail/55753",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/11/09",
+    "day": "月",
+    "artist": "輝風",
+    "title": "LUXURY DJ EVENT イケ♂パラ 17限目〜今日は竜馬の誕生日！はい！グイグイよしこい！グイグイよしこい！〜",
+    "url": "https://clubdrop.jp/schedule/detail/55753",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/11/09",
+    "day": "月",
+    "artist": "きりしぃ",
+    "title": "LUXURY DJ EVENT イケ♂パラ 17限目〜今日は竜馬の誕生日！はい！グイグイよしこい！グイグイよしこい！〜",
+    "url": "https://clubdrop.jp/schedule/detail/55753",
     "venue": "アメリカ村DROP",
     "note": ""
   },
@@ -10152,6 +10458,60 @@
     "note": ""
   },
   {
+    "date": "2026/12/14",
+    "day": "月",
+    "artist": "ネオンと無重力",
+    "title": "BRAVER!! Level.50",
+    "url": "https://clubdrop.jp/schedule/detail/56161",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/12/14",
+    "day": "月",
+    "artist": "キセイチュウ",
+    "title": "BRAVER!! Level.50",
+    "url": "https://clubdrop.jp/schedule/detail/56161",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/12/14",
+    "day": "月",
+    "artist": "mm:M",
+    "title": "BRAVER!! Level.50",
+    "url": "https://clubdrop.jp/schedule/detail/56161",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/12/14",
+    "day": "月",
+    "artist": "Echo",
+    "title": "BRAVER!! Level.50",
+    "url": "https://clubdrop.jp/schedule/detail/56161",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/12/14",
+    "day": "月",
+    "artist": "ワンダー久道",
+    "title": "BRAVER!! Level.50",
+    "url": "https://clubdrop.jp/schedule/detail/56161",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/12/14",
+    "day": "月",
+    "artist": "VEŁŁY",
+    "title": "BRAVER!! Level.50",
+    "url": "https://clubdrop.jp/schedule/detail/56161",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
     "date": "2026/12/15",
     "day": "火",
     "artist": "STRAWDAY andmore!!",
@@ -10838,6 +11198,60 @@
   {
     "date": "2026/11/08",
     "day": "日",
+    "artist": "ALONYS",
+    "title": "心斎橋アイドル化計画。",
+    "url": "https://osaka-varon.jp/schedule/detail/57308",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2026/11/08",
+    "day": "日",
+    "artist": "NaNiYoRi",
+    "title": "心斎橋アイドル化計画。",
+    "url": "https://osaka-varon.jp/schedule/detail/57308",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2026/11/08",
+    "day": "日",
+    "artist": "Fille mimi",
+    "title": "心斎橋アイドル化計画。",
+    "url": "https://osaka-varon.jp/schedule/detail/57308",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2026/11/08",
+    "day": "日",
+    "artist": "+Alpha",
+    "title": "心斎橋アイドル化計画。",
+    "url": "https://osaka-varon.jp/schedule/detail/57308",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2026/11/08",
+    "day": "日",
+    "artist": "SUGAR SPARK",
+    "title": "心斎橋アイドル化計画。",
+    "url": "https://osaka-varon.jp/schedule/detail/57308",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2026/11/08",
+    "day": "日",
+    "artist": "#PANnana",
+    "title": "心斎橋アイドル化計画。",
+    "url": "https://osaka-varon.jp/schedule/detail/57308",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2026/11/08",
+    "day": "日",
     "artist": "W.ダブルヴィー",
     "title": "1日中 Kawaii?Night",
     "url": "https://osaka-varon.jp/schedule/detail/48573",
@@ -10848,15 +11262,6 @@
     "date": "2026/11/08",
     "day": "日",
     "artist": "脳内パステル",
-    "title": "1日中 Kawaii?Night",
-    "url": "https://osaka-varon.jp/schedule/detail/48573",
-    "venue": "VARON",
-    "note": ""
-  },
-  {
-    "date": "2026/11/08",
-    "day": "日",
-    "artist": "#PANnana",
     "title": "1日中 Kawaii?Night",
     "url": "https://osaka-varon.jp/schedule/detail/48573",
     "venue": "VARON",
@@ -10892,15 +11297,6 @@
   {
     "date": "2026/11/08",
     "day": "日",
-    "artist": "SUGAR SPARK",
-    "title": "1日中 Kawaii?Night",
-    "url": "https://osaka-varon.jp/schedule/detail/48573",
-    "venue": "VARON",
-    "note": ""
-  },
-  {
-    "date": "2026/11/08",
-    "day": "日",
     "artist": "宇宙∞プラネクシア",
     "title": "1日中 Kawaii?Night",
     "url": "https://osaka-varon.jp/schedule/detail/48573",
@@ -10920,24 +11316,6 @@
     "date": "2026/11/08",
     "day": "日",
     "artist": "てんぽぷりも♪",
-    "title": "1日中 Kawaii?Night",
-    "url": "https://osaka-varon.jp/schedule/detail/48573",
-    "venue": "VARON",
-    "note": ""
-  },
-  {
-    "date": "2026/11/08",
-    "day": "日",
-    "artist": "Fille mimi",
-    "title": "1日中 Kawaii?Night",
-    "url": "https://osaka-varon.jp/schedule/detail/48573",
-    "venue": "VARON",
-    "note": ""
-  },
-  {
-    "date": "2026/11/08",
-    "day": "日",
-    "artist": "+Alpha",
     "title": "1日中 Kawaii?Night",
     "url": "https://osaka-varon.jp/schedule/detail/48573",
     "venue": "VARON",
@@ -11894,6 +12272,105 @@
     "artist": "DREAMING ALONE",
     "title": "Addiction end in thrive×DUMBSTRUCK pre. \"AETHER\" ver.2.00",
     "url": "https://osaka-varon.jp/schedule/detail/52718",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2026/11/28",
+    "day": "土",
+    "artist": "AIMIA",
+    "title": "Kick ass GIG",
+    "url": "https://osaka-varon.jp/schedule/detail/49204",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2026/11/28",
+    "day": "土",
+    "artist": "KAMuRO",
+    "title": "Kick ass GIG",
+    "url": "https://osaka-varon.jp/schedule/detail/49204",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2026/11/28",
+    "day": "土",
+    "artist": "キラピュアップ",
+    "title": "Kick ass GIG",
+    "url": "https://osaka-varon.jp/schedule/detail/49204",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2026/11/28",
+    "day": "土",
+    "artist": "Charlotte",
+    "title": "Kick ass GIG",
+    "url": "https://osaka-varon.jp/schedule/detail/49204",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2026/11/28",
+    "day": "土",
+    "artist": "sync-sens",
+    "title": "Kick ass GIG",
+    "url": "https://osaka-varon.jp/schedule/detail/49204",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2026/11/28",
+    "day": "土",
+    "artist": "ディノゾール",
+    "title": "Kick ass GIG",
+    "url": "https://osaka-varon.jp/schedule/detail/49204",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2026/11/28",
+    "day": "土",
+    "artist": "Nody",
+    "title": "Kick ass GIG",
+    "url": "https://osaka-varon.jp/schedule/detail/49204",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2026/11/28",
+    "day": "土",
+    "artist": "PURE ME",
+    "title": "Kick ass GIG",
+    "url": "https://osaka-varon.jp/schedule/detail/49204",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2026/11/28",
+    "day": "土",
+    "artist": "meluQ",
+    "title": "Kick ass GIG",
+    "url": "https://osaka-varon.jp/schedule/detail/49204",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2026/11/28",
+    "day": "土",
+    "artist": "LuvHz",
+    "title": "Kick ass GIG",
+    "url": "https://osaka-varon.jp/schedule/detail/49204",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2026/11/28",
+    "day": "土",
+    "artist": "リボンのないぷれぜんと",
+    "title": "Kick ass GIG",
+    "url": "https://osaka-varon.jp/schedule/detail/57386",
     "venue": "VARON",
     "note": ""
   },
@@ -13442,6 +13919,33 @@
     "artist": "coming soon...",
     "title": "HALL RENTAL",
     "url": "https://osaka-zeela.jp/schedule/detail/49665",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2026/12/15",
+    "day": "火",
+    "artist": "THE 8 MAN",
+    "title": "THE 8 MAN presents 8FES",
+    "url": "https://osaka-zeela.jp/schedule/detail/54787",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2026/12/15",
+    "day": "火",
+    "artist": "Junk Unit",
+    "title": "THE 8 MAN presents 8FES",
+    "url": "https://osaka-zeela.jp/schedule/detail/54787",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2026/12/15",
+    "day": "火",
+    "artist": "ジャガー西宮",
+    "title": "THE 8 MAN presents 8FES",
+    "url": "https://osaka-zeela.jp/schedule/detail/54787",
     "venue": "Zeela",
     "note": ""
   },
@@ -15556,6 +16060,69 @@
     "day": "木",
     "artist": "Lupinus",
     "title": "NaturalWoman",
+    "url": "http://www.knave.co.jp/schedule/s_2026_12.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2026/12/11",
+    "day": "金",
+    "artist": "Tiiyと素敵なXmas Partiiy",
+    "title": "Tiiy presents",
+    "url": "http://www.knave.co.jp/schedule/s_2026_12.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2026/12/11",
+    "day": "金",
+    "artist": "Tiiy",
+    "title": "Tiiy presents",
+    "url": "http://www.knave.co.jp/schedule/s_2026_12.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2026/12/11",
+    "day": "金",
+    "artist": "優花",
+    "title": "Tiiy presents",
+    "url": "http://www.knave.co.jp/schedule/s_2026_12.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2026/12/11",
+    "day": "金",
+    "artist": "ミライト",
+    "title": "Tiiy presents",
+    "url": "http://www.knave.co.jp/schedule/s_2026_12.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2026/12/11",
+    "day": "金",
+    "artist": "優利香",
+    "title": "Tiiy presents",
+    "url": "http://www.knave.co.jp/schedule/s_2026_12.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2026/12/11",
+    "day": "金",
+    "artist": "S席7",
+    "title": "Tiiy presents",
+    "url": "http://www.knave.co.jp/schedule/s_2026_12.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2026/12/11",
+    "day": "金",
+    "artist": "000円",
+    "title": "Tiiy presents",
     "url": "http://www.knave.co.jp/schedule/s_2026_12.html",
     "venue": "knave",
     "note": ""
