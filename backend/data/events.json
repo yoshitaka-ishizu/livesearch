@@ -3188,7 +3188,7 @@
   {
     "date": "2026/12/09",
     "day": "水",
-    "artist": "Kohei Okutani",
+    "artist": "『 Frame By Frame 』",
     "title": "para-dice企画",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
@@ -3215,7 +3215,25 @@
   {
     "date": "2026/12/09",
     "day": "水",
-    "artist": "春田玄 and more...",
+    "artist": "春田玄",
+    "title": "para-dice企画",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
+    "date": "2026/12/09",
+    "day": "水",
+    "artist": "ドーラ",
+    "title": "para-dice企画",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
+    "date": "2026/12/09",
+    "day": "水",
+    "artist": "Kohei Okutani",
     "title": "para-dice企画",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
@@ -3333,7 +3351,7 @@
     "date": "2026/12/12",
     "day": "土",
     "artist": "『 Unorganized 3 』",
-    "title": "fuzzy stereo / Merry Ghosts",
+    "title": "",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -3341,8 +3359,8 @@
   {
     "date": "2026/12/12",
     "day": "土",
-    "artist": "fuzzy stereo",
-    "title": "fuzzy stereo / Merry Ghosts",
+    "artist": "fuzzy streo",
+    "title": "",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -3350,8 +3368,17 @@
   {
     "date": "2026/12/12",
     "day": "土",
-    "artist": "Merry Ghosts and more...",
-    "title": "fuzzy stereo / Merry Ghosts",
+    "artist": "Merry Ghosts",
+    "title": "",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
+    "date": "2026/12/12",
+    "day": "土",
+    "artist": "dirtyisgod",
+    "title": "",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -3764,8 +3791,8 @@
   {
     "date": "2026/12/22",
     "day": "火",
-    "artist": "扇町para-dice",
-    "title": "扇町para-dice",
+    "artist": "para-dice企画",
+    "title": "para-dice企画",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -3774,7 +3801,7 @@
     "date": "2026/12/22",
     "day": "火",
     "artist": "『 FROM THE BASEMENT 』",
-    "title": "扇町para-dice",
+    "title": "para-dice企画",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -3783,7 +3810,7 @@
     "date": "2026/12/22",
     "day": "火",
     "artist": "moodress",
-    "title": "扇町para-dice",
+    "title": "para-dice企画",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -3792,7 +3819,7 @@
     "date": "2026/12/22",
     "day": "火",
     "artist": "みのようへいと明明後日",
-    "title": "扇町para-dice",
+    "title": "para-dice企画",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -3801,7 +3828,7 @@
     "date": "2026/12/22",
     "day": "火",
     "artist": "ude",
-    "title": "扇町para-dice",
+    "title": "para-dice企画",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -3810,7 +3837,16 @@
     "date": "2026/12/22",
     "day": "火",
     "artist": "今村モータース",
-    "title": "扇町para-dice",
+    "title": "para-dice企画",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
+    "date": "2026/12/23",
+    "day": "水",
+    "artist": "奴亦准electric",
+    "title": "奴亦准electric / HAMAYANEN / Semimaru / 歪みの国のチェルシー / minä minä",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -3819,7 +3855,7 @@
     "date": "2026/12/23",
     "day": "水",
     "artist": "HAMAYANEN",
-    "title": "HAMAYANEN / Semimaru / 歪みの国のチェルシー / minä minä",
+    "title": "奴亦准electric / HAMAYANEN / Semimaru / 歪みの国のチェルシー / minä minä",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -3828,7 +3864,7 @@
     "date": "2026/12/23",
     "day": "水",
     "artist": "Semimaru",
-    "title": "HAMAYANEN / Semimaru / 歪みの国のチェルシー / minä minä",
+    "title": "奴亦准electric / HAMAYANEN / Semimaru / 歪みの国のチェルシー / minä minä",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -3837,7 +3873,7 @@
     "date": "2026/12/23",
     "day": "水",
     "artist": "歪みの国のチェルシー",
-    "title": "HAMAYANEN / Semimaru / 歪みの国のチェルシー / minä minä",
+    "title": "奴亦准electric / HAMAYANEN / Semimaru / 歪みの国のチェルシー / minä minä",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -3846,7 +3882,7 @@
     "date": "2026/12/23",
     "day": "水",
     "artist": "minä minä  and more...",
-    "title": "HAMAYANEN / Semimaru / 歪みの国のチェルシー / minä minä",
+    "title": "奴亦准electric / HAMAYANEN / Semimaru / 歪みの国のチェルシー / minä minä",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -4187,8 +4223,17 @@
   {
     "date": "2027/01/11",
     "day": "月祝",
+    "artist": "リリスバンド",
+    "title": "リリスバンド / ザ・マンガンズ / コインランドリー / リバプールズ / ネル",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
+    "date": "2027/01/11",
+    "day": "月祝",
     "artist": "ザ・マンガンズ",
-    "title": "ザ・マンガンズ / コインランドリー / リバプールズ / ネル",
+    "title": "リリスバンド / ザ・マンガンズ / コインランドリー / リバプールズ / ネル",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -4197,7 +4242,7 @@
     "date": "2027/01/11",
     "day": "月祝",
     "artist": "コインランドリー",
-    "title": "ザ・マンガンズ / コインランドリー / リバプールズ / ネル",
+    "title": "リリスバンド / ザ・マンガンズ / コインランドリー / リバプールズ / ネル",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -4206,7 +4251,7 @@
     "date": "2027/01/11",
     "day": "月祝",
     "artist": "リバプールズ",
-    "title": "ザ・マンガンズ / コインランドリー / リバプールズ / ネル",
+    "title": "リリスバンド / ザ・マンガンズ / コインランドリー / リバプールズ / ネル",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -4215,7 +4260,7 @@
     "date": "2027/01/11",
     "day": "月祝",
     "artist": "ネル and more...",
-    "title": "ザ・マンガンズ / コインランドリー / リバプールズ / ネル",
+    "title": "リリスバンド / ザ・マンガンズ / コインランドリー / リバプールズ / ネル",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -4259,8 +4304,26 @@
   {
     "date": "2027/01/14",
     "day": "木",
+    "artist": "モリ やすヒロ",
+    "title": "モリ やすヒロ / Rentaro / 虚舟 dub experience / kasuppa / GUMLEON",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
+    "date": "2027/01/14",
+    "day": "木",
+    "artist": "Rentaro",
+    "title": "モリ やすヒロ / Rentaro / 虚舟 dub experience / kasuppa / GUMLEON",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
+    "date": "2027/01/14",
+    "day": "木",
     "artist": "虚舟 dub experience",
-    "title": "虚舟 dub experience / kasuppa / GUMLEON",
+    "title": "モリ やすヒロ / Rentaro / 虚舟 dub experience / kasuppa / GUMLEON",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -4269,7 +4332,7 @@
     "date": "2027/01/14",
     "day": "木",
     "artist": "kasuppa",
-    "title": "虚舟 dub experience / kasuppa / GUMLEON",
+    "title": "モリ やすヒロ / Rentaro / 虚舟 dub experience / kasuppa / GUMLEON",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -4278,7 +4341,7 @@
     "date": "2027/01/14",
     "day": "木",
     "artist": "GUMLEON and more...",
-    "title": "虚舟 dub experience / kasuppa / GUMLEON",
+    "title": "モリ やすヒロ / Rentaro / 虚舟 dub experience / kasuppa / GUMLEON",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -4368,7 +4431,7 @@
     "date": "2027/01/19",
     "day": "火",
     "artist": "京橋光",
-    "title": "京橋光(f.カリニャンクール) / Rie Lee(p)+アステリズム(poetry reading)+イタミトクニン(ds)",
+    "title": "京橋光(f.カリニャンクール) / Rie Lee(p)+アステリズム(poetry reading)+イタミトクニン(ds) / Jiro Matatabi / ミカコ・ハサウェイ / Semimaru",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -4376,8 +4439,35 @@
   {
     "date": "2027/01/19",
     "day": "火",
-    "artist": "Rie Lee+アステリズム+イタミトクニン and more...",
-    "title": "京橋光(f.カリニャンクール) / Rie Lee(p)+アステリズム(poetry reading)+イタミトクニン(ds)",
+    "artist": "Rie Lee+アステリズム+イタミトクニン",
+    "title": "京橋光(f.カリニャンクール) / Rie Lee(p)+アステリズム(poetry reading)+イタミトクニン(ds) / Jiro Matatabi / ミカコ・ハサウェイ / Semimaru",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
+    "date": "2027/01/19",
+    "day": "火",
+    "artist": "Jiro Matatabi",
+    "title": "京橋光(f.カリニャンクール) / Rie Lee(p)+アステリズム(poetry reading)+イタミトクニン(ds) / Jiro Matatabi / ミカコ・ハサウェイ / Semimaru",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
+    "date": "2027/01/19",
+    "day": "火",
+    "artist": "ミカコ・ハサウェイ",
+    "title": "京橋光(f.カリニャンクール) / Rie Lee(p)+アステリズム(poetry reading)+イタミトクニン(ds) / Jiro Matatabi / ミカコ・ハサウェイ / Semimaru",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
+    "date": "2027/01/19",
+    "day": "火",
+    "artist": "Semimaru  and more...",
+    "title": "京橋光(f.カリニャンクール) / Rie Lee(p)+アステリズム(poetry reading)+イタミトクニン(ds) / Jiro Matatabi / ミカコ・ハサウェイ / Semimaru",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -4386,6 +4476,15 @@
     "date": "2027/01/20",
     "day": "水",
     "artist": "para-dice企画",
+    "title": "para-dice企画",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
+    "date": "2027/01/20",
+    "day": "水",
+    "artist": "梅本卓馬",
     "title": "para-dice企画",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
@@ -4502,8 +4601,17 @@
   {
     "date": "2027/01/25",
     "day": "月",
+    "artist": "ジョニーkグッド",
+    "title": "ジョニーkグッド / 武下直樹 / 中村タカユキ / KAJO",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
+    "date": "2027/01/25",
+    "day": "月",
     "artist": "武下直樹",
-    "title": "武下直樹 / 中村タカユキ / KAJO",
+    "title": "ジョニーkグッド / 武下直樹 / 中村タカユキ / KAJO",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -4512,7 +4620,7 @@
     "date": "2027/01/25",
     "day": "月",
     "artist": "中村タカユキ",
-    "title": "武下直樹 / 中村タカユキ / KAJO",
+    "title": "ジョニーkグッド / 武下直樹 / 中村タカユキ / KAJO",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -4521,7 +4629,7 @@
     "date": "2027/01/25",
     "day": "月",
     "artist": "KAJO and more...",
-    "title": "武下直樹 / 中村タカユキ / KAJO",
+    "title": "ジョニーkグッド / 武下直樹 / 中村タカユキ / KAJO",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -4538,8 +4646,17 @@
   {
     "date": "2027/01/27",
     "day": "水",
+    "artist": "新實幸太朗",
+    "title": "新實幸太朗 / こもも / タイラキタ / シーサー",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
+    "date": "2027/01/27",
+    "day": "水",
     "artist": "こもも",
-    "title": "こもも / タイラキタ / シーサー",
+    "title": "新實幸太朗 / こもも / タイラキタ / シーサー",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -4548,7 +4665,7 @@
     "date": "2027/01/27",
     "day": "水",
     "artist": "タイラキタ",
-    "title": "こもも / タイラキタ / シーサー",
+    "title": "新實幸太朗 / こもも / タイラキタ / シーサー",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -4557,7 +4674,16 @@
     "date": "2027/01/27",
     "day": "水",
     "artist": "シーサー and more...",
-    "title": "こもも / タイラキタ / シーサー",
+    "title": "新實幸太朗 / こもも / タイラキタ / シーサー",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
+    "date": "2027/01/28",
+    "day": "木",
+    "artist": "絶妙なアンバランズ",
+    "title": "絶妙なアンバランズ / ANIKI BAND / 河童のヨーコ / ナタリーはぜかわ / ヒラコバーン",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -4566,7 +4692,7 @@
     "date": "2027/01/28",
     "day": "木",
     "artist": "ANIKI BAND",
-    "title": "ANIKI BAND / 河童のヨーコ / ナタリーはぜかわ / ヒラコバーン",
+    "title": "絶妙なアンバランズ / ANIKI BAND / 河童のヨーコ / ナタリーはぜかわ / ヒラコバーン",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -4575,7 +4701,7 @@
     "date": "2027/01/28",
     "day": "木",
     "artist": "河童のヨーコ",
-    "title": "ANIKI BAND / 河童のヨーコ / ナタリーはぜかわ / ヒラコバーン",
+    "title": "絶妙なアンバランズ / ANIKI BAND / 河童のヨーコ / ナタリーはぜかわ / ヒラコバーン",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -4584,7 +4710,7 @@
     "date": "2027/01/28",
     "day": "木",
     "artist": "ナタリーはぜかわ",
-    "title": "ANIKI BAND / 河童のヨーコ / ナタリーはぜかわ / ヒラコバーン",
+    "title": "絶妙なアンバランズ / ANIKI BAND / 河童のヨーコ / ナタリーはぜかわ / ヒラコバーン",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -4593,7 +4719,16 @@
     "date": "2027/01/28",
     "day": "木",
     "artist": "ヒラコバーン and more...",
-    "title": "ANIKI BAND / 河童のヨーコ / ナタリーはぜかわ / ヒラコバーン",
+    "title": "絶妙なアンバランズ / ANIKI BAND / 河童のヨーコ / ナタリーはぜかわ / ヒラコバーン",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
+    "date": "2027/01/29",
+    "day": "金",
+    "artist": "テルルス",
+    "title": "テルルス / karasuuri / FUJIYAMA BEAT CLUB",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -4602,7 +4737,7 @@
     "date": "2027/01/29",
     "day": "金",
     "artist": "karasuuri",
-    "title": "karasuuri / FUJIYAMA BEAT CLUB",
+    "title": "テルルス / karasuuri / FUJIYAMA BEAT CLUB",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -4611,7 +4746,7 @@
     "date": "2027/01/29",
     "day": "金",
     "artist": "FUJIYAMA BEAT CLUB and more...",
-    "title": "karasuuri / FUJIYAMA BEAT CLUB",
+    "title": "テルルス / karasuuri / FUJIYAMA BEAT CLUB",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -5945,6 +6080,123 @@
     "artist": "エンジ",
     "title": "あにくら中学校～20歳からの義務教育～",
     "url": "https://vijon.jp/schedule/detail/57517",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2026/11/15",
+    "day": "日",
+    "artist": "かこの公園",
+    "title": "淀ロック",
+    "url": "https://vijon.jp/schedule/detail/54247",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2026/11/15",
+    "day": "日",
+    "artist": "ヨルシガレッツ",
+    "title": "淀ロック",
+    "url": "https://vijon.jp/schedule/detail/54247",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2026/11/15",
+    "day": "日",
+    "artist": "淀川事変",
+    "title": "淀ロック",
+    "url": "https://vijon.jp/schedule/detail/54247",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2026/11/15",
+    "day": "日",
+    "artist": "バイオテロ",
+    "title": "淀ロック",
+    "url": "https://vijon.jp/schedule/detail/54247",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2026/11/15",
+    "day": "日",
+    "artist": "医薬連の長はちん○がごぼう！？俺ら永遠のセブンティーン全員飛び込めダイブダイブルーマッシュ",
+    "title": "淀ロック",
+    "url": "https://vijon.jp/schedule/detail/54247",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2026/11/15",
+    "day": "日",
+    "artist": "ぱんちら",
+    "title": "淀ロック",
+    "url": "https://vijon.jp/schedule/detail/54247",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2026/11/15",
+    "day": "日",
+    "artist": "和医大がsuimasen!!!!",
+    "title": "淀ロック",
+    "url": "https://vijon.jp/schedule/detail/54247",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2026/11/15",
+    "day": "日",
+    "artist": "正木がゆぅータイプ",
+    "title": "淀ロック",
+    "url": "https://vijon.jp/schedule/detail/54247",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2026/11/15",
+    "day": "日",
+    "artist": "flood かます",
+    "title": "淀ロック",
+    "url": "https://vijon.jp/schedule/detail/54247",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2026/11/15",
+    "day": "日",
+    "artist": "TMGE YODO Rock festival '26",
+    "title": "淀ロック",
+    "url": "https://vijon.jp/schedule/detail/54247",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2026/11/15",
+    "day": "日",
+    "artist": "ひで男根",
+    "title": "淀ロック",
+    "url": "https://vijon.jp/schedule/detail/54247",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2026/11/15",
+    "day": "日",
+    "artist": "4th EROLEGARDEN",
+    "title": "淀ロック",
+    "url": "https://vijon.jp/schedule/detail/54247",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2026/11/15",
+    "day": "日",
+    "artist": "THE ORAL CLINICS",
+    "title": "淀ロック",
+    "url": "https://vijon.jp/schedule/detail/54247",
     "venue": "北堀江club vijon",
     "note": ""
   },
@@ -10955,7 +11207,7 @@
   {
     "date": "2026/11/14",
     "day": "土",
-    "artist": "and more..",
+    "artist": "ルナリウム",
     "title": "朝から Kawaii?Night",
     "url": "https://clubdrop.jp/schedule/detail/53712",
     "venue": "アメリカ村DROP",
@@ -11606,6 +11858,33 @@
     "artist": "Hasumi Ai",
     "title": "MATSURI DA ASOBE vol.5",
     "url": "https://clubdrop.jp/schedule/detail/53743",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/12/05",
+    "day": "土",
+    "artist": "OS☆U あおぞらをキミに",
+    "title": "OS☆U4都市ツアー〜EVOLVE 次の景色へ。〜 in 大阪",
+    "url": "https://clubdrop.jp/schedule/detail/55222",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/12/05",
+    "day": "土",
+    "artist": "脳内パステル",
+    "title": "OS☆U4都市ツアー〜EVOLVE 次の景色へ。〜 in 大阪",
+    "url": "https://clubdrop.jp/schedule/detail/55222",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/12/05",
+    "day": "土",
+    "artist": "まいどあり！",
+    "title": "OS☆U4都市ツアー〜EVOLVE 次の景色へ。〜 in 大阪",
+    "url": "https://clubdrop.jp/schedule/detail/55222",
     "venue": "アメリカ村DROP",
     "note": ""
   },
@@ -13973,6 +14252,24 @@
     "artist": "PeterBack",
     "title": "佐藤愛佳生誕祭 -対バン編-",
     "url": "https://osaka-varon.jp/schedule/detail/49373",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2026/12/10",
+    "day": "木",
+    "artist": "マイフェアガ→ル",
+    "title": "【こいしろみゆ生誕祭2026】",
+    "url": "https://osaka-varon.jp/schedule/detail/54577",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2026/12/12",
+    "day": "土",
+    "artist": "Axelight",
+    "title": "じゅちゃんとカンパイふぇすてぃばる",
+    "url": "https://osaka-varon.jp/schedule/detail/47064",
     "venue": "VARON",
     "note": ""
   },
