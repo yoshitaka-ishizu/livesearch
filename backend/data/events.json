@@ -1080,6 +1080,15 @@
     "note": ""
   },
   {
+    "date": "2026/12/03",
+    "day": "木",
+    "artist": "ichiru",
+    "title": "rollaction",
+    "url": "https://fireloop.net/schedule_now.shtml#1203",
+    "venue": "寺田町Fireloop",
+    "note": ""
+  },
+  {
     "date": "2026/12/04",
     "day": "金",
     "artist": "Yellow Studs",
@@ -1112,6 +1121,42 @@
     "artist": "鴉",
     "title": "ただいまを携えて",
     "url": "https://fireloop.net/schedule_now.shtml#1207",
+    "venue": "寺田町Fireloop",
+    "note": ""
+  },
+  {
+    "date": "2026/12/08",
+    "day": "火",
+    "artist": "city lights",
+    "title": "くさっても女！ツアー",
+    "url": "https://fireloop.net/schedule_now.shtml#1208",
+    "venue": "寺田町Fireloop",
+    "note": ""
+  },
+  {
+    "date": "2026/12/08",
+    "day": "火",
+    "artist": "needs",
+    "title": "くさっても女！ツアー",
+    "url": "https://fireloop.net/schedule_now.shtml#1208",
+    "venue": "寺田町Fireloop",
+    "note": ""
+  },
+  {
+    "date": "2026/12/08",
+    "day": "火",
+    "artist": "しゃららんベイビーズ",
+    "title": "くさっても女！ツアー",
+    "url": "https://fireloop.net/schedule_now.shtml#1208",
+    "venue": "寺田町Fireloop",
+    "note": ""
+  },
+  {
+    "date": "2026/12/08",
+    "day": "火",
+    "artist": "PULPS",
+    "title": "くさっても女！ツアー",
+    "url": "https://fireloop.net/schedule_now.shtml#1208",
     "venue": "寺田町Fireloop",
     "note": ""
   },
@@ -1413,6 +1458,51 @@
     "note": ""
   },
   {
+    "date": "2026/12/30",
+    "day": "水",
+    "artist": "ANABANTFULLS",
+    "title": "寺田町式",
+    "url": "https://fireloop.net/schedule_now.shtml#1230",
+    "venue": "寺田町Fireloop",
+    "note": ""
+  },
+  {
+    "date": "2026/12/30",
+    "day": "水",
+    "artist": "衝動革命",
+    "title": "寺田町式",
+    "url": "https://fireloop.net/schedule_now.shtml#1230",
+    "venue": "寺田町Fireloop",
+    "note": ""
+  },
+  {
+    "date": "2026/12/30",
+    "day": "水",
+    "artist": "それでも尚、未来に媚びる",
+    "title": "寺田町式",
+    "url": "https://fireloop.net/schedule_now.shtml#1230",
+    "venue": "寺田町Fireloop",
+    "note": ""
+  },
+  {
+    "date": "2026/12/30",
+    "day": "水",
+    "artist": "ヨークシン",
+    "title": "寺田町式",
+    "url": "https://fireloop.net/schedule_now.shtml#1230",
+    "venue": "寺田町Fireloop",
+    "note": ""
+  },
+  {
+    "date": "2026/12/30",
+    "day": "水",
+    "artist": "LONE",
+    "title": "寺田町式",
+    "url": "https://fireloop.net/schedule_now.shtml#1230",
+    "venue": "寺田町Fireloop",
+    "note": ""
+  },
+  {
     "date": "2027/01/16",
     "day": "",
     "artist": "Ryo",
@@ -1436,6 +1526,15 @@
     "artist": "HERE",
     "title": "HERE東名阪フリーワンマン「ブッ放し還元祭!!」",
     "url": "https://fireloop.net/schedule_now.shtml#0120",
+    "venue": "寺田町Fireloop",
+    "note": ""
+  },
+  {
+    "date": "2027/02/13",
+    "day": "",
+    "artist": "Redo",
+    "title": "ECLIPSE 〜PENUMBRA〜",
+    "url": "https://fireloop.net/schedule_now.shtml#0213",
     "venue": "寺田町Fireloop",
     "note": ""
   },
@@ -6527,6 +6626,33 @@
   {
     "date": "2026/11/25",
     "day": "水",
+    "artist": "TEH RALE",
+    "title": "あのフェス 2026　after party",
+    "url": "https://vijon.jp/schedule/detail/55988",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2026/11/25",
+    "day": "水",
+    "artist": "DEVIFLY",
+    "title": "あのフェス 2026　after party",
+    "url": "https://vijon.jp/schedule/detail/55988",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2026/11/25",
+    "day": "水",
+    "artist": "ボンスケ",
+    "title": "あのフェス 2026　after party",
+    "url": "https://vijon.jp/schedule/detail/55988",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2026/11/25",
+    "day": "水",
     "artist": "Ｋ星人",
     "title": "あのフェス 2026　after party",
     "url": "https://vijon.jp/schedule/detail/55988",
@@ -6537,15 +6663,6 @@
     "date": "2026/11/25",
     "day": "水",
     "artist": "らくだのこぶX",
-    "title": "あのフェス 2026　after party",
-    "url": "https://vijon.jp/schedule/detail/55988",
-    "venue": "北堀江club vijon",
-    "note": ""
-  },
-  {
-    "date": "2026/11/25",
-    "day": "水",
-    "artist": "超andmore",
     "title": "あのフェス 2026　after party",
     "url": "https://vijon.jp/schedule/detail/55988",
     "venue": "北堀江club vijon",
@@ -11821,7 +11938,7 @@
     "day": "土",
     "artist": "AZ-ON",
     "title": "【大阪編】AZ-ON × lonlium pre. “SHINGARI” tour",
-    "url": "https://clubdrop.jp/schedule/detail/55363",
+    "url": "https://clubdrop.jp/schedule/detail/57568",
     "venue": "アメリカ村DROP",
     "note": ""
   },
@@ -11830,7 +11947,7 @@
     "day": "土",
     "artist": "lonlium",
     "title": "【大阪編】AZ-ON × lonlium pre. “SHINGARI” tour",
-    "url": "https://clubdrop.jp/schedule/detail/55363",
+    "url": "https://clubdrop.jp/schedule/detail/57568",
     "venue": "アメリカ村DROP",
     "note": ""
   },
@@ -12227,6 +12344,33 @@
     "artist": "CiON",
     "title": "CiON BAND TOUR 2026 A/W \"BRASS ON\"",
     "url": "https://clubdrop.jp/schedule/detail/54399",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/11/25",
+    "day": "水",
+    "artist": "Burnt Orange",
+    "title": "GEKYAB!!vol.3",
+    "url": "https://clubdrop.jp/schedule/detail/54335",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/11/25",
+    "day": "水",
+    "artist": "アンデコレイト",
+    "title": "GEKYAB!!vol.3",
+    "url": "https://clubdrop.jp/schedule/detail/54335",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2026/11/25",
+    "day": "水",
+    "artist": "ultlove",
+    "title": "GEKYAB!!vol.3",
+    "url": "https://clubdrop.jp/schedule/detail/54335",
     "venue": "アメリカ村DROP",
     "note": ""
   },
@@ -13044,7 +13188,16 @@
     "date": "2027/01/22",
     "day": "金",
     "artist": "The Number Zero",
-    "title": "The Number Zero３連続シングルリリースレコ発ツアー\"GIVE ME A WORD\"",
+    "title": "The Number Zero３連続シングルリリースレコ発ツアー\"GIVE ME A WORD\" & AINSEL 10th Anniversary TOUR",
+    "url": "https://clubdrop.jp/schedule/detail/55929",
+    "venue": "アメリカ村DROP",
+    "note": ""
+  },
+  {
+    "date": "2027/01/22",
+    "day": "金",
+    "artist": "AINSEL",
+    "title": "The Number Zero３連続シングルリリースレコ発ツアー\"GIVE ME A WORD\" & AINSEL 10th Anniversary TOUR",
     "url": "https://clubdrop.jp/schedule/detail/55929",
     "venue": "アメリカ村DROP",
     "note": ""
@@ -13053,7 +13206,7 @@
     "date": "2027/01/22",
     "day": "金",
     "artist": "and more",
-    "title": "The Number Zero３連続シングルリリースレコ発ツアー\"GIVE ME A WORD\"",
+    "title": "The Number Zero３連続シングルリリースレコ発ツアー\"GIVE ME A WORD\" & AINSEL 10th Anniversary TOUR",
     "url": "https://clubdrop.jp/schedule/detail/55929",
     "venue": "アメリカ村DROP",
     "note": ""
@@ -15219,6 +15372,33 @@
     "note": ""
   },
   {
+    "date": "2027/01/31",
+    "day": "日",
+    "artist": "甲斐莉乃",
+    "title": "甲斐莉乃 1st Full Album『膿』 東名阪 Release Tour 2027 [大阪公演]",
+    "url": "https://osaka-varon.jp/schedule/detail/55467",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2027/01/31",
+    "day": "日",
+    "artist": "0番線と夜明け前",
+    "title": "甲斐莉乃 1st Full Album『膿』 東名阪 Release Tour 2027 [大阪公演]",
+    "url": "https://osaka-varon.jp/schedule/detail/55467",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2027/01/31",
+    "day": "日",
+    "artist": "WolfSurfPurpleSky",
+    "title": "甲斐莉乃 1st Full Album『膿』 東名阪 Release Tour 2027 [大阪公演]",
+    "url": "https://osaka-varon.jp/schedule/detail/55467",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
     "date": "2027/02/26",
     "day": "金",
     "artist": "電脳ヒメカ",
@@ -16623,6 +16803,24 @@
     "note": ""
   },
   {
+    "date": "2026/12/14",
+    "day": "月",
+    "artist": "ANUBHAV BAND",
+    "title": "Osaka Rocks WithNepali Beats",
+    "url": "https://osaka-zeela.jp/schedule/detail/55066",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2026/12/14",
+    "day": "月",
+    "artist": "AJAY AND THE MUSIC",
+    "title": "Osaka Rocks WithNepali Beats",
+    "url": "https://osaka-zeela.jp/schedule/detail/55066",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
     "date": "2026/12/15",
     "day": "火",
     "artist": "THE 8 MAN",
@@ -17199,6 +17397,15 @@
     "note": ""
   },
   {
+    "date": "2027/01/10",
+    "day": "日",
+    "artist": "coming soon...",
+    "title": "HALL RENTAL",
+    "url": "https://osaka-zeela.jp/schedule/detail/50555",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
     "date": "2027/01/19",
     "day": "火",
     "artist": "アンユースレス",
@@ -17285,6 +17492,15 @@
     "artist": "草野華余子",
     "title": "草野華余子 Band Oneman Live 2027 「Reboot on the Deadline」",
     "url": "https://osaka-zeela.jp/schedule/detail/50504",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2027/01/24",
+    "day": "日",
+    "artist": "coming soon...",
+    "title": "HALL RENTAL",
+    "url": "https://osaka-zeela.jp/schedule/detail/53857",
     "venue": "Zeela",
     "note": ""
   },
@@ -19759,6 +19975,60 @@
     "day": "月",
     "artist": "Bass : 磔也",
     "title": "たられば。2nd One Man Live \"69\"たられば。",
+    "url": "http://www.knave.co.jp/schedule/s_2026_12.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2026/12/30",
+    "day": "水",
+    "artist": "coming home＜day＞",
+    "title": "小玉哲也presents",
+    "url": "http://www.knave.co.jp/schedule/s_2026_12.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2026/12/30",
+    "day": "水",
+    "artist": "小玉哲也",
+    "title": "小玉哲也presents",
+    "url": "http://www.knave.co.jp/schedule/s_2026_12.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2026/12/30",
+    "day": "水",
+    "artist": "JURA",
+    "title": "小玉哲也presents",
+    "url": "http://www.knave.co.jp/schedule/s_2026_12.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2026/12/30",
+    "day": "水",
+    "artist": "ツイキャスライブ視聴購入ページ",
+    "title": "小玉哲也presents",
+    "url": "http://www.knave.co.jp/schedule/s_2026_12.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2026/12/30",
+    "day": "水",
+    "artist": "https:",
+    "title": "小玉哲也presents",
+    "url": "http://www.knave.co.jp/schedule/s_2026_12.html",
+    "venue": "knave",
+    "note": ""
+  },
+  {
+    "date": "2026/12/30",
+    "day": "水",
+    "artist": "twitcasting.tv",
+    "title": "小玉哲也presents",
     "url": "http://www.knave.co.jp/schedule/s_2026_12.html",
     "venue": "knave",
     "note": ""
