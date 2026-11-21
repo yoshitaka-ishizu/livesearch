@@ -4493,17 +4493,8 @@
   {
     "date": "2027/01/13",
     "day": "水",
-    "artist": "咲那",
-    "title": "咲那 / 中村天一 / netaro51 / ミズキコモモ",
-    "url": "https://para-dice.net/",
-    "venue": "扇町para-dice",
-    "note": ""
-  },
-  {
-    "date": "2027/01/13",
-    "day": "水",
-    "artist": "中村天一",
-    "title": "咲那 / 中村天一 / netaro51 / ミズキコモモ",
+    "artist": "山本 弘",
+    "title": "OPEN 18:15",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -4512,7 +4503,7 @@
     "date": "2027/01/13",
     "day": "水",
     "artist": "netaro51",
-    "title": "咲那 / 中村天一 / netaro51 / ミズキコモモ",
+    "title": "OPEN 18:15",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -4520,26 +4511,35 @@
   {
     "date": "2027/01/13",
     "day": "水",
-    "artist": "ミズキコモモ and more...",
-    "title": "咲那 / 中村天一 / netaro51 / ミズキコモモ",
+    "artist": "咲那",
+    "title": "OPEN 18:15",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
   },
   {
-    "date": "2027/01/14",
-    "day": "木",
-    "artist": "モリ やすヒロ",
-    "title": "モリ やすヒロ / Rentaro / 虚舟 dub experience / kasuppa / GUMLEON",
+    "date": "2027/01/13",
+    "day": "水",
+    "artist": "ミズキコモモ",
+    "title": "OPEN 18:15",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
   },
   {
-    "date": "2027/01/14",
-    "day": "木",
-    "artist": "Rentaro",
-    "title": "モリ やすヒロ / Rentaro / 虚舟 dub experience / kasuppa / GUMLEON",
+    "date": "2027/01/13",
+    "day": "水",
+    "artist": "SUGIYAMA",
+    "title": "OPEN 18:15",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
+    "date": "2027/01/13",
+    "day": "水",
+    "artist": "中村天一",
+    "title": "OPEN 18:15",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -4548,7 +4548,34 @@
     "date": "2027/01/14",
     "day": "木",
     "artist": "虚舟 dub experience",
-    "title": "モリ やすヒロ / Rentaro / 虚舟 dub experience / kasuppa / GUMLEON",
+    "title": "OPEN 18:30",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
+    "date": "2027/01/14",
+    "day": "木",
+    "artist": "Rentaro",
+    "title": "OPEN 18:30",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
+    "date": "2027/01/14",
+    "day": "木",
+    "artist": "GUMLEON",
+    "title": "OPEN 18:30",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
+    "date": "2027/01/14",
+    "day": "木",
+    "artist": "モリ やすヒロ",
+    "title": "OPEN 18:30",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -4557,16 +4584,7 @@
     "date": "2027/01/14",
     "day": "木",
     "artist": "kasuppa",
-    "title": "モリ やすヒロ / Rentaro / 虚舟 dub experience / kasuppa / GUMLEON",
-    "url": "https://para-dice.net/",
-    "venue": "扇町para-dice",
-    "note": ""
-  },
-  {
-    "date": "2027/01/14",
-    "day": "木",
-    "artist": "GUMLEON and more...",
-    "title": "モリ やすヒロ / Rentaro / 虚舟 dub experience / kasuppa / GUMLEON",
+    "title": "OPEN 18:30",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -8537,6 +8555,60 @@
     "artist": "...and more",
     "title": "club vijon × アレノアレルギー pre.【僕らは平凡アレルギー】",
     "url": "https://vijon.jp/schedule/detail/56001",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2026/12/19",
+    "day": "土",
+    "artist": "感情線は時をこえて",
+    "title": "日ノ目企画presents “Fill In Your Blanks“",
+    "url": "https://vijon.jp/schedule/detail/57559",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2026/12/19",
+    "day": "土",
+    "artist": "スワンスワンズ",
+    "title": "日ノ目企画presents “Fill In Your Blanks“",
+    "url": "https://vijon.jp/schedule/detail/57559",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2026/12/19",
+    "day": "土",
+    "artist": "demipogune",
+    "title": "日ノ目企画presents “Fill In Your Blanks“",
+    "url": "https://vijon.jp/schedule/detail/57559",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2026/12/19",
+    "day": "土",
+    "artist": "YUGUREMI",
+    "title": "日ノ目企画presents “Fill In Your Blanks“",
+    "url": "https://vijon.jp/schedule/detail/57559",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2026/12/19",
+    "day": "土",
+    "artist": "Lion net girl",
+    "title": "日ノ目企画presents “Fill In Your Blanks“",
+    "url": "https://vijon.jp/schedule/detail/57559",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2026/12/19",
+    "day": "土",
+    "artist": "リノスタルジア",
+    "title": "日ノ目企画presents “Fill In Your Blanks“",
+    "url": "https://vijon.jp/schedule/detail/57559",
     "venue": "北堀江club vijon",
     "note": ""
   },
@@ -16616,6 +16688,15 @@
   {
     "date": "2026/11/28",
     "day": "土",
+    "artist": "LyricalPopParadox",
+    "title": "Kick ass GIG",
+    "url": "https://osaka-varon.jp/schedule/detail/49204",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2026/11/28",
+    "day": "土",
     "artist": "リボンのないぷれぜんと",
     "title": "Kick ass GIG",
     "url": "https://osaka-varon.jp/schedule/detail/57386",
@@ -18614,7 +18695,7 @@
   {
     "date": "2026/11/29",
     "day": "日",
-    "artist": "二刀流系アイドルFortuness",
+    "artist": "Fortuness",
     "title": "二刀流系アイドルFortuness めぐ生誕祭 Amulet Land",
     "url": "https://osaka-zeela.jp/schedule/detail/52620",
     "venue": "Zeela",
@@ -19404,6 +19485,60 @@
     "note": ""
   },
   {
+    "date": "2026/12/21",
+    "day": "月",
+    "artist": "星山おとこ",
+    "title": "OTONOVA 2027 梅田エリア代表決定戦B",
+    "url": "https://osaka-zeela.jp/schedule/detail/55070",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2026/12/21",
+    "day": "月",
+    "artist": "UPSET",
+    "title": "OTONOVA 2027 梅田エリア代表決定戦B",
+    "url": "https://osaka-zeela.jp/schedule/detail/55070",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2026/12/21",
+    "day": "月",
+    "artist": "Intence Rook",
+    "title": "OTONOVA 2027 梅田エリア代表決定戦B",
+    "url": "https://osaka-zeela.jp/schedule/detail/55070",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2026/12/21",
+    "day": "月",
+    "artist": "SHOA",
+    "title": "OTONOVA 2027 梅田エリア代表決定戦B",
+    "url": "https://osaka-zeela.jp/schedule/detail/55070",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2026/12/21",
+    "day": "月",
+    "artist": "Noa's Ark",
+    "title": "OTONOVA 2027 梅田エリア代表決定戦B",
+    "url": "https://osaka-zeela.jp/schedule/detail/55070",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2026/12/21",
+    "day": "月",
+    "artist": "SpoZic",
+    "title": "OTONOVA 2027 梅田エリア代表決定戦B",
+    "url": "https://osaka-zeela.jp/schedule/detail/55070",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
     "date": "2026/12/22",
     "day": "火",
     "artist": "ACE COLLECTION",
@@ -19908,6 +20043,15 @@
     "note": ""
   },
   {
+    "date": "2027/01/17",
+    "day": "日",
+    "artist": "LUMiRiSE 他",
+    "title": "LUMiRiSE 1st EP RELEASE TOUR",
+    "url": "https://osaka-zeela.jp/schedule/detail/54250",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
     "date": "2027/01/19",
     "day": "火",
     "artist": "アンユースレス",
@@ -19971,6 +20115,24 @@
     "note": ""
   },
   {
+    "date": "2027/01/21",
+    "day": "木",
+    "artist": "NETH PRIERE CAIN",
+    "title": "NETH PRIERE CAIN 新春単独公演TOUR2027「新春祈願-大阪編DAY1-」",
+    "url": "https://osaka-zeela.jp/schedule/detail/54420",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2027/01/22",
+    "day": "金",
+    "artist": "NETH PRIERE CAIN",
+    "title": "NETH PRIERE CAIN 新春単独公演TOUR2027「新春祈願-大阪編DAY2-」",
+    "url": "https://osaka-zeela.jp/schedule/detail/54421",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
     "date": "2027/01/23",
     "day": "土",
     "artist": "stico",
@@ -20003,6 +20165,42 @@
     "artist": "coming soon...",
     "title": "HALL RENTAL",
     "url": "https://osaka-zeela.jp/schedule/detail/53857",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2027/01/27",
+    "day": "水",
+    "artist": "ミッドギャル！",
+    "title": "ミッドギャル！1st full album「プレシャスロード」 \" ライフ・イズ・ライクアツアー \"",
+    "url": "https://osaka-zeela.jp/schedule/detail/55203",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2027/01/27",
+    "day": "水",
+    "artist": "路地裏のバレリーナ",
+    "title": "ミッドギャル！1st full album「プレシャスロード」 \" ライフ・イズ・ライクアツアー \"",
+    "url": "https://osaka-zeela.jp/schedule/detail/55203",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2027/01/27",
+    "day": "水",
+    "artist": "THE WOW",
+    "title": "ミッドギャル！1st full album「プレシャスロード」 \" ライフ・イズ・ライクアツアー \"",
+    "url": "https://osaka-zeela.jp/schedule/detail/55203",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2027/01/27",
+    "day": "水",
+    "artist": "and more...",
+    "title": "ミッドギャル！1st full album「プレシャスロード」 \" ライフ・イズ・ライクアツアー \"",
+    "url": "https://osaka-zeela.jp/schedule/detail/55203",
     "venue": "Zeela",
     "note": ""
   },
