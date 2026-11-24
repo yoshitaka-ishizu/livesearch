@@ -3620,8 +3620,8 @@
   {
     "date": "2026/12/15",
     "day": "火",
-    "artist": "dins",
-    "title": "dins / 松延慎吾 / (   )",
+    "artist": "教育",
+    "title": "",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -3630,7 +3630,7 @@
     "date": "2026/12/15",
     "day": "火",
     "artist": "松延慎吾",
-    "title": "dins / 松延慎吾 / (   )",
+    "title": "",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -3638,8 +3638,8 @@
   {
     "date": "2026/12/15",
     "day": "火",
-    "artist": "and more...",
-    "title": "dins / 松延慎吾 / (   )",
+    "artist": "dins",
+    "title": "",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -4133,7 +4133,7 @@
   {
     "date": "2026/12/27",
     "day": "日",
-    "artist": "まめのきウェンズデイ",
+    "artist": "『 OUGIMACHI CALLING 』",
     "title": "para-dice企画",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
@@ -4142,7 +4142,7 @@
   {
     "date": "2026/12/27",
     "day": "日",
-    "artist": "藤原弘尭",
+    "artist": "藤原弘堯",
     "title": "para-dice企画",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
@@ -4152,6 +4152,15 @@
     "date": "2026/12/27",
     "day": "日",
     "artist": "the uoza",
+    "title": "para-dice企画",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
+    "date": "2026/12/27",
+    "day": "日",
+    "artist": "まめのきウェンズデイ",
     "title": "para-dice企画",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
@@ -4440,7 +4449,7 @@
     "date": "2027/01/11",
     "day": "月祝",
     "artist": "リリスバンド",
-    "title": "リリスバンド / ザ・マンガンズ / コインランドリー / リバプールズ / ネル",
+    "title": "リリスバンド / ザ・マンガンズ  / リバプールズ / ネル",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -4449,16 +4458,7 @@
     "date": "2027/01/11",
     "day": "月祝",
     "artist": "ザ・マンガンズ",
-    "title": "リリスバンド / ザ・マンガンズ / コインランドリー / リバプールズ / ネル",
-    "url": "https://para-dice.net/",
-    "venue": "扇町para-dice",
-    "note": ""
-  },
-  {
-    "date": "2027/01/11",
-    "day": "月祝",
-    "artist": "コインランドリー",
-    "title": "リリスバンド / ザ・マンガンズ / コインランドリー / リバプールズ / ネル",
+    "title": "リリスバンド / ザ・マンガンズ  / リバプールズ / ネル",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -4467,7 +4467,7 @@
     "date": "2027/01/11",
     "day": "月祝",
     "artist": "リバプールズ",
-    "title": "リリスバンド / ザ・マンガンズ / コインランドリー / リバプールズ / ネル",
+    "title": "リリスバンド / ザ・マンガンズ  / リバプールズ / ネル",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -4476,7 +4476,7 @@
     "date": "2027/01/11",
     "day": "月祝",
     "artist": "ネル and more...",
-    "title": "リリスバンド / ザ・マンガンズ / コインランドリー / リバプールズ / ネル",
+    "title": "リリスバンド / ザ・マンガンズ  / リバプールズ / ネル",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -4629,7 +4629,7 @@
     "date": "2027/01/17",
     "day": "日",
     "artist": "サイケデリックハートブラボーズ",
-    "title": "(   ) / サイケデリックハートブラボーズ / mango. / さよなら人工衛星 / Lone Otter",
+    "title": "サイケデリックハートブラボーズ / mango. / さよなら人工衛星 / Lone Otter",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -4638,7 +4638,7 @@
     "date": "2027/01/17",
     "day": "日",
     "artist": "mango.",
-    "title": "(   ) / サイケデリックハートブラボーズ / mango. / さよなら人工衛星 / Lone Otter",
+    "title": "サイケデリックハートブラボーズ / mango. / さよなら人工衛星 / Lone Otter",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -4647,7 +4647,7 @@
     "date": "2027/01/17",
     "day": "日",
     "artist": "さよなら人工衛星",
-    "title": "(   ) / サイケデリックハートブラボーズ / mango. / さよなら人工衛星 / Lone Otter",
+    "title": "サイケデリックハートブラボーズ / mango. / さよなら人工衛星 / Lone Otter",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -4656,25 +4656,7 @@
     "date": "2027/01/17",
     "day": "日",
     "artist": "Lone Otter and more...",
-    "title": "(   ) / サイケデリックハートブラボーズ / mango. / さよなら人工衛星 / Lone Otter",
-    "url": "https://para-dice.net/",
-    "venue": "扇町para-dice",
-    "note": ""
-  },
-  {
-    "date": "2027/01/19",
-    "day": "火",
-    "artist": "京橋光",
-    "title": "京橋光(f.カリニャンクール) / Rie Lee(p)+アステリズム(poetry reading)+イタミトクニン(ds) / Jiro Matatabi / ミカコ・ハサウェイ / Semimaru",
-    "url": "https://para-dice.net/",
-    "venue": "扇町para-dice",
-    "note": ""
-  },
-  {
-    "date": "2027/01/19",
-    "day": "火",
-    "artist": "Rie Lee+アステリズム+イタミトクニン",
-    "title": "京橋光(f.カリニャンクール) / Rie Lee(p)+アステリズム(poetry reading)+イタミトクニン(ds) / Jiro Matatabi / ミカコ・ハサウェイ / Semimaru",
+    "title": "サイケデリックハートブラボーズ / mango. / さよなら人工衛星 / Lone Otter",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -4683,7 +4665,34 @@
     "date": "2027/01/19",
     "day": "火",
     "artist": "Jiro Matatabi",
-    "title": "京橋光(f.カリニャンクール) / Rie Lee(p)+アステリズム(poetry reading)+イタミトクニン(ds) / Jiro Matatabi / ミカコ・ハサウェイ / Semimaru",
+    "title": "OPEN 18:30",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
+    "date": "2027/01/19",
+    "day": "火",
+    "artist": "京橋光",
+    "title": "OPEN 18:30",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
+    "date": "2027/01/19",
+    "day": "火",
+    "artist": "Semimaru",
+    "title": "OPEN 18:30",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
+    "date": "2027/01/19",
+    "day": "火",
+    "artist": "Rie Lee+アステリズム+イタミトクニン",
+    "title": "OPEN 18:30",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -4692,16 +4701,7 @@
     "date": "2027/01/19",
     "day": "火",
     "artist": "ミカコ・ハサウェイ",
-    "title": "京橋光(f.カリニャンクール) / Rie Lee(p)+アステリズム(poetry reading)+イタミトクニン(ds) / Jiro Matatabi / ミカコ・ハサウェイ / Semimaru",
-    "url": "https://para-dice.net/",
-    "venue": "扇町para-dice",
-    "note": ""
-  },
-  {
-    "date": "2027/01/19",
-    "day": "火",
-    "artist": "Semimaru  and more...",
-    "title": "京橋光(f.カリニャンクール) / Rie Lee(p)+アステリズム(poetry reading)+イタミトクニン(ds) / Jiro Matatabi / ミカコ・ハサウェイ / Semimaru",
+    "title": "OPEN 18:30",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -4754,8 +4754,8 @@
   {
     "date": "2027/01/21",
     "day": "木",
-    "artist": "Paris Death Hilton",
-    "title": "Paris Death Hilton / 土曜日と人鳥とコーヒー / moodress / nehan / Rentaro",
+    "artist": "para-dice企画",
+    "title": "『 LFO 』",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -4763,17 +4763,8 @@
   {
     "date": "2027/01/21",
     "day": "木",
-    "artist": "土曜日と人鳥とコーヒー",
-    "title": "Paris Death Hilton / 土曜日と人鳥とコーヒー / moodress / nehan / Rentaro",
-    "url": "https://para-dice.net/",
-    "venue": "扇町para-dice",
-    "note": ""
-  },
-  {
-    "date": "2027/01/21",
-    "day": "木",
-    "artist": "moodress",
-    "title": "Paris Death Hilton / 土曜日と人鳥とコーヒー / moodress / nehan / Rentaro",
+    "artist": "『 LFO 』",
+    "title": "『 LFO 』",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -4782,7 +4773,7 @@
     "date": "2027/01/21",
     "day": "木",
     "artist": "nehan",
-    "title": "Paris Death Hilton / 土曜日と人鳥とコーヒー / moodress / nehan / Rentaro",
+    "title": "『 LFO 』",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -4790,8 +4781,35 @@
   {
     "date": "2027/01/21",
     "day": "木",
-    "artist": "Rentaro",
-    "title": "Paris Death Hilton / 土曜日と人鳥とコーヒー / moodress / nehan / Rentaro",
+    "artist": "土曜日と人鳥とコーヒー",
+    "title": "『 LFO 』",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
+    "date": "2027/01/21",
+    "day": "木",
+    "artist": "moodress",
+    "title": "『 LFO 』",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
+    "date": "2027/01/21",
+    "day": "木",
+    "artist": "hayashi toto",
+    "title": "『 LFO 』",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
+    "date": "2027/01/21",
+    "day": "木",
+    "artist": "Paris Death Hilton",
+    "title": "『 LFO 』",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -4881,7 +4899,7 @@
     "date": "2027/01/26",
     "day": "火",
     "artist": "DietGRRRL",
-    "title": "DietGRRRL / NovaFlash",
+    "title": "DietGRRRL / NovaFlash / bluekeys",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -4889,8 +4907,17 @@
   {
     "date": "2027/01/26",
     "day": "火",
-    "artist": "NovaFlash and more...",
-    "title": "DietGRRRL / NovaFlash",
+    "artist": "NovaFlash",
+    "title": "DietGRRRL / NovaFlash / bluekeys",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
+    "date": "2027/01/26",
+    "day": "火",
+    "artist": "bluekeys and more...",
+    "title": "DietGRRRL / NovaFlash / bluekeys",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -4899,7 +4926,7 @@
     "date": "2027/01/27",
     "day": "水",
     "artist": "新實幸太朗",
-    "title": "新實幸太朗 / こもも / タイラキタ / シーサー",
+    "title": "新實幸太朗 / こもも / タイラキタ / シーサー / マルヤマ from ニゲローズとフンダパップス",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -4908,7 +4935,7 @@
     "date": "2027/01/27",
     "day": "水",
     "artist": "こもも",
-    "title": "新實幸太朗 / こもも / タイラキタ / シーサー",
+    "title": "新實幸太朗 / こもも / タイラキタ / シーサー / マルヤマ from ニゲローズとフンダパップス",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -4917,7 +4944,7 @@
     "date": "2027/01/27",
     "day": "水",
     "artist": "タイラキタ",
-    "title": "新實幸太朗 / こもも / タイラキタ / シーサー",
+    "title": "新實幸太朗 / こもも / タイラキタ / シーサー / マルヤマ from ニゲローズとフンダパップス",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -4925,8 +4952,17 @@
   {
     "date": "2027/01/27",
     "day": "水",
-    "artist": "シーサー and more...",
-    "title": "新實幸太朗 / こもも / タイラキタ / シーサー",
+    "artist": "シーサー",
+    "title": "新實幸太朗 / こもも / タイラキタ / シーサー / マルヤマ from ニゲローズとフンダパップス",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
+    "date": "2027/01/27",
+    "day": "水",
+    "artist": "マルヤマ",
+    "title": "新實幸太朗 / こもも / タイラキタ / シーサー / マルヤマ from ニゲローズとフンダパップス",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
     "note": ""
@@ -5015,25 +5051,7 @@
   {
     "date": "2027/01/30",
     "day": "土",
-    "artist": "fuzzy stereo",
-    "title": "para-dice企画",
-    "url": "https://para-dice.net/",
-    "venue": "扇町para-dice",
-    "note": ""
-  },
-  {
-    "date": "2027/01/30",
-    "day": "土",
-    "artist": "GIVE ME BACK!",
-    "title": "para-dice企画",
-    "url": "https://para-dice.net/",
-    "venue": "扇町para-dice",
-    "note": ""
-  },
-  {
-    "date": "2027/01/30",
-    "day": "土",
-    "artist": "PUBLIC CLUB",
+    "artist": "『 Powerslave 』",
     "title": "para-dice企画",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
@@ -5051,7 +5069,34 @@
   {
     "date": "2027/01/30",
     "day": "土",
+    "artist": "fuzzy stereo",
+    "title": "para-dice企画",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
+    "date": "2027/01/30",
+    "day": "土",
+    "artist": "PUBLIC CLUB",
+    "title": "para-dice企画",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
+    "date": "2027/01/30",
+    "day": "土",
     "artist": "neke",
+    "title": "para-dice企画",
+    "url": "https://para-dice.net/",
+    "venue": "扇町para-dice",
+    "note": ""
+  },
+  {
+    "date": "2027/01/30",
+    "day": "土",
+    "artist": "GIVE ME BACK!",
     "title": "para-dice企画",
     "url": "https://para-dice.net/",
     "venue": "扇町para-dice",
@@ -6896,7 +6941,7 @@
   {
     "date": "2026/11/25",
     "day": "水",
-    "artist": "TEH RALE",
+    "artist": "THE RALE",
     "title": "あのフェス 2026　after party",
     "url": "https://vijon.jp/schedule/detail/55988",
     "venue": "北堀江club vijon",
@@ -7304,6 +7349,87 @@
     "artist": "千野隆尋",
     "title": "【dawn】- club vijon 24th anniversary -",
     "url": "https://vijon.jp/schedule/detail/55623",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2026/12/03",
+    "day": "木",
+    "artist": "UNOW",
+    "title": "『9ROSSFADE - くろすふぇーど！- Vol.1』",
+    "url": "https://vijon.jp/schedule/detail/57793",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2026/12/03",
+    "day": "木",
+    "artist": "メロブリンク",
+    "title": "『9ROSSFADE - くろすふぇーど！- Vol.1』",
+    "url": "https://vijon.jp/schedule/detail/57793",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2026/12/03",
+    "day": "木",
+    "artist": "狂鳴 - ｷｮｳﾒｲ -",
+    "title": "『9ROSSFADE - くろすふぇーど！- Vol.1』",
+    "url": "https://vijon.jp/schedule/detail/57793",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2026/12/03",
+    "day": "木",
+    "artist": "柊ゆう",
+    "title": "『9ROSSFADE - くろすふぇーど！- Vol.1』",
+    "url": "https://vijon.jp/schedule/detail/57793",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2026/12/03",
+    "day": "木",
+    "artist": "わんだふる×ぱにっく",
+    "title": "『9ROSSFADE - くろすふぇーど！- Vol.1』",
+    "url": "https://vijon.jp/schedule/detail/57793",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2026/12/03",
+    "day": "木",
+    "artist": "Arch Angel",
+    "title": "『9ROSSFADE - くろすふぇーど！- Vol.1』",
+    "url": "https://vijon.jp/schedule/detail/57793",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2026/12/03",
+    "day": "木",
+    "artist": "I.VILL",
+    "title": "『9ROSSFADE - くろすふぇーど！- Vol.1』",
+    "url": "https://vijon.jp/schedule/detail/57793",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2026/12/03",
+    "day": "木",
+    "artist": "てんぽぷりも♪",
+    "title": "『9ROSSFADE - くろすふぇーど！- Vol.1』",
+    "url": "https://vijon.jp/schedule/detail/57793",
+    "venue": "北堀江club vijon",
+    "note": ""
+  },
+  {
+    "date": "2026/12/03",
+    "day": "木",
+    "artist": "ハピネスクラッカー",
+    "title": "『9ROSSFADE - くろすふぇーど！- Vol.1』",
+    "url": "https://vijon.jp/schedule/detail/57793",
     "venue": "北堀江club vijon",
     "note": ""
   },
@@ -7751,7 +7877,7 @@
   {
     "date": "2026/12/08",
     "day": "火",
-    "artist": "MOONRIFT and more...",
+    "artist": "MOONRIFT",
     "title": "KITAHORIE club vijon pre. 鳴らす証明 vol.10",
     "url": "https://vijon.jp/schedule/detail/56282",
     "venue": "北堀江club vijon",
@@ -10683,6 +10809,60 @@
     "note": ""
   },
   {
+    "date": "2026/12/02",
+    "day": "水",
+    "artist": "キューハチパーセント！",
+    "title": "『キューハチパーセント！定期公演 vol.5』",
+    "url": "https://bangboo.jp/schedule/detail/51377",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2026/12/02",
+    "day": "水",
+    "artist": "ゆら",
+    "title": "『キューハチパーセント！定期公演 vol.5』",
+    "url": "https://bangboo.jp/schedule/detail/51377",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2026/12/02",
+    "day": "水",
+    "artist": "にな",
+    "title": "『キューハチパーセント！定期公演 vol.5』",
+    "url": "https://bangboo.jp/schedule/detail/51377",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2026/12/02",
+    "day": "水",
+    "artist": "きょう",
+    "title": "『キューハチパーセント！定期公演 vol.5』",
+    "url": "https://bangboo.jp/schedule/detail/51377",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2026/12/02",
+    "day": "水",
+    "artist": "れみ",
+    "title": "『キューハチパーセント！定期公演 vol.5』",
+    "url": "https://bangboo.jp/schedule/detail/51377",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2026/12/02",
+    "day": "水",
+    "artist": "あんり",
+    "title": "『キューハチパーセント！定期公演 vol.5』",
+    "url": "https://bangboo.jp/schedule/detail/51377",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
     "date": "2026/12/03",
     "day": "木",
     "artist": "NecroA",
@@ -10994,6 +11174,357 @@
     "artist": "古着屋Glue Beads",
     "title": "THE GAME SHOP × BANGBOO pre. 2nd. Anniversary FINAL PARTY【BANGBOO BOMB vol.2】",
     "url": "https://bangboo.jp/schedule/detail/54797",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2026/12/12",
+    "day": "土",
+    "artist": "すべての瞬間は君だった。",
+    "title": "DREAMIDOL in梅田BANGBOO",
+    "url": "https://bangboo.jp/schedule/detail/50034",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2026/12/12",
+    "day": "土",
+    "artist": "すーぱーぷーばぁー!!",
+    "title": "DREAMIDOL in梅田BANGBOO",
+    "url": "https://bangboo.jp/schedule/detail/50034",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2026/12/12",
+    "day": "土",
+    "artist": "tune time capsule",
+    "title": "DREAMIDOL in梅田BANGBOO",
+    "url": "https://bangboo.jp/schedule/detail/50034",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2026/12/12",
+    "day": "土",
+    "artist": "anemoreel",
+    "title": "DREAMIDOL in梅田BANGBOO",
+    "url": "https://bangboo.jp/schedule/detail/50034",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2026/12/12",
+    "day": "土",
+    "artist": "まいどあり！",
+    "title": "DREAMIDOL in梅田BANGBOO",
+    "url": "https://bangboo.jp/schedule/detail/50034",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2026/12/12",
+    "day": "土",
+    "artist": "宇宙プラネクシア",
+    "title": "DREAMIDOL in梅田BANGBOO",
+    "url": "https://bangboo.jp/schedule/detail/50034",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2026/12/12",
+    "day": "土",
+    "artist": "NEO BREAK",
+    "title": "DREAMIDOL in梅田BANGBOO",
+    "url": "https://bangboo.jp/schedule/detail/50034",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2026/12/12",
+    "day": "土",
+    "artist": "ЯiＭ：ＭiＲ",
+    "title": "DREAMIDOL in梅田BANGBOO",
+    "url": "https://bangboo.jp/schedule/detail/50034",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2026/12/12",
+    "day": "土",
+    "artist": "Merry Mellow",
+    "title": "DREAMIDOL in梅田BANGBOO",
+    "url": "https://bangboo.jp/schedule/detail/50034",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2026/12/12",
+    "day": "土",
+    "artist": "おちゃメンタル☆パーティー",
+    "title": "DREAMIDOL in梅田BANGBOO",
+    "url": "https://bangboo.jp/schedule/detail/50034",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2026/12/12",
+    "day": "土",
+    "artist": "あおぞらをキミに",
+    "title": "DREAMIDOL in梅田BANGBOO",
+    "url": "https://bangboo.jp/schedule/detail/50034",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2026/12/12",
+    "day": "土",
+    "artist": "キューハチパーセント！",
+    "title": "DREAMIDOL in梅田BANGBOO",
+    "url": "https://bangboo.jp/schedule/detail/50034",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2026/12/12",
+    "day": "土",
+    "artist": "感情線は時をこえて",
+    "title": "DREAMIDOL in梅田BANGBOO",
+    "url": "https://bangboo.jp/schedule/detail/50034",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2026/12/12",
+    "day": "土",
+    "artist": "#PANnana",
+    "title": "DREAMIDOL in梅田BANGBOO",
+    "url": "https://bangboo.jp/schedule/detail/50034",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2026/12/12",
+    "day": "土",
+    "artist": "Fille mimi",
+    "title": "DREAMIDOL in梅田BANGBOO",
+    "url": "https://bangboo.jp/schedule/detail/50034",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2026/12/12",
+    "day": "土",
+    "artist": "ChanceMovement",
+    "title": "DREAMIDOL in梅田BANGBOO",
+    "url": "https://bangboo.jp/schedule/detail/50034",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2026/12/12",
+    "day": "土",
+    "artist": "#BEMYLOVE",
+    "title": "DREAMIDOL in梅田BANGBOO",
+    "url": "https://bangboo.jp/schedule/detail/50034",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2026/12/12",
+    "day": "土",
+    "artist": "リボンのないぷれぜんと",
+    "title": "DREAMIDOL in梅田BANGBOO",
+    "url": "https://bangboo.jp/schedule/detail/50034",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2026/12/12",
+    "day": "土",
+    "artist": "MeluCharm",
+    "title": "DREAMIDOL in梅田BANGBOO",
+    "url": "https://bangboo.jp/schedule/detail/50034",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2026/12/12",
+    "day": "土",
+    "artist": "わんみゅーず！",
+    "title": "DREAMIDOL in梅田BANGBOO",
+    "url": "https://bangboo.jp/schedule/detail/50034",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2026/12/12",
+    "day": "土",
+    "artist": "うぃるめり！",
+    "title": "DREAMIDOL in梅田BANGBOO",
+    "url": "https://bangboo.jp/schedule/detail/50034",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2026/12/12",
+    "day": "土",
+    "artist": "Morpho",
+    "title": "DREAMIDOL in梅田BANGBOO",
+    "url": "https://bangboo.jp/schedule/detail/50034",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2026/12/12",
+    "day": "土",
+    "artist": "Poifull",
+    "title": "DREAMIDOL in梅田BANGBOO",
+    "url": "https://bangboo.jp/schedule/detail/50034",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2026/12/12",
+    "day": "土",
+    "artist": "LINK START",
+    "title": "DREAMIDOL in梅田BANGBOO",
+    "url": "https://bangboo.jp/schedule/detail/50034",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2026/12/12",
+    "day": "土",
+    "artist": "プラチナリボン",
+    "title": "DREAMIDOL in梅田BANGBOO",
+    "url": "https://bangboo.jp/schedule/detail/50034",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2026/12/12",
+    "day": "土",
+    "artist": "にゃあにゃあ",
+    "title": "DREAMIDOL in梅田BANGBOO",
+    "url": "https://bangboo.jp/schedule/detail/50034",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2026/12/12",
+    "day": "土",
+    "artist": "ParaMilia",
+    "title": "DREAMIDOL in梅田BANGBOO",
+    "url": "https://bangboo.jp/schedule/detail/50034",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2026/12/12",
+    "day": "土",
+    "artist": "CLANCROWN",
+    "title": "DREAMIDOL in梅田BANGBOO",
+    "url": "https://bangboo.jp/schedule/detail/50034",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2026/12/12",
+    "day": "土",
+    "artist": "caprice",
+    "title": "DREAMIDOL in梅田BANGBOO",
+    "url": "https://bangboo.jp/schedule/detail/50034",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2026/12/12",
+    "day": "土",
+    "artist": "AsteRythm",
+    "title": "DREAMIDOL in梅田BANGBOO",
+    "url": "https://bangboo.jp/schedule/detail/50034",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2026/12/12",
+    "day": "土",
+    "artist": "むけんこんぜ",
+    "title": "DREAMIDOL in梅田BANGBOO",
+    "url": "https://bangboo.jp/schedule/detail/50034",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2026/12/12",
+    "day": "土",
+    "artist": "ぼや〜ぢゅ",
+    "title": "DREAMIDOL in梅田BANGBOO",
+    "url": "https://bangboo.jp/schedule/detail/50034",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2026/12/12",
+    "day": "土",
+    "artist": "ハピネスクラッカー",
+    "title": "DREAMIDOL in梅田BANGBOO",
+    "url": "https://bangboo.jp/schedule/detail/50034",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2026/12/12",
+    "day": "土",
+    "artist": "ちょこみんと",
+    "title": "DREAMIDOL in梅田BANGBOO",
+    "url": "https://bangboo.jp/schedule/detail/50034",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2026/12/12",
+    "day": "土",
+    "artist": "&youth!",
+    "title": "DREAMIDOL in梅田BANGBOO",
+    "url": "https://bangboo.jp/schedule/detail/50034",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2026/12/12",
+    "day": "土",
+    "artist": "MellBell",
+    "title": "DREAMIDOL in梅田BANGBOO",
+    "url": "https://bangboo.jp/schedule/detail/50034",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2026/12/12",
+    "day": "土",
+    "artist": "alpha⁂Lux",
+    "title": "DREAMIDOL in梅田BANGBOO",
+    "url": "https://bangboo.jp/schedule/detail/50034",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2026/12/12",
+    "day": "土",
+    "artist": "キラピュアップ",
+    "title": "DREAMIDOL in梅田BANGBOO",
+    "url": "https://bangboo.jp/schedule/detail/50034",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2026/12/12",
+    "day": "土",
+    "artist": "Asters Seed練習生",
+    "title": "DREAMIDOL in梅田BANGBOO",
+    "url": "https://bangboo.jp/schedule/detail/50034",
     "venue": "梅田BANGBOO",
     "note": ""
   },
@@ -11331,6 +11862,186 @@
     "note": ""
   },
   {
+    "date": "2026/12/30",
+    "day": "水",
+    "artist": "おしりふりふりバンド",
+    "title": "#ててぱ！〜超感謝祭2026〜",
+    "url": "https://bangboo.jp/schedule/detail/51234",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2026/12/30",
+    "day": "水",
+    "artist": "ophelia 20mg",
+    "title": "#ててぱ！〜超感謝祭2026〜",
+    "url": "https://bangboo.jp/schedule/detail/51234",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2026/12/30",
+    "day": "水",
+    "artist": "勿忘うた",
+    "title": "#ててぱ！〜超感謝祭2026〜",
+    "url": "https://bangboo.jp/schedule/detail/51234",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2026/12/30",
+    "day": "水",
+    "artist": "御伽キノコ",
+    "title": "#ててぱ！〜超感謝祭2026〜",
+    "url": "https://bangboo.jp/schedule/detail/51234",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2026/12/30",
+    "day": "水",
+    "artist": "鈴川愛依",
+    "title": "#ててぱ！〜超感謝祭2026〜",
+    "url": "https://bangboo.jp/schedule/detail/51234",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2026/12/30",
+    "day": "水",
+    "artist": "言葉ことね",
+    "title": "#ててぱ！〜超感謝祭2026〜",
+    "url": "https://bangboo.jp/schedule/detail/51234",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2026/12/30",
+    "day": "水",
+    "artist": "みるかみる",
+    "title": "#ててぱ！〜超感謝祭2026〜",
+    "url": "https://bangboo.jp/schedule/detail/51234",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2026/12/30",
+    "day": "水",
+    "artist": "柴山ゆち",
+    "title": "#ててぱ！〜超感謝祭2026〜",
+    "url": "https://bangboo.jp/schedule/detail/51234",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2026/12/30",
+    "day": "水",
+    "artist": "兎咲とうか",
+    "title": "#ててぱ！〜超感謝祭2026〜",
+    "url": "https://bangboo.jp/schedule/detail/51234",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2026/12/30",
+    "day": "水",
+    "artist": "ツキ×ツキ",
+    "title": "#ててぱ！〜超感謝祭2026〜",
+    "url": "https://bangboo.jp/schedule/detail/51234",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2026/12/30",
+    "day": "水",
+    "artist": "有栖川かがみ",
+    "title": "#ててぱ！〜超感謝祭2026〜",
+    "url": "https://bangboo.jp/schedule/detail/51234",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2026/12/30",
+    "day": "水",
+    "artist": "朱璃晶絵",
+    "title": "#ててぱ！〜超感謝祭2026〜",
+    "url": "https://bangboo.jp/schedule/detail/51234",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2026/12/30",
+    "day": "水",
+    "artist": "愛原まな",
+    "title": "#ててぱ！〜超感謝祭2026〜",
+    "url": "https://bangboo.jp/schedule/detail/51234",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2026/12/30",
+    "day": "水",
+    "artist": "MISSIW",
+    "title": "#ててぱ！〜超感謝祭2026〜",
+    "url": "https://bangboo.jp/schedule/detail/51234",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2026/12/30",
+    "day": "水",
+    "artist": "水玉ストライプ",
+    "title": "#ててぱ！〜超感謝祭2026〜",
+    "url": "https://bangboo.jp/schedule/detail/51234",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2026/12/30",
+    "day": "水",
+    "artist": "ごんぬ",
+    "title": "#ててぱ！〜超感謝祭2026〜",
+    "url": "https://bangboo.jp/schedule/detail/51234",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2026/12/30",
+    "day": "水",
+    "artist": "桜花こりす",
+    "title": "#ててぱ！〜超感謝祭2026〜",
+    "url": "https://bangboo.jp/schedule/detail/51234",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2026/12/30",
+    "day": "水",
+    "artist": "木下りこ",
+    "title": "#ててぱ！〜超感謝祭2026〜",
+    "url": "https://bangboo.jp/schedule/detail/51234",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2026/12/30",
+    "day": "水",
+    "artist": "陽音アリア",
+    "title": "#ててぱ！〜超感謝祭2026〜",
+    "url": "https://bangboo.jp/schedule/detail/51234",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2026/12/30",
+    "day": "水",
+    "artist": "tetote",
+    "title": "#ててぱ！〜超感謝祭2026〜",
+    "url": "https://bangboo.jp/schedule/detail/51234",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
     "date": "2026/12/31",
     "day": "木",
     "artist": "永遠のセツナ",
@@ -11468,6 +12179,15 @@
   {
     "date": "2027/01/06",
     "day": "水",
+    "artist": "ITO→たのし",
+    "title": "BANGBOO&Miranda Otsuji pre.【開運!50ARTIST 1TUNE】〜謹賀Sing年2027〜",
+    "url": "https://bangboo.jp/schedule/detail/53787",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2027/01/06",
+    "day": "水",
     "artist": "イマノタイキ",
     "title": "BANGBOO&Miranda Otsuji pre.【開運!50ARTIST 1TUNE】〜謹賀Sing年2027〜",
     "url": "https://bangboo.jp/schedule/detail/53787",
@@ -11594,6 +12314,15 @@
   {
     "date": "2027/01/06",
     "day": "水",
+    "artist": "K星人",
+    "title": "BANGBOO&Miranda Otsuji pre.【開運!50ARTIST 1TUNE】〜謹賀Sing年2027〜",
+    "url": "https://bangboo.jp/schedule/detail/53787",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2027/01/06",
+    "day": "水",
     "artist": "斉藤省悟",
     "title": "BANGBOO&Miranda Otsuji pre.【開運!50ARTIST 1TUNE】〜謹賀Sing年2027〜",
     "url": "https://bangboo.jp/schedule/detail/53787",
@@ -11639,6 +12368,24 @@
   {
     "date": "2027/01/06",
     "day": "水",
+    "artist": "星愛",
+    "title": "BANGBOO&Miranda Otsuji pre.【開運!50ARTIST 1TUNE】〜謹賀Sing年2027〜",
+    "url": "https://bangboo.jp/schedule/detail/53787",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2027/01/06",
+    "day": "水",
+    "artist": "Seisuke",
+    "title": "BANGBOO&Miranda Otsuji pre.【開運!50ARTIST 1TUNE】〜謹賀Sing年2027〜",
+    "url": "https://bangboo.jp/schedule/detail/53787",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2027/01/06",
+    "day": "水",
     "artist": "TAICHI",
     "title": "BANGBOO&Miranda Otsuji pre.【開運!50ARTIST 1TUNE】〜謹賀Sing年2027〜",
     "url": "https://bangboo.jp/schedule/detail/53787",
@@ -11657,7 +12404,25 @@
   {
     "date": "2027/01/06",
     "day": "水",
-    "artist": "294 T-face",
+    "artist": "立花咲音",
+    "title": "BANGBOO&Miranda Otsuji pre.【開運!50ARTIST 1TUNE】〜謹賀Sing年2027〜",
+    "url": "https://bangboo.jp/schedule/detail/53787",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2027/01/06",
+    "day": "水",
+    "artist": "294",
+    "title": "BANGBOO&Miranda Otsuji pre.【開運!50ARTIST 1TUNE】〜謹賀Sing年2027〜",
+    "url": "https://bangboo.jp/schedule/detail/53787",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2027/01/06",
+    "day": "水",
+    "artist": "T-face",
     "title": "BANGBOO&Miranda Otsuji pre.【開運!50ARTIST 1TUNE】〜謹賀Sing年2027〜",
     "url": "https://bangboo.jp/schedule/detail/53787",
     "venue": "梅田BANGBOO",
@@ -11729,7 +12494,16 @@
   {
     "date": "2027/01/06",
     "day": "水",
-    "artist": "古川ケイタ",
+    "artist": "古川ケイタ(にちようきぶん",
+    "title": "BANGBOO&Miranda Otsuji pre.【開運!50ARTIST 1TUNE】〜謹賀Sing年2027〜",
+    "url": "https://bangboo.jp/schedule/detail/53787",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2027/01/06",
+    "day": "水",
+    "artist": "東京)",
     "title": "BANGBOO&Miranda Otsuji pre.【開運!50ARTIST 1TUNE】〜謹賀Sing年2027〜",
     "url": "https://bangboo.jp/schedule/detail/53787",
     "venue": "梅田BANGBOO",
@@ -11912,6 +12686,51 @@
     "artist": "NA2MI",
     "title": "【松藤ROCK FESTIVAL'26-27】day2千秋楽公演「新年会」",
     "url": "https://bangboo.jp/schedule/detail/53677",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2027/01/12",
+    "day": "火",
+    "artist": "mm limit",
+    "title": "mm limit pre. 『笑って参りましょう！2027！』",
+    "url": "https://bangboo.jp/schedule/detail/55476",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2027/01/12",
+    "day": "火",
+    "artist": "アシガルユース",
+    "title": "mm limit pre. 『笑って参りましょう！2027！』",
+    "url": "https://bangboo.jp/schedule/detail/55476",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2027/01/12",
+    "day": "火",
+    "artist": "Disconnect Cendrillon",
+    "title": "mm limit pre. 『笑って参りましょう！2027！』",
+    "url": "https://bangboo.jp/schedule/detail/55476",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2027/01/12",
+    "day": "火",
+    "artist": "透明な7日目の真実",
+    "title": "mm limit pre. 『笑って参りましょう！2027！』",
+    "url": "https://bangboo.jp/schedule/detail/55476",
+    "venue": "梅田BANGBOO",
+    "note": ""
+  },
+  {
+    "date": "2027/01/12",
+    "day": "火",
+    "artist": "and more",
+    "title": "mm limit pre. 『笑って参りましょう！2027！』",
+    "url": "https://bangboo.jp/schedule/detail/55476",
     "venue": "梅田BANGBOO",
     "note": ""
   },
@@ -17559,6 +18378,96 @@
     "note": ""
   },
   {
+    "date": "2026/12/08",
+    "day": "火",
+    "artist": "ディノゾール",
+    "title": "chemical reaction Vol.70",
+    "url": "https://osaka-varon.jp/schedule/detail/52607",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2026/12/08",
+    "day": "火",
+    "artist": "sync-sens",
+    "title": "chemical reaction Vol.70",
+    "url": "https://osaka-varon.jp/schedule/detail/52607",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2026/12/08",
+    "day": "火",
+    "artist": "ちくわ",
+    "title": "chemical reaction Vol.70",
+    "url": "https://osaka-varon.jp/schedule/detail/52607",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2026/12/08",
+    "day": "火",
+    "artist": "SOCIAL×MATCH",
+    "title": "chemical reaction Vol.70",
+    "url": "https://osaka-varon.jp/schedule/detail/52607",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2026/12/08",
+    "day": "火",
+    "artist": "無花果とマシンガン",
+    "title": "chemical reaction Vol.70",
+    "url": "https://osaka-varon.jp/schedule/detail/52607",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2026/12/08",
+    "day": "火",
+    "artist": "RIZZ",
+    "title": "chemical reaction Vol.70",
+    "url": "https://osaka-varon.jp/schedule/detail/52607",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2026/12/08",
+    "day": "火",
+    "artist": "CØCØRIZE",
+    "title": "chemical reaction Vol.70",
+    "url": "https://osaka-varon.jp/schedule/detail/52607",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2026/12/08",
+    "day": "火",
+    "artist": "Fortuness・i Moon",
+    "title": "chemical reaction Vol.70",
+    "url": "https://osaka-varon.jp/schedule/detail/52607",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2026/12/08",
+    "day": "火",
+    "artist": "ユノローグ",
+    "title": "chemical reaction Vol.70",
+    "url": "https://osaka-varon.jp/schedule/detail/52607",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
+    "date": "2026/12/08",
+    "day": "火",
+    "artist": "LyricalPopParadox",
+    "title": "chemical reaction Vol.70",
+    "url": "https://osaka-varon.jp/schedule/detail/52607",
+    "venue": "VARON",
+    "note": ""
+  },
+  {
     "date": "2026/12/10",
     "day": "木",
     "artist": "マイフェアガ→ル",
@@ -20444,6 +21353,33 @@
     "artist": "coming soon...",
     "title": "HALL RENTAL",
     "url": "https://osaka-zeela.jp/schedule/detail/53857",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2027/01/25",
+    "day": "月",
+    "artist": "EVE OF THE LAIN",
+    "title": "Zeela presents \"VS\"",
+    "url": "https://osaka-zeela.jp/schedule/detail/56297",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2027/01/25",
+    "day": "月",
+    "artist": "Ku:ui",
+    "title": "Zeela presents \"VS\"",
+    "url": "https://osaka-zeela.jp/schedule/detail/56297",
+    "venue": "Zeela",
+    "note": ""
+  },
+  {
+    "date": "2027/01/25",
+    "day": "月",
+    "artist": "Shaftray",
+    "title": "Zeela presents \"VS\"",
+    "url": "https://osaka-zeela.jp/schedule/detail/56297",
     "venue": "Zeela",
     "note": ""
   },
